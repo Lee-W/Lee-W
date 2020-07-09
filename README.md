@@ -25,8 +25,8 @@ I'm a
 * 🔒 Locker
 * ⭐ Star Wars Fan
 
-Being a lazy software engineer, I like to automate borning stuff and deliver quality code.
+Being a lazy software engineer, I like to automate borning stuff and deliver quality code.  
 I love traveling and make new friends. Hope to become a PyCon (or tech conf) Nomad and explore the world.
 
-I share my tech note, book review, and sometimes my thought in [my blog](https://lee-w.github.io/)
+I share my tech note, book review, and sometimes my thought in [my blog](https://lee-w.github.io/).  
 I also have [another blog](https://lee-w.github.io/travlog/) which is about movie, anime and traveling.
