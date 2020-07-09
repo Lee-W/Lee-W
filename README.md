@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+I'm a
 
 * [🐍 Python Programmer](https://lee-w.github.io/pycon-note/)
 * 💻 Remote Worker
@@ -29,4 +29,4 @@ Being a lazy software engineer, I like to automate borning stuff and deliver qua
 I love traveling and make new friends. Hope to become a PyCon (or tech conf) Nomad and explore the world.
 
 I share my tech note, book review, and sometimes my thought in [my blog](https://lee-w.github.io/)
-I have [another blog](https://lee-w.github.io/travlog/) which is more about entertainment.
+I also have [another blog](https://lee-w.github.io/travlog/) which is about movie, anime and traveling.
