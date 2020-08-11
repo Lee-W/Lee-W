@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Lee-W/Lee-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm a
 
 * [🐍 Python Programmer](https://lee-w.github.io/pycon-note/)
@@ -30,3 +15,5 @@ I love traveling and make new friends. Hope to become a PyCon (or tech conf) Nom
 
 I share my tech note, book review, and sometimes my thought in [my blog](https://lee-w.github.io/).  
 I also have [another blog](https://lee-w.github.io/travlog/) which is about movie, anime and traveling.
+
+![](https://github-readme-stats.vercel.app/api?username=Lee-W&show_icons=true&hide_title=true)
