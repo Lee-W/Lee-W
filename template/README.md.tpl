@@ -27,9 +27,8 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 * [{{ .Title }}]({{ .URL }}) (Published: {{ humanize .PublishedAt }}){{ end }}
 
 ## 🖥️ Recently working on
-{{range recentContributions 5}}
-* [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-  {{- end}}
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
 [![](https://github-readme-stats.vercel.app/api?username=Lee-W&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
