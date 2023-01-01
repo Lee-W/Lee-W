@@ -28,24 +28,24 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## Those things no one cares about
 
-* [巧克力香蕉磅蛋糕](https://travlog.wei-lee.me/posts/cook/2022/12/choco-banana-pound-cake) (Published: 3 days ago)
+* [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 1 day ago)
+* [巧克力香蕉磅蛋糕](https://travlog.wei-lee.me/posts/cook/2022/12/choco-banana-pound-cake) (Published: 4 days ago)
 * [2022 冬季看什麼](https://travlog.wei-lee.me/posts/review/2022/12/what-i-watch-in-2022-winter) (Published: 2 weeks ago)
 * [鮭魚鏘鏘燒](https://travlog.wei-lee.me/posts/cook/2022/11/salmon-chan-chan-yaki) (Published: 1 month ago)
 * [電影版 搖曳露營△](https://travlog.wei-lee.me/posts/review/2022/11/yuru-camp-the-movie) (Published: 1 month ago)
-* [來做南瓜布丁吧！](https://travlog.wei-lee.me/posts/cook/2022/09/archer-and-caster-s-pumpkin-pudding) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 💪 Opened PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#632](https://github.com/commitizen-tools/commitizen/pull/632) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#641](https://github.com/commitizen-tools/commitizen/issues/641) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#635](https://github.com/commitizen-tools/commitizen/issues/635) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#4](https://github.com/Lee-W/Lee-W.github.io/issues/4) in [Lee-W/Lee-W.github.io](https://github.com/Lee-W/Lee-W.github.io)
-10. 🎉 Merged PR [#639](https://github.com/commitizen-tools/commitizen/pull/639) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#603](https://github.com/commitizen-tools/commitizen/pull/603) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#578](https://github.com/commitizen-tools/commitizen/pull/578) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 💪 Opened PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#632](https://github.com/commitizen-tools/commitizen/pull/632) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#641](https://github.com/commitizen-tools/commitizen/issues/641) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#635](https://github.com/commitizen-tools/commitizen/issues/635) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
