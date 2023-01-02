@@ -28,16 +28,16 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#603](https://github.com/commitizen-tools/commitizen/pull/603) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#578](https://github.com/commitizen-tools/commitizen/pull/578) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. 💪 Opened PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#632](https://github.com/commitizen-tools/commitizen/pull/632) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#641](https://github.com/commitizen-tools/commitizen/issues/641) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#635](https://github.com/commitizen-tools/commitizen/issues/635) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ❗️ Closed issue [#15](https://github.com/pycontw/pycontw-blog/issues/15) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🗣 Commented on [#15](https://github.com/pycontw/pycontw-blog/issues/15) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 🎉 Merged PR [#16](https://github.com/pycontw/pycontw-blog/pull/16) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#603](https://github.com/commitizen-tools/commitizen/pull/603) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#578](https://github.com/commitizen-tools/commitizen/pull/578) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 💪 Opened PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
