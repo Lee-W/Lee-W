@@ -20,7 +20,7 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ### Laziness makes a Great Engineer
 
-* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 1 day ago)
+* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 2 days ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 10 months ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 11 months ago)
 * [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 1 year ago)
@@ -28,8 +28,8 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## Those things no one cares about
 
-* [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 2 days ago)
-* [巧克力香蕉磅蛋糕](https://travlog.wei-lee.me/posts/cook/2022/12/choco-banana-pound-cake) (Published: 5 days ago)
+* [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 3 days ago)
+* [巧克力香蕉磅蛋糕](https://travlog.wei-lee.me/posts/cook/2022/12/choco-banana-pound-cake) (Published: 6 days ago)
 * [2022 冬季看什麼](https://travlog.wei-lee.me/posts/review/2022/12/what-i-watch-in-2022-winter) (Published: 2 weeks ago)
 * [鮭魚鏘鏘燒](https://travlog.wei-lee.me/posts/cook/2022/11/salmon-chan-chan-yaki) (Published: 1 month ago)
 * [電影版 搖曳露營△](https://travlog.wei-lee.me/posts/review/2022/11/yuru-camp-the-movie) (Published: 1 month ago)
