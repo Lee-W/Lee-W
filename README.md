@@ -20,7 +20,7 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ### Laziness makes a Great Engineer
 
-* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 3 days ago)
+* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 4 days ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 10 months ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 11 months ago)
 * [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 1 year ago)
@@ -28,7 +28,7 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## Those things no one cares about
 
-* [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 4 days ago)
+* [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 5 days ago)
 * [巧克力香蕉磅蛋糕](https://travlog.wei-lee.me/posts/cook/2022/12/choco-banana-pound-cake) (Published: 1 week ago)
 * [2022 冬季看什麼](https://travlog.wei-lee.me/posts/review/2022/12/what-i-watch-in-2022-winter) (Published: 2 weeks ago)
 * [鮭魚鏘鏘燒](https://travlog.wei-lee.me/posts/cook/2022/11/salmon-chan-chan-yaki) (Published: 1 month ago)
@@ -36,15 +36,15 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## 🖥️ Recently working on
 
-1. ❗️ Closed issue [#15](https://github.com/pycontw/pycontw-blog/issues/15) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🗣 Commented on [#15](https://github.com/pycontw/pycontw-blog/issues/15) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🎉 Merged PR [#16](https://github.com/pycontw/pycontw-blog/pull/16) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🎉 Merged PR [#603](https://github.com/commitizen-tools/commitizen/pull/603) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#578](https://github.com/commitizen-tools/commitizen/pull/578) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 💪 Opened PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#2](https://github.com/Lee-W/travlog/issues/2) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. ❗️ Closed issue [#15](https://github.com/pycontw/pycontw-blog/issues/15) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 🗣 Commented on [#15](https://github.com/pycontw/pycontw-blog/issues/15) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#16](https://github.com/pycontw/pycontw-blog/pull/16) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🎉 Merged PR [#603](https://github.com/commitizen-tools/commitizen/pull/603) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#578](https://github.com/commitizen-tools/commitizen/pull/578) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 💪 Opened PR [#14](https://github.com/pycontw/pycontw-blog/pull/14) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 10. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
