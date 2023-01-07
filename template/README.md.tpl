@@ -28,16 +28,16 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#650](https://github.com/commitizen-tools/commitizen/pull/650) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#649](https://github.com/commitizen-tools/commitizen/issues/649) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#647](https://github.com/commitizen-tools/commitizen/pull/647) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#647](https://github.com/commitizen-tools/commitizen/issues/647) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#2](https://github.com/Lee-W/travlog/issues/2) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. ❗️ Closed issue [#15](https://github.com/pycontw/pycontw-blog/issues/15) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🗣 Commented on [#15](https://github.com/pycontw/pycontw-blog/issues/15) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🎉 Merged PR [#16](https://github.com/pycontw/pycontw-blog/pull/16) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🎉 Merged PR [#603](https://github.com/commitizen-tools/commitizen/pull/603) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#578](https://github.com/commitizen-tools/commitizen/pull/578) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#20](https://github.com/Lee-W/bahamut_ani_stat/pull/20) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+2. 💪 Opened PR [#20](https://github.com/Lee-W/bahamut_ani_stat/pull/20) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+3. 🎉 Merged PR [#19](https://github.com/Lee-W/bahamut_ani_stat/pull/19) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+4. 💪 Opened PR [#19](https://github.com/Lee-W/bahamut_ani_stat/pull/19) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+5. 🗣 Commented on [#650](https://github.com/commitizen-tools/commitizen/issues/650) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 💪 Opened PR [#650](https://github.com/commitizen-tools/commitizen/pull/650) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#649](https://github.com/commitizen-tools/commitizen/issues/649) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#647](https://github.com/commitizen-tools/commitizen/pull/647) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#647](https://github.com/commitizen-tools/commitizen/issues/647) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#2](https://github.com/Lee-W/travlog/issues/2) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
