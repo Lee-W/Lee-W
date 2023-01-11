@@ -28,16 +28,16 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🗣 Commented on [#18](https://github.com/pycontw/pycontw-blog/issues/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🎉 Merged PR [#17](https://github.com/pycontw/pycontw-blog/pull/17) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 💪 Opened PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. 💪 Opened PR [#17](https://github.com/pycontw/pycontw-blog/pull/17) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🎉 Merged PR [#33](https://github.com/Lee-W/cookiecutter-python-template/pull/33) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-7. 🗣 Commented on [#33](https://github.com/Lee-W/cookiecutter-python-template/issues/33) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. 🎉 Merged PR [#650](https://github.com/commitizen-tools/commitizen/pull/650) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#651](https://github.com/commitizen-tools/commitizen/issues/651) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#650](https://github.com/commitizen-tools/commitizen/issues/650) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 💪 Opened PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🗣 Commented on [#18](https://github.com/pycontw/pycontw-blog/issues/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 🎉 Merged PR [#17](https://github.com/pycontw/pycontw-blog/pull/17) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 💪 Opened PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 💪 Opened PR [#17](https://github.com/pycontw/pycontw-blog/pull/17) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🎉 Merged PR [#33](https://github.com/Lee-W/cookiecutter-python-template/pull/33) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 🗣 Commented on [#33](https://github.com/Lee-W/cookiecutter-python-template/issues/33) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
