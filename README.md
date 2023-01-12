@@ -28,7 +28,7 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## Those things no one cares about
 
-* [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 1 day ago)
+* [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 2 days ago)
 * [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 1 week ago)
 * [巧克力香蕉磅蛋糕](https://travlog.wei-lee.me/posts/cook/2022/12/choco-banana-pound-cake) (Published: 2 weeks ago)
 * [2022 冬季看什麼](https://travlog.wei-lee.me/posts/review/2022/12/what-i-watch-in-2022-winter) (Published: 3 weeks ago)
@@ -36,16 +36,16 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 💪 Opened PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🎉 Merged PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. 🗣 Commented on [#18](https://github.com/pycontw/pycontw-blog/issues/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🎉 Merged PR [#17](https://github.com/pycontw/pycontw-blog/pull/17) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 💪 Opened PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 💪 Opened PR [#17](https://github.com/pycontw/pycontw-blog/pull/17) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🎉 Merged PR [#33](https://github.com/Lee-W/cookiecutter-python-template/pull/33) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-10. 🗣 Commented on [#33](https://github.com/Lee-W/cookiecutter-python-template/issues/33) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. ❗️ Closed issue [#654](https://github.com/commitizen-tools/commitizen/issues/654) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#654](https://github.com/commitizen-tools/commitizen/issues/654) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 💪 Opened PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 🎉 Merged PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🗣 Commented on [#18](https://github.com/pycontw/pycontw-blog/issues/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🎉 Merged PR [#17](https://github.com/pycontw/pycontw-blog/pull/17) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 💪 Opened PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 💪 Opened PR [#17](https://github.com/pycontw/pycontw-blog/pull/17) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 
 
 ## ⭐ GitHub Stat
