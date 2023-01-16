@@ -28,7 +28,7 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## Those things no one cares about
 
-* [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 5 days ago)
+* [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 6 days ago)
 * [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 2 weeks ago)
 * [巧克力香蕉磅蛋糕](https://travlog.wei-lee.me/posts/cook/2022/12/choco-banana-pound-cake) (Published: 2 weeks ago)
 * [2022 冬季看什麼](https://travlog.wei-lee.me/posts/review/2022/12/what-i-watch-in-2022-winter) (Published: 1 month ago)
