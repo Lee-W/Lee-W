@@ -30,7 +30,7 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 * [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 1 week ago)
 * [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 2 weeks ago)
-* [巧克力香蕉磅蛋糕](https://travlog.wei-lee.me/posts/cook/2022/12/choco-banana-pound-cake) (Published: 2 weeks ago)
+* [巧克力香蕉磅蛋糕](https://travlog.wei-lee.me/posts/cook/2022/12/choco-banana-pound-cake) (Published: 3 weeks ago)
 * [2022 冬季看什麼](https://travlog.wei-lee.me/posts/review/2022/12/what-i-watch-in-2022-winter) (Published: 1 month ago)
 * [鮭魚鏘鏘燒](https://travlog.wei-lee.me/posts/cook/2022/11/salmon-chan-chan-yaki) (Published: 1 month ago)
 
