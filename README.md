@@ -21,7 +21,7 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 ### Laziness makes a Great Engineer
 
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 2 weeks ago)
-* [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 10 months ago)
+* [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 11 months ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 11 months ago)
 * [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 1 year ago)
 * [[Book] 為什麼Google、LinkedIn、波音、高通、迪士尼都找他合作？](https://blog.wei-lee.me/posts/book/2021/12/pitch-anyting) (Published: 1 year ago)
@@ -36,16 +36,16 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## 🖥️ Recently working on
 
-1. ❗️ Closed issue [#654](https://github.com/commitizen-tools/commitizen/issues/654) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#654](https://github.com/commitizen-tools/commitizen/issues/654) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. 💪 Opened PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🎉 Merged PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🗣 Commented on [#18](https://github.com/pycontw/pycontw-blog/issues/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🎉 Merged PR [#17](https://github.com/pycontw/pycontw-blog/pull/17) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 💪 Opened PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 💪 Opened PR [#17](https://github.com/pycontw/pycontw-blog/pull/17) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🗣 Commented on [#463](https://github.com/commitizen-tools/commitizen/issues/463) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#417](https://github.com/commitizen-tools/commitizen/issues/417) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#632](https://github.com/commitizen-tools/commitizen/issues/632) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#648](https://github.com/commitizen-tools/commitizen/issues/648) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. ❗️ Closed issue [#654](https://github.com/commitizen-tools/commitizen/issues/654) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#654](https://github.com/commitizen-tools/commitizen/issues/654) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 💪 Opened PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🎉 Merged PR [#18](https://github.com/pycontw/pycontw-blog/pull/18) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 
 
 ## ⭐ GitHub Stat
