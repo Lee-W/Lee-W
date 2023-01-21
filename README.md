@@ -28,24 +28,24 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## Those things no one cares about
 
+* [凜醬的義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-soup-pasta) (Published: 1 day ago)
 * [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 1 week ago)
-* [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 2 weeks ago)
+* [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 3 weeks ago)
 * [巧克力香蕉磅蛋糕](https://travlog.wei-lee.me/posts/cook/2022/12/choco-banana-pound-cake) (Published: 3 weeks ago)
 * [2022 冬季看什麼](https://travlog.wei-lee.me/posts/review/2022/12/what-i-watch-in-2022-winter) (Published: 1 month ago)
-* [鮭魚鏘鏘燒](https://travlog.wei-lee.me/posts/cook/2022/11/salmon-chan-chan-yaki) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#527](https://github.com/commitizen-tools/commitizen/issues/527) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#417](https://github.com/commitizen-tools/commitizen/issues/417) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#463](https://github.com/commitizen-tools/commitizen/issues/463) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#417](https://github.com/commitizen-tools/commitizen/issues/417) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#632](https://github.com/commitizen-tools/commitizen/issues/632) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#648](https://github.com/commitizen-tools/commitizen/issues/648) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. ❗️ Closed issue [#654](https://github.com/commitizen-tools/commitizen/issues/654) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#654](https://github.com/commitizen-tools/commitizen/issues/654) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#19](https://github.com/pycontw/pycontw-blog/pull/19) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🗣 Commented on [#3](https://github.com/Lee-W/travlog/issues/3) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. 🗣 Commented on [#527](https://github.com/commitizen-tools/commitizen/issues/527) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#417](https://github.com/commitizen-tools/commitizen/issues/417) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#463](https://github.com/commitizen-tools/commitizen/issues/463) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#417](https://github.com/commitizen-tools/commitizen/issues/417) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#632](https://github.com/commitizen-tools/commitizen/issues/632) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#648](https://github.com/commitizen-tools/commitizen/issues/648) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ❗️ Closed issue [#654](https://github.com/commitizen-tools/commitizen/issues/654) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#654](https://github.com/commitizen-tools/commitizen/issues/654) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
