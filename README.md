@@ -28,24 +28,24 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## Those things no one cares about
 
-* [凜醬的番茄義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-tomato-pasta) (Published: 1 day ago)
-* [Star Wars: Andor](https://travlog.wei-lee.me/posts/review/2023/01/star-wars-andor) (Published: 2 days ago)
-* [凜醬的義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-soup-pasta) (Published: 3 days ago)
-* [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 1 week ago)
-* [Cosplay 初體驗](https://travlog.wei-lee.me/posts/review/2022/12/first-time-cosplay) (Published: 3 weeks ago)
+* [壽喜燒真是好吃呢](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-inu-yama-s) (Published: 1 day ago)
+* [凜醬的番茄義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-tomato-pasta) (Published: 2 days ago)
+* [Star Wars: Andor](https://travlog.wei-lee.me/posts/review/2023/01/star-wars-andor) (Published: 3 days ago)
+* [凜醬的義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-soup-pasta) (Published: 4 days ago)
+* [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. ❗️ Closed issue [#417](https://github.com/commitizen-tools/commitizen/issues/417) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#657](https://github.com/commitizen-tools/commitizen/pull/657) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#644](https://github.com/commitizen-tools/commitizen/issues/644) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#264](https://github.com/commitizen-tools/commitizen/issues/264) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#632](https://github.com/commitizen-tools/commitizen/issues/632) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#3](https://github.com/Lee-W/travlog/issues/3) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-7. 🗣 Commented on [#527](https://github.com/commitizen-tools/commitizen/issues/527) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#417](https://github.com/commitizen-tools/commitizen/issues/417) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#463](https://github.com/commitizen-tools/commitizen/issues/463) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#417](https://github.com/commitizen-tools/commitizen/issues/417) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#644](https://github.com/commitizen-tools/commitizen/issues/644) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#630](https://github.com/commitizen-tools/commitizen/issues/630) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. ❗️ Closed issue [#417](https://github.com/commitizen-tools/commitizen/issues/417) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#657](https://github.com/commitizen-tools/commitizen/pull/657) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#644](https://github.com/commitizen-tools/commitizen/issues/644) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#264](https://github.com/commitizen-tools/commitizen/issues/264) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#632](https://github.com/commitizen-tools/commitizen/issues/632) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#3](https://github.com/Lee-W/travlog/issues/3) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 
 
 ## ⭐ GitHub Stat
