@@ -28,24 +28,24 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## Those things no one cares about
 
-* [壽喜燒真是好吃呢](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-inu-yama-s) (Published: 3 days ago)
-* [凜醬的番茄義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-tomato-pasta) (Published: 4 days ago)
-* [Star Wars: Andor](https://travlog.wei-lee.me/posts/review/2023/01/star-wars-andor) (Published: 5 days ago)
-* [凜醬的義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-soup-pasta) (Published: 6 days ago)
+* [壽喜燒真是好吃呢](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-inu-yama-s) (Published: 4 days ago)
+* [凜醬的番茄義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-tomato-pasta) (Published: 5 days ago)
+* [Star Wars: Andor](https://travlog.wei-lee.me/posts/review/2023/01/star-wars-andor) (Published: 6 days ago)
+* [凜醬的義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-soup-pasta) (Published: 1 week ago)
 * [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#1025](https://github.com/tj/git-extras/pull/1025) in [tj/git-extras](https://github.com/tj/git-extras)
-2. 🗣 Commented on [#613](https://github.com/commitizen-tools/commitizen/issues/613) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#644](https://github.com/commitizen-tools/commitizen/issues/644) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#630](https://github.com/commitizen-tools/commitizen/issues/630) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. ❗️ Closed issue [#417](https://github.com/commitizen-tools/commitizen/issues/417) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#657](https://github.com/commitizen-tools/commitizen/pull/657) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#644](https://github.com/commitizen-tools/commitizen/issues/644) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#264](https://github.com/commitizen-tools/commitizen/issues/264) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#20](https://github.com/pycontw/pycontw-blog/pull/20) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. ❗️ Closed issue [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 💪 Opened PR [#1025](https://github.com/tj/git-extras/pull/1025) in [tj/git-extras](https://github.com/tj/git-extras)
 
 
 ## ⭐ GitHub Stat
