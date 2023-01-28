@@ -28,9 +28,9 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## Those things no one cares about
 
-* [壽喜燒真是好吃呢](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-inu-yama-s) (Published: 4 days ago)
-* [凜醬的番茄義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-tomato-pasta) (Published: 5 days ago)
-* [Star Wars: Andor](https://travlog.wei-lee.me/posts/review/2023/01/star-wars-andor) (Published: 6 days ago)
+* [壽喜燒真是好吃呢](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-inu-yama-s) (Published: 5 days ago)
+* [凜醬的番茄義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-tomato-pasta) (Published: 6 days ago)
+* [Star Wars: Andor](https://travlog.wei-lee.me/posts/review/2023/01/star-wars-andor) (Published: 1 week ago)
 * [凜醬的義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-soup-pasta) (Published: 1 week ago)
 * [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 2 weeks ago)
 
