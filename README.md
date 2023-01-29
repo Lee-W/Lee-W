@@ -20,16 +20,16 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ### Laziness makes a Great Engineer
 
-* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 3 weeks ago)
+* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 4 weeks ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 11 months ago)
-* [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 11 months ago)
+* [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 1 year ago)
 * [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 1 year ago)
 * [[Book] 為什麼Google、LinkedIn、波音、高通、迪士尼都找他合作？](https://blog.wei-lee.me/posts/book/2021/12/pitch-anyting) (Published: 1 year ago)
 
 ## Those things no one cares about
 
-* [壽喜燒真是好吃呢](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-inu-yama-s) (Published: 5 days ago)
-* [凜醬的番茄義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-tomato-pasta) (Published: 6 days ago)
+* [壽喜燒真是好吃呢](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-inu-yama-s) (Published: 6 days ago)
+* [凜醬的番茄義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-tomato-pasta) (Published: 1 week ago)
 * [Star Wars: Andor](https://travlog.wei-lee.me/posts/review/2023/01/star-wars-andor) (Published: 1 week ago)
 * [凜醬的義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-soup-pasta) (Published: 1 week ago)
 * [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 2 weeks ago)
