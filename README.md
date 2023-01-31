@@ -20,7 +20,7 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ### Laziness makes a Great Engineer
 
-* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 4 weeks ago)
+* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 1 month ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 11 months ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 1 year ago)
 * [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 1 year ago)
@@ -32,20 +32,20 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 * [凜醬的番茄義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-tomato-pasta) (Published: 1 week ago)
 * [Star Wars: Andor](https://travlog.wei-lee.me/posts/review/2023/01/star-wars-andor) (Published: 1 week ago)
 * [凜醬的義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-soup-pasta) (Published: 1 week ago)
-* [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 2 weeks ago)
+* [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#20](https://github.com/pycontw/pycontw-blog/pull/20) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#21](https://github.com/pycontw/pycontw-blog/pull/21) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🎉 Merged PR [#20](https://github.com/pycontw/pycontw-blog/pull/20) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 3. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 4. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 5. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. ❗️ Closed issue [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 💪 Opened PR [#1025](https://github.com/tj/git-extras/pull/1025) in [tj/git-extras](https://github.com/tj/git-extras)
+6. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. ❗️ Closed issue [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
