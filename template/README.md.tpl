@@ -28,16 +28,16 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/pycontw/pycontw-blog/pull/21) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🎉 Merged PR [#20](https://github.com/pycontw/pycontw-blog/pull/20) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#661](https://github.com/commitizen-tools/commitizen/issues/661) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 💪 Opened PR [#21](https://github.com/pycontw/pycontw-blog/pull/21) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 🎉 Merged PR [#20](https://github.com/pycontw/pycontw-blog/pull/20) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 4. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 5. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 6. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. ❗️ Closed issue [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#646](https://github.com/commitizen-tools/commitizen/issues/646) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ❗️ Closed issue [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
