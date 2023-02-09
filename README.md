@@ -32,20 +32,20 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 * [凜醬的番茄義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-tomato-pasta) (Published: 2 weeks ago)
 * [Star Wars: Andor](https://travlog.wei-lee.me/posts/review/2023/01/star-wars-andor) (Published: 2 weeks ago)
 * [凜醬的義大利湯麵](https://travlog.wei-lee.me/posts/cook/2023/01/yuru-camp-rin-s-soup-pasta) (Published: 2 weeks ago)
-* [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 4 weeks ago)
+* [雪見鍋](https://travlog.wei-lee.me/posts/cook/2023/01/misorenabe) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#661](https://github.com/commitizen-tools/commitizen/issues/661) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 💪 Opened PR [#21](https://github.com/pycontw/pycontw-blog/pull/21) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🎉 Merged PR [#20](https://github.com/pycontw/pycontw-blog/pull/20) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ❗️ Closed issue [#292](https://github.com/commitizen-tools/commitizen/issues/292) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#644](https://github.com/commitizen-tools/commitizen/pull/644) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#661](https://github.com/commitizen-tools/commitizen/issues/661) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 💪 Opened PR [#21](https://github.com/pycontw/pycontw-blog/pull/21) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🎉 Merged PR [#20](https://github.com/pycontw/pycontw-blog/pull/20) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 6. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 7. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. ❗️ Closed issue [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#614](https://github.com/commitizen-tools/commitizen/issues/614) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. ❗️ Closed issue [#618](https://github.com/commitizen-tools/commitizen/issues/618) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
