@@ -18,7 +18,7 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## 🖊️ Blogs
 
-### Laziness makes a Great Engineer
+### Those aren't written down are meant to be forgotten
 {{ range rss "http://blog.wei-lee.me/feeds/all.atom.xml" 5 }}
 * [{{ .Title }}]({{ .URL }}) (Published: {{ humanize .PublishedAt }}){{ end }}
 
