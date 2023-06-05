@@ -20,7 +20,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 {{ range rss "http://blog.wei-lee.me/feeds/all.atom.xml" 5 }}
 * [{{ .Title }}]({{ .URL }}) (Published: {{ humanize .PublishedAt }}){{ end }}
 
-## Those things no one cares about
+### Those things no one cares about
 {{ range rss "http://travlog.wei-lee.me/feeds/all.atom.xml" 5 }}
 * [{{ .Title }}]({{ .URL }}) (Published: {{ humanize .PublishedAt }}){{ end }}
 
