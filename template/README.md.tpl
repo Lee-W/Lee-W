@@ -10,11 +10,9 @@ I'm a
 * 🔒 Locker
 * 📺 Anime Lover
 
-As a programmer, I like to automate boring stuff and high-quality code. Enjoy participating in open-source communities and contributing to open-source projects (like [commitizen-tools](https://github.com/commitizen-tools)). Love traveling and would like to use PyCon as an excuse to explore the world 😎. Have been to PyCon TW 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, Remote Python Pizza 🍕 and Euro Python (remotely ) 🇪🇺.
+I enjoy automating tedious tasks and creating high-quality code. Enjoy participating in open-source communities and contributing to open-source projects such as [commitizen-tools](https://github.com/commitizen-tools) is something I love. Traveling is also a passion of mine, and I often use PyCon as an opportunity to explore new places. I have attended PyCon conferences in Taiwan 🇹🇼, the United States 🇺🇸, Japan 🇯🇵, Canada 🇨🇦, Remote Python Pizza 🍕, and Euro Python (remotely) 🇪🇺.
 
-I share my tech note, book digest, and sometimes my thought in my main blog [Laziness makes Great Engineer](https://blog.wei-lee.me/).
-
-On the other hand, if you're interested in traveling, cooking, and anime, [Meet people around the world](https://travlog.wei-lee.me/) is where I chat about this stuff.
+I share my technical notes, book digests, and occasional thoughts on my main blog [Those aren't written down are meant to be forgotten](https://blog.wei-lee.me/). If you're interested in topics such as cooking, anime, and travel, I chat about those things on [Those things no one cares about](https://travlog.wei-lee.me/).
 
 ## 🖊️ Blogs
 
@@ -42,3 +40,5 @@ On the other hand, if you're interested in traveling, cooking, and anime, [Meet 
 
 ## ⭐ GitHub Stat
 [![](https://github-readme-stats.vercel.app/api?username=Lee-W&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wei Lee's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lee-W&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
