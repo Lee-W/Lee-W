@@ -26,7 +26,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [2023 After Aimer Tour 東京行程](https://travlog.wei-lee.me/posts/travel/2023/05/2023-after-aimer-tour-tokyo-itinerary) (Published: 3 weeks ago)
+* [2023 After Aimer Tour 東京行程](https://travlog.wei-lee.me/posts/travel/2023/05/2023-after-aimer-tour-tokyo-itinerary) (Published: 4 weeks ago)
 * [2023 Aimer Tour 關西、名古屋行程](https://travlog.wei-lee.me/posts/travel/2023/05/2023-aimer-tour-kansai-nagoya-itinerary) (Published: 1 month ago)
 * [小太郎一個人生活](https://travlog.wei-lee.me/posts/review/2023/05/kotaro-lives-alone) (Published: 1 month ago)
 * [2023 春番嚐百草](https://travlog.wei-lee.me/posts/review/2023/04/what-i-will-watch-in-2023-sprint) (Published: 1 month ago)
