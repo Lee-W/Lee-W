@@ -34,7 +34,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#1171](https://github.com/astronomer/astronomer-providers/issues/1171) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 2. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
 3. 🗣 Commented on [#31720](https://github.com/apache/airflow/issues/31720) in [apache/airflow](https://github.com/apache/airflow)
 4. 💪 Opened PR [#31757](https://github.com/apache/airflow/pull/31757) in [apache/airflow](https://github.com/apache/airflow)
