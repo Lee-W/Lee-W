@@ -39,6 +39,6 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
-[![](https://github-readme-stats.vercel.app/api?username=Lee-W&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Lee-W&show_icons=true&hide_title=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Wei Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lee-W&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
