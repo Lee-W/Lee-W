@@ -34,19 +34,19 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. ❗️ Opened issue [#760](https://github.com/commitizen-tools/commitizen/issues/760) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#754](https://github.com/commitizen-tools/commitizen/pull/754) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#31757](https://github.com/apache/airflow/issues/31757) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#31743](https://github.com/apache/airflow/issues/31743) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#129](https://github.com/commitizen-tools/commitizen/issues/129) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. ❗️ Opened issue [#760](https://github.com/commitizen-tools/commitizen/issues/760) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#754](https://github.com/commitizen-tools/commitizen/pull/754) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#31757](https://github.com/apache/airflow/issues/31757) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#31743](https://github.com/apache/airflow/issues/31743) in [apache/airflow](https://github.com/apache/airflow)
 6. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
 7. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#1178](https://github.com/astronomer/astronomer-providers/pull/1178) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#1171](https://github.com/astronomer/astronomer-providers/issues/1171) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🎉 Merged PR [#1146](https://github.com/astronomer/astronomer-providers/pull/1146) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#1178](https://github.com/astronomer/astronomer-providers/pull/1178) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+10. 🗣 Commented on [#1171](https://github.com/astronomer/astronomer-providers/issues/1171) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
-[![](https://github-readme-stats.vercel.app/api?username=Lee-W&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Lee-W&show_icons=true&hide_title=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Wei Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lee-W&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
