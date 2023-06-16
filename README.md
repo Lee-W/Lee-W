@@ -30,7 +30,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 * [2023 Aimer Tour 關西、名古屋行程](https://travlog.wei-lee.me/posts/travel/2023/05/2023-aimer-tour-kansai-nagoya-itinerary) (Published: 1 month ago)
 * [小太郎一個人生活](https://travlog.wei-lee.me/posts/review/2023/05/kotaro-lives-alone) (Published: 1 month ago)
 * [2023 春番嚐百草](https://travlog.wei-lee.me/posts/review/2023/04/what-i-will-watch-in-2023-sprint) (Published: 1 month ago)
-* [做工的人 電影版](https://travlog.wei-lee.me/posts/review/2023/04/workers-the-movie) (Published: 1 month ago)
+* [做工的人 電影版](https://travlog.wei-lee.me/posts/review/2023/04/workers-the-movie) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
