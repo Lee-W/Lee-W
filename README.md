@@ -34,12 +34,12 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#129](https://github.com/commitizen-tools/commitizen/issues/129) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. ❗️ Opened issue [#760](https://github.com/commitizen-tools/commitizen/issues/760) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#754](https://github.com/commitizen-tools/commitizen/pull/754) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#31757](https://github.com/apache/airflow/issues/31757) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#31743](https://github.com/apache/airflow/issues/31743) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Closed PR [#1](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/1) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+2. 🎉 Merged PR [#35](https://github.com/Lee-W/cookiecutter-python-template/pull/35) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+3. 💪 Opened PR [#35](https://github.com/Lee-W/cookiecutter-python-template/pull/35) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+4. ❌ Closed PR [#32](https://github.com/Lee-W/cookiecutter-python-template/pull/32) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+5. 🎉 Merged PR [#34](https://github.com/Lee-W/cookiecutter-python-template/pull/34) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+6. 💪 Opened PR [#34](https://github.com/Lee-W/cookiecutter-python-template/pull/34) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 7. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
 8. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
 9. 🎉 Merged PR [#1178](https://github.com/astronomer/astronomer-providers/pull/1178) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
