@@ -21,7 +21,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 5 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 1 year ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 1 year ago)
-* [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 1 year ago)
+* [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 2 years ago)
 * [[Book] 為什麼Google、LinkedIn、波音、高通、迪士尼都找他合作？](https://blog.wei-lee.me/posts/book/2021/12/pitch-anyting) (Published: 2 years ago)
 
 ### Those things no one cares about
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#3](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/3) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-2. 💪 Opened PR [#3](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/3) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-3. 🎉 Merged PR [#2](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/2) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-4. 💪 Opened PR [#2](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/2) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. ❌ Closed PR [#1](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/1) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. 🎉 Merged PR [#35](https://github.com/Lee-W/cookiecutter-python-template/pull/35) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-7. 💪 Opened PR [#35](https://github.com/Lee-W/cookiecutter-python-template/pull/35) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. ❌ Closed PR [#32](https://github.com/Lee-W/cookiecutter-python-template/pull/32) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🎉 Merged PR [#34](https://github.com/Lee-W/cookiecutter-python-template/pull/34) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-10. 💪 Opened PR [#34](https://github.com/Lee-W/cookiecutter-python-template/pull/34) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 🎉 Merged PR [#1192](https://github.com/astronomer/astronomer-providers/pull/1192) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🎉 Merged PR [#5](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/5) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+3. 💪 Opened PR [#5](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/5) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+4. 🗣 Commented on [#31743](https://github.com/apache/airflow/issues/31743) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#4](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/4) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. 💪 Opened PR [#31999](https://github.com/apache/airflow/pull/31999) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#3](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/3) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. 💪 Opened PR [#3](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/3) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. 🎉 Merged PR [#2](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/2) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. 💪 Opened PR [#2](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/2) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 
 
 ## ⭐ GitHub Stat
