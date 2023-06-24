@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31743](https://github.com/apache/airflow/issues/31743) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#1193](https://github.com/astronomer/astronomer-providers/issues/1193) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 🗣 Commented on [#1207](https://github.com/astronomer/astronomer-providers/issues/1207) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 💪 Opened PR [#1207](https://github.com/astronomer/astronomer-providers/pull/1207) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#32020](https://github.com/apache/airflow/issues/32020) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#1206](https://github.com/astronomer/astronomer-providers/pull/1206) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🎉 Merged PR [#1204](https://github.com/astronomer/astronomer-providers/pull/1204) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🗣 Commented on [#1201](https://github.com/astronomer/astronomer-providers/issues/1201) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#1201](https://github.com/astronomer/astronomer-providers/issues/1201) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🎉 Merged PR [#1203](https://github.com/astronomer/astronomer-providers/pull/1203) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#740](https://github.com/commitizen-tools/commitizen/issues/740) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 💪 Opened PR [#4](https://github.com/Lee-W/github-actions-playground/pull/4) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+3. ❌ Closed PR [#3](https://github.com/Lee-W/github-actions-playground/pull/3) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+4. ❌ Reopened PR [#3](https://github.com/Lee-W/github-actions-playground/pull/3) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+5. ❌ Closed PR [#3](https://github.com/Lee-W/github-actions-playground/pull/3) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+6. 💪 Opened PR [#3](https://github.com/Lee-W/github-actions-playground/pull/3) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+7. ❌ Closed PR [#2](https://github.com/Lee-W/github-actions-playground/pull/2) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+8. ❌ Reopened PR [#2](https://github.com/Lee-W/github-actions-playground/pull/2) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+9. ❌ Closed PR [#2](https://github.com/Lee-W/github-actions-playground/pull/2) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+10. ❌ Reopened PR [#2](https://github.com/Lee-W/github-actions-playground/pull/2) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
