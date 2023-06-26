@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#770](https://github.com/commitizen-tools/commitizen/pull/770) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#50](https://github.com/Lee-W/cookiecutter-python-template/pull/50) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-3. 💪 Opened PR [#50](https://github.com/Lee-W/cookiecutter-python-template/pull/50) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-4. 🎉 Merged PR [#21](https://github.com/Lee-W/bahamut_ani_stat/pull/21) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-5. 💪 Opened PR [#21](https://github.com/Lee-W/bahamut_ani_stat/pull/21) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-6. ❗️ Closed issue [#741](https://github.com/commitizen-tools/commitizen/issues/741) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#740](https://github.com/commitizen-tools/commitizen/pull/740) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#740](https://github.com/commitizen-tools/commitizen/issues/740) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 💪 Opened PR [#4](https://github.com/Lee-W/github-actions-playground/pull/4) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-10. ❌ Closed PR [#3](https://github.com/Lee-W/github-actions-playground/pull/3) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+1. 🎉 Merged PR [#678](https://github.com/commitizen-tools/commitizen/pull/678) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 💪 Opened PR [#770](https://github.com/commitizen-tools/commitizen/pull/770) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#50](https://github.com/Lee-W/cookiecutter-python-template/pull/50) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+4. 💪 Opened PR [#50](https://github.com/Lee-W/cookiecutter-python-template/pull/50) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+5. 🎉 Merged PR [#21](https://github.com/Lee-W/bahamut_ani_stat/pull/21) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+6. 💪 Opened PR [#21](https://github.com/Lee-W/bahamut_ani_stat/pull/21) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+7. ❗️ Closed issue [#741](https://github.com/commitizen-tools/commitizen/issues/741) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#740](https://github.com/commitizen-tools/commitizen/pull/740) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#740](https://github.com/commitizen-tools/commitizen/issues/740) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 💪 Opened PR [#4](https://github.com/Lee-W/github-actions-playground/pull/4) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
