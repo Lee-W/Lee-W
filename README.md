@@ -26,24 +26,24 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 1 day ago)
-* [2023 巴哈動漫朝聖團](https://travlog.wei-lee.me/posts/travel/2023/06/bahamut-anime-tourism-2023) (Published: 5 days ago)
+* [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 2 days ago)
+* [2023 巴哈動漫朝聖團](https://travlog.wei-lee.me/posts/travel/2023/06/bahamut-anime-tourism-2023) (Published: 6 days ago)
 * [2023 After Aimer Tour 東京行程](https://travlog.wei-lee.me/posts/travel/2023/05/2023-after-aimer-tour-tokyo-itinerary) (Published: 1 month ago)
 * [2023 Aimer Tour 關西、名古屋行程](https://travlog.wei-lee.me/posts/travel/2023/05/2023-aimer-tour-kansai-nagoya-itinerary) (Published: 1 month ago)
 * [小太郎一個人生活](https://travlog.wei-lee.me/posts/review/2023/05/kotaro-lives-alone) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#1218](https://github.com/astronomer/astronomer-providers/pull/1218) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 🎉 Merged PR [#1215](https://github.com/astronomer/astronomer-providers/pull/1215) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 💪 Opened PR [#1215](https://github.com/astronomer/astronomer-providers/pull/1215) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🗣 Commented on [#1214](https://github.com/astronomer/astronomer-providers/issues/1214) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 💪 Opened PR [#1214](https://github.com/astronomer/astronomer-providers/pull/1214) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🗣 Commented on [#31743](https://github.com/apache/airflow/issues/31743) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#32140](https://github.com/apache/airflow/pull/32140) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#678](https://github.com/commitizen-tools/commitizen/pull/678) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 💪 Opened PR [#770](https://github.com/commitizen-tools/commitizen/pull/770) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ❌ Closed PR [#1781](https://github.com/astronomer/astro-sdk/pull/1781) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+2. 🗣 Commented on [#1214](https://github.com/astronomer/astronomer-providers/issues/1214) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🎉 Merged PR [#5](https://github.com/Lee-W/github-actions-playground/pull/5) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+4. 💪 Opened PR [#5](https://github.com/Lee-W/github-actions-playground/pull/5) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+5. ❌ Closed PR [#4](https://github.com/Lee-W/github-actions-playground/pull/4) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+6. 🎉 Merged PR [#1217](https://github.com/astronomer/astronomer-providers/pull/1217) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🗣 Commented on [#31743](https://github.com/apache/airflow/issues/31743) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#772](https://github.com/commitizen-tools/commitizen/pull/772) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#771](https://github.com/commitizen-tools/commitizen/pull/771) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#773](https://github.com/commitizen-tools/commitizen/pull/773) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
