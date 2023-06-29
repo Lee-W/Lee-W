@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1781](https://github.com/astronomer/astro-sdk/pull/1781) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-2. 🗣 Commented on [#1214](https://github.com/astronomer/astronomer-providers/issues/1214) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 🎉 Merged PR [#5](https://github.com/Lee-W/github-actions-playground/pull/5) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-4. 💪 Opened PR [#5](https://github.com/Lee-W/github-actions-playground/pull/5) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-5. ❌ Closed PR [#4](https://github.com/Lee-W/github-actions-playground/pull/4) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-6. 🎉 Merged PR [#1217](https://github.com/astronomer/astronomer-providers/pull/1217) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🗣 Commented on [#31743](https://github.com/apache/airflow/issues/31743) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#772](https://github.com/commitizen-tools/commitizen/pull/772) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#771](https://github.com/commitizen-tools/commitizen/pull/771) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#773](https://github.com/commitizen-tools/commitizen/pull/773) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#32238](https://github.com/apache/airflow/pull/32238) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#1220](https://github.com/astronomer/astronomer-providers/issues/1220) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 🎉 Merged PR [#1977](https://github.com/astronomer/astro-sdk/pull/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+5. 🗣 Commented on [#1977](https://github.com/astronomer/astro-sdk/issues/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+6. 💪 Opened PR [#1977](https://github.com/astronomer/astro-sdk/pull/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+7. ❌ Closed PR [#1781](https://github.com/astronomer/astro-sdk/pull/1781) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+8. 🗣 Commented on [#1214](https://github.com/astronomer/astronomer-providers/issues/1214) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 🎉 Merged PR [#5](https://github.com/Lee-W/github-actions-playground/pull/5) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+10. 💪 Opened PR [#5](https://github.com/Lee-W/github-actions-playground/pull/5) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
