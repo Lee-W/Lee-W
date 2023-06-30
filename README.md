@@ -18,7 +18,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 5 months ago)
+* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 6 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 1 year ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 1 year ago)
 * [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 2 years ago)
@@ -26,7 +26,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 3 days ago)
+* [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 4 days ago)
 * [2023 巴哈動漫朝聖團](https://travlog.wei-lee.me/posts/travel/2023/06/bahamut-anime-tourism-2023) (Published: 1 week ago)
 * [2023 After Aimer Tour 東京行程](https://travlog.wei-lee.me/posts/travel/2023/05/2023-after-aimer-tour-tokyo-itinerary) (Published: 1 month ago)
 * [2023 Aimer Tour 關西、名古屋行程](https://travlog.wei-lee.me/posts/travel/2023/05/2023-aimer-tour-kansai-nagoya-itinerary) (Published: 1 month ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#32238](https://github.com/apache/airflow/pull/32238) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#1220](https://github.com/astronomer/astronomer-providers/issues/1220) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🎉 Merged PR [#1977](https://github.com/astronomer/astro-sdk/pull/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-5. 🗣 Commented on [#1977](https://github.com/astronomer/astro-sdk/issues/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-6. 💪 Opened PR [#1977](https://github.com/astronomer/astro-sdk/pull/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-7. ❌ Closed PR [#1781](https://github.com/astronomer/astro-sdk/pull/1781) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-8. 🗣 Commented on [#1214](https://github.com/astronomer/astronomer-providers/issues/1214) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🎉 Merged PR [#5](https://github.com/Lee-W/github-actions-playground/pull/5) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-10. 💪 Opened PR [#5](https://github.com/Lee-W/github-actions-playground/pull/5) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+1. 💪 Opened PR [#32261](https://github.com/apache/airflow/pull/32261) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#1222](https://github.com/astronomer/astronomer-providers/issues/1222) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#1222](https://github.com/astronomer/astronomer-providers/issues/1222) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 💪 Opened PR [#1222](https://github.com/astronomer/astronomer-providers/pull/1222) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 💪 Opened PR [#32238](https://github.com/apache/airflow/pull/32238) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#1220](https://github.com/astronomer/astronomer-providers/issues/1220) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. 🎉 Merged PR [#1977](https://github.com/astronomer/astro-sdk/pull/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+9. 🗣 Commented on [#1977](https://github.com/astronomer/astro-sdk/issues/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+10. 💪 Opened PR [#1977](https://github.com/astronomer/astro-sdk/pull/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
 
 
 ## ⭐ GitHub Stat
