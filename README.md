@@ -26,9 +26,9 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 1 day ago)
-* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 2 days ago)
-* [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 6 days ago)
+* [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 2 days ago)
+* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 3 days ago)
+* [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 1 week ago)
 * [2023 巴哈動漫朝聖團](https://travlog.wei-lee.me/posts/travel/2023/06/bahamut-anime-tourism-2023) (Published: 1 week ago)
 * [2023 After Aimer Tour 東京行程](https://travlog.wei-lee.me/posts/travel/2023/05/2023-after-aimer-tour-tokyo-itinerary) (Published: 1 month ago)
 
