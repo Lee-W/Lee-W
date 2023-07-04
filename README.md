@@ -26,24 +26,24 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 2 days ago)
-* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 3 days ago)
+* [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 1 day ago)
+* [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 3 days ago)
+* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 4 days ago)
 * [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 1 week ago)
 * [2023 巴哈動漫朝聖團](https://travlog.wei-lee.me/posts/travel/2023/06/bahamut-anime-tourism-2023) (Published: 1 week ago)
-* [2023 After Aimer Tour 東京行程](https://travlog.wei-lee.me/posts/travel/2023/05/2023-after-aimer-tour-tokyo-itinerary) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#1222](https://github.com/astronomer/astronomer-providers/pull/1222) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 💪 Opened PR [#32261](https://github.com/apache/airflow/pull/32261) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#1222](https://github.com/astronomer/astronomer-providers/issues/1222) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🗣 Commented on [#1222](https://github.com/astronomer/astronomer-providers/issues/1222) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 💪 Opened PR [#1222](https://github.com/astronomer/astronomer-providers/pull/1222) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 💪 Opened PR [#32238](https://github.com/apache/airflow/pull/32238) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#1220](https://github.com/astronomer/astronomer-providers/issues/1220) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🎉 Merged PR [#1977](https://github.com/astronomer/astro-sdk/pull/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-10. 🗣 Commented on [#1977](https://github.com/astronomer/astro-sdk/issues/1977) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+1. 🎉 Merged PR [#1226](https://github.com/astronomer/astronomer-providers/pull/1226) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. ❗️ Opened issue [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+3. 💪 Opened PR [#32323](https://github.com/apache/airflow/pull/32323) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#1223](https://github.com/astronomer/astronomer-providers/pull/1223) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 💪 Opened PR [#1223](https://github.com/astronomer/astronomer-providers/pull/1223) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🎉 Merged PR [#777](https://github.com/commitizen-tools/commitizen/pull/777) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#1222](https://github.com/astronomer/astronomer-providers/pull/1222) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. 💪 Opened PR [#32261](https://github.com/apache/airflow/pull/32261) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#1222](https://github.com/astronomer/astronomer-providers/issues/1222) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+10. 🗣 Commented on [#1222](https://github.com/astronomer/astronomer-providers/issues/1222) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
