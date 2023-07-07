@@ -26,24 +26,24 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 3 days ago)
-* [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 5 days ago)
-* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 6 days ago)
+* [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 4 days ago)
+* [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 6 days ago)
+* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 1 week ago)
 * [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 1 week ago)
 * [2023 巴哈動漫朝聖團](https://travlog.wei-lee.me/posts/travel/2023/06/bahamut-anime-tourism-2023) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. ❗️ Closed issue [#769](https://github.com/commitizen-tools/commitizen/issues/769) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#770](https://github.com/commitizen-tools/commitizen/pull/770) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#32370](https://github.com/apache/airflow/issues/32370) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#32370](https://github.com/apache/airflow/pull/32370) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#29462](https://github.com/apache/airflow/issues/29462) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#31712](https://github.com/apache/airflow/issues/31712) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#779](https://github.com/commitizen-tools/commitizen/pull/779) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#778](https://github.com/commitizen-tools/commitizen/pull/778) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#1224](https://github.com/astronomer/astronomer-providers/pull/1224) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. ❌ Closed PR [#1230](https://github.com/astronomer/astronomer-providers/pull/1230) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🎉 Merged PR [#1231](https://github.com/astronomer/astronomer-providers/pull/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#1231](https://github.com/astronomer/astronomer-providers/issues/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 💪 Opened PR [#1231](https://github.com/astronomer/astronomer-providers/pull/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 🗣 Commented on [#32389](https://github.com/apache/airflow/issues/32389) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#1229](https://github.com/astronomer/astronomer-providers/issues/1229) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 💪 Opened PR [#1229](https://github.com/astronomer/astronomer-providers/pull/1229) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. 🎉 Merged PR [#58](https://github.com/Lee-W/cookiecutter-python-template/pull/58) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. 💪 Opened PR [#58](https://github.com/Lee-W/cookiecutter-python-template/pull/58) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 🎉 Merged PR [#37](https://github.com/Lee-W/cookiecutter-python-template/pull/37) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 
 
 ## ⭐ GitHub Stat
