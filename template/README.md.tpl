@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1230](https://github.com/astronomer/astronomer-providers/pull/1230) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 🎉 Merged PR [#1231](https://github.com/astronomer/astronomer-providers/pull/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 🗣 Commented on [#1231](https://github.com/astronomer/astronomer-providers/issues/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 💪 Opened PR [#1231](https://github.com/astronomer/astronomer-providers/pull/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#32389](https://github.com/apache/airflow/issues/32389) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#1229](https://github.com/astronomer/astronomer-providers/issues/1229) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 💪 Opened PR [#1229](https://github.com/astronomer/astronomer-providers/pull/1229) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🎉 Merged PR [#58](https://github.com/Lee-W/cookiecutter-python-template/pull/58) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 💪 Opened PR [#58](https://github.com/Lee-W/cookiecutter-python-template/pull/58) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-10. 🎉 Merged PR [#37](https://github.com/Lee-W/cookiecutter-python-template/pull/37) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 🗣 Commented on [#32422](https://github.com/apache/airflow/issues/32422) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#32422](https://github.com/apache/airflow/issues/32422) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#32422](https://github.com/apache/airflow/pull/32422) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+5. 🗣 Commented on [#1232](https://github.com/astronomer/astronomer-providers/issues/1232) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 💪 Opened PR [#1232](https://github.com/astronomer/astronomer-providers/pull/1232) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. ❌ Closed PR [#1230](https://github.com/astronomer/astronomer-providers/pull/1230) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. 🎉 Merged PR [#1231](https://github.com/astronomer/astronomer-providers/pull/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 🗣 Commented on [#1231](https://github.com/astronomer/astronomer-providers/issues/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+10. 💪 Opened PR [#1231](https://github.com/astronomer/astronomer-providers/pull/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
