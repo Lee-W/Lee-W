@@ -26,7 +26,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 5 days ago)
+* [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 6 days ago)
 * [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 1 week ago)
 * [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 1 week ago)
 * [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 1 week ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#32422](https://github.com/apache/airflow/issues/32422) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#1228](https://github.com/astronomer/astronomer-providers/issues/1228) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 2. 🗣 Commented on [#32422](https://github.com/apache/airflow/issues/32422) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#32422](https://github.com/apache/airflow/pull/32422) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-5. 🗣 Commented on [#1232](https://github.com/astronomer/astronomer-providers/issues/1232) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 💪 Opened PR [#1232](https://github.com/astronomer/astronomer-providers/pull/1232) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. ❌ Closed PR [#1230](https://github.com/astronomer/astronomer-providers/pull/1230) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🎉 Merged PR [#1231](https://github.com/astronomer/astronomer-providers/pull/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#1231](https://github.com/astronomer/astronomer-providers/issues/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 💪 Opened PR [#1231](https://github.com/astronomer/astronomer-providers/pull/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#32422](https://github.com/apache/airflow/issues/32422) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#32422](https://github.com/apache/airflow/pull/32422) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+6. 🗣 Commented on [#1232](https://github.com/astronomer/astronomer-providers/issues/1232) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 💪 Opened PR [#1232](https://github.com/astronomer/astronomer-providers/pull/1232) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. ❌ Closed PR [#1230](https://github.com/astronomer/astronomer-providers/pull/1230) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 🎉 Merged PR [#1231](https://github.com/astronomer/astronomer-providers/pull/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+10. 🗣 Commented on [#1231](https://github.com/astronomer/astronomer-providers/issues/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
