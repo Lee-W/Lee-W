@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1228](https://github.com/astronomer/astronomer-providers/issues/1228) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 🗣 Commented on [#32422](https://github.com/apache/airflow/issues/32422) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#32422](https://github.com/apache/airflow/issues/32422) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#32422](https://github.com/apache/airflow/pull/32422) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-6. 🗣 Commented on [#1232](https://github.com/astronomer/astronomer-providers/issues/1232) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 💪 Opened PR [#1232](https://github.com/astronomer/astronomer-providers/pull/1232) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. ❌ Closed PR [#1230](https://github.com/astronomer/astronomer-providers/pull/1230) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🎉 Merged PR [#1231](https://github.com/astronomer/astronomer-providers/pull/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🗣 Commented on [#1231](https://github.com/astronomer/astronomer-providers/issues/1231) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🎉 Merged PR [#782](https://github.com/commitizen-tools/commitizen/pull/782) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#1232](https://github.com/astronomer/astronomer-providers/pull/1232) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+5. 🗣 Commented on [#1234](https://github.com/astronomer/astronomer-providers/issues/1234) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. ❌ Closed PR [#1234](https://github.com/astronomer/astronomer-providers/pull/1234) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🗣 Commented on [#32460](https://github.com/apache/airflow/issues/32460) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#1235](https://github.com/astronomer/astronomer-providers/issues/1235) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 🗣 Commented on [#1234](https://github.com/astronomer/astronomer-providers/issues/1234) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+10. 🗣 Commented on [#1234](https://github.com/astronomer/astronomer-providers/issues/1234) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
