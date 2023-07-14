@@ -28,22 +28,22 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 * [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 1 week ago)
 * [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 1 week ago)
-* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 1 week ago)
+* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 2 weeks ago)
 * [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 2 weeks ago)
 * [2023 巴哈動漫朝聖團](https://travlog.wei-lee.me/posts/travel/2023/06/bahamut-anime-tourism-2023) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#32514](https://github.com/apache/airflow/issues/32514) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#32514](https://github.com/apache/airflow/pull/32514) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#782](https://github.com/commitizen-tools/commitizen/pull/782) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#1232](https://github.com/astronomer/astronomer-providers/pull/1232) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-7. 🗣 Commented on [#1234](https://github.com/astronomer/astronomer-providers/issues/1234) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. ❌ Closed PR [#1234](https://github.com/astronomer/astronomer-providers/pull/1234) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#32460](https://github.com/apache/airflow/issues/32460) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#1235](https://github.com/astronomer/astronomer-providers/issues/1235) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 💪 Opened PR [#784](https://github.com/commitizen-tools/commitizen/pull/784) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#1214](https://github.com/astronomer/astronomer-providers/issues/1214) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#1244](https://github.com/astronomer/astronomer-providers/issues/1244) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 💪 Opened PR [#1244](https://github.com/astronomer/astronomer-providers/pull/1244) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 🗣 Commented on [#32568](https://github.com/apache/airflow/issues/32568) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#1243](https://github.com/astronomer/astronomer-providers/issues/1243) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🗣 Commented on [#1243](https://github.com/astronomer/astronomer-providers/issues/1243) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. 💪 Opened PR [#1243](https://github.com/astronomer/astronomer-providers/pull/1243) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 💪 Opened PR [#1242](https://github.com/astronomer/astronomer-providers/pull/1242) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+10. 🎉 Merged PR [#783](https://github.com/commitizen-tools/commitizen/pull/783) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
