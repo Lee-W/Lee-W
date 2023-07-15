@@ -27,7 +27,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 ### Those things no one cares about
 
 * [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 1 week ago)
-* [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 1 week ago)
+* [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 2 weeks ago)
 * [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 2 weeks ago)
 * [2.5次元音樂劇《美少女戰士》The Super Live](https://travlog.wei-lee.me/posts/review/2023/06/2-5-dimension-musical-sailor-moon-the-super-live) (Published: 2 weeks ago)
 * [2023 巴哈動漫朝聖團](https://travlog.wei-lee.me/posts/travel/2023/06/bahamut-anime-tourism-2023) (Published: 3 weeks ago)
