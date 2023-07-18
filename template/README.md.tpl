@@ -26,12 +26,12 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#775](https://github.com/commitizen-tools/commitizen/pull/775) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#557](https://github.com/commitizen-tools/commitizen/issues/557) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 💪 Opened PR [#784](https://github.com/commitizen-tools/commitizen/pull/784) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#1214](https://github.com/astronomer/astronomer-providers/issues/1214) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#1244](https://github.com/astronomer/astronomer-providers/issues/1244) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 💪 Opened PR [#1244](https://github.com/astronomer/astronomer-providers/pull/1244) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🎉 Merged PR [#1244](https://github.com/astronomer/astronomer-providers/pull/1244) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🗣 Commented on [#1244](https://github.com/astronomer/astronomer-providers/issues/1244) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🎉 Merged PR [#775](https://github.com/commitizen-tools/commitizen/pull/775) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#557](https://github.com/commitizen-tools/commitizen/issues/557) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 💪 Opened PR [#784](https://github.com/commitizen-tools/commitizen/pull/784) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#1214](https://github.com/astronomer/astronomer-providers/issues/1214) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 7. 🗣 Commented on [#32568](https://github.com/apache/airflow/issues/32568) in [apache/airflow](https://github.com/apache/airflow)
 8. 🗣 Commented on [#1243](https://github.com/astronomer/astronomer-providers/issues/1243) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 9. 🗣 Commented on [#1243](https://github.com/astronomer/astronomer-providers/issues/1243) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
