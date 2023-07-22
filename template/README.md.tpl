@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-2. 🗣 Commented on [#32689](https://github.com/apache/airflow/issues/32689) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#32689](https://github.com/apache/airflow/issues/32689) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#32693](https://github.com/apache/airflow/pull/32693) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#32689](https://github.com/apache/airflow/pull/32689) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#1248](https://github.com/astronomer/astronomer-providers/pull/1248) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🎉 Merged PR [#13](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/13) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. 🎉 Merged PR [#14](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/14) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-9. 🎉 Merged PR [#20](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/20) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-10. 💪 Opened PR [#1248](https://github.com/astronomer/astronomer-providers/pull/1248) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. ❗️ Closed issue [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+3. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+4. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+5. 🗣 Commented on [#32732](https://github.com/apache/airflow/issues/32732) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+7. 🗣 Commented on [#32689](https://github.com/apache/airflow/issues/32689) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#32689](https://github.com/apache/airflow/issues/32689) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#32693](https://github.com/apache/airflow/pull/32693) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#32689](https://github.com/apache/airflow/pull/32689) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
