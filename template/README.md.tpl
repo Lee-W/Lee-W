@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. ❗️ Closed issue [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-3. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-4. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-5. 🗣 Commented on [#32732](https://github.com/apache/airflow/issues/32732) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-7. 🗣 Commented on [#32689](https://github.com/apache/airflow/issues/32689) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#32689](https://github.com/apache/airflow/issues/32689) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#32693](https://github.com/apache/airflow/pull/32693) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#32689](https://github.com/apache/airflow/pull/32689) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#789](https://github.com/commitizen-tools/commitizen/pull/789) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#791](https://github.com/commitizen-tools/commitizen/pull/791) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#792](https://github.com/commitizen-tools/commitizen/pull/792) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#793](https://github.com/commitizen-tools/commitizen/pull/793) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. ❗️ Closed issue [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+7. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+8. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+9. 🗣 Commented on [#32732](https://github.com/apache/airflow/issues/32732) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
