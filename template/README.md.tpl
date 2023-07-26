@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1254](https://github.com/astronomer/astronomer-providers/pull/1254) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 💪 Opened PR [#1254](https://github.com/astronomer/astronomer-providers/pull/1254) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 💪 Opened PR [#32806](https://github.com/apache/airflow/pull/32806) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#32795](https://github.com/apache/airflow/issues/32795) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#789](https://github.com/commitizen-tools/commitizen/pull/789) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#791](https://github.com/commitizen-tools/commitizen/pull/791) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#792](https://github.com/commitizen-tools/commitizen/pull/792) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#793](https://github.com/commitizen-tools/commitizen/pull/793) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. ❗️ Closed issue [#30984](https://github.com/Azure/azure-sdk-for-python/issues/30984) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
+1. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#16](https://github.com/Lee-W/github-actions-playground/pull/16) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+4. 💪 Opened PR [#16](https://github.com/Lee-W/github-actions-playground/pull/16) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+5. 🎉 Merged PR [#15](https://github.com/Lee-W/github-actions-playground/pull/15) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+6. 💪 Opened PR [#15](https://github.com/Lee-W/github-actions-playground/pull/15) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+7. 🎉 Merged PR [#14](https://github.com/Lee-W/github-actions-playground/pull/14) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+8. 💪 Opened PR [#14](https://github.com/Lee-W/github-actions-playground/pull/14) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+9. 🎉 Merged PR [#13](https://github.com/Lee-W/github-actions-playground/pull/13) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+10. 💪 Opened PR [#13](https://github.com/Lee-W/github-actions-playground/pull/13) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
