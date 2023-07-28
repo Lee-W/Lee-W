@@ -20,7 +20,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 6 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 1 year ago)
-* [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 1 year ago)
+* [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 2 years ago)
 * [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 2 years ago)
 * [[Book] 為什麼Google、LinkedIn、波音、高通、迪士尼都找他合作？](https://blog.wei-lee.me/posts/book/2021/12/pitch-anyting) (Published: 2 years ago)
 
@@ -30,7 +30,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 * [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 1 week ago)
 * [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 3 weeks ago)
 * [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 3 weeks ago)
-* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 3 weeks ago)
+* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 4 weeks ago)
 
 ## 🖥️ Recently working on
 
