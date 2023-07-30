@@ -18,7 +18,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 6 months ago)
+* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 7 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 1 year ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 2 years ago)
 * [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 2 years ago)
@@ -30,20 +30,20 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 * [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 1 week ago)
 * [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 3 weeks ago)
 * [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 4 weeks ago)
-* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 4 weeks ago)
+* [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#801](https://github.com/commitizen-tools/commitizen/pull/801) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#802](https://github.com/commitizen-tools/commitizen/pull/802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#803](https://github.com/commitizen-tools/commitizen/pull/803) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#1262](https://github.com/astronomer/astronomer-providers/pull/1262) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#1262](https://github.com/astronomer/astronomer-providers/issues/1262) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 💪 Opened PR [#1262](https://github.com/astronomer/astronomer-providers/pull/1262) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🎉 Merged PR [#1258](https://github.com/astronomer/astronomer-providers/pull/1258) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🎉 Merged PR [#1261](https://github.com/astronomer/astronomer-providers/pull/1261) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#800](https://github.com/commitizen-tools/commitizen/issues/800) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#799](https://github.com/commitizen-tools/commitizen/issues/799) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#796](https://github.com/commitizen-tools/commitizen/pull/796) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#795](https://github.com/commitizen-tools/commitizen/pull/795) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#801](https://github.com/commitizen-tools/commitizen/pull/801) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#802](https://github.com/commitizen-tools/commitizen/pull/802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#803](https://github.com/commitizen-tools/commitizen/pull/803) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#1262](https://github.com/astronomer/astronomer-providers/pull/1262) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+10. 🗣 Commented on [#1262](https://github.com/astronomer/astronomer-providers/issues/1262) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
