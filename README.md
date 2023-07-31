@@ -27,23 +27,23 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 ### Those things no one cares about
 
 * [2023 夏番嚐百草](https://travlog.wei-lee.me/posts/review/2023/07/what-i-will-watch-in-2023-summer) (Published: 1 week ago)
-* [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 1 week ago)
-* [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 3 weeks ago)
-* [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 4 weeks ago)
+* [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 2 weeks ago)
+* [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 4 weeks ago)
+* [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 1 month ago)
 * [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
 1. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#800](https://github.com/commitizen-tools/commitizen/issues/800) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#799](https://github.com/commitizen-tools/commitizen/issues/799) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#796](https://github.com/commitizen-tools/commitizen/pull/796) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#795](https://github.com/commitizen-tools/commitizen/pull/795) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#801](https://github.com/commitizen-tools/commitizen/pull/801) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#802](https://github.com/commitizen-tools/commitizen/pull/802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#803](https://github.com/commitizen-tools/commitizen/pull/803) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#1262](https://github.com/astronomer/astronomer-providers/pull/1262) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🗣 Commented on [#1262](https://github.com/astronomer/astronomer-providers/issues/1262) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🗣 Commented on [#32936](https://github.com/apache/airflow/issues/32936) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#629](https://github.com/commitizen-tools/commitizen/issues/629) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#800](https://github.com/commitizen-tools/commitizen/issues/800) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#799](https://github.com/commitizen-tools/commitizen/issues/799) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#796](https://github.com/commitizen-tools/commitizen/pull/796) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#795](https://github.com/commitizen-tools/commitizen/pull/795) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#801](https://github.com/commitizen-tools/commitizen/pull/801) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#802](https://github.com/commitizen-tools/commitizen/pull/802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#803](https://github.com/commitizen-tools/commitizen/pull/803) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
