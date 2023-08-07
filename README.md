@@ -27,23 +27,23 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 ### Those things no one cares about
 
 * [2023 夏番嚐百草](https://travlog.wei-lee.me/posts/review/2023/07/what-i-will-watch-in-2023-summer) (Published: 2 weeks ago)
-* [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 2 weeks ago)
+* [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 3 weeks ago)
 * [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 1 month ago)
 * [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 1 month ago)
 * [勇者死了！](https://travlog.wei-lee.me/posts/review/2023/07/the-legendary-hero-is-dead) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#6](https://github.com/Lee-W/astronomer-providers/pull/6) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
-2. 💪 Opened PR [#6](https://github.com/Lee-W/astronomer-providers/pull/6) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
-3. 🎉 Merged PR [#5](https://github.com/Lee-W/astronomer-providers/pull/5) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
-4. 💪 Opened PR [#5](https://github.com/Lee-W/astronomer-providers/pull/5) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
-5. 🎉 Merged PR [#4](https://github.com/Lee-W/astronomer-providers/pull/4) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
-6. 💪 Opened PR [#4](https://github.com/Lee-W/astronomer-providers/pull/4) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
-7. 💪 Opened PR [#1280](https://github.com/astronomer/astronomer-providers/pull/1280) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🎉 Merged PR [#3](https://github.com/Lee-W/astronomer-providers/pull/3) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
-9. 💪 Opened PR [#3](https://github.com/Lee-W/astronomer-providers/pull/3) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
-10. 🎉 Merged PR [#2](https://github.com/Lee-W/astronomer-providers/pull/2) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
+1. 🗣 Commented on [#1282](https://github.com/astronomer/astronomer-providers/issues/1282) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 💪 Opened PR [#33148](https://github.com/apache/airflow/pull/33148) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#33146](https://github.com/apache/airflow/issues/33146) in [apache/airflow](https://github.com/apache/airflow)
+4. ❌ Closed PR [#13233](https://github.com/python/cpython/pull/13233) in [python/cpython](https://github.com/python/cpython)
+5. 🗣 Commented on [#13233](https://github.com/python/cpython/issues/13233) in [python/cpython](https://github.com/python/cpython)
+6. 🎉 Merged PR [#6](https://github.com/Lee-W/astronomer-providers/pull/6) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
+7. 💪 Opened PR [#6](https://github.com/Lee-W/astronomer-providers/pull/6) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
+8. 🎉 Merged PR [#5](https://github.com/Lee-W/astronomer-providers/pull/5) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
+9. 💪 Opened PR [#5](https://github.com/Lee-W/astronomer-providers/pull/5) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
+10. 🎉 Merged PR [#4](https://github.com/Lee-W/astronomer-providers/pull/4) in [Lee-W/astronomer-providers](https://github.com/Lee-W/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
