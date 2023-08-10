@@ -26,7 +26,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [2023 夏番嚐百草](https://travlog.wei-lee.me/posts/review/2023/07/what-i-will-watch-in-2023-summer) (Published: 2 weeks ago)
+* [2023 夏番嚐百草](https://travlog.wei-lee.me/posts/review/2023/07/what-i-will-watch-in-2023-summer) (Published: 3 weeks ago)
 * [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 3 weeks ago)
 * [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 1 month ago)
 * [鬼滅之刃 刀匠村篇](https://travlog.wei-lee.me/posts/review/2023/07/demon-slayer-to-the-swordsmith-village) (Published: 1 month ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#33211](https://github.com/apache/airflow/issues/33211) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#33211](https://github.com/apache/airflow/issues/33211) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#33211](https://github.com/apache/airflow/pull/33211) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#33193](https://github.com/apache/airflow/issues/33193) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#33196](https://github.com/apache/airflow/pull/33196) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#33189](https://github.com/apache/airflow/pull/33189) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#1289](https://github.com/astronomer/astronomer-providers/pull/1289) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🎉 Merged PR [#784](https://github.com/commitizen-tools/commitizen/pull/784) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#784](https://github.com/commitizen-tools/commitizen/issues/784) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#799](https://github.com/commitizen-tools/commitizen/issues/799) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#1287](https://github.com/astronomer/astronomer-providers/issues/1287) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🗣 Commented on [#1293](https://github.com/astronomer/astronomer-providers/issues/1293) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🎉 Merged PR [#1291](https://github.com/astronomer/astronomer-providers/pull/1291) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 🗣 Commented on [#809](https://github.com/commitizen-tools/commitizen/issues/809) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. ❌ Closed PR [#33211](https://github.com/apache/airflow/pull/33211) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#33211](https://github.com/apache/airflow/issues/33211) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#33211](https://github.com/apache/airflow/issues/33211) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#33211](https://github.com/apache/airflow/issues/33211) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#33211](https://github.com/apache/airflow/pull/33211) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#33193](https://github.com/apache/airflow/issues/33193) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
