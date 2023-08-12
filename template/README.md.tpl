@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Lee-W/github-actions-playground/pull/24) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-2. 💪 Opened PR [#24](https://github.com/Lee-W/github-actions-playground/pull/24) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-3. ❌ Closed PR [#23](https://github.com/Lee-W/github-actions-playground/pull/23) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-4. ❌ Closed PR [#21](https://github.com/Lee-W/github-actions-playground/pull/21) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-5. 🎉 Merged PR [#22](https://github.com/Lee-W/github-actions-playground/pull/22) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-6. 💪 Opened PR [#22](https://github.com/Lee-W/github-actions-playground/pull/22) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-7. 🎉 Merged PR [#20](https://github.com/Lee-W/github-actions-playground/pull/20) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-8. 💪 Opened PR [#20](https://github.com/Lee-W/github-actions-playground/pull/20) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-9. 🎉 Merged PR [#19](https://github.com/Lee-W/github-actions-playground/pull/19) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-10. 💪 Opened PR [#19](https://github.com/Lee-W/github-actions-playground/pull/19) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+1. 🗣 Commented on [#33305](https://github.com/apache/airflow/issues/33305) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#2012](https://github.com/astronomer/astro-sdk/pull/2012) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+3. ❌ Closed PR [#1300](https://github.com/astronomer/astronomer-providers/pull/1300) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 🗣 Commented on [#1300](https://github.com/astronomer/astronomer-providers/issues/1300) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. ❌ Closed PR [#1301](https://github.com/astronomer/astronomer-providers/pull/1301) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. ❌ Closed PR [#2010](https://github.com/astronomer/astro-sdk/pull/2010) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+7. 🗣 Commented on [#2009](https://github.com/astronomer/astro-sdk/issues/2009) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+8. 🗣 Commented on [#2008](https://github.com/astronomer/astro-sdk/issues/2008) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+9. 💪 Opened PR [#2009](https://github.com/astronomer/astro-sdk/pull/2009) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+10. 💪 Opened PR [#2008](https://github.com/astronomer/astro-sdk/pull/2008) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
