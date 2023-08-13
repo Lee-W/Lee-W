@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#33305](https://github.com/apache/airflow/issues/33305) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#2012](https://github.com/astronomer/astro-sdk/pull/2012) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-3. ❌ Closed PR [#1300](https://github.com/astronomer/astronomer-providers/pull/1300) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🗣 Commented on [#1300](https://github.com/astronomer/astronomer-providers/issues/1300) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. ❌ Closed PR [#1301](https://github.com/astronomer/astronomer-providers/pull/1301) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. ❌ Closed PR [#2010](https://github.com/astronomer/astro-sdk/pull/2010) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-7. 🗣 Commented on [#2009](https://github.com/astronomer/astro-sdk/issues/2009) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-8. 🗣 Commented on [#2008](https://github.com/astronomer/astro-sdk/issues/2008) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-9. 💪 Opened PR [#2009](https://github.com/astronomer/astro-sdk/pull/2009) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-10. 💪 Opened PR [#2008](https://github.com/astronomer/astro-sdk/pull/2008) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+1. 🎉 Merged PR [#811](https://github.com/commitizen-tools/commitizen/pull/811) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. ❌ Closed PR [#2012](https://github.com/astronomer/astro-sdk/pull/2012) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+3. 🗣 Commented on [#2012](https://github.com/astronomer/astro-sdk/issues/2012) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+4. 🗣 Commented on [#33305](https://github.com/apache/airflow/issues/33305) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#2012](https://github.com/astronomer/astro-sdk/pull/2012) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+6. ❌ Closed PR [#1300](https://github.com/astronomer/astronomer-providers/pull/1300) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🗣 Commented on [#1300](https://github.com/astronomer/astronomer-providers/issues/1300) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. ❌ Closed PR [#1301](https://github.com/astronomer/astronomer-providers/pull/1301) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. ❌ Closed PR [#2010](https://github.com/astronomer/astro-sdk/pull/2010) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+10. 🗣 Commented on [#2009](https://github.com/astronomer/astro-sdk/issues/2009) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
 
 
 ## ⭐ GitHub Stat
