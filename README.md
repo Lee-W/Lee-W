@@ -18,7 +18,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 1 day ago)
+* [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 2 days ago)
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 7 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 1 year ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 2 years ago)
@@ -26,7 +26,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [LIVE STAGE「ぼっち・ざ・ろっく！」](https://travlog.wei-lee.me/posts/review/2023/08/btr-stage) (Published: 1 day ago)
+* [LIVE STAGE「ぼっち・ざ・ろっく！」](https://travlog.wei-lee.me/posts/review/2023/08/btr-stage) (Published: 2 days ago)
 * [2023 夏番嚐百草](https://travlog.wei-lee.me/posts/review/2023/07/what-i-will-watch-in-2023-summer) (Published: 3 weeks ago)
 * [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 4 weeks ago)
 * [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 1 month ago)
