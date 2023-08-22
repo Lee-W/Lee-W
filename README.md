@@ -26,7 +26,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [鮭魚豆皮石狩鍋](https://travlog.wei-lee.me/posts/cook/2023/08/yuru-camp-salmon-pot) (Published: 4 days ago)
+* [鮭魚豆皮石狩鍋](https://travlog.wei-lee.me/posts/cook/2023/08/yuru-camp-salmon-pot) (Published: 5 days ago)
 * [LIVE STAGE「ぼっち・ざ・ろっく！」](https://travlog.wei-lee.me/posts/review/2023/08/btr-stage) (Published: 1 week ago)
 * [2023 夏番嚐百草](https://travlog.wei-lee.me/posts/review/2023/07/what-i-will-watch-in-2023-summer) (Published: 1 month ago)
 * [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 1 month ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#248](https://github.com/commitizen-tools/commitizen/issues/248) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#781](https://github.com/commitizen-tools/commitizen/issues/781) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#785](https://github.com/commitizen-tools/commitizen/issues/785) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#788](https://github.com/commitizen-tools/commitizen/issues/788) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#248](https://github.com/commitizen-tools/commitizen/issues/248) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. ❗️ Opened issue [#819](https://github.com/commitizen-tools/commitizen/issues/819) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#496](https://github.com/commitizen-tools/commitizen/issues/496) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. ❗️ Opened issue [#818](https://github.com/commitizen-tools/commitizen/issues/818) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#812](https://github.com/commitizen-tools/commitizen/issues/812) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#1309](https://github.com/astronomer/astronomer-providers/issues/1309) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🗣 Commented on [#1309](https://github.com/astronomer/astronomer-providers/issues/1309) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#248](https://github.com/commitizen-tools/commitizen/issues/248) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#781](https://github.com/commitizen-tools/commitizen/issues/781) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#785](https://github.com/commitizen-tools/commitizen/issues/785) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#788](https://github.com/commitizen-tools/commitizen/issues/788) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#631](https://github.com/commitizen-tools/commitizen/issues/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#248](https://github.com/commitizen-tools/commitizen/issues/248) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. ❗️ Opened issue [#819](https://github.com/commitizen-tools/commitizen/issues/819) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#496](https://github.com/commitizen-tools/commitizen/issues/496) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
