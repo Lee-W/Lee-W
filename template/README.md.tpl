@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33653](https://github.com/apache/airflow/issues/33653) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#33653](https://github.com/apache/airflow/issues/33653) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#33493](https://github.com/apache/airflow/issues/33493) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#33653](https://github.com/apache/airflow/pull/33653) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#33598](https://github.com/apache/airflow/issues/33598) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#1311](https://github.com/astronomer/astronomer-providers/pull/1311) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🗣 Commented on [#1309](https://github.com/astronomer/astronomer-providers/issues/1309) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🗣 Commented on [#1309](https://github.com/astronomer/astronomer-providers/issues/1309) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#248](https://github.com/commitizen-tools/commitizen/issues/248) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#781](https://github.com/commitizen-tools/commitizen/issues/781) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#37](https://github.com/pycontw/pycontw-blog/issues/37) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🗣 Commented on [#33687](https://github.com/apache/airflow/issues/33687) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#33687](https://github.com/apache/airflow/issues/33687) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#33433](https://github.com/apache/airflow/issues/33433) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#33687](https://github.com/apache/airflow/pull/33687) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#33467](https://github.com/apache/airflow/issues/33467) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#33433](https://github.com/apache/airflow/issues/33433) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#33433](https://github.com/apache/airflow/issues/33433) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#33653](https://github.com/apache/airflow/issues/33653) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#33653](https://github.com/apache/airflow/issues/33653) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
