@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33405](https://github.com/apache/airflow/issues/33405) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#33403](https://github.com/apache/airflow/issues/33403) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#33653](https://github.com/apache/airflow/issues/33653) in [apache/airflow](https://github.com/apache/airflow)
-4. ❗️ Opened issue [#31811](https://github.com/Azure/azure-sdk-for-python/issues/31811) in [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python)
-5. 🗣 Commented on [#33687](https://github.com/apache/airflow/issues/33687) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#37](https://github.com/pycontw/pycontw-blog/pull/37) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 💪 Opened PR [#33716](https://github.com/apache/airflow/pull/33716) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#38](https://github.com/pycontw/pycontw-blog/pull/38) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🎉 Merged PR [#40](https://github.com/pycontw/pycontw-blog/pull/40) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 🎉 Merged PR [#39](https://github.com/pycontw/pycontw-blog/pull/39) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. ❗️ Closed issue [#804](https://github.com/commitizen-tools/commitizen/issues/804) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#813](https://github.com/commitizen-tools/commitizen/pull/813) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#813](https://github.com/commitizen-tools/commitizen/issues/813) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#33436](https://github.com/apache/airflow/issues/33436) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#33762](https://github.com/apache/airflow/issues/33762) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#823](https://github.com/commitizen-tools/commitizen/pull/823) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#825](https://github.com/commitizen-tools/commitizen/issues/825) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#813](https://github.com/commitizen-tools/commitizen/issues/813) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#724](https://github.com/commitizen-tools/commitizen/issues/724) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. ❗️ Closed issue [#816](https://github.com/commitizen-tools/commitizen/issues/816) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
