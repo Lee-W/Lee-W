@@ -19,7 +19,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 ### Those aren't written down are meant to be forgotten
 
 * [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 2 weeks ago)
-* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 7 months ago)
+* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 8 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 2 years ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 2 years ago)
 * [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 2 years ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#33751](https://github.com/apache/airflow/issues/33751) in [apache/airflow](https://github.com/apache/airflow)
-2. ❗️ Closed issue [#804](https://github.com/commitizen-tools/commitizen/issues/804) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#813](https://github.com/commitizen-tools/commitizen/pull/813) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#813](https://github.com/commitizen-tools/commitizen/issues/813) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#33436](https://github.com/apache/airflow/issues/33436) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#33762](https://github.com/apache/airflow/issues/33762) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#823](https://github.com/commitizen-tools/commitizen/pull/823) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#825](https://github.com/commitizen-tools/commitizen/issues/825) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#813](https://github.com/commitizen-tools/commitizen/issues/813) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#724](https://github.com/commitizen-tools/commitizen/issues/724) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#1316](https://github.com/astronomer/astronomer-providers/pull/1316) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 💪 Opened PR [#33825](https://github.com/apache/airflow/pull/33825) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#33822](https://github.com/apache/airflow/pull/33822) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#41](https://github.com/pycontw/pycontw-blog/pull/41) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🗣 Commented on [#33751](https://github.com/apache/airflow/issues/33751) in [apache/airflow](https://github.com/apache/airflow)
+6. ❗️ Closed issue [#804](https://github.com/commitizen-tools/commitizen/issues/804) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#813](https://github.com/commitizen-tools/commitizen/pull/813) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#813](https://github.com/commitizen-tools/commitizen/issues/813) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#33436](https://github.com/apache/airflow/issues/33436) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#33762](https://github.com/apache/airflow/issues/33762) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
