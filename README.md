@@ -26,11 +26,11 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
+* [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 1 day ago)
 * [鮭魚豆皮石狩鍋](https://travlog.wei-lee.me/posts/cook/2023/08/yuru-camp-salmon-pot) (Published: 2 weeks ago)
 * [LIVE STAGE「ぼっち・ざ・ろっく！」](https://travlog.wei-lee.me/posts/review/2023/08/btr-stage) (Published: 2 weeks ago)
 * [2023 夏番嚐百草](https://travlog.wei-lee.me/posts/review/2023/07/what-i-will-watch-in-2023-summer) (Published: 1 month ago)
 * [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 1 month ago)
-* [漂浪人生](https://travlog.wei-lee.me/posts/review/2023/07/Flee) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
