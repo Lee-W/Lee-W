@@ -26,7 +26,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 4 days ago)
+* [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 5 days ago)
 * [鮭魚豆皮石狩鍋](https://travlog.wei-lee.me/posts/cook/2023/08/yuru-camp-salmon-pot) (Published: 2 weeks ago)
 * [LIVE STAGE「ぼっち・ざ・ろっく！」](https://travlog.wei-lee.me/posts/review/2023/08/btr-stage) (Published: 3 weeks ago)
 * [2023 夏番嚐百草](https://travlog.wei-lee.me/posts/review/2023/07/what-i-will-watch-in-2023-summer) (Published: 1 month ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#33991](https://github.com/apache/airflow/issues/33991) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#34002](https://github.com/apache/airflow/pull/34002) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#33992](https://github.com/apache/airflow/pull/33992) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#33991](https://github.com/apache/airflow/pull/33991) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#33990](https://github.com/apache/airflow/pull/33990) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#33989](https://github.com/apache/airflow/pull/33989) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#33926](https://github.com/apache/airflow/pull/33926) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#33822](https://github.com/apache/airflow/issues/33822) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#33825](https://github.com/apache/airflow/issues/33825) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#33822](https://github.com/apache/airflow/pull/33822) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#831](https://github.com/commitizen-tools/commitizen/pull/831) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#830](https://github.com/commitizen-tools/commitizen/issues/830) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#834](https://github.com/commitizen-tools/commitizen/pull/834) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#835](https://github.com/commitizen-tools/commitizen/pull/835) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#832](https://github.com/commitizen-tools/commitizen/pull/832) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#835](https://github.com/commitizen-tools/commitizen/issues/835) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#834](https://github.com/commitizen-tools/commitizen/issues/834) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#831](https://github.com/commitizen-tools/commitizen/issues/831) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#831](https://github.com/commitizen-tools/commitizen/issues/831) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#835](https://github.com/commitizen-tools/commitizen/issues/835) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
