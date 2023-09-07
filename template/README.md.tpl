@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/30) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-2. ❌ Closed PR [#24](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/24) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-3. ❌ Closed PR [#26](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/26) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-4. ❌ Closed PR [#29](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/29) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. 🎉 Merged PR [#38](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/38) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. 💪 Opened PR [#38](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/38) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. 🎉 Merged PR [#37](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/37) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. 🗣 Commented on [#830](https://github.com/commitizen-tools/commitizen/issues/830) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#837](https://github.com/commitizen-tools/commitizen/pull/837) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. ❌ Closed PR [#1318](https://github.com/astronomer/astronomer-providers/pull/1318) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 💪 Opened PR [#34134](https://github.com/apache/airflow/pull/34134) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#39](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/39) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+3. ❌ Closed PR [#5](https://github.com/Lee-W/travlog/pull/5) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 🗣 Commented on [#34117](https://github.com/apache/airflow/issues/34117) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#34117](https://github.com/apache/airflow/issues/34117) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#34065](https://github.com/apache/airflow/issues/34065) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#34065](https://github.com/apache/airflow/issues/34065) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#44](https://github.com/pycontw/pycontw-blog/pull/44) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🗣 Commented on [#830](https://github.com/commitizen-tools/commitizen/issues/830) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. ❌ Closed PR [#30](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/30) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
