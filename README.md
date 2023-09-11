@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. ❗️ Closed issue [#812](https://github.com/commitizen-tools/commitizen/issues/812) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#830](https://github.com/commitizen-tools/commitizen/pull/830) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#781](https://github.com/commitizen-tools/commitizen/issues/781) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#838](https://github.com/commitizen-tools/commitizen/pull/838) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#839](https://github.com/commitizen-tools/commitizen/pull/839) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 💪 Opened PR [#34199](https://github.com/apache/airflow/pull/34199) in [apache/airflow](https://github.com/apache/airflow)
-7. ❌ Closed PR [#2008](https://github.com/astronomer/astro-sdk/pull/2008) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-8. 🗣 Commented on [#2008](https://github.com/astronomer/astro-sdk/issues/2008) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-9. 🎉 Merged PR [#2009](https://github.com/astronomer/astro-sdk/pull/2009) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-10. 🗣 Commented on [#830](https://github.com/commitizen-tools/commitizen/issues/830) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#34218](https://github.com/apache/airflow/issues/34218) in [apache/airflow](https://github.com/apache/airflow)
+2. ❗️ Closed issue [#812](https://github.com/commitizen-tools/commitizen/issues/812) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#830](https://github.com/commitizen-tools/commitizen/pull/830) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#781](https://github.com/commitizen-tools/commitizen/issues/781) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#838](https://github.com/commitizen-tools/commitizen/pull/838) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#839](https://github.com/commitizen-tools/commitizen/pull/839) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 💪 Opened PR [#34199](https://github.com/apache/airflow/pull/34199) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Closed PR [#2008](https://github.com/astronomer/astro-sdk/pull/2008) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+9. 🗣 Commented on [#2008](https://github.com/astronomer/astro-sdk/issues/2008) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+10. 🎉 Merged PR [#2009](https://github.com/astronomer/astro-sdk/pull/2009) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
 
 
 ## ⭐ GitHub Stat
