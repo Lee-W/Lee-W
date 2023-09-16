@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1323](https://github.com/astronomer/astronomer-providers/pull/1323) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 🗣 Commented on [#842](https://github.com/commitizen-tools/commitizen/issues/842) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 💪 Opened PR [#842](https://github.com/commitizen-tools/commitizen/pull/842) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#46](https://github.com/pycontw/pycontw-blog/pull/46) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. 🗣 Commented on [#46](https://github.com/pycontw/pycontw-blog/issues/46) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🎉 Merged PR [#45](https://github.com/pycontw/pycontw-blog/pull/45) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🗣 Commented on [#34218](https://github.com/apache/airflow/issues/34218) in [apache/airflow](https://github.com/apache/airflow)
-8. ❗️ Closed issue [#812](https://github.com/commitizen-tools/commitizen/issues/812) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#830](https://github.com/commitizen-tools/commitizen/pull/830) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#781](https://github.com/commitizen-tools/commitizen/issues/781) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#34391](https://github.com/apache/airflow/pull/34391) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#846](https://github.com/commitizen-tools/commitizen/pull/846) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#844](https://github.com/commitizen-tools/commitizen/pull/844) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#821](https://github.com/commitizen-tools/commitizen/pull/821) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. ❌ Closed PR [#1323](https://github.com/astronomer/astronomer-providers/pull/1323) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🗣 Commented on [#842](https://github.com/commitizen-tools/commitizen/issues/842) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 💪 Opened PR [#842](https://github.com/commitizen-tools/commitizen/pull/842) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#46](https://github.com/pycontw/pycontw-blog/pull/46) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🗣 Commented on [#46](https://github.com/pycontw/pycontw-blog/issues/46) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🎉 Merged PR [#45](https://github.com/pycontw/pycontw-blog/pull/45) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
