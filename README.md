@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#47](https://github.com/pycontw/pycontw-blog/pull/47) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 💪 Opened PR [#34391](https://github.com/apache/airflow/pull/34391) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#846](https://github.com/commitizen-tools/commitizen/pull/846) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#844](https://github.com/commitizen-tools/commitizen/pull/844) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#821](https://github.com/commitizen-tools/commitizen/pull/821) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. ❌ Closed PR [#1323](https://github.com/astronomer/astronomer-providers/pull/1323) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🗣 Commented on [#842](https://github.com/commitizen-tools/commitizen/issues/842) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 💪 Opened PR [#842](https://github.com/commitizen-tools/commitizen/pull/842) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#46](https://github.com/pycontw/pycontw-blog/pull/46) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 🗣 Commented on [#46](https://github.com/pycontw/pycontw-blog/issues/46) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 💪 Opened PR [#48](https://github.com/pycontw/pycontw-blog/pull/48) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 💪 Opened PR [#34476](https://github.com/apache/airflow/pull/34476) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#34475](https://github.com/apache/airflow/pull/34475) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#34474](https://github.com/apache/airflow/pull/34474) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#34473](https://github.com/apache/airflow/pull/34473) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#34472](https://github.com/apache/airflow/pull/34472) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#47](https://github.com/pycontw/pycontw-blog/pull/47) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 💪 Opened PR [#34391](https://github.com/apache/airflow/pull/34391) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#846](https://github.com/commitizen-tools/commitizen/pull/846) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#844](https://github.com/commitizen-tools/commitizen/pull/844) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
