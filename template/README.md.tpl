@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/pycontw/pycontw-blog/pull/48) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 💪 Opened PR [#34476](https://github.com/apache/airflow/pull/34476) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#34475](https://github.com/apache/airflow/pull/34475) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#34474](https://github.com/apache/airflow/pull/34474) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#34473](https://github.com/apache/airflow/pull/34473) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#34472](https://github.com/apache/airflow/pull/34472) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#47](https://github.com/pycontw/pycontw-blog/pull/47) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 💪 Opened PR [#34391](https://github.com/apache/airflow/pull/34391) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#846](https://github.com/commitizen-tools/commitizen/pull/846) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#844](https://github.com/commitizen-tools/commitizen/pull/844) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#1321](https://github.com/astronomer/astronomer-providers/issues/1321) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 💪 Opened PR [#34501](https://github.com/apache/airflow/pull/34501) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#1321](https://github.com/astronomer/astronomer-providers/issues/1321) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 🗣 Commented on [#1321](https://github.com/astronomer/astronomer-providers/issues/1321) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 🗣 Commented on [#1321](https://github.com/astronomer/astronomer-providers/issues/1321) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 💪 Opened PR [#2033](https://github.com/astronomer/astro-sdk/pull/2033) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+7. 💪 Opened PR [#34494](https://github.com/apache/airflow/pull/34494) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#48](https://github.com/pycontw/pycontw-blog/pull/48) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 💪 Opened PR [#34476](https://github.com/apache/airflow/pull/34476) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#34475](https://github.com/apache/airflow/pull/34475) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
