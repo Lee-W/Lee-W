@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#34521](https://github.com/apache/airflow/issues/34521) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#1321](https://github.com/astronomer/astronomer-providers/issues/1321) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 💪 Opened PR [#1330](https://github.com/astronomer/astronomer-providers/pull/1330) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🎉 Merged PR [#2033](https://github.com/astronomer/astro-sdk/pull/2033) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-5. 🗣 Commented on [#1321](https://github.com/astronomer/astronomer-providers/issues/1321) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 💪 Opened PR [#34501](https://github.com/apache/airflow/pull/34501) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#1321](https://github.com/astronomer/astronomer-providers/issues/1321) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🗣 Commented on [#1321](https://github.com/astronomer/astronomer-providers/issues/1321) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#1321](https://github.com/astronomer/astronomer-providers/issues/1321) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 💪 Opened PR [#2033](https://github.com/astronomer/astro-sdk/pull/2033) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+1. 🎉 Merged PR [#861](https://github.com/commitizen-tools/commitizen/pull/861) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. ❌ Closed PR [#842](https://github.com/commitizen-tools/commitizen/pull/842) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#850](https://github.com/commitizen-tools/commitizen/issues/850) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#851](https://github.com/commitizen-tools/commitizen/pull/851) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#855](https://github.com/commitizen-tools/commitizen/pull/855) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#851](https://github.com/commitizen-tools/commitizen/issues/851) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#848](https://github.com/commitizen-tools/commitizen/pull/848) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#855](https://github.com/commitizen-tools/commitizen/issues/855) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#34521](https://github.com/apache/airflow/issues/34521) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#1321](https://github.com/astronomer/astronomer-providers/issues/1321) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
