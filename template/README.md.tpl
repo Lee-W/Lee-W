@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#868](https://github.com/commitizen-tools/commitizen/pull/868) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#869](https://github.com/commitizen-tools/commitizen/pull/869) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#870](https://github.com/commitizen-tools/commitizen/pull/870) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#1334](https://github.com/astronomer/astronomer-providers/pull/1334) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🎉 Merged PR [#865](https://github.com/commitizen-tools/commitizen/pull/865) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#864](https://github.com/commitizen-tools/commitizen/pull/864) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#862](https://github.com/commitizen-tools/commitizen/pull/862) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#863](https://github.com/commitizen-tools/commitizen/pull/863) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#866](https://github.com/commitizen-tools/commitizen/pull/866) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 💪 Opened PR [#1333](https://github.com/astronomer/astronomer-providers/pull/1333) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#2043](https://github.com/astronomer/astro-sdk/issues/2043) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+2. 💪 Opened PR [#2043](https://github.com/astronomer/astro-sdk/pull/2043) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+3. 🎉 Merged PR [#868](https://github.com/commitizen-tools/commitizen/pull/868) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#869](https://github.com/commitizen-tools/commitizen/pull/869) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#870](https://github.com/commitizen-tools/commitizen/pull/870) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#1334](https://github.com/astronomer/astronomer-providers/pull/1334) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🎉 Merged PR [#865](https://github.com/commitizen-tools/commitizen/pull/865) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#864](https://github.com/commitizen-tools/commitizen/pull/864) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#862](https://github.com/commitizen-tools/commitizen/pull/862) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#863](https://github.com/commitizen-tools/commitizen/pull/863) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
