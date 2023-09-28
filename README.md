@@ -19,31 +19,31 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 ### Those aren't written down are meant to be forgotten
 
 * [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 1 month ago)
-* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 8 months ago)
+* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 9 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 2 years ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 2 years ago)
 * [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 2 years ago)
 
 ### Those things no one cares about
 
-* [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 3 weeks ago)
+* [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 2 days ago)
+* [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 4 weeks ago)
 * [鮭魚豆皮石狩鍋](https://travlog.wei-lee.me/posts/cook/2023/08/yuru-camp-salmon-pot) (Published: 1 month ago)
 * [LIVE STAGE「ぼっち・ざ・ろっく！」](https://travlog.wei-lee.me/posts/review/2023/08/btr-stage) (Published: 1 month ago)
 * [2023 夏番嚐百草](https://travlog.wei-lee.me/posts/review/2023/07/what-i-will-watch-in-2023-summer) (Published: 2 months ago)
-* [Distant Worlds: music from FINAL FANTASY](https://travlog.wei-lee.me/posts/review/2023/07/distant-worlds-music-from-FINAL-FANTASY) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#868](https://github.com/commitizen-tools/commitizen/pull/868) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#869](https://github.com/commitizen-tools/commitizen/pull/869) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#870](https://github.com/commitizen-tools/commitizen/pull/870) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#1334](https://github.com/astronomer/astronomer-providers/pull/1334) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🎉 Merged PR [#865](https://github.com/commitizen-tools/commitizen/pull/865) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#864](https://github.com/commitizen-tools/commitizen/pull/864) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#862](https://github.com/commitizen-tools/commitizen/pull/862) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#863](https://github.com/commitizen-tools/commitizen/pull/863) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#866](https://github.com/commitizen-tools/commitizen/pull/866) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 💪 Opened PR [#1333](https://github.com/astronomer/astronomer-providers/pull/1333) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#2043](https://github.com/astronomer/astro-sdk/issues/2043) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+2. 💪 Opened PR [#2043](https://github.com/astronomer/astro-sdk/pull/2043) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+3. 🎉 Merged PR [#868](https://github.com/commitizen-tools/commitizen/pull/868) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#869](https://github.com/commitizen-tools/commitizen/pull/869) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#870](https://github.com/commitizen-tools/commitizen/pull/870) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#1334](https://github.com/astronomer/astronomer-providers/pull/1334) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🎉 Merged PR [#865](https://github.com/commitizen-tools/commitizen/pull/865) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#864](https://github.com/commitizen-tools/commitizen/pull/864) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#862](https://github.com/commitizen-tools/commitizen/pull/862) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#863](https://github.com/commitizen-tools/commitizen/pull/863) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
