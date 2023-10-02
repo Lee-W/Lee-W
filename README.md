@@ -26,8 +26,8 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [江戶前精靈](https://travlog.wei-lee.me/posts/review/2023/09/edomae-erufu) (Published: 1 day ago)
-* [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 5 days ago)
+* [江戶前精靈](https://travlog.wei-lee.me/posts/review/2023/09/edomae-erufu) (Published: 2 days ago)
+* [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 6 days ago)
 * [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 1 month ago)
 * [鮭魚豆皮石狩鍋](https://travlog.wei-lee.me/posts/cook/2023/08/yuru-camp-salmon-pot) (Published: 1 month ago)
 * [LIVE STAGE「ぼっち・ざ・ろっく！」](https://travlog.wei-lee.me/posts/review/2023/08/btr-stage) (Published: 1 month ago)
