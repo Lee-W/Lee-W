@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/pycontw/pycontw-blog/issues/48) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 💪 Opened PR [#2044](https://github.com/astronomer/astro-sdk/pull/2044) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-3. 🗣 Commented on [#34748](https://github.com/apache/airflow/issues/34748) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#34386](https://github.com/apache/airflow/issues/34386) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#34402](https://github.com/apache/airflow/issues/34402) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#2043](https://github.com/astronomer/astro-sdk/issues/2043) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-7. 🎉 Merged PR [#876](https://github.com/commitizen-tools/commitizen/pull/876) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#875](https://github.com/commitizen-tools/commitizen/pull/875) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#621](https://github.com/commitizen-tools/commitizen/issues/621) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#877](https://github.com/commitizen-tools/commitizen/pull/877) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ❗️ Closed issue [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🗣 Commented on [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. ❗️ Closed issue [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🗣 Commented on [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. ❗️ Closed issue [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 🗣 Commented on [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🎉 Merged PR [#48](https://github.com/pycontw/pycontw-blog/pull/48) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 💪 Opened PR [#50](https://github.com/pycontw/pycontw-blog/pull/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🎉 Merged PR [#880](https://github.com/commitizen-tools/commitizen/pull/880) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#48](https://github.com/pycontw/pycontw-blog/issues/48) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
