@@ -26,7 +26,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 3 days ago)
+* [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 4 days ago)
 * [江戶前精靈](https://travlog.wei-lee.me/posts/review/2023/09/edomae-erufu) (Published: 1 week ago)
 * [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 1 week ago)
 * [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 1 month ago)
