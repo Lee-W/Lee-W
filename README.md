@@ -26,24 +26,24 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 4 days ago)
+* [劇場版 PSYCHO PASS 心靈判官 PROVIDENCE](https://travlog.wei-lee.me/posts/review/2023/10/psycho-pass-providence) (Published: 1 day ago)
+* [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 5 days ago)
 * [江戶前精靈](https://travlog.wei-lee.me/posts/review/2023/09/edomae-erufu) (Published: 1 week ago)
 * [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 1 week ago)
 * [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 1 month ago)
-* [鮭魚豆皮石狩鍋](https://travlog.wei-lee.me/posts/cook/2023/08/yuru-camp-salmon-pot) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. ❗️ Closed issue [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🗣 Commented on [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. ❗️ Closed issue [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🗣 Commented on [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. ❗️ Closed issue [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🗣 Commented on [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🎉 Merged PR [#48](https://github.com/pycontw/pycontw-blog/pull/48) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 💪 Opened PR [#50](https://github.com/pycontw/pycontw-blog/pull/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🎉 Merged PR [#880](https://github.com/commitizen-tools/commitizen/pull/880) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#48](https://github.com/pycontw/pycontw-blog/issues/48) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🗣 Commented on [#50](https://github.com/pycontw/pycontw-blog/issues/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🗣 Commented on [#34811](https://github.com/apache/airflow/issues/34811) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#34820](https://github.com/apache/airflow/issues/34820) in [apache/airflow](https://github.com/apache/airflow)
+4. ❗️ Closed issue [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🗣 Commented on [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. ❗️ Closed issue [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🗣 Commented on [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. ❗️ Closed issue [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🗣 Commented on [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🎉 Merged PR [#48](https://github.com/pycontw/pycontw-blog/pull/48) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 
 
 ## ⭐ GitHub Stat
