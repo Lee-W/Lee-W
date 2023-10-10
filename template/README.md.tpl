@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/pycontw/pycontw-blog/issues/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🗣 Commented on [#34811](https://github.com/apache/airflow/issues/34811) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#34820](https://github.com/apache/airflow/issues/34820) in [apache/airflow](https://github.com/apache/airflow)
-4. ❗️ Closed issue [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. 🗣 Commented on [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. ❗️ Closed issue [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🗣 Commented on [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. ❗️ Closed issue [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🗣 Commented on [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 🎉 Merged PR [#48](https://github.com/pycontw/pycontw-blog/pull/48) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#50](https://github.com/pycontw/pycontw-blog/issues/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 🗣 Commented on [#34811](https://github.com/apache/airflow/issues/34811) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#34820](https://github.com/apache/airflow/issues/34820) in [apache/airflow](https://github.com/apache/airflow)
+5. ❗️ Closed issue [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 🗣 Commented on [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. ❗️ Closed issue [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🗣 Commented on [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. ❗️ Closed issue [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🗣 Commented on [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
