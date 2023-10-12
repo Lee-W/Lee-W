@@ -18,7 +18,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 1 month ago)
+* [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 2 months ago)
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 9 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 2 years ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 2 years ago)
@@ -26,7 +26,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [劇場版 PSYCHO PASS 心靈判官 PROVIDENCE](https://travlog.wei-lee.me/posts/review/2023/10/psycho-pass-providence) (Published: 3 days ago)
+* [劇場版 PSYCHO PASS 心靈判官 PROVIDENCE](https://travlog.wei-lee.me/posts/review/2023/10/psycho-pass-providence) (Published: 4 days ago)
 * [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 1 week ago)
 * [江戶前精靈](https://travlog.wei-lee.me/posts/review/2023/09/edomae-erufu) (Published: 1 week ago)
 * [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 2 weeks ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#50](https://github.com/pycontw/pycontw-blog/issues/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🗣 Commented on [#34811](https://github.com/apache/airflow/issues/34811) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#34820](https://github.com/apache/airflow/issues/34820) in [apache/airflow](https://github.com/apache/airflow)
-5. ❗️ Closed issue [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🗣 Commented on [#10](https://github.com/pycontw/pycontw-blog/issues/10) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. ❗️ Closed issue [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🗣 Commented on [#36](https://github.com/pycontw/pycontw-blog/issues/36) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. ❗️ Closed issue [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 🗣 Commented on [#11](https://github.com/pycontw/pycontw-blog/issues/11) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🗣 Commented on [#774](https://github.com/commitizen-tools/commitizen/issues/774) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#35](https://github.com/pycontw/pycontw-blog/issues/35) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 🗣 Commented on [#774](https://github.com/commitizen-tools/commitizen/issues/774) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#2044](https://github.com/astronomer/astro-sdk/issues/2044) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+5. 🗣 Commented on [#2043](https://github.com/astronomer/astro-sdk/issues/2043) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+6. 🗣 Commented on [#2044](https://github.com/astronomer/astro-sdk/issues/2044) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+7. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#50](https://github.com/pycontw/pycontw-blog/issues/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🗣 Commented on [#34811](https://github.com/apache/airflow/issues/34811) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#34820](https://github.com/apache/airflow/issues/34820) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
