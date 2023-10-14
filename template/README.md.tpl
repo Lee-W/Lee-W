@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#774](https://github.com/commitizen-tools/commitizen/issues/774) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#18](https://github.com/astronomer/ask-astro/issues/18) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
 2. 🗣 Commented on [#774](https://github.com/commitizen-tools/commitizen/issues/774) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#35](https://github.com/pycontw/pycontw-blog/issues/35) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🗣 Commented on [#774](https://github.com/commitizen-tools/commitizen/issues/774) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#2044](https://github.com/astronomer/astro-sdk/issues/2044) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-6. 🗣 Commented on [#2043](https://github.com/astronomer/astro-sdk/issues/2043) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-7. 🗣 Commented on [#2044](https://github.com/astronomer/astro-sdk/issues/2044) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-8. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#50](https://github.com/pycontw/pycontw-blog/issues/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 🗣 Commented on [#34811](https://github.com/apache/airflow/issues/34811) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#774](https://github.com/commitizen-tools/commitizen/issues/774) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#35](https://github.com/pycontw/pycontw-blog/issues/35) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🗣 Commented on [#774](https://github.com/commitizen-tools/commitizen/issues/774) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#2044](https://github.com/astronomer/astro-sdk/issues/2044) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+7. 🗣 Commented on [#2043](https://github.com/astronomer/astro-sdk/issues/2043) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+8. 🗣 Commented on [#2044](https://github.com/astronomer/astro-sdk/issues/2044) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+9. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#50](https://github.com/pycontw/pycontw-blog/issues/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
