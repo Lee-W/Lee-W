@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#890](https://github.com/commitizen-tools/commitizen/issues/890) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#890](https://github.com/commitizen-tools/commitizen/issues/890) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. ❗️ Closed issue [#640](https://github.com/commitizen-tools/commitizen/issues/640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. ❌ Closed PR [#376](https://github.com/commitizen-tools/commitizen/pull/376) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. ❗️ Closed issue [#433](https://github.com/commitizen-tools/commitizen/issues/433) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. ❗️ Closed issue [#384](https://github.com/commitizen-tools/commitizen/issues/384) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#645](https://github.com/commitizen-tools/commitizen/pull/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#645](https://github.com/commitizen-tools/commitizen/issues/645) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 💪 Opened PR [#130](https://github.com/pycontw/pycon-etl/pull/130) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-10. ❗️ Closed issue [#853](https://github.com/commitizen-tools/commitizen/issues/853) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#33](https://github.com/astronomer/ask-astro/issues/33) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+2. 🗣 Commented on [#38](https://github.com/astronomer/ask-astro/issues/38) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+3. 🗣 Commented on [#1338](https://github.com/astronomer/astronomer-providers/issues/1338) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. ❌ Closed PR [#1344](https://github.com/astronomer/astronomer-providers/pull/1344) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 💪 Opened PR [#1344](https://github.com/astronomer/astronomer-providers/pull/1344) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🗣 Commented on [#1341](https://github.com/astronomer/astronomer-providers/issues/1341) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🗣 Commented on [#1338](https://github.com/astronomer/astronomer-providers/issues/1338) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. ❗️ Closed issue [#854](https://github.com/commitizen-tools/commitizen/issues/854) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#32](https://github.com/astronomer/ask-astro/issues/32) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+10. 🗣 Commented on [#32](https://github.com/astronomer/ask-astro/issues/32) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
