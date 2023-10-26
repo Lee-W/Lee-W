@@ -29,21 +29,21 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 * [劇場版 PSYCHO PASS 心靈判官 PROVIDENCE](https://travlog.wei-lee.me/posts/review/2023/10/psycho-pass-providence) (Published: 2 weeks ago)
 * [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 3 weeks ago)
 * [江戶前精靈](https://travlog.wei-lee.me/posts/review/2023/09/edomae-erufu) (Published: 3 weeks ago)
-* [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 4 weeks ago)
+* [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 1 month ago)
 * [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#53](https://github.com/astronomer/ask-astro/pull/53) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-2. 🗣 Commented on [#37](https://github.com/astronomer/ask-astro/issues/37) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-3. 🗣 Commented on [#33](https://github.com/astronomer/ask-astro/issues/33) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-4. 🎉 Merged PR [#1341](https://github.com/astronomer/astronomer-providers/pull/1341) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#37](https://github.com/astronomer/ask-astro/issues/37) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-6. 🗣 Commented on [#33](https://github.com/astronomer/ask-astro/issues/33) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-7. 🗣 Commented on [#38](https://github.com/astronomer/ask-astro/issues/38) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-8. 🗣 Commented on [#33](https://github.com/astronomer/ask-astro/issues/33) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-9. ❌ Closed PR [#1345](https://github.com/astronomer/astronomer-providers/pull/1345) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🗣 Commented on [#1345](https://github.com/astronomer/astronomer-providers/issues/1345) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#33](https://github.com/astronomer/ask-astro/issues/33) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+2. 🎉 Merged PR [#53](https://github.com/astronomer/ask-astro/pull/53) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+3. 🗣 Commented on [#37](https://github.com/astronomer/ask-astro/issues/37) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+4. 🗣 Commented on [#33](https://github.com/astronomer/ask-astro/issues/33) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+5. 🎉 Merged PR [#1341](https://github.com/astronomer/astronomer-providers/pull/1341) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🗣 Commented on [#37](https://github.com/astronomer/ask-astro/issues/37) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+7. 🗣 Commented on [#33](https://github.com/astronomer/ask-astro/issues/33) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+8. 🗣 Commented on [#38](https://github.com/astronomer/ask-astro/issues/38) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+9. 🗣 Commented on [#33](https://github.com/astronomer/ask-astro/issues/33) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+10. ❌ Closed PR [#1345](https://github.com/astronomer/astronomer-providers/pull/1345) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
