@@ -26,7 +26,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [劇場版 PSYCHO PASS 心靈判官 PROVIDENCE](https://travlog.wei-lee.me/posts/review/2023/10/psycho-pass-providence) (Published: 2 weeks ago)
+* [劇場版 PSYCHO PASS 心靈判官 PROVIDENCE](https://travlog.wei-lee.me/posts/review/2023/10/psycho-pass-providence) (Published: 3 weeks ago)
 * [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 3 weeks ago)
 * [江戶前精靈](https://travlog.wei-lee.me/posts/review/2023/09/edomae-erufu) (Published: 4 weeks ago)
 * [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 1 month ago)
