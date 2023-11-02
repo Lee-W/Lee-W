@@ -18,11 +18,11 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
+* [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 1 day ago)
 * [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 2 months ago)
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 10 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 2 years ago)
 * [[Book] 真相製造](https://blog.wei-lee.me/posts/book/2022/02/reality-is-business) (Published: 2 years ago)
-* [Podcast 聽什麼](https://blog.wei-lee.me/posts/gossiping/2021/12/podcast-i-listen-to) (Published: 2 years ago)
 
 ### Those things no one cares about
 
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#67](https://github.com/astronomer/ask-astro/pull/67) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-2. 🎉 Merged PR [#1338](https://github.com/astronomer/astronomer-providers/pull/1338) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 🗣 Commented on [#884](https://github.com/commitizen-tools/commitizen/issues/884) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#33](https://github.com/astronomer/ask-astro/issues/33) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-5. 🗣 Commented on [#33](https://github.com/astronomer/ask-astro/issues/33) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-6. ❌ Closed PR [#1346](https://github.com/astronomer/astronomer-providers/pull/1346) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🗣 Commented on [#1346](https://github.com/astronomer/astronomer-providers/issues/1346) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🗣 Commented on [#1349](https://github.com/astronomer/astronomer-providers/issues/1349) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🎉 Merged PR [#50](https://github.com/pycontw/pycontw-blog/pull/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 🗣 Commented on [#50](https://github.com/pycontw/pycontw-blog/issues/50) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 💪 Opened PR [#1353](https://github.com/astronomer/astronomer-providers/pull/1353) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 💪 Opened PR [#74](https://github.com/astronomer/ask-astro/pull/74) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+3. 🗣 Commented on [#66](https://github.com/astronomer/ask-astro/issues/66) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+4. 🗣 Commented on [#35320](https://github.com/apache/airflow/issues/35320) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#1352](https://github.com/astronomer/astronomer-providers/pull/1352) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. ❗️ Opened issue [#73](https://github.com/astronomer/ask-astro/issues/73) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+7. ❗️ Opened issue [#72](https://github.com/astronomer/ask-astro/issues/72) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+8. 💪 Opened PR [#1352](https://github.com/astronomer/astronomer-providers/pull/1352) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 💪 Opened PR [#35330](https://github.com/apache/airflow/pull/35330) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#35329](https://github.com/apache/airflow/pull/35329) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
