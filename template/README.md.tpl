@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35432](https://github.com/apache/airflow/pull/35432) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#79](https://github.com/astronomer/ask-astro/issues/79) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-3. 💪 Opened PR [#79](https://github.com/astronomer/ask-astro/pull/79) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-4. 🗣 Commented on [#35394](https://github.com/apache/airflow/issues/35394) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#78](https://github.com/astronomer/ask-astro/pull/78) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-6. 💪 Opened PR [#78](https://github.com/astronomer/ask-astro/pull/78) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-7. 💪 Opened PR [#35394](https://github.com/apache/airflow/pull/35394) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#57](https://github.com/pycontw/pycontw-blog/issues/57) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 💪 Opened PR [#35367](https://github.com/apache/airflow/pull/35367) in [apache/airflow](https://github.com/apache/airflow)
-10. ❗️ Closed issue [#66](https://github.com/astronomer/ask-astro/issues/66) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+1. 🗣 Commented on [#895](https://github.com/commitizen-tools/commitizen/issues/895) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#891](https://github.com/commitizen-tools/commitizen/pull/891) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 💪 Opened PR [#35432](https://github.com/apache/airflow/pull/35432) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#79](https://github.com/astronomer/ask-astro/issues/79) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+5. 💪 Opened PR [#79](https://github.com/astronomer/ask-astro/pull/79) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+6. 🗣 Commented on [#35394](https://github.com/apache/airflow/issues/35394) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#78](https://github.com/astronomer/ask-astro/pull/78) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+8. 💪 Opened PR [#78](https://github.com/astronomer/ask-astro/pull/78) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+9. 💪 Opened PR [#35394](https://github.com/apache/airflow/pull/35394) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#57](https://github.com/pycontw/pycontw-blog/issues/57) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
