@@ -18,7 +18,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 6 days ago)
+* [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 1 week ago)
 * [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 2 months ago)
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 10 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 2 years ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#1356](https://github.com/astronomer/astronomer-providers/pull/1356) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 🎉 Merged PR [#893](https://github.com/commitizen-tools/commitizen/pull/893) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#893](https://github.com/commitizen-tools/commitizen/issues/893) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#893](https://github.com/commitizen-tools/commitizen/issues/893) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#897](https://github.com/commitizen-tools/commitizen/pull/897) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#897](https://github.com/commitizen-tools/commitizen/issues/897) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#901](https://github.com/commitizen-tools/commitizen/issues/901) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 💪 Opened PR [#903](https://github.com/commitizen-tools/commitizen/pull/903) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. ❗️ Opened issue [#81](https://github.com/astronomer/ask-astro/issues/81) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-10. 🎉 Merged PR [#57](https://github.com/pycontw/pycontw-blog/pull/57) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 💪 Opened PR [#87](https://github.com/astronomer/ask-astro/pull/87) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+2. ❗️ Closed issue [#82](https://github.com/astronomer/ask-astro/issues/82) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+3. 🎉 Merged PR [#86](https://github.com/astronomer/ask-astro/pull/86) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+4. 💪 Opened PR [#86](https://github.com/astronomer/ask-astro/pull/86) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+5. 🎉 Merged PR [#67](https://github.com/astronomer/airflow-provider-fivetran-async/pull/67) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
+6. 🗣 Commented on [#79](https://github.com/astronomer/ask-astro/issues/79) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+7. 🎉 Merged PR [#1356](https://github.com/astronomer/astronomer-providers/pull/1356) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. 🎉 Merged PR [#893](https://github.com/commitizen-tools/commitizen/pull/893) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#893](https://github.com/commitizen-tools/commitizen/issues/893) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#893](https://github.com/commitizen-tools/commitizen/issues/893) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
