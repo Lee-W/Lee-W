@@ -18,7 +18,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 2 weeks ago)
+* [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 3 weeks ago)
 * [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 3 months ago)
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 10 months ago)
 * [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 2 years ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#130](https://github.com/astronomer/ask-astro/issues/130) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-2. 🗣 Commented on [#130](https://github.com/astronomer/ask-astro/issues/130) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-3. 💪 Opened PR [#153](https://github.com/astronomer/ask-astro/pull/153) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-4. 🗣 Commented on [#130](https://github.com/astronomer/ask-astro/issues/130) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-5. 🗣 Commented on [#35674](https://github.com/apache/airflow/issues/35674) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#131](https://github.com/astronomer/ask-astro/pull/131) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-7. 🗣 Commented on [#32319](https://github.com/apache/airflow/issues/32319) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#130](https://github.com/astronomer/ask-astro/pull/130) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-9. 🗣 Commented on [#103](https://github.com/astronomer/ask-astro/issues/103) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-10. 🗣 Commented on [#6](https://github.com/astronomer/ask-astro/issues/6) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+1. 💪 Opened PR [#170](https://github.com/astronomer/ask-astro/pull/170) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+2. 🗣 Commented on [#35674](https://github.com/apache/airflow/issues/35674) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#153](https://github.com/astronomer/ask-astro/issues/153) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+4. ❗️ Opened issue [#163](https://github.com/astronomer/ask-astro/issues/163) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+5. 🗣 Commented on [#130](https://github.com/astronomer/ask-astro/issues/130) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+6. 🗣 Commented on [#130](https://github.com/astronomer/ask-astro/issues/130) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+7. 💪 Opened PR [#153](https://github.com/astronomer/ask-astro/pull/153) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+8. 🗣 Commented on [#130](https://github.com/astronomer/ask-astro/issues/130) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+9. 🗣 Commented on [#35674](https://github.com/apache/airflow/issues/35674) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#131](https://github.com/astronomer/ask-astro/pull/131) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
 
 
 ## ⭐ GitHub Stat
