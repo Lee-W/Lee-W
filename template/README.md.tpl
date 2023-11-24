@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/pycontw/pycontw-blog/issues/60) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🎉 Merged PR [#58](https://github.com/pycontw/pycontw-blog/pull/58) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🗣 Commented on [#147](https://github.com/astronomer/ask-astro/issues/147) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-4. 🎉 Merged PR [#56](https://github.com/pycontw/pycontw-blog/pull/56) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. ❗️ Closed issue [#89](https://github.com/astronomer/ask-astro/issues/89) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-6. 🎉 Merged PR [#103](https://github.com/astronomer/ask-astro/pull/103) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-7. ❌ Closed PR [#153](https://github.com/astronomer/ask-astro/pull/153) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-8. 🗣 Commented on [#153](https://github.com/astronomer/ask-astro/issues/153) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-9. ❗️ Closed issue [#122](https://github.com/astronomer/ask-astro/issues/122) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-10. 🎉 Merged PR [#130](https://github.com/astronomer/ask-astro/pull/130) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+1. 🗣 Commented on [#35813](https://github.com/apache/airflow/issues/35813) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#35813](https://github.com/apache/airflow/pull/35813) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#83](https://github.com/astronomer/ask-astro/issues/83) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+4. 🗣 Commented on [#147](https://github.com/astronomer/ask-astro/issues/147) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+5. 🗣 Commented on [#83](https://github.com/astronomer/ask-astro/issues/83) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+6. 🎉 Merged PR [#60](https://github.com/pycontw/pycontw-blog/pull/60) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🗣 Commented on [#60](https://github.com/pycontw/pycontw-blog/issues/60) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🎉 Merged PR [#58](https://github.com/pycontw/pycontw-blog/pull/58) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🗣 Commented on [#147](https://github.com/astronomer/ask-astro/issues/147) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+10. 🎉 Merged PR [#56](https://github.com/pycontw/pycontw-blog/pull/56) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
