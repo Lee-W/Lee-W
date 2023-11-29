@@ -26,16 +26,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/astronomer/ask-astro/issues/114) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-2. ❗️ Closed issue [#114](https://github.com/astronomer/ask-astro/issues/114) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-3. 💪 Opened PR [#176](https://github.com/astronomer/ask-astro/pull/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-4. 💪 Opened PR [#175](https://github.com/astronomer/ask-astro/pull/175) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-5. 🗣 Commented on [#35845](https://github.com/apache/airflow/issues/35845) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#1371](https://github.com/astronomer/astronomer-providers/pull/1371) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🗣 Commented on [#35813](https://github.com/apache/airflow/issues/35813) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#35813](https://github.com/apache/airflow/issues/35813) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#35813](https://github.com/apache/airflow/issues/35813) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#172](https://github.com/astronomer/ask-astro/issues/172) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+1. 🗣 Commented on [#126](https://github.com/astronomer/ask-astro/issues/126) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+2. 💪 Opened PR [#180](https://github.com/astronomer/ask-astro/pull/180) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+3. 🗣 Commented on [#175](https://github.com/astronomer/ask-astro/issues/175) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+4. 🗣 Commented on [#115](https://github.com/astronomer/ask-astro/issues/115) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+5. ❗️ Closed issue [#115](https://github.com/astronomer/ask-astro/issues/115) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+6. 🗣 Commented on [#110](https://github.com/astronomer/ask-astro/issues/110) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+7. ❗️ Closed issue [#110](https://github.com/astronomer/ask-astro/issues/110) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+8. 🗣 Commented on [#114](https://github.com/astronomer/ask-astro/issues/114) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+9. ❗️ Closed issue [#114](https://github.com/astronomer/ask-astro/issues/114) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+10. 💪 Opened PR [#176](https://github.com/astronomer/ask-astro/pull/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
