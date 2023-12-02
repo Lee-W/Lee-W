@@ -18,7 +18,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 3 days ago)
+* [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 4 days ago)
 * [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 1 month ago)
 * [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 3 months ago)
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 11 months ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#180](https://github.com/astronomer/ask-astro/issues/180) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+1. 🗣 Commented on [#181](https://github.com/astronomer/ask-astro/issues/181) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
 2. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-3. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-4. 🗣 Commented on [#2052](https://github.com/astronomer/astro-sdk/issues/2052) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-5. 🗣 Commented on [#54](https://github.com/astronomer/ask-astro/issues/54) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-6. 🗣 Commented on [#54](https://github.com/astronomer/ask-astro/issues/54) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-7. 💪 Opened PR [#181](https://github.com/astronomer/ask-astro/pull/181) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-8. 🎉 Merged PR [#1374](https://github.com/astronomer/astronomer-providers/pull/1374) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 💪 Opened PR [#1374](https://github.com/astronomer/astronomer-providers/pull/1374) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. ❗️ Closed issue [#1369](https://github.com/astronomer/astronomer-providers/issues/1369) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#80](https://github.com/astronomer/ask-astro/issues/80) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+4. 🗣 Commented on [#54](https://github.com/astronomer/ask-astro/issues/54) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+5. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+6. 🗣 Commented on [#2052](https://github.com/astronomer/astro-sdk/issues/2052) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+7. ❗️ Closed issue [#2052](https://github.com/astronomer/astro-sdk/issues/2052) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+8. 🗣 Commented on [#180](https://github.com/astronomer/ask-astro/issues/180) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+9. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+10. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
 
 
 ## ⭐ GitHub Stat
