@@ -18,7 +18,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 4 days ago)
+* [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 5 days ago)
 * [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 1 month ago)
 * [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 3 months ago)
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 11 months ago)
@@ -27,7 +27,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 ### Those things no one cares about
 
 * [劇場版 PSYCHO PASS 心靈判官 PROVIDENCE](https://travlog.wei-lee.me/posts/review/2023/10/psycho-pass-providence) (Published: 1 month ago)
-* [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 1 month ago)
+* [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 2 months ago)
 * [江戶前精靈](https://travlog.wei-lee.me/posts/review/2023/09/edomae-erufu) (Published: 2 months ago)
 * [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 2 months ago)
 * [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 3 months ago)
