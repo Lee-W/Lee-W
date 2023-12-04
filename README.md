@@ -18,7 +18,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 5 days ago)
+* [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 6 days ago)
 * [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 1 month ago)
 * [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 3 months ago)
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 11 months ago)
@@ -34,16 +34,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#181](https://github.com/astronomer/ask-astro/issues/181) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-2. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-3. 🗣 Commented on [#80](https://github.com/astronomer/ask-astro/issues/80) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-4. 🗣 Commented on [#54](https://github.com/astronomer/ask-astro/issues/54) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-5. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-6. 🗣 Commented on [#2052](https://github.com/astronomer/astro-sdk/issues/2052) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-7. ❗️ Closed issue [#2052](https://github.com/astronomer/astro-sdk/issues/2052) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-8. 🗣 Commented on [#180](https://github.com/astronomer/ask-astro/issues/180) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-9. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-10. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+1. 🎉 Merged PR [#921](https://github.com/commitizen-tools/commitizen/pull/921) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#631](https://github.com/commitizen-tools/commitizen/pull/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#913](https://github.com/commitizen-tools/commitizen/issues/913) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 💪 Opened PR [#926](https://github.com/commitizen-tools/commitizen/pull/926) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 💪 Opened PR [#925](https://github.com/commitizen-tools/commitizen/pull/925) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#30](https://github.com/Lee-W/github-actions-playground/pull/30) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+7. 💪 Opened PR [#30](https://github.com/Lee-W/github-actions-playground/pull/30) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+8. 🎉 Merged PR [#29](https://github.com/Lee-W/github-actions-playground/pull/29) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+9. 💪 Opened PR [#29](https://github.com/Lee-W/github-actions-playground/pull/29) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+10. 🎉 Merged PR [#28](https://github.com/Lee-W/github-actions-playground/pull/28) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
 
 
 ## ⭐ GitHub Stat
