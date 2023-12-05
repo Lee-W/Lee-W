@@ -18,7 +18,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 6 days ago)
+* [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 1 week ago)
 * [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 1 month ago)
 * [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 3 months ago)
 * [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 11 months ago)
@@ -26,24 +26,24 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
+* [2022 春季看什麼](https://travlog.wei-lee.me/posts/review-todo/2023/12/what-i-watch-in-2022-sprint) (Published: 1 day ago)
 * [劇場版 PSYCHO PASS 心靈判官 PROVIDENCE](https://travlog.wei-lee.me/posts/review/2023/10/psycho-pass-providence) (Published: 1 month ago)
 * [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 2 months ago)
 * [江戶前精靈](https://travlog.wei-lee.me/posts/review/2023/09/edomae-erufu) (Published: 2 months ago)
 * [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 2 months ago)
-* [撫子妖精鍋開鍋！](https://travlog.wei-lee.me/posts/cook/2023/08/season-nadeshiko-pot) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#921](https://github.com/commitizen-tools/commitizen/pull/921) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#631](https://github.com/commitizen-tools/commitizen/pull/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#913](https://github.com/commitizen-tools/commitizen/issues/913) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 💪 Opened PR [#926](https://github.com/commitizen-tools/commitizen/pull/926) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 💪 Opened PR [#925](https://github.com/commitizen-tools/commitizen/pull/925) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#30](https://github.com/Lee-W/github-actions-playground/pull/30) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-7. 💪 Opened PR [#30](https://github.com/Lee-W/github-actions-playground/pull/30) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-8. 🎉 Merged PR [#29](https://github.com/Lee-W/github-actions-playground/pull/29) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-9. 💪 Opened PR [#29](https://github.com/Lee-W/github-actions-playground/pull/29) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
-10. 🎉 Merged PR [#28](https://github.com/Lee-W/github-actions-playground/pull/28) in [Lee-W/github-actions-playground](https://github.com/Lee-W/github-actions-playground)
+1. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+2. ❗️ Opened issue [#202](https://github.com/astronomer/ask-astro/issues/202) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+3. 💪 Opened PR [#201](https://github.com/astronomer/ask-astro/pull/201) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+4. 🗣 Commented on [#200](https://github.com/astronomer/ask-astro/issues/200) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+5. 💪 Opened PR [#200](https://github.com/astronomer/ask-astro/pull/200) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+6. 🎉 Merged PR [#921](https://github.com/commitizen-tools/commitizen/pull/921) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#631](https://github.com/commitizen-tools/commitizen/pull/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#913](https://github.com/commitizen-tools/commitizen/issues/913) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 💪 Opened PR [#926](https://github.com/commitizen-tools/commitizen/pull/926) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 💪 Opened PR [#925](https://github.com/commitizen-tools/commitizen/pull/925) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
