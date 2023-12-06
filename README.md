@@ -26,24 +26,24 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
 
-* [2022 春季看什麼](https://travlog.wei-lee.me/posts/review-todo/2023/12/what-i-watch-in-2022-sprint) (Published: 1 day ago)
+* [2022 夏季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2022-summer) (Published: 1 day ago)
+* [2022 春季看什麼](https://travlog.wei-lee.me/posts/review-todo/2023/12/what-i-watch-in-2022-sprint) (Published: 2 days ago)
 * [劇場版 PSYCHO PASS 心靈判官 PROVIDENCE](https://travlog.wei-lee.me/posts/review/2023/10/psycho-pass-providence) (Published: 1 month ago)
 * [不死少女的謀殺鬧劇](https://travlog.wei-lee.me/posts/review/2023/10/undead-girl-murder-farce) (Published: 2 months ago)
 * [江戶前精靈](https://travlog.wei-lee.me/posts/review/2023/09/edomae-erufu) (Published: 2 months ago)
-* [岸邊露伴在羅浮](https://travlog.wei-lee.me/posts/review/2023/09/rohan-at-the-louvre) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
 1. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-2. ❗️ Opened issue [#202](https://github.com/astronomer/ask-astro/issues/202) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-3. 💪 Opened PR [#201](https://github.com/astronomer/ask-astro/pull/201) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-4. 🗣 Commented on [#200](https://github.com/astronomer/ask-astro/issues/200) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-5. 💪 Opened PR [#200](https://github.com/astronomer/ask-astro/pull/200) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-6. 🎉 Merged PR [#921](https://github.com/commitizen-tools/commitizen/pull/921) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#631](https://github.com/commitizen-tools/commitizen/pull/631) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#913](https://github.com/commitizen-tools/commitizen/issues/913) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 💪 Opened PR [#926](https://github.com/commitizen-tools/commitizen/pull/926) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 💪 Opened PR [#925](https://github.com/commitizen-tools/commitizen/pull/925) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#1376](https://github.com/astronomer/astronomer-providers/issues/1376) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#190](https://github.com/astronomer/ask-astro/issues/190) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+4. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+5. 💪 Opened PR [#1376](https://github.com/astronomer/astronomer-providers/pull/1376) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+7. 🗣 Commented on [#176](https://github.com/astronomer/ask-astro/issues/176) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+8. ❗️ Opened issue [#202](https://github.com/astronomer/ask-astro/issues/202) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+9. 💪 Opened PR [#201](https://github.com/astronomer/ask-astro/pull/201) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+10. 🗣 Commented on [#200](https://github.com/astronomer/ask-astro/issues/200) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
 
 
 ## ⭐ GitHub Stat
