@@ -40,7 +40,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [2023 冬季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-winter) (Published: 6 days ago)
+ * [2023 冬季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-winter) (Published: 1 week ago)
  * [2022 秋季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2022-fall) (Published: 3 weeks ago)
  * [2022 夏季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2022-summer) (Published: 3 weeks ago)
  * [2022 春季看什麼](https://travlog.wei-lee.me/posts/review-todo/2023/12/what-i-watch-in-2022-sprint) (Published: 3 weeks ago)
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#231](https://github.com/astronomer/ask-astro/issues/231) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-2. 🗣 Commented on [#231](https://github.com/astronomer/ask-astro/issues/231) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-3. 💪 Opened PR [#233](https://github.com/astronomer/ask-astro/pull/233) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-4. 💪 Opened PR [#1402](https://github.com/astronomer/astronomer-providers/pull/1402) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🎉 Merged PR [#1400](https://github.com/astronomer/astronomer-providers/pull/1400) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🗣 Commented on [#1399](https://github.com/astronomer/astronomer-providers/issues/1399) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🎉 Merged PR [#1401](https://github.com/astronomer/astronomer-providers/pull/1401) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 💪 Opened PR [#36417](https://github.com/apache/airflow/pull/36417) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#1400](https://github.com/astronomer/astronomer-providers/pull/1400) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 💪 Opened PR [#1399](https://github.com/astronomer/astronomer-providers/pull/1399) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#1398](https://github.com/astronomer/astronomer-providers/issues/1398) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🗣 Commented on [#1398](https://github.com/astronomer/astronomer-providers/issues/1398) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#1403](https://github.com/astronomer/astronomer-providers/issues/1403) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. ❌ Closed PR [#1403](https://github.com/astronomer/astronomer-providers/pull/1403) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 🗣 Commented on [#36467](https://github.com/apache/airflow/issues/36467) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#36467](https://github.com/apache/airflow/issues/36467) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#239](https://github.com/astronomer/ask-astro/pull/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+8. 🗣 Commented on [#231](https://github.com/astronomer/ask-astro/issues/231) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+9. 🗣 Commented on [#231](https://github.com/astronomer/ask-astro/issues/231) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+10. 💪 Opened PR [#233](https://github.com/astronomer/ask-astro/pull/233) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
 
 
 ## ⭐ GitHub Stat
