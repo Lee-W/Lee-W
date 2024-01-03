@@ -40,24 +40,24 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 1 day ago)
- * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 2 days ago)
+ * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 2 days ago)
+ * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 3 days ago)
  * [2023 冬季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-winter) (Published: 1 week ago)
  * [2022 秋季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2022-fall) (Published: 3 weeks ago)
  * [2022 夏季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2022-summer) (Published: 4 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#951](https://github.com/commitizen-tools/commitizen/pull/951) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#1406](https://github.com/astronomer/astronomer-providers/issues/1406) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 🗣 Commented on [#1406](https://github.com/astronomer/astronomer-providers/issues/1406) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 💪 Opened PR [#1406](https://github.com/astronomer/astronomer-providers/pull/1406) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#1404](https://github.com/astronomer/astronomer-providers/issues/1404) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🗣 Commented on [#1398](https://github.com/astronomer/astronomer-providers/issues/1398) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🗣 Commented on [#1398](https://github.com/astronomer/astronomer-providers/issues/1398) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🗣 Commented on [#1403](https://github.com/astronomer/astronomer-providers/issues/1403) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. ❌ Closed PR [#1403](https://github.com/astronomer/astronomer-providers/pull/1403) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🗣 Commented on [#36467](https://github.com/apache/airflow/issues/36467) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#36523](https://github.com/apache/airflow/issues/36523) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#196](https://github.com/astronomer/ask-astro/issues/196) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+3. 🗣 Commented on [#1417](https://github.com/astronomer/astronomer-providers/issues/1417) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. ❗️ Closed issue [#1417](https://github.com/astronomer/astronomer-providers/issues/1417) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. ❗️ Opened issue [#1421](https://github.com/astronomer/astronomer-providers/issues/1421) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. ❗️ Opened issue [#1420](https://github.com/astronomer/astronomer-providers/issues/1420) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. ❗️ Opened issue [#1419](https://github.com/astronomer/astronomer-providers/issues/1419) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. ❗️ Opened issue [#1418](https://github.com/astronomer/astronomer-providers/issues/1418) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. ❗️ Opened issue [#1417](https://github.com/astronomer/astronomer-providers/issues/1417) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+10. ❗️ Opened issue [#1416](https://github.com/astronomer/astronomer-providers/issues/1416) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
