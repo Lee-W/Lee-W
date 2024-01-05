@@ -40,16 +40,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/pycontw/pycontw-blog/pull/73) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🎉 Merged PR [#72](https://github.com/pycontw/pycontw-blog/pull/72) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 💪 Opened PR [#36550](https://github.com/apache/airflow/pull/36550) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🗣 Commented on [#196](https://github.com/astronomer/ask-astro/issues/196) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-7. 🗣 Commented on [#36416](https://github.com/apache/airflow/issues/36416) in [apache/airflow](https://github.com/apache/airflow)
-8. ❗️ Closed issue [#1377](https://github.com/astronomer/astronomer-providers/issues/1377) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#922](https://github.com/commitizen-tools/commitizen/issues/922) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#952](https://github.com/commitizen-tools/commitizen/pull/952) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#24](https://github.com/Lee-W/bahamut_ani_stat/pull/24) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+2. 🎉 Merged PR [#33](https://github.com/Lee-W/bahamut_ani_stat/pull/33) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+3. 🎉 Merged PR [#39](https://github.com/Lee-W/bahamut_ani_stat/pull/39) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+4. 🎉 Merged PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+5. 💪 Opened PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+6. ❌ Closed PR [#41](https://github.com/Lee-W/bahamut_ani_stat/pull/41) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+7. ❌ Closed PR [#40](https://github.com/Lee-W/bahamut_ani_stat/pull/40) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+8. ❌ Closed PR [#38](https://github.com/Lee-W/bahamut_ani_stat/pull/38) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+9. ❌ Closed PR [#31](https://github.com/Lee-W/bahamut_ani_stat/pull/31) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+10. ❌ Closed PR [#29](https://github.com/Lee-W/bahamut_ani_stat/pull/29) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
