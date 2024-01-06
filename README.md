@@ -40,24 +40,24 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 2 days ago)
- * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 4 days ago)
- * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 5 days ago)
+ * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 3 days ago)
+ * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 5 days ago)
+ * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 6 days ago)
  * [2023 冬季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-winter) (Published: 2 weeks ago)
- * [2022 秋季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2022-fall) (Published: 4 weeks ago)
+ * [2022 秋季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2022-fall) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#24](https://github.com/Lee-W/bahamut_ani_stat/pull/24) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-2. 🎉 Merged PR [#33](https://github.com/Lee-W/bahamut_ani_stat/pull/33) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-3. 🎉 Merged PR [#39](https://github.com/Lee-W/bahamut_ani_stat/pull/39) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-4. 🎉 Merged PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-5. 💪 Opened PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-6. ❌ Closed PR [#41](https://github.com/Lee-W/bahamut_ani_stat/pull/41) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-7. ❌ Closed PR [#40](https://github.com/Lee-W/bahamut_ani_stat/pull/40) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-8. ❌ Closed PR [#38](https://github.com/Lee-W/bahamut_ani_stat/pull/38) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-9. ❌ Closed PR [#31](https://github.com/Lee-W/bahamut_ani_stat/pull/31) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-10. ❌ Closed PR [#29](https://github.com/Lee-W/bahamut_ani_stat/pull/29) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+1. 🗣 Commented on [#239](https://github.com/astronomer/ask-astro/issues/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+2. 💪 Opened PR [#930](https://github.com/apache/airflow-site/pull/930) in [apache/airflow-site](https://github.com/apache/airflow-site)
+3. 💪 Opened PR [#929](https://github.com/apache/airflow-site/pull/929) in [apache/airflow-site](https://github.com/apache/airflow-site)
+4. 🎉 Merged PR [#46](https://github.com/Lee-W/bahamut_ani_stat/pull/46) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+5. 🎉 Merged PR [#49](https://github.com/Lee-W/bahamut_ani_stat/pull/49) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+6. 🎉 Merged PR [#24](https://github.com/Lee-W/bahamut_ani_stat/pull/24) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+7. 🎉 Merged PR [#33](https://github.com/Lee-W/bahamut_ani_stat/pull/33) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+8. 🎉 Merged PR [#39](https://github.com/Lee-W/bahamut_ani_stat/pull/39) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+9. 🎉 Merged PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+10. 💪 Opened PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 
 
 ## ⭐ GitHub Stat
