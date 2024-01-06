@@ -40,16 +40,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Lee-W/bahamut_ani_stat/pull/24) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-2. 🎉 Merged PR [#33](https://github.com/Lee-W/bahamut_ani_stat/pull/33) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-3. 🎉 Merged PR [#39](https://github.com/Lee-W/bahamut_ani_stat/pull/39) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-4. 🎉 Merged PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-5. 💪 Opened PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-6. ❌ Closed PR [#41](https://github.com/Lee-W/bahamut_ani_stat/pull/41) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-7. ❌ Closed PR [#40](https://github.com/Lee-W/bahamut_ani_stat/pull/40) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-8. ❌ Closed PR [#38](https://github.com/Lee-W/bahamut_ani_stat/pull/38) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-9. ❌ Closed PR [#31](https://github.com/Lee-W/bahamut_ani_stat/pull/31) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-10. ❌ Closed PR [#29](https://github.com/Lee-W/bahamut_ani_stat/pull/29) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+1. 🗣 Commented on [#239](https://github.com/astronomer/ask-astro/issues/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+2. 💪 Opened PR [#930](https://github.com/apache/airflow-site/pull/930) in [apache/airflow-site](https://github.com/apache/airflow-site)
+3. 💪 Opened PR [#929](https://github.com/apache/airflow-site/pull/929) in [apache/airflow-site](https://github.com/apache/airflow-site)
+4. 🎉 Merged PR [#46](https://github.com/Lee-W/bahamut_ani_stat/pull/46) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+5. 🎉 Merged PR [#49](https://github.com/Lee-W/bahamut_ani_stat/pull/49) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+6. 🎉 Merged PR [#24](https://github.com/Lee-W/bahamut_ani_stat/pull/24) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+7. 🎉 Merged PR [#33](https://github.com/Lee-W/bahamut_ani_stat/pull/33) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+8. 🎉 Merged PR [#39](https://github.com/Lee-W/bahamut_ani_stat/pull/39) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+9. 🎉 Merged PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+10. 💪 Opened PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
