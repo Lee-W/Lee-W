@@ -40,7 +40,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 5 days ago)
+ * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 6 days ago)
  * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 1 week ago)
  * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 1 week ago)
  * [2023 冬季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-winter) (Published: 2 weeks ago)
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#36416](https://github.com/apache/airflow/issues/36416) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#239](https://github.com/astronomer/ask-astro/issues/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-3. 💪 Opened PR [#930](https://github.com/apache/airflow-site/pull/930) in [apache/airflow-site](https://github.com/apache/airflow-site)
-4. 💪 Opened PR [#929](https://github.com/apache/airflow-site/pull/929) in [apache/airflow-site](https://github.com/apache/airflow-site)
-5. 🎉 Merged PR [#46](https://github.com/Lee-W/bahamut_ani_stat/pull/46) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-6. 🎉 Merged PR [#49](https://github.com/Lee-W/bahamut_ani_stat/pull/49) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-7. 🎉 Merged PR [#24](https://github.com/Lee-W/bahamut_ani_stat/pull/24) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-8. 🎉 Merged PR [#33](https://github.com/Lee-W/bahamut_ani_stat/pull/33) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-9. 🎉 Merged PR [#39](https://github.com/Lee-W/bahamut_ani_stat/pull/39) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-10. 🎉 Merged PR [#43](https://github.com/Lee-W/bahamut_ani_stat/pull/43) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+1. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 💪 Opened PR [#36658](https://github.com/apache/airflow/pull/36658) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#36644](https://github.com/apache/airflow/issues/36644) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#1423](https://github.com/astronomer/astronomer-providers/issues/1423) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. ❗️ Opened issue [#1423](https://github.com/astronomer/astronomer-providers/issues/1423) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 💪 Opened PR [#1422](https://github.com/astronomer/astronomer-providers/pull/1422) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🗣 Commented on [#36416](https://github.com/apache/airflow/issues/36416) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#239](https://github.com/astronomer/ask-astro/issues/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+9. 💪 Opened PR [#930](https://github.com/apache/airflow-site/pull/930) in [apache/airflow-site](https://github.com/apache/airflow-site)
+10. 💪 Opened PR [#929](https://github.com/apache/airflow-site/pull/929) in [apache/airflow-site](https://github.com/apache/airflow-site)
 
 
 ## ⭐ GitHub Stat
