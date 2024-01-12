@@ -40,16 +40,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1426](https://github.com/astronomer/astronomer-providers/pull/1426) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 🗣 Commented on [#239](https://github.com/astronomer/ask-astro/issues/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-3. 🗣 Commented on [#1399](https://github.com/astronomer/astronomer-providers/issues/1399) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. ❌ Closed PR [#1422](https://github.com/astronomer/astronomer-providers/pull/1422) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🗣 Commented on [#196](https://github.com/astronomer/ask-astro/issues/196) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-7. ❌ Closed PR [#36677](https://github.com/apache/airflow/pull/36677) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#1425](https://github.com/astronomer/astronomer-providers/pull/1425) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#1423](https://github.com/astronomer/astronomer-providers/issues/1423) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. ❗️ Closed issue [#1423](https://github.com/astronomer/astronomer-providers/issues/1423) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🗣 Commented on [#1406](https://github.com/astronomer/astronomer-providers/issues/1406) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#1398](https://github.com/astronomer/astronomer-providers/issues/1398) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 💪 Opened PR [#261](https://github.com/astronomer/ask-astro/pull/261) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+5. ❗️ Closed issue [#196](https://github.com/astronomer/ask-astro/issues/196) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+6. 🎉 Merged PR [#239](https://github.com/astronomer/ask-astro/pull/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+7. 🗣 Commented on [#239](https://github.com/astronomer/ask-astro/issues/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+8. 🎉 Merged PR [#1398](https://github.com/astronomer/astronomer-providers/pull/1398) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 🎉 Merged PR [#1402](https://github.com/astronomer/astronomer-providers/pull/1402) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+10. 🎉 Merged PR [#957](https://github.com/commitizen-tools/commitizen/pull/957) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
