@@ -40,7 +40,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 1 day ago)
+ * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 2 days ago)
  * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 1 week ago)
  * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 1 week ago)
  * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 1 week ago)
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 🗣 Commented on [#1406](https://github.com/astronomer/astronomer-providers/issues/1406) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 🗣 Commented on [#1398](https://github.com/astronomer/astronomer-providers/issues/1398) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 💪 Opened PR [#261](https://github.com/astronomer/ask-astro/pull/261) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-5. ❗️ Closed issue [#196](https://github.com/astronomer/ask-astro/issues/196) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-6. 🎉 Merged PR [#239](https://github.com/astronomer/ask-astro/pull/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-7. 🗣 Commented on [#239](https://github.com/astronomer/ask-astro/issues/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-8. 🎉 Merged PR [#1398](https://github.com/astronomer/astronomer-providers/pull/1398) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🎉 Merged PR [#1402](https://github.com/astronomer/astronomer-providers/pull/1402) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🎉 Merged PR [#957](https://github.com/commitizen-tools/commitizen/pull/957) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#36749](https://github.com/apache/airflow/pull/36749) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#958](https://github.com/commitizen-tools/commitizen/pull/958) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#36471](https://github.com/apache/airflow/issues/36471) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 🗣 Commented on [#1406](https://github.com/astronomer/astronomer-providers/issues/1406) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🗣 Commented on [#1398](https://github.com/astronomer/astronomer-providers/issues/1398) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 💪 Opened PR [#261](https://github.com/astronomer/ask-astro/pull/261) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+8. ❗️ Closed issue [#196](https://github.com/astronomer/ask-astro/issues/196) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+9. 🎉 Merged PR [#239](https://github.com/astronomer/ask-astro/pull/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
+10. 🗣 Commented on [#239](https://github.com/astronomer/ask-astro/issues/239) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
 
 
 ## ⭐ GitHub Stat
