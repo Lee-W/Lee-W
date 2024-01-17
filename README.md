@@ -32,7 +32,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 2 days ago)
+* [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 3 days ago)
 * [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 1 month ago)
 * [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 2 months ago)
 * [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 5 months ago)
@@ -40,24 +40,24 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 5 days ago)
- * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 1 week ago)
+ * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 6 days ago)
+ * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 2 weeks ago)
  * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 2 weeks ago)
  * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 2 weeks ago)
  * [2023 冬季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-winter) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 🎉 Merged PR [#960](https://github.com/commitizen-tools/commitizen/pull/960) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#36586](https://github.com/apache/airflow/issues/36586) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#959](https://github.com/commitizen-tools/commitizen/pull/959) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#959](https://github.com/commitizen-tools/commitizen/issues/959) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 💪 Opened PR [#36749](https://github.com/apache/airflow/pull/36749) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#958](https://github.com/commitizen-tools/commitizen/pull/958) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#36471](https://github.com/apache/airflow/issues/36471) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🗣 Commented on [#1406](https://github.com/astronomer/astronomer-providers/issues/1406) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#1412](https://github.com/astronomer/astronomer-providers/issues/1412) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🗣 Commented on [#1415](https://github.com/astronomer/astronomer-providers/issues/1415) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#665](https://github.com/talkiq/gcloud-aio/issues/665) in [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio)
+4. 🗣 Commented on [#36473](https://github.com/apache/airflow/issues/36473) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#36473](https://github.com/apache/airflow/issues/36473) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#36471](https://github.com/apache/airflow/issues/36471) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#36806](https://github.com/apache/airflow/pull/36806) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 🎉 Merged PR [#961](https://github.com/commitizen-tools/commitizen/pull/961) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
