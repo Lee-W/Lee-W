@@ -32,11 +32,11 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 5 days ago)
+* [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 1 day ago)
+* [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 6 days ago)
 * [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 1 week ago)
 * [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 1 month ago)
 * [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 2 months ago)
-* [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 5 months ago)
 
 ### Those things no one cares about
  
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#36894](https://github.com/apache/airflow/issues/36894) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#36894](https://github.com/apache/airflow/pull/36894) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#36892](https://github.com/apache/airflow/pull/36892) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#1432](https://github.com/astronomer/astronomer-providers/issues/1432) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. ❗️ Closed issue [#1432](https://github.com/astronomer/astronomer-providers/issues/1432) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🎉 Merged PR [#1433](https://github.com/astronomer/astronomer-providers/pull/1433) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🗣 Commented on [#1433](https://github.com/astronomer/astronomer-providers/issues/1433) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🗣 Commented on [#1433](https://github.com/astronomer/astronomer-providers/issues/1433) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 💪 Opened PR [#1433](https://github.com/astronomer/astronomer-providers/pull/1433) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. ❗️ Opened issue [#1432](https://github.com/astronomer/astronomer-providers/issues/1432) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#1445](https://github.com/astronomer/astronomer-providers/issues/1445) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🗣 Commented on [#1444](https://github.com/astronomer/astronomer-providers/issues/1444) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 💪 Opened PR [#1445](https://github.com/astronomer/astronomer-providers/pull/1445) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 💪 Opened PR [#1444](https://github.com/astronomer/astronomer-providers/pull/1444) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 💪 Opened PR [#36946](https://github.com/apache/airflow/pull/36946) in [apache/airflow](https://github.com/apache/airflow)
+6. ❌ Closed PR [#1389](https://github.com/astronomer/astronomer-providers/pull/1389) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🎉 Merged PR [#966](https://github.com/commitizen-tools/commitizen/pull/966) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#1439](https://github.com/astronomer/astronomer-providers/issues/1439) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 💪 Opened PR [#36940](https://github.com/apache/airflow/pull/36940) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#36894](https://github.com/apache/airflow/issues/36894) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
