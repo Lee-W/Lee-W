@@ -40,16 +40,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#969](https://github.com/commitizen-tools/commitizen/pull/969) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 💪 Opened PR [#79](https://github.com/pycontw/pycontw-blog/pull/79) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🗣 Commented on [#1457](https://github.com/astronomer/astronomer-providers/issues/1457) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🎉 Merged PR [#970](https://github.com/commitizen-tools/commitizen/pull/970) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#1458](https://github.com/astronomer/astronomer-providers/pull/1458) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🗣 Commented on [#36948](https://github.com/apache/airflow/issues/36948) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#1455](https://github.com/astronomer/astronomer-providers/issues/1455) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#1455](https://github.com/astronomer/astronomer-providers/issues/1455) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🗣 Commented on [#1455](https://github.com/astronomer/astronomer-providers/issues/1455) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🎉 Merged PR [#71](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/71) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+2. 🗣 Commented on [#53](https://github.com/Lee-W/discord_reaction_to_role_bot/issues/53) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+3. 🎉 Merged PR [#70](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/70) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+4. 🗣 Commented on [#62](https://github.com/Lee-W/discord_reaction_to_role_bot/issues/62) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+5. 🎉 Merged PR [#52](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/52) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. 🎉 Merged PR [#64](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/64) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. 🎉 Merged PR [#68](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/68) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. 🎉 Merged PR [#69](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/69) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. 🎉 Merged PR [#969](https://github.com/commitizen-tools/commitizen/pull/969) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 💪 Opened PR [#79](https://github.com/pycontw/pycontw-blog/pull/79) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
