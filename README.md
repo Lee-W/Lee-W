@@ -36,28 +36,28 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 * [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 1 week ago)
 * [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 2 weeks ago)
 * [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 2 months ago)
-* [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 2 months ago)
+* [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 3 months ago)
 
 ### Those things no one cares about
  
  * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 2 weeks ago)
  * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 3 weeks ago)
  * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 4 weeks ago)
- * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 4 weeks ago)
+ * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 1 month ago)
  * [2023 冬季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-winter) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#71](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/71) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-2. 🗣 Commented on [#53](https://github.com/Lee-W/discord_reaction_to_role_bot/issues/53) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-3. 🎉 Merged PR [#70](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/70) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-4. 🗣 Commented on [#62](https://github.com/Lee-W/discord_reaction_to_role_bot/issues/62) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. 🎉 Merged PR [#52](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/52) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. 🎉 Merged PR [#64](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/64) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. 🎉 Merged PR [#68](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/68) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. 🎉 Merged PR [#69](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/69) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-9. 🎉 Merged PR [#969](https://github.com/commitizen-tools/commitizen/pull/969) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 💪 Opened PR [#79](https://github.com/pycontw/pycontw-blog/pull/79) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🎉 Merged PR [#971](https://github.com/commitizen-tools/commitizen/pull/971) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#83](https://github.com/astronomer/airflow-provider-fivetran-async/pull/83) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
+3. 🗣 Commented on [#971](https://github.com/commitizen-tools/commitizen/issues/971) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#972](https://github.com/commitizen-tools/commitizen/pull/972) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#81](https://github.com/pycontw/pycontw-blog/pull/81) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 🗣 Commented on [#35](https://github.com/pycontw/pycontw-blog/issues/35) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. ❗️ Closed issue [#35](https://github.com/pycontw/pycontw-blog/issues/35) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🎉 Merged PR [#1457](https://github.com/astronomer/astronomer-providers/pull/1457) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 🎉 Merged PR [#1455](https://github.com/astronomer/astronomer-providers/pull/1455) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+10. ❌ Closed PR [#1449](https://github.com/astronomer/astronomer-providers/pull/1449) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
