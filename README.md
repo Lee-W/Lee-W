@@ -40,7 +40,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 2 weeks ago)
+ * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 3 weeks ago)
  * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 4 weeks ago)
  * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 1 month ago)
  * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 1 month ago)
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#1465](https://github.com/astronomer/astronomer-providers/pull/1465) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-2. 💪 Opened PR [#1464](https://github.com/astronomer/astronomer-providers/pull/1464) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 💪 Opened PR [#1463](https://github.com/astronomer/astronomer-providers/pull/1463) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🗣 Commented on [#1411](https://github.com/astronomer/astronomer-providers/issues/1411) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 💪 Opened PR [#37081](https://github.com/apache/airflow/pull/37081) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#82](https://github.com/pycontw/pycontw-blog/pull/82) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🗣 Commented on [#973](https://github.com/commitizen-tools/commitizen/issues/973) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#974](https://github.com/commitizen-tools/commitizen/pull/974) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#971](https://github.com/commitizen-tools/commitizen/pull/971) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#83](https://github.com/astronomer/airflow-provider-fivetran-async/pull/83) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
+1. 🗣 Commented on [#1466](https://github.com/astronomer/astronomer-providers/issues/1466) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. ❌ Closed PR [#1466](https://github.com/astronomer/astronomer-providers/pull/1466) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🗣 Commented on [#37102](https://github.com/apache/airflow/issues/37102) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#1465](https://github.com/astronomer/astronomer-providers/pull/1465) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 💪 Opened PR [#1464](https://github.com/astronomer/astronomer-providers/pull/1464) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 💪 Opened PR [#1463](https://github.com/astronomer/astronomer-providers/pull/1463) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🗣 Commented on [#1411](https://github.com/astronomer/astronomer-providers/issues/1411) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. 💪 Opened PR [#37081](https://github.com/apache/airflow/pull/37081) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#82](https://github.com/pycontw/pycontw-blog/pull/82) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🗣 Commented on [#973](https://github.com/commitizen-tools/commitizen/issues/973) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
