@@ -40,7 +40,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 1 day ago)
+ * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 2 days ago)
  * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 3 weeks ago)
  * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 1 month ago)
  * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 1 month ago)
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#112](https://github.com/astronomer/airflow-provider-great-expectations/issues/112) in [astronomer/airflow-provider-great-expectations](https://github.com/astronomer/airflow-provider-great-expectations)
-2. 🎉 Merged PR [#1469](https://github.com/astronomer/astronomer-providers/pull/1469) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 🎉 Merged PR [#92](https://github.com/Lee-W/cookiecutter-python-template/pull/92) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-4. 💪 Opened PR [#92](https://github.com/Lee-W/cookiecutter-python-template/pull/92) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. 🎉 Merged PR [#976](https://github.com/commitizen-tools/commitizen/pull/976) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#978](https://github.com/commitizen-tools/commitizen/pull/978) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#1466](https://github.com/astronomer/astronomer-providers/issues/1466) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. ❌ Closed PR [#1466](https://github.com/astronomer/astronomer-providers/pull/1466) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#37102](https://github.com/apache/airflow/issues/37102) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#1465](https://github.com/astronomer/astronomer-providers/pull/1465) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🎉 Merged PR [#973](https://github.com/commitizen-tools/commitizen/pull/973) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#80](https://github.com/pycontw/pycontw-blog/issues/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 🎉 Merged PR [#83](https://github.com/pycontw/pycontw-blog/pull/83) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#84](https://github.com/pycontw/pycontw-blog/pull/84) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🗣 Commented on [#129](https://github.com/astronomer/airflow-provider-great-expectations/issues/129) in [astronomer/airflow-provider-great-expectations](https://github.com/astronomer/airflow-provider-great-expectations)
+6. 🎉 Merged PR [#979](https://github.com/commitizen-tools/commitizen/pull/979) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#112](https://github.com/astronomer/airflow-provider-great-expectations/issues/112) in [astronomer/airflow-provider-great-expectations](https://github.com/astronomer/airflow-provider-great-expectations)
+8. 🎉 Merged PR [#1469](https://github.com/astronomer/astronomer-providers/pull/1469) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 🎉 Merged PR [#92](https://github.com/Lee-W/cookiecutter-python-template/pull/92) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 💪 Opened PR [#92](https://github.com/Lee-W/cookiecutter-python-template/pull/92) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 
 
 ## ⭐ GitHub Stat
