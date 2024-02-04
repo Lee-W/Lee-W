@@ -34,13 +34,13 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 1 week ago)
 * [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 2 weeks ago)
-* [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 2 weeks ago)
+* [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 3 weeks ago)
 * [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 2 months ago)
 * [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 3 months ago)
 
 ### Those things no one cares about
  
- * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 2 days ago)
+ * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 3 days ago)
  * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 3 weeks ago)
  * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 1 month ago)
  * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 1 month ago)
