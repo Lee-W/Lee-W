@@ -40,16 +40,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#973](https://github.com/commitizen-tools/commitizen/pull/973) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#80](https://github.com/pycontw/pycontw-blog/issues/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🎉 Merged PR [#83](https://github.com/pycontw/pycontw-blog/pull/83) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🎉 Merged PR [#84](https://github.com/pycontw/pycontw-blog/pull/84) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. 🗣 Commented on [#129](https://github.com/astronomer/airflow-provider-great-expectations/issues/129) in [astronomer/airflow-provider-great-expectations](https://github.com/astronomer/airflow-provider-great-expectations)
-6. 🎉 Merged PR [#979](https://github.com/commitizen-tools/commitizen/pull/979) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#112](https://github.com/astronomer/airflow-provider-great-expectations/issues/112) in [astronomer/airflow-provider-great-expectations](https://github.com/astronomer/airflow-provider-great-expectations)
-8. 🎉 Merged PR [#1469](https://github.com/astronomer/astronomer-providers/pull/1469) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🎉 Merged PR [#92](https://github.com/Lee-W/cookiecutter-python-template/pull/92) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-10. 💪 Opened PR [#92](https://github.com/Lee-W/cookiecutter-python-template/pull/92) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 🎉 Merged PR [#85](https://github.com/pycontw/pycontw-blog/pull/85) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#37176](https://github.com/apache/airflow/pull/37176) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#980](https://github.com/commitizen-tools/commitizen/pull/980) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#973](https://github.com/commitizen-tools/commitizen/pull/973) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#80](https://github.com/pycontw/pycontw-blog/issues/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🎉 Merged PR [#83](https://github.com/pycontw/pycontw-blog/pull/83) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🎉 Merged PR [#84](https://github.com/pycontw/pycontw-blog/pull/84) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🗣 Commented on [#129](https://github.com/astronomer/airflow-provider-great-expectations/issues/129) in [astronomer/airflow-provider-great-expectations](https://github.com/astronomer/airflow-provider-great-expectations)
+10. 🎉 Merged PR [#979](https://github.com/commitizen-tools/commitizen/pull/979) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
