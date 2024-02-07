@@ -33,14 +33,14 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 ### Those aren't written down are meant to be forgotten
 
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 2 weeks ago)
-* [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 2 weeks ago)
+* [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 3 weeks ago)
 * [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 3 weeks ago)
 * [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 2 months ago)
 * [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 3 months ago)
 
 ### Those things no one cares about
  
- * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 5 days ago)
+ * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 6 days ago)
  * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 3 weeks ago)
  * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 1 month ago)
  * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 1 month ago)
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#85](https://github.com/pycontw/pycontw-blog/pull/85) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🗣 Commented on [#981](https://github.com/commitizen-tools/commitizen/issues/981) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 2. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#37176](https://github.com/apache/airflow/pull/37176) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#980](https://github.com/commitizen-tools/commitizen/pull/980) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#973](https://github.com/commitizen-tools/commitizen/pull/973) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#80](https://github.com/pycontw/pycontw-blog/issues/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🎉 Merged PR [#83](https://github.com/pycontw/pycontw-blog/pull/83) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🎉 Merged PR [#84](https://github.com/pycontw/pycontw-blog/pull/84) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🗣 Commented on [#129](https://github.com/astronomer/airflow-provider-great-expectations/issues/129) in [astronomer/airflow-provider-great-expectations](https://github.com/astronomer/airflow-provider-great-expectations)
-10. 🎉 Merged PR [#979](https://github.com/commitizen-tools/commitizen/pull/979) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#80](https://github.com/pycontw/pycontw-blog/issues/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. ❌ Closed PR [#80](https://github.com/pycontw/pycontw-blog/pull/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🎉 Merged PR [#86](https://github.com/pycontw/pycontw-blog/pull/86) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 🎉 Merged PR [#87](https://github.com/pycontw/pycontw-blog/pull/87) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🎉 Merged PR [#85](https://github.com/pycontw/pycontw-blog/pull/85) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#37176](https://github.com/apache/airflow/pull/37176) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#980](https://github.com/commitizen-tools/commitizen/pull/980) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
