@@ -40,24 +40,24 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 6 days ago)
- * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 3 weeks ago)
+ * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 1 week ago)
+ * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 4 weeks ago)
  * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 1 month ago)
  * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 1 month ago)
  * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#981](https://github.com/commitizen-tools/commitizen/issues/981) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#982](https://github.com/commitizen-tools/commitizen/pull/982) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 2. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#80](https://github.com/pycontw/pycontw-blog/issues/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. ❌ Closed PR [#80](https://github.com/pycontw/pycontw-blog/pull/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. 🎉 Merged PR [#86](https://github.com/pycontw/pycontw-blog/pull/86) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🎉 Merged PR [#87](https://github.com/pycontw/pycontw-blog/pull/87) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🎉 Merged PR [#85](https://github.com/pycontw/pycontw-blog/pull/85) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#37176](https://github.com/apache/airflow/pull/37176) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#980](https://github.com/commitizen-tools/commitizen/pull/980) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#981](https://github.com/commitizen-tools/commitizen/issues/981) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#80](https://github.com/pycontw/pycontw-blog/issues/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. ❌ Closed PR [#80](https://github.com/pycontw/pycontw-blog/pull/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🎉 Merged PR [#86](https://github.com/pycontw/pycontw-blog/pull/86) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🎉 Merged PR [#87](https://github.com/pycontw/pycontw-blog/pull/87) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🎉 Merged PR [#85](https://github.com/pycontw/pycontw-blog/pull/85) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
