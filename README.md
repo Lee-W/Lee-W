@@ -34,7 +34,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 2 weeks ago)
 * [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 3 weeks ago)
-* [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 3 weeks ago)
+* [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 4 weeks ago)
 * [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 2 months ago)
 * [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 3 months ago)
 
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#983](https://github.com/commitizen-tools/commitizen/pull/983) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#982](https://github.com/commitizen-tools/commitizen/pull/982) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#981](https://github.com/commitizen-tools/commitizen/issues/981) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#80](https://github.com/pycontw/pycontw-blog/issues/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. ❌ Closed PR [#80](https://github.com/pycontw/pycontw-blog/pull/80) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🎉 Merged PR [#86](https://github.com/pycontw/pycontw-blog/pull/86) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🎉 Merged PR [#87](https://github.com/pycontw/pycontw-blog/pull/87) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 🎉 Merged PR [#85](https://github.com/pycontw/pycontw-blog/pull/85) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 💪 Opened PR [#37306](https://github.com/apache/airflow/pull/37306) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#673](https://github.com/commitizen-tools/commitizen/issues/673) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ❗️ Closed issue [#673](https://github.com/commitizen-tools/commitizen/issues/673) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#955](https://github.com/commitizen-tools/commitizen/issues/955) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#949](https://github.com/commitizen-tools/commitizen/issues/949) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#949](https://github.com/commitizen-tools/commitizen/issues/949) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#983](https://github.com/commitizen-tools/commitizen/pull/983) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#982](https://github.com/commitizen-tools/commitizen/pull/982) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#981](https://github.com/commitizen-tools/commitizen/issues/981) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
