@@ -40,16 +40,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#984](https://github.com/commitizen-tools/commitizen/pull/984) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 💪 Opened PR [#37306](https://github.com/apache/airflow/pull/37306) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#673](https://github.com/commitizen-tools/commitizen/issues/673) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. ❗️ Closed issue [#673](https://github.com/commitizen-tools/commitizen/issues/673) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#955](https://github.com/commitizen-tools/commitizen/issues/955) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#37358](https://github.com/apache/airflow/issues/37358) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#88](https://github.com/pycontw/pycontw-blog/pull/88) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 🎉 Merged PR [#84](https://github.com/astronomer/airflow-provider-fivetran-async/pull/84) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
+4. 🎉 Merged PR [#1475](https://github.com/astronomer/astronomer-providers/pull/1475) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 🎉 Merged PR [#89](https://github.com/pycontw/pycontw-blog/pull/89) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 6. 🗣 Commented on [#949](https://github.com/commitizen-tools/commitizen/issues/949) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#949](https://github.com/commitizen-tools/commitizen/issues/949) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#983](https://github.com/commitizen-tools/commitizen/pull/983) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#982](https://github.com/commitizen-tools/commitizen/pull/982) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#986](https://github.com/commitizen-tools/commitizen/pull/986) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#984](https://github.com/commitizen-tools/commitizen/pull/984) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 💪 Opened PR [#37306](https://github.com/apache/airflow/pull/37306) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#673](https://github.com/commitizen-tools/commitizen/issues/673) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
