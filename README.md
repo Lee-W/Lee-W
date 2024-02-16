@@ -33,7 +33,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 ### Those aren't written down are meant to be forgotten
 
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 3 weeks ago)
-* [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 4 weeks ago)
+* [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 1 month ago)
 * [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 1 month ago)
 * [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 2 months ago)
 * [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 3 months ago)
@@ -49,15 +49,15 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 ## 🖥️ Recently working on
 
 1. 🗣 Commented on [#37358](https://github.com/apache/airflow/issues/37358) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#88](https://github.com/pycontw/pycontw-blog/pull/88) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🎉 Merged PR [#84](https://github.com/astronomer/airflow-provider-fivetran-async/pull/84) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
-4. 🎉 Merged PR [#1475](https://github.com/astronomer/astronomer-providers/pull/1475) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🎉 Merged PR [#89](https://github.com/pycontw/pycontw-blog/pull/89) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🗣 Commented on [#949](https://github.com/commitizen-tools/commitizen/issues/949) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#986](https://github.com/commitizen-tools/commitizen/pull/986) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#984](https://github.com/commitizen-tools/commitizen/pull/984) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 💪 Opened PR [#37306](https://github.com/apache/airflow/pull/37306) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#673](https://github.com/commitizen-tools/commitizen/issues/673) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#37358](https://github.com/apache/airflow/issues/37358) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#88](https://github.com/pycontw/pycontw-blog/pull/88) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#84](https://github.com/astronomer/airflow-provider-fivetran-async/pull/84) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
+5. 🎉 Merged PR [#1475](https://github.com/astronomer/astronomer-providers/pull/1475) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🎉 Merged PR [#89](https://github.com/pycontw/pycontw-blog/pull/89) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🗣 Commented on [#949](https://github.com/commitizen-tools/commitizen/issues/949) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#986](https://github.com/commitizen-tools/commitizen/pull/986) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#984](https://github.com/commitizen-tools/commitizen/pull/984) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 💪 Opened PR [#37306](https://github.com/apache/airflow/pull/37306) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
