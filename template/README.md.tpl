@@ -40,16 +40,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#91](https://github.com/Lee-W/cookiecutter-python-template/pull/91) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. ❌ Closed PR [#90](https://github.com/Lee-W/cookiecutter-python-template/pull/90) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-3. ❌ Closed PR [#89](https://github.com/Lee-W/cookiecutter-python-template/pull/89) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-4. ❌ Closed PR [#88](https://github.com/Lee-W/cookiecutter-python-template/pull/88) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. ❌ Closed PR [#83](https://github.com/Lee-W/cookiecutter-python-template/pull/83) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-6. ❌ Closed PR [#79](https://github.com/Lee-W/cookiecutter-python-template/pull/79) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-7. ❌ Closed PR [#71](https://github.com/Lee-W/cookiecutter-python-template/pull/71) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. ❌ Closed PR [#66](https://github.com/Lee-W/cookiecutter-python-template/pull/66) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🎉 Merged PR [#94](https://github.com/Lee-W/cookiecutter-python-template/pull/94) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-10. 💪 Opened PR [#94](https://github.com/Lee-W/cookiecutter-python-template/pull/94) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 🗣 Commented on [#37504](https://github.com/apache/airflow/issues/37504) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#981](https://github.com/commitizen-tools/commitizen/issues/981) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ❌ Closed PR [#91](https://github.com/Lee-W/cookiecutter-python-template/pull/91) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+4. ❌ Closed PR [#90](https://github.com/Lee-W/cookiecutter-python-template/pull/90) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+5. ❌ Closed PR [#89](https://github.com/Lee-W/cookiecutter-python-template/pull/89) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+6. ❌ Closed PR [#88](https://github.com/Lee-W/cookiecutter-python-template/pull/88) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+7. ❌ Closed PR [#83](https://github.com/Lee-W/cookiecutter-python-template/pull/83) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. ❌ Closed PR [#79](https://github.com/Lee-W/cookiecutter-python-template/pull/79) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. ❌ Closed PR [#71](https://github.com/Lee-W/cookiecutter-python-template/pull/71) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. ❌ Closed PR [#66](https://github.com/Lee-W/cookiecutter-python-template/pull/66) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
