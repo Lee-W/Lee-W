@@ -32,7 +32,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 3 weeks ago)
+* [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 4 weeks ago)
 * [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 1 month ago)
 * [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 1 month ago)
 * [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 2 months ago)
@@ -40,7 +40,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [2023 秋季看什麼](https://travlog.wei-lee.me/posts/review/2024/02/what-i-watch-in-2023-fall) (Published: 1 day ago)
+ * [2023 秋季看什麼](https://travlog.wei-lee.me/posts/review/2024/02/what-i-watch-in-2023-fall) (Published: 2 days ago)
  * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 2 weeks ago)
  * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 1 month ago)
  * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 1 month ago)
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. ❌ Closed PR [#91](https://github.com/Lee-W/cookiecutter-python-template/pull/91) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. ❌ Closed PR [#90](https://github.com/Lee-W/cookiecutter-python-template/pull/90) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-3. ❌ Closed PR [#89](https://github.com/Lee-W/cookiecutter-python-template/pull/89) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-4. ❌ Closed PR [#88](https://github.com/Lee-W/cookiecutter-python-template/pull/88) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. ❌ Closed PR [#83](https://github.com/Lee-W/cookiecutter-python-template/pull/83) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-6. ❌ Closed PR [#79](https://github.com/Lee-W/cookiecutter-python-template/pull/79) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-7. ❌ Closed PR [#71](https://github.com/Lee-W/cookiecutter-python-template/pull/71) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. ❌ Closed PR [#66](https://github.com/Lee-W/cookiecutter-python-template/pull/66) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🎉 Merged PR [#94](https://github.com/Lee-W/cookiecutter-python-template/pull/94) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-10. 💪 Opened PR [#94](https://github.com/Lee-W/cookiecutter-python-template/pull/94) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 🗣 Commented on [#37504](https://github.com/apache/airflow/issues/37504) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#981](https://github.com/commitizen-tools/commitizen/issues/981) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ❌ Closed PR [#91](https://github.com/Lee-W/cookiecutter-python-template/pull/91) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+4. ❌ Closed PR [#90](https://github.com/Lee-W/cookiecutter-python-template/pull/90) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+5. ❌ Closed PR [#89](https://github.com/Lee-W/cookiecutter-python-template/pull/89) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+6. ❌ Closed PR [#88](https://github.com/Lee-W/cookiecutter-python-template/pull/88) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+7. ❌ Closed PR [#83](https://github.com/Lee-W/cookiecutter-python-template/pull/83) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. ❌ Closed PR [#79](https://github.com/Lee-W/cookiecutter-python-template/pull/79) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. ❌ Closed PR [#71](https://github.com/Lee-W/cookiecutter-python-template/pull/71) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. ❌ Closed PR [#66](https://github.com/Lee-W/cookiecutter-python-template/pull/66) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 
 
 ## ⭐ GitHub Stat
