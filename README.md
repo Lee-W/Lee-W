@@ -40,7 +40,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [2023 秋季看什麼](https://travlog.wei-lee.me/posts/review/2024/02/what-i-watch-in-2023-fall) (Published: 2 days ago)
+ * [2023 秋季看什麼](https://travlog.wei-lee.me/posts/review/2024/02/what-i-watch-in-2023-fall) (Published: 3 days ago)
  * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 2 weeks ago)
  * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 1 month ago)
  * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 1 month ago)
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#37504](https://github.com/apache/airflow/issues/37504) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#981](https://github.com/commitizen-tools/commitizen/issues/981) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. ❌ Closed PR [#91](https://github.com/Lee-W/cookiecutter-python-template/pull/91) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-4. ❌ Closed PR [#90](https://github.com/Lee-W/cookiecutter-python-template/pull/90) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. ❌ Closed PR [#89](https://github.com/Lee-W/cookiecutter-python-template/pull/89) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-6. ❌ Closed PR [#88](https://github.com/Lee-W/cookiecutter-python-template/pull/88) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-7. ❌ Closed PR [#83](https://github.com/Lee-W/cookiecutter-python-template/pull/83) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. ❌ Closed PR [#79](https://github.com/Lee-W/cookiecutter-python-template/pull/79) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. ❌ Closed PR [#71](https://github.com/Lee-W/cookiecutter-python-template/pull/71) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-10. ❌ Closed PR [#66](https://github.com/Lee-W/cookiecutter-python-template/pull/66) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 🎉 Merged PR [#85](https://github.com/astronomer/airflow-provider-fivetran-async/pull/85) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
+2. 💪 Opened PR [#37542](https://github.com/apache/airflow/pull/37542) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#37176](https://github.com/apache/airflow/issues/37176) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#1481](https://github.com/astronomer/astronomer-providers/pull/1481) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🎉 Merged PR [#91](https://github.com/pycontw/pycontw-blog/pull/91) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🎉 Merged PR [#90](https://github.com/pycontw/pycontw-blog/pull/90) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🎉 Merged PR [#989](https://github.com/commitizen-tools/commitizen/pull/989) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#988](https://github.com/commitizen-tools/commitizen/pull/988) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 💪 Opened PR [#1481](https://github.com/astronomer/astronomer-providers/pull/1481) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
 
 ## ⭐ GitHub Stat
