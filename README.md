@@ -32,7 +32,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 3 days ago)
+* [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 4 days ago)
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 1 month ago)
 * [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 1 month ago)
 * [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 1 month ago)
@@ -40,7 +40,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those things no one cares about
  
- * [2023 秋季看什麼](https://travlog.wei-lee.me/posts/review/2024/02/what-i-watch-in-2023-fall) (Published: 6 days ago)
+ * [2023 秋季看什麼](https://travlog.wei-lee.me/posts/review/2024/02/what-i-watch-in-2023-fall) (Published: 1 week ago)
  * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 3 weeks ago)
  * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 1 month ago)
  * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 1 month ago)
@@ -48,11 +48,11 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#37101](https://github.com/apache/airflow/issues/37101) in [apache/airflow](https://github.com/apache/airflow)
-2. ❗️ Closed issue [#1476](https://github.com/astronomer/astronomer-providers/issues/1476) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 🎉 Merged PR [#1485](https://github.com/astronomer/astronomer-providers/pull/1485) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🗣 Commented on [#1485](https://github.com/astronomer/astronomer-providers/issues/1485) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#1476](https://github.com/astronomer/astronomer-providers/issues/1476) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#37617](https://github.com/apache/airflow/issues/37617) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#37101](https://github.com/apache/airflow/issues/37101) in [apache/airflow](https://github.com/apache/airflow)
+3. ❗️ Closed issue [#1476](https://github.com/astronomer/astronomer-providers/issues/1476) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 🎉 Merged PR [#1485](https://github.com/astronomer/astronomer-providers/pull/1485) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. 🗣 Commented on [#1485](https://github.com/astronomer/astronomer-providers/issues/1485) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 6. 💪 Opened PR [#1485](https://github.com/astronomer/astronomer-providers/pull/1485) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 7. 🗣 Commented on [#37542](https://github.com/apache/airflow/issues/37542) in [apache/airflow](https://github.com/apache/airflow)
 8. 🗣 Commented on [#37542](https://github.com/apache/airflow/issues/37542) in [apache/airflow](https://github.com/apache/airflow)
