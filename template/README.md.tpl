@@ -40,15 +40,15 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37617](https://github.com/apache/airflow/issues/37617) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#993](https://github.com/commitizen-tools/commitizen/pull/993) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#981](https://github.com/commitizen-tools/commitizen/issues/981) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#993](https://github.com/commitizen-tools/commitizen/issues/993) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#991](https://github.com/commitizen-tools/commitizen/pull/991) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#991](https://github.com/commitizen-tools/commitizen/issues/991) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#992](https://github.com/commitizen-tools/commitizen/pull/992) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#37617](https://github.com/apache/airflow/issues/37617) in [apache/airflow](https://github.com/apache/airflow)
-9. ❌ Closed PR [#1482](https://github.com/astronomer/astronomer-providers/pull/1482) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🎉 Merged PR [#1486](https://github.com/astronomer/astronomer-providers/pull/1486) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. 🗣 Commented on [#37617](https://github.com/apache/airflow/issues/37617) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#993](https://github.com/commitizen-tools/commitizen/pull/993) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#981](https://github.com/commitizen-tools/commitizen/issues/981) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#993](https://github.com/commitizen-tools/commitizen/issues/993) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#991](https://github.com/commitizen-tools/commitizen/pull/991) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#991](https://github.com/commitizen-tools/commitizen/issues/991) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#992](https://github.com/commitizen-tools/commitizen/pull/992) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#37617](https://github.com/apache/airflow/issues/37617) in [apache/airflow](https://github.com/apache/airflow)
 10. 🗣 Commented on [#1482](https://github.com/astronomer/astronomer-providers/issues/1482) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 <!--END_SECTION:activity-->
 
