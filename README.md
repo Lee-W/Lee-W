@@ -32,7 +32,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ### Those aren't written down are meant to be forgotten
 
-* [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 4 weeks ago)
+* [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 1 month ago)
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 1 month ago)
 * [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 2 months ago)
 * [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 2 months ago)
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#1028](https://github.com/commitizen-tools/commitizen/pull/1028) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#86](https://github.com/astronomer/airflow-provider-fivetran-async/pull/86) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
-3. 🎉 Merged PR [#1491](https://github.com/astronomer/astronomer-providers/pull/1491) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🎉 Merged PR [#1490](https://github.com/astronomer/astronomer-providers/pull/1490) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🎉 Merged PR [#1017](https://github.com/commitizen-tools/commitizen/pull/1017) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#37734](https://github.com/apache/airflow/issues/37734) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#37808](https://github.com/apache/airflow/pull/37808) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#994](https://github.com/commitizen-tools/commitizen/pull/994) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#1486](https://github.com/astronomer/astronomer-providers/pull/1486) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🗣 Commented on [#37617](https://github.com/apache/airflow/issues/37617) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#38332](https://github.com/apache/airflow/pull/38332) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#116](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/116) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+3. 🎉 Merged PR [#115](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/115) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+4. 🎉 Merged PR [#113](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/113) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+5. 🎉 Merged PR [#109](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/109) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. 🎉 Merged PR [#106](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/106) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. 🎉 Merged PR [#72](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/72) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. 🎉 Merged PR [#96](https://github.com/pycontw/pycontw-blog/pull/96) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🎉 Merged PR [#104](https://github.com/pycontw/pycontw-blog/pull/104) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🎉 Merged PR [#105](https://github.com/pycontw/pycontw-blog/pull/105) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 
 
 ## ⭐ GitHub Stat
