@@ -33,7 +33,7 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 ### Those aren't written down are meant to be forgotten
 
 * [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 1 month ago)
-* [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 1 month ago)
+* [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 2 months ago)
 * [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 2 months ago)
 * [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 2 months ago)
 * [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 3 months ago)
@@ -48,16 +48,16 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#38332](https://github.com/apache/airflow/pull/38332) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#116](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/116) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-3. 🎉 Merged PR [#115](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/115) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-4. 🎉 Merged PR [#113](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/113) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. 🎉 Merged PR [#109](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/109) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. 🎉 Merged PR [#106](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/106) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. 🎉 Merged PR [#72](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/72) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. 🎉 Merged PR [#96](https://github.com/pycontw/pycontw-blog/pull/96) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🎉 Merged PR [#104](https://github.com/pycontw/pycontw-blog/pull/104) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 🎉 Merged PR [#105](https://github.com/pycontw/pycontw-blog/pull/105) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🎉 Merged PR [#1033](https://github.com/commitizen-tools/commitizen/pull/1033) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 💪 Opened PR [#38332](https://github.com/apache/airflow/pull/38332) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#116](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/116) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+4. 🎉 Merged PR [#115](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/115) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+5. 🎉 Merged PR [#113](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/113) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. 🎉 Merged PR [#109](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/109) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. 🎉 Merged PR [#106](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/106) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. 🎉 Merged PR [#72](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/72) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. 🎉 Merged PR [#96](https://github.com/pycontw/pycontw-blog/pull/96) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🎉 Merged PR [#104](https://github.com/pycontw/pycontw-blog/pull/104) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 
 
 ## ⭐ GitHub Stat
