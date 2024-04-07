@@ -2,11 +2,12 @@
 
 I'm a
 
-* [🐍 Python Programmer](https://pycon-note.wei-lee.me/)
-* 🐍 [PyCon Taiwan](https://tw.pycon.org/) Organizer
-* 💬 [commitizen-tools](https://github.com/commitizen-tools) maintainer
-* 💻 Remote Worker
+* 🐍 [Pythonista](https://pycon-note.wei-lee.me/)
+* 🐍 [PyCon Taiwan](https://tw.pycon.org/) organizer
+* [commitizen-tools](https://github.com/commitizen-tools) maintainer
+* [Apache Airflow](https://github.com/apache/airflow/) committer
 * [📷 Traveler](https://travlog.wei-lee.me/)
+* ⛺ Member of [台湾野クル▲](https://twitter.com/Taiwannokuru)
 * 📺 Anime Lover
 * 📖 Reader
 * 🎵 Ukulele Player
@@ -16,7 +17,11 @@ I enjoy automating tedious tasks and creating high-quality code. Enjoy participa
 
 I share my technical notes, book digests, and occasional thoughts on my main blog [Those aren't written down are meant to be forgotten](https://blog.wei-lee.me/). If you're interested in topics such as cooking, anime, and travel, I chat about those things on [Those things no one cares about](https://travlog.wei-lee.me/).
 
-<p align="center">
+
+---
+
+<p align="left">
+You can find me through
   <a href="https://in.linkedin.com/in/clleew" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -28,36 +33,43 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
   </a>
 </p>
 
+---
+
+I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+---
+
+
 ## 🖊️ Blogs
 
 ### Those aren't written down are meant to be forgotten
 
-* [TIL: 字串也是 JSON](https://blog.wei-lee.me/posts/tech/2023/11/til-string-is-a-kind-of-json) (Published: 1 month ago)
-* [Pagefind UI 我的超人](https://blog.wei-lee.me/posts/tech/2023/11/pagefind-ui) (Published: 2 months ago)
-* [Atomic Commits: An Easy &amp; Proven Way to Manage &amp; Automate Release Process](https://blog.wei-lee.me/posts/tech/2023/08/atomic-commits-coscup-2023) (Published: 4 months ago)
-* [[Book] 設計的心理學](https://blog.wei-lee.me/posts/book/2023/01/the-design-of-everyday-things) (Published: 1 year ago)
-* [Utterances - 用 GitHub Issues 當文章留言區](https://blog.wei-lee.me/posts/tech/2022/02/use-github-issues-as-comment-system) (Published: 2 years ago)
+* [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: today)
+* [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 1 month ago)
+* [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 2 months ago)
+* [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 2 months ago)
+* [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 2 months ago)
 
 ### Those things no one cares about
  
- * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 1 day ago)
- * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 3 days ago)
- * [2023 春季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-sprint) (Published: 4 days ago)
- * [2023 冬季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2023-winter) (Published: 1 week ago)
- * [2022 秋季看什麼](https://travlog.wei-lee.me/posts/review/2023/12/what-i-watch-in-2022-fall) (Published: 4 weeks ago)
+ * [2023 秋季看什麼](https://travlog.wei-lee.me/posts/review/2024/02/what-i-watch-in-2023-fall) (Published: 1 month ago)
+ * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 2 months ago)
+ * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 2 months ago)
+ * [2023 夏季看什麼](https://travlog.wei-lee.me/posts/review/2024/01/what-i-watch-in-2023-summer) (Published: 3 months ago)
+ * [鴨湯滑菇蕎麥麵](https://travlog.wei-lee.me/posts/cook/2024/01/2024-toshikoshi-soba) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#73](https://github.com/pycontw/pycontw-blog/pull/73) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🎉 Merged PR [#72](https://github.com/pycontw/pycontw-blog/pull/72) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 💪 Opened PR [#36550](https://github.com/apache/airflow/pull/36550) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🗣 Commented on [#196](https://github.com/astronomer/ask-astro/issues/196) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-7. 🗣 Commented on [#36416](https://github.com/apache/airflow/issues/36416) in [apache/airflow](https://github.com/apache/airflow)
-8. ❗️ Closed issue [#1377](https://github.com/astronomer/astronomer-providers/issues/1377) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#922](https://github.com/commitizen-tools/commitizen/issues/922) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#952](https://github.com/commitizen-tools/commitizen/pull/952) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#1048](https://github.com/commitizen-tools/commitizen/pull/1048) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#38741](https://github.com/apache/airflow/issues/38741) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#1055](https://github.com/commitizen-tools/commitizen/pull/1055) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#38702](https://github.com/apache/airflow/issues/38702) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#1048](https://github.com/commitizen-tools/commitizen/issues/1048) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. ❌ Closed PR [#45](https://github.com/pycontw/mail_handler/pull/45) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+7. ❌ Closed PR [#44](https://github.com/pycontw/mail_handler/pull/44) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+8. 🎉 Merged PR [#128](https://github.com/Lee-W/cookiecutter-python-template/pull/128) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. 💪 Opened PR [#128](https://github.com/Lee-W/cookiecutter-python-template/pull/128) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 💪 Opened PR [#47](https://github.com/pycontw/mail_handler/pull/47) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
 
 
 ## ⭐ GitHub Stat
