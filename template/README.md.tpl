@@ -2,11 +2,12 @@
 
 I'm a
 
-* [🐍 Python Programmer](https://pycon-note.wei-lee.me/)
-* 🐍 [PyCon Taiwan](https://tw.pycon.org/) Organizer
-* 💬 [commitizen-tools](https://github.com/commitizen-tools) maintainer
-* 💻 Remote Worker
+* 🐍 [Pythonista](https://pycon-note.wei-lee.me/)
+* 🐍 [PyCon Taiwan](https://tw.pycon.org/) organizer
+* [commitizen-tools](https://github.com/commitizen-tools) maintainer
+* [Apache Airflow](https://github.com/apache/airflow/) committer
 * [📷 Traveler](https://travlog.wei-lee.me/)
+* ⛺ Member of [台湾野クル▲](https://twitter.com/Taiwannokuru)
 * 📺 Anime Lover
 * 📖 Reader
 * 🎵 Ukulele Player
@@ -16,7 +17,11 @@ I enjoy automating tedious tasks and creating high-quality code. Enjoy participa
 
 I share my technical notes, book digests, and occasional thoughts on my main blog [Those aren't written down are meant to be forgotten](https://blog.wei-lee.me/). If you're interested in topics such as cooking, anime, and travel, I chat about those things on [Those things no one cares about](https://travlog.wei-lee.me/).
 
-<p align="center">
+
+---
+
+<p align="left">
+You can find me through
   <a href="https://in.linkedin.com/in/clleew" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -27,6 +32,13 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+---
+
 
 ## 🖊️ Blogs
 
@@ -40,16 +52,6 @@ I share my technical notes, book digests, and occasional thoughts on my main blo
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/pycontw/pycontw-blog/pull/73) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🎉 Merged PR [#72](https://github.com/pycontw/pycontw-blog/pull/72) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 💪 Opened PR [#36550](https://github.com/apache/airflow/pull/36550) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. 🗣 Commented on [#1410](https://github.com/astronomer/astronomer-providers/issues/1410) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🗣 Commented on [#196](https://github.com/astronomer/ask-astro/issues/196) in [astronomer/ask-astro](https://github.com/astronomer/ask-astro)
-7. 🗣 Commented on [#36416](https://github.com/apache/airflow/issues/36416) in [apache/airflow](https://github.com/apache/airflow)
-8. ❗️ Closed issue [#1377](https://github.com/astronomer/astronomer-providers/issues/1377) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#922](https://github.com/commitizen-tools/commitizen/issues/922) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#952](https://github.com/commitizen-tools/commitizen/pull/952) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
