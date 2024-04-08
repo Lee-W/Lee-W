@@ -44,11 +44,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: today)
+* [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 1 day ago)
+* [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 4 days ago)
 * [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 1 month ago)
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 2 months ago)
 * [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 2 months ago)
-* [[Book] 日本經典動畫指南](https://blog.wei-lee.me/posts/book/2024/01/the-Essential-Guide-to-Japanese-Animated-Cinema) (Published: 2 months ago)
 
 ### Those things no one cares about
  
