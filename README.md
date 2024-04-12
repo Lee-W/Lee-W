@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 4 days ago)
+* [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 5 days ago)
 * [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 1 week ago)
 * [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 1 month ago)
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 2 months ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#38900](https://github.com/apache/airflow/issues/38900) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#38736](https://github.com/apache/airflow/issues/38736) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#38674](https://github.com/apache/airflow/issues/38674) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#38674](https://github.com/apache/airflow/issues/38674) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#38881](https://github.com/apache/airflow/issues/38881) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#1502](https://github.com/astronomer/astronomer-providers/pull/1502) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🗣 Commented on [#38881](https://github.com/apache/airflow/issues/38881) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#1501](https://github.com/astronomer/astronomer-providers/pull/1501) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#1059](https://github.com/commitizen-tools/commitizen/issues/1059) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 💪 Opened PR [#1059](https://github.com/commitizen-tools/commitizen/pull/1059) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ❗️ Closed issue [#656](https://github.com/commitizen-tools/commitizen/issues/656) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#1047](https://github.com/commitizen-tools/commitizen/pull/1047) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#1047](https://github.com/commitizen-tools/commitizen/issues/1047) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#38924](https://github.com/apache/airflow/issues/38924) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#38924](https://github.com/apache/airflow/issues/38924) in [apache/airflow](https://github.com/apache/airflow)
+6. ❗️ Closed issue [#38461](https://github.com/apache/airflow/issues/38461) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#38852](https://github.com/apache/airflow/pull/38852) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#38918](https://github.com/apache/airflow/pull/38918) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#38924](https://github.com/apache/airflow/pull/38924) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#38584](https://github.com/apache/airflow/pull/38584) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
