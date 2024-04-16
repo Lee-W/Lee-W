@@ -48,11 +48,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 * [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 1 week ago)
 * [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 1 month ago)
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 2 months ago)
-* [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 2 months ago)
+* [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 3 months ago)
 
 ### Those things no one cares about
  
- * [2024 春番嚐百草](https://travlog.wei-lee.me/posts/review/2024/04/what-i-will-watch-in-2024-sprint) (Published: 1 day ago)
+ * [2024 春番嚐百草](https://travlog.wei-lee.me/posts/review/2024/04/what-i-will-watch-in-2024-sprint) (Published: 2 days ago)
  * [2023 秋季看什麼](https://travlog.wei-lee.me/posts/review/2024/02/what-i-watch-in-2023-fall) (Published: 1 month ago)
  * [吼呦～杰哥不要啦](https://travlog.wei-lee.me/posts/review/2024/02/a-jie-do-not-do-it-musical) (Published: 2 months ago)
  * [ANIPLEX 20th Anniversary Event-THANX-](https://travlog.wei-lee.me/posts/review/2024/01/aniplex-20th-anniversary-event-thanx) (Published: 3 months ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. ❌ Reopened PR [#39012](https://github.com/apache/airflow/pull/39012) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#39012](https://github.com/apache/airflow/issues/39012) in [apache/airflow](https://github.com/apache/airflow)
-3. ❌ Closed PR [#39012](https://github.com/apache/airflow/pull/39012) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#39009](https://github.com/apache/airflow/issues/39009) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#39012](https://github.com/apache/airflow/pull/39012) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#39004](https://github.com/apache/airflow/pull/39004) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#38997](https://github.com/apache/airflow/issues/38997) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#38962](https://github.com/apache/airflow/pull/38962) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#38904](https://github.com/apache/airflow/issues/38904) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#132](https://github.com/Lee-W/cookiecutter-python-template/pull/132) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 🎉 Merged PR [#134](https://github.com/Lee-W/cookiecutter-python-template/pull/134) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+2. 🎉 Merged PR [#1064](https://github.com/commitizen-tools/commitizen/pull/1064) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#38912](https://github.com/apache/airflow/pull/38912) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#38902](https://github.com/apache/airflow/pull/38902) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#39009](https://github.com/apache/airflow/issues/39009) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#1064](https://github.com/commitizen-tools/commitizen/issues/1064) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#38912](https://github.com/apache/airflow/issues/38912) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#1063](https://github.com/commitizen-tools/commitizen/pull/1063) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1063](https://github.com/commitizen-tools/commitizen/issues/1063) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#139](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/139) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 
 
 ## ⭐ GitHub Stat
