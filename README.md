@@ -45,7 +45,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those aren't written down are meant to be forgotten
 
 * [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 2 weeks ago)
-* [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 2 weeks ago)
+* [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 3 weeks ago)
 * [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 2 months ago)
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 3 months ago)
 * [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 3 months ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1073](https://github.com/commitizen-tools/commitizen/issues/1073) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#950](https://github.com/commitizen-tools/commitizen/issues/950) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#950](https://github.com/commitizen-tools/commitizen/issues/950) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#1076](https://github.com/commitizen-tools/commitizen/issues/1076) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. ❌ Closed PR [#1510](https://github.com/astronomer/astronomer-providers/pull/1510) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. ❌ Closed PR [#1512](https://github.com/astronomer/astronomer-providers/pull/1512) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 🎉 Merged PR [#39175](https://github.com/apache/airflow/pull/39175) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#1079](https://github.com/commitizen-tools/commitizen/pull/1079) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#39112](https://github.com/apache/airflow/issues/39112) in [apache/airflow](https://github.com/apache/airflow)
-10. ❌ Closed PR [#144](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/144) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+1. 🎉 Merged PR [#146](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/146) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+2. 🗣 Commented on [#39127](https://github.com/apache/airflow/issues/39127) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#39214](https://github.com/apache/airflow/issues/39214) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#39214](https://github.com/apache/airflow/pull/39214) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#1080](https://github.com/commitizen-tools/commitizen/pull/1080) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#950](https://github.com/commitizen-tools/commitizen/issues/950) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#1081](https://github.com/commitizen-tools/commitizen/issues/1081) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 💪 Opened PR [#1081](https://github.com/commitizen-tools/commitizen/pull/1081) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1073](https://github.com/commitizen-tools/commitizen/issues/1073) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1073](https://github.com/commitizen-tools/commitizen/issues/1073) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
