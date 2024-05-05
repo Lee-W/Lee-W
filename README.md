@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 3 weeks ago)
+* [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 4 weeks ago)
 * [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 1 month ago)
 * [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 2 months ago)
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 3 months ago)
@@ -52,11 +52,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [30 天歌挑戰 - Day 13](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-13) (Published: today)
- * [30 天歌挑戰 - Day 12](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-12) (Published: 1 day ago)
- * [30 天歌挑戰 - Day 11](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-11) (Published: 2 days ago)
- * [30 天歌挑戰 - Day 10](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-10) (Published: 3 days ago)
- * [30 天歌挑戰 - Day 9](https://travlog.wei-lee.me/posts/review/2024/04/30-day-song-challenge-day-9) (Published: 4 days ago)
+ * [30 天歌挑戰 - Day 13](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-13) (Published: 1 day ago)
+ * [30 天歌挑戰 - Day 12](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-12) (Published: 2 days ago)
+ * [30 天歌挑戰 - Day 11](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-11) (Published: 3 days ago)
+ * [30 天歌挑戰 - Day 10](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-10) (Published: 4 days ago)
+ * [30 天歌挑戰 - Day 9](https://travlog.wei-lee.me/posts/review/2024/04/30-day-song-challenge-day-9) (Published: 5 days ago)
 
 ## 🖥️ Recently working on
 
