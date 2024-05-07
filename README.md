@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 4 weeks ago)
+* [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 1 month ago)
 * [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 1 month ago)
 * [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 2 months ago)
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 3 months ago)
@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [30 天歌挑戰 - Day 13](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-13) (Published: 2 days ago)
- * [30 天歌挑戰 - Day 12](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-12) (Published: 3 days ago)
- * [30 天歌挑戰 - Day 11](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-11) (Published: 4 days ago)
- * [30 天歌挑戰 - Day 10](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-10) (Published: 5 days ago)
- * [30 天歌挑戰 - Day 9](https://travlog.wei-lee.me/posts/review/2024/04/30-day-song-challenge-day-9) (Published: 6 days ago)
+ * [30 天歌挑戰 - Day 13](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-13) (Published: 3 days ago)
+ * [30 天歌挑戰 - Day 12](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-12) (Published: 4 days ago)
+ * [30 天歌挑戰 - Day 11](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-11) (Published: 5 days ago)
+ * [30 天歌挑戰 - Day 10](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-10) (Published: 6 days ago)
+ * [30 天歌挑戰 - Day 9](https://travlog.wei-lee.me/posts/review/2024/04/30-day-song-challenge-day-9) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#39354](https://github.com/apache/airflow/pull/39354) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#39354](https://github.com/apache/airflow/issues/39354) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#39315](https://github.com/apache/airflow/issues/39315) in [apache/airflow](https://github.com/apache/airflow)
-4. ❗️ Closed issue [#35622](https://github.com/apache/airflow/issues/35622) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#38502](https://github.com/apache/airflow/pull/38502) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#38868](https://github.com/apache/airflow/issues/38868) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#1521](https://github.com/astronomer/astronomer-providers/issues/1521) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🗣 Commented on [#1522](https://github.com/astronomer/astronomer-providers/issues/1522) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 💪 Opened PR [#1522](https://github.com/astronomer/astronomer-providers/pull/1522) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🎉 Merged PR [#1518](https://github.com/astronomer/astronomer-providers/pull/1518) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#1521](https://github.com/astronomer/astronomer-providers/issues/1521) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. ❗️ Closed issue [#1521](https://github.com/astronomer/astronomer-providers/issues/1521) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🎉 Merged PR [#1524](https://github.com/astronomer/astronomer-providers/pull/1524) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 🎉 Merged PR [#148](https://github.com/Lee-W/cookiecutter-python-template/pull/148) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+5. 🗣 Commented on [#148](https://github.com/Lee-W/cookiecutter-python-template/issues/148) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+6. 🎉 Merged PR [#150](https://github.com/Lee-W/cookiecutter-python-template/pull/150) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+7. 🗣 Commented on [#1094](https://github.com/commitizen-tools/commitizen/issues/1094) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ❗️ Closed issue [#1094](https://github.com/commitizen-tools/commitizen/issues/1094) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#148](https://github.com/Lee-W/cookiecutter-python-template/issues/148) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 🎉 Merged PR [#149](https://github.com/Lee-W/cookiecutter-python-template/pull/149) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 
 
 ## ⭐ GitHub Stat
