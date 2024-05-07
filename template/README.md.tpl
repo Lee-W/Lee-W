@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39354](https://github.com/apache/airflow/pull/39354) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#39354](https://github.com/apache/airflow/issues/39354) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#39315](https://github.com/apache/airflow/issues/39315) in [apache/airflow](https://github.com/apache/airflow)
-4. ❗️ Closed issue [#35622](https://github.com/apache/airflow/issues/35622) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#38502](https://github.com/apache/airflow/pull/38502) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#38868](https://github.com/apache/airflow/issues/38868) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#1521](https://github.com/astronomer/astronomer-providers/issues/1521) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🗣 Commented on [#1522](https://github.com/astronomer/astronomer-providers/issues/1522) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 💪 Opened PR [#1522](https://github.com/astronomer/astronomer-providers/pull/1522) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🎉 Merged PR [#1518](https://github.com/astronomer/astronomer-providers/pull/1518) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#1521](https://github.com/astronomer/astronomer-providers/issues/1521) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+2. ❗️ Closed issue [#1521](https://github.com/astronomer/astronomer-providers/issues/1521) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. 🎉 Merged PR [#1524](https://github.com/astronomer/astronomer-providers/pull/1524) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 🎉 Merged PR [#148](https://github.com/Lee-W/cookiecutter-python-template/pull/148) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+5. 🗣 Commented on [#148](https://github.com/Lee-W/cookiecutter-python-template/issues/148) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+6. 🎉 Merged PR [#150](https://github.com/Lee-W/cookiecutter-python-template/pull/150) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+7. 🗣 Commented on [#1094](https://github.com/commitizen-tools/commitizen/issues/1094) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ❗️ Closed issue [#1094](https://github.com/commitizen-tools/commitizen/issues/1094) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#148](https://github.com/Lee-W/cookiecutter-python-template/issues/148) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 🎉 Merged PR [#149](https://github.com/Lee-W/cookiecutter-python-template/pull/149) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
