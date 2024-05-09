@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39446](https://github.com/apache/airflow/issues/39446) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#39447](https://github.com/apache/airflow/issues/39447) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#39442](https://github.com/apache/airflow/issues/39442) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#39308](https://github.com/apache/airflow/issues/39308) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#2153](https://github.com/astronomer/astro-sdk/issues/2153) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-6. 💪 Opened PR [#2153](https://github.com/astronomer/astro-sdk/pull/2153) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-7. ❗️ Opened issue [#2152](https://github.com/astronomer/astro-sdk/issues/2152) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-8. 🎉 Merged PR [#2151](https://github.com/astronomer/astro-sdk/pull/2151) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-9. 🗣 Commented on [#1521](https://github.com/astronomer/astronomer-providers/issues/1521) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. ❗️ Closed issue [#1521](https://github.com/astronomer/astronomer-providers/issues/1521) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🎉 Merged PR [#39447](https://github.com/apache/airflow/pull/39447) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#39442](https://github.com/apache/airflow/pull/39442) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#39446](https://github.com/apache/airflow/pull/39446) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#39446](https://github.com/apache/airflow/issues/39446) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#39447](https://github.com/apache/airflow/issues/39447) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#39442](https://github.com/apache/airflow/issues/39442) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#39308](https://github.com/apache/airflow/issues/39308) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#2153](https://github.com/astronomer/astro-sdk/issues/2153) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+9. 💪 Opened PR [#2153](https://github.com/astronomer/astro-sdk/pull/2153) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+10. ❗️ Opened issue [#2152](https://github.com/astronomer/astro-sdk/issues/2152) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
