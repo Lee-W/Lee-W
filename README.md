@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [30 天歌挑戰 - Day 18](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-18) (Published: 1 day ago)
- * [30 天歌挑戰 - Day 17](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-17) (Published: 2 days ago)
- * [30 天歌挑戰 - Day 16](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-16) (Published: 3 days ago)
- * [30 天歌挑戰 - Day 15](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-15) (Published: 4 days ago)
- * [30 天歌挑戰 - Day 14](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-14) (Published: 5 days ago)
+ * [30 天歌挑戰 - Day 19](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-19) (Published: 1 day ago)
+ * [30 天歌挑戰 - Day 18](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-18) (Published: 2 days ago)
+ * [30 天歌挑戰 - Day 17](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-17) (Published: 3 days ago)
+ * [30 天歌挑戰 - Day 16](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-16) (Published: 4 days ago)
+ * [30 天歌挑戰 - Day 15](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-15) (Published: 5 days ago)
 
 ## 🖥️ Recently working on
 
-1. ❌ Closed PR [#10](https://github.com/Lee-W/main-blog/pull/10) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 🎉 Merged PR [#1100](https://github.com/commitizen-tools/commitizen/pull/1100) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#39447](https://github.com/apache/airflow/pull/39447) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#39442](https://github.com/apache/airflow/pull/39442) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#39446](https://github.com/apache/airflow/pull/39446) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#39446](https://github.com/apache/airflow/issues/39446) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#39447](https://github.com/apache/airflow/issues/39447) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#39442](https://github.com/apache/airflow/issues/39442) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#39308](https://github.com/apache/airflow/issues/39308) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#2153](https://github.com/astronomer/astro-sdk/issues/2153) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+1. 🎉 Merged PR [#1101](https://github.com/commitizen-tools/commitizen/pull/1101) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. ❌ Closed PR [#10](https://github.com/Lee-W/main-blog/pull/10) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+3. 🎉 Merged PR [#1100](https://github.com/commitizen-tools/commitizen/pull/1100) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#39447](https://github.com/apache/airflow/pull/39447) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#39442](https://github.com/apache/airflow/pull/39442) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#39446](https://github.com/apache/airflow/pull/39446) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#39446](https://github.com/apache/airflow/issues/39446) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#39447](https://github.com/apache/airflow/issues/39447) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#39442](https://github.com/apache/airflow/issues/39442) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#39308](https://github.com/apache/airflow/issues/39308) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
