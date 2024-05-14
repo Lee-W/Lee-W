@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
+* [[Book] 創作的基因：書籍、電影、音樂,賦予遊戲製作人小島秀夫無限創意的文化記憶](https://blog.wei-lee.me/posts/book/2024/05/creative-gene) (Published: 1 day ago)
 * [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 1 month ago)
 * [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 1 month ago)
 * [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 2 months ago)
 * [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 3 months ago)
-* [遇到 Error: fatal: could not read Username for &#39;https://github.com&#39;: terminal prompts disabled 怎麼辦 😱](https://blog.wei-lee.me/posts/tech/2024/01/how-to-deal-with-could-not-read-username-for-github) (Published: 3 months ago)
 
 ### Those things no one cares about
  
- * [30 天歌挑戰 - Day 22](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-22) (Published: 1 day ago)
- * [30 天歌挑戰 - Day 21](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-21) (Published: 1 day ago)
- * [30 天歌挑戰 - Day 20](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-20) (Published: 2 days ago)
- * [30 天歌挑戰 - Day 19](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-19) (Published: 3 days ago)
- * [30 天歌挑戰 - Day 18](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-18) (Published: 4 days ago)
+ * [玉米炊飯及玉米天婦羅](https://travlog.wei-lee.me/posts/cook/2024/05/rider-s-corn-set) (Published: 1 day ago)
+ * [30 天歌挑戰 - Day 22](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-22) (Published: 2 days ago)
+ * [30 天歌挑戰 - Day 21](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-21) (Published: 2 days ago)
+ * [30 天歌挑戰 - Day 20](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-20) (Published: 3 days ago)
+ * [30 天歌挑戰 - Day 19](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-19) (Published: 4 days ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#130](https://github.com/pycontw/pycon-etl/issues/130) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. ❌ Closed PR [#130](https://github.com/pycontw/pycon-etl/pull/130) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-3. 🎉 Merged PR [#129](https://github.com/pycontw/pycontw-blog/pull/129) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🎉 Merged PR [#1101](https://github.com/commitizen-tools/commitizen/pull/1101) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. ❌ Closed PR [#10](https://github.com/Lee-W/main-blog/pull/10) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-6. 🎉 Merged PR [#1100](https://github.com/commitizen-tools/commitizen/pull/1100) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#39447](https://github.com/apache/airflow/pull/39447) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#39442](https://github.com/apache/airflow/pull/39442) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#39446](https://github.com/apache/airflow/pull/39446) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#39446](https://github.com/apache/airflow/issues/39446) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#39582](https://github.com/apache/airflow/pull/39582) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#39582](https://github.com/apache/airflow/issues/39582) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#39585](https://github.com/apache/airflow/pull/39585) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#39513](https://github.com/apache/airflow/issues/39513) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#1102](https://github.com/commitizen-tools/commitizen/issues/1102) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#130](https://github.com/pycontw/pycontw-blog/pull/130) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🎉 Merged PR [#1105](https://github.com/commitizen-tools/commitizen/pull/1105) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ❌ Closed PR [#1103](https://github.com/commitizen-tools/commitizen/pull/1103) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1099](https://github.com/commitizen-tools/commitizen/issues/1099) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1103](https://github.com/commitizen-tools/commitizen/issues/1103) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
