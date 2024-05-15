@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39582](https://github.com/apache/airflow/pull/39582) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#39582](https://github.com/apache/airflow/issues/39582) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#39585](https://github.com/apache/airflow/pull/39585) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#39513](https://github.com/apache/airflow/issues/39513) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#1102](https://github.com/commitizen-tools/commitizen/issues/1102) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#130](https://github.com/pycontw/pycontw-blog/pull/130) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🎉 Merged PR [#1105](https://github.com/commitizen-tools/commitizen/pull/1105) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. ❌ Closed PR [#1103](https://github.com/commitizen-tools/commitizen/pull/1103) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#1099](https://github.com/commitizen-tools/commitizen/issues/1099) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#1103](https://github.com/commitizen-tools/commitizen/issues/1103) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#1107](https://github.com/commitizen-tools/commitizen/issues/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#1107](https://github.com/commitizen-tools/commitizen/issues/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#39371](https://github.com/apache/airflow/pull/39371) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#1529](https://github.com/astronomer/astronomer-providers/pull/1529) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. ❌ Closed PR [#1513](https://github.com/astronomer/astronomer-providers/pull/1513) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🗣 Commented on [#1513](https://github.com/astronomer/astronomer-providers/issues/1513) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. ❌ Closed PR [#1527](https://github.com/astronomer/astronomer-providers/pull/1527) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+8. ❌ Closed PR [#1520](https://github.com/astronomer/astronomer-providers/pull/1520) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 🗣 Commented on [#39313](https://github.com/apache/airflow/issues/39313) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#152](https://github.com/Lee-W/cookiecutter-python-template/pull/152) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
