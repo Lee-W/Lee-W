@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1107](https://github.com/commitizen-tools/commitizen/issues/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#1107](https://github.com/commitizen-tools/commitizen/issues/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#39371](https://github.com/apache/airflow/pull/39371) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#1529](https://github.com/astronomer/astronomer-providers/pull/1529) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-5. ❌ Closed PR [#1513](https://github.com/astronomer/astronomer-providers/pull/1513) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. 🗣 Commented on [#1513](https://github.com/astronomer/astronomer-providers/issues/1513) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. ❌ Closed PR [#1527](https://github.com/astronomer/astronomer-providers/pull/1527) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. ❌ Closed PR [#1520](https://github.com/astronomer/astronomer-providers/pull/1520) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. 🗣 Commented on [#39313](https://github.com/apache/airflow/issues/39313) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#152](https://github.com/Lee-W/cookiecutter-python-template/pull/152) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. ❗️ Opened issue [#1115](https://github.com/commitizen-tools/commitizen/issues/1115) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#1114](https://github.com/commitizen-tools/commitizen/issues/1114) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ❗️ Opened issue [#1113](https://github.com/commitizen-tools/commitizen/issues/1113) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. ❗️ Opened issue [#1112](https://github.com/commitizen-tools/commitizen/issues/1112) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#39585](https://github.com/apache/airflow/issues/39585) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#1086](https://github.com/commitizen-tools/commitizen/issues/1086) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#1086](https://github.com/commitizen-tools/commitizen/pull/1086) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#1107](https://github.com/commitizen-tools/commitizen/pull/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1107](https://github.com/commitizen-tools/commitizen/issues/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1107](https://github.com/commitizen-tools/commitizen/issues/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
