@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [[Book] 創作的基因：書籍、電影、音樂,賦予遊戲製作人小島秀夫無限創意的文化記憶](https://blog.wei-lee.me/posts/book/2024/05/creative-gene) (Published: 3 days ago)
+* [[Book] 創作的基因：書籍、電影、音樂,賦予遊戲製作人小島秀夫無限創意的文化記憶](https://blog.wei-lee.me/posts/book/2024/05/creative-gene) (Published: 4 days ago)
 * [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 1 month ago)
 * [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 1 month ago)
 * [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 2 months ago)
@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [30 天歌挑戰 - Day 24](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-24) (Published: 1 day ago)
- * [30 天歌挑戰 - Day 23](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-23) (Published: 2 days ago)
- * [玉米炊飯及玉米天婦羅](https://travlog.wei-lee.me/posts/cook/2024/05/rider-s-corn-set) (Published: 3 days ago)
- * [30 天歌挑戰 - Day 22](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-22) (Published: 4 days ago)
- * [30 天歌挑戰 - Day 21](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-21) (Published: 4 days ago)
+ * [30 天歌挑戰 - Day 25](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-25) (Published: 1 day ago)
+ * [30 天歌挑戰 - Day 24](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-24) (Published: 2 days ago)
+ * [30 天歌挑戰 - Day 23](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-23) (Published: 3 days ago)
+ * [玉米炊飯及玉米天婦羅](https://travlog.wei-lee.me/posts/cook/2024/05/rider-s-corn-set) (Published: 4 days ago)
+ * [30 天歌挑戰 - Day 22](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-22) (Published: 5 days ago)
 
 ## 🖥️ Recently working on
 
-1. ❗️ Opened issue [#1115](https://github.com/commitizen-tools/commitizen/issues/1115) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#1115](https://github.com/commitizen-tools/commitizen/issues/1115) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 2. 🗣 Commented on [#1114](https://github.com/commitizen-tools/commitizen/issues/1114) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. ❗️ Opened issue [#1113](https://github.com/commitizen-tools/commitizen/issues/1113) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. ❗️ Opened issue [#1112](https://github.com/commitizen-tools/commitizen/issues/1112) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#39585](https://github.com/apache/airflow/issues/39585) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#1086](https://github.com/commitizen-tools/commitizen/issues/1086) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#1086](https://github.com/commitizen-tools/commitizen/pull/1086) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#1107](https://github.com/commitizen-tools/commitizen/pull/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#1107](https://github.com/commitizen-tools/commitizen/issues/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#1107](https://github.com/commitizen-tools/commitizen/issues/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ❗️ Opened issue [#1115](https://github.com/commitizen-tools/commitizen/issues/1115) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#1114](https://github.com/commitizen-tools/commitizen/issues/1114) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. ❗️ Opened issue [#1113](https://github.com/commitizen-tools/commitizen/issues/1113) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. ❗️ Opened issue [#1112](https://github.com/commitizen-tools/commitizen/issues/1112) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#39585](https://github.com/apache/airflow/issues/39585) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#1086](https://github.com/commitizen-tools/commitizen/issues/1086) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#1086](https://github.com/commitizen-tools/commitizen/pull/1086) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#1107](https://github.com/commitizen-tools/commitizen/pull/1107) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
