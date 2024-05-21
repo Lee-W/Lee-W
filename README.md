@@ -48,28 +48,28 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 * [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 1 month ago)
 * [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 1 month ago)
 * [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 3 months ago)
-* [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 3 months ago)
+* [2023 東京 Coworking Spaces](https://blog.wei-lee.me/posts/tech/2024/01/2023-tokyo-coworking-space) (Published: 4 months ago)
 
 ### Those things no one cares about
  
- * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 1 day ago)
- * [30 天歌挑戰 - Day 27](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-27) (Published: 3 days ago)
- * [30 天歌挑戰 - Day 26](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-26) (Published: 4 days ago)
- * [30 天歌挑戰 - Day 25](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-25) (Published: 4 days ago)
- * [30 天歌挑戰 - Day 24](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-24) (Published: 5 days ago)
+ * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 2 days ago)
+ * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 2 days ago)
+ * [30 天歌挑戰 - Day 27](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-27) (Published: 4 days ago)
+ * [30 天歌挑戰 - Day 26](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-26) (Published: 5 days ago)
+ * [30 天歌挑戰 - Day 25](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-25) (Published: 5 days ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1121](https://github.com/commitizen-tools/commitizen/issues/1121) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#1119](https://github.com/commitizen-tools/commitizen/issues/1119) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#1119](https://github.com/commitizen-tools/commitizen/issues/1119) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#1122](https://github.com/commitizen-tools/commitizen/issues/1122) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1119](https://github.com/commitizen-tools/commitizen/issues/1119) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#1122](https://github.com/commitizen-tools/commitizen/issues/1122) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#1122](https://github.com/commitizen-tools/commitizen/issues/1122) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. ❗️ Closed issue [#1112](https://github.com/commitizen-tools/commitizen/issues/1112) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#1112](https://github.com/commitizen-tools/commitizen/issues/1112) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#1122](https://github.com/commitizen-tools/commitizen/pull/1122) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ❗️ Opened issue [#1129](https://github.com/commitizen-tools/commitizen/issues/1129) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#597](https://github.com/commitizen-tools/commitizen/issues/597) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ❗️ Closed issue [#597](https://github.com/commitizen-tools/commitizen/issues/597) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#672](https://github.com/commitizen-tools/commitizen/issues/672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. ❗️ Closed issue [#672](https://github.com/commitizen-tools/commitizen/issues/672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#753](https://github.com/commitizen-tools/commitizen/issues/753) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. ❗️ Closed issue [#751](https://github.com/commitizen-tools/commitizen/issues/751) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#751](https://github.com/commitizen-tools/commitizen/issues/751) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#757](https://github.com/commitizen-tools/commitizen/issues/757) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. ❗️ Closed issue [#757](https://github.com/commitizen-tools/commitizen/issues/757) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
