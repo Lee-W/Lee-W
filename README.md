@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 2 days ago)
+* [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 3 days ago)
 * [[Book] 創作的基因：書籍、電影、音樂,賦予遊戲製作人小島秀夫無限創意的文化記憶](https://blog.wei-lee.me/posts/book/2024/05/creative-gene) (Published: 1 week ago)
 * [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 1 month ago)
 * [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 1 month ago)
@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 4 days ago)
- * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 4 days ago)
- * [30 天歌挑戰 - Day 27](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-27) (Published: 6 days ago)
+ * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 5 days ago)
+ * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 5 days ago)
+ * [30 天歌挑戰 - Day 27](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-27) (Published: 1 week ago)
  * [30 天歌挑戰 - Day 26](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-26) (Published: 1 week ago)
  * [30 天歌挑戰 - Day 25](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-25) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#132](https://github.com/pycontw/pycontw-blog/pull/132) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🗣 Commented on [#1138](https://github.com/commitizen-tools/commitizen/issues/1138) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#1128](https://github.com/commitizen-tools/commitizen/pull/1128) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. ❗️ Opened issue [#1138](https://github.com/commitizen-tools/commitizen/issues/1138) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1135](https://github.com/commitizen-tools/commitizen/issues/1135) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#1134](https://github.com/commitizen-tools/commitizen/issues/1134) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#1136](https://github.com/commitizen-tools/commitizen/issues/1136) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. ❗️ Closed issue [#1111](https://github.com/commitizen-tools/commitizen/issues/1111) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#1130](https://github.com/commitizen-tools/commitizen/pull/1130) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#1110](https://github.com/commitizen-tools/commitizen/issues/1110) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#1135](https://github.com/commitizen-tools/commitizen/issues/1135) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#133](https://github.com/pycontw/pycontw-blog/pull/133) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 🎉 Merged PR [#1140](https://github.com/commitizen-tools/commitizen/pull/1140) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. ❗️ Closed issue [#1138](https://github.com/commitizen-tools/commitizen/issues/1138) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#1139](https://github.com/commitizen-tools/commitizen/pull/1139) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#1136](https://github.com/commitizen-tools/commitizen/pull/1136) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#132](https://github.com/pycontw/pycontw-blog/pull/132) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🗣 Commented on [#1138](https://github.com/commitizen-tools/commitizen/issues/1138) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#1128](https://github.com/commitizen-tools/commitizen/pull/1128) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. ❗️ Opened issue [#1138](https://github.com/commitizen-tools/commitizen/issues/1138) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
