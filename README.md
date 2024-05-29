@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
+ * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: today)
+ * [30 天歌挑戰 - Day 30](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-30) (Published: 1 week ago)
  * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 1 week ago)
  * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 1 week ago)
  * [30 天歌挑戰 - Day 27](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-27) (Published: 1 week ago)
- * [30 天歌挑戰 - Day 26](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-26) (Published: 1 week ago)
- * [30 天歌挑戰 - Day 25](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-25) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#39842](https://github.com/apache/airflow/issues/39842) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#39874](https://github.com/apache/airflow/pull/39874) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#1119](https://github.com/commitizen-tools/commitizen/issues/1119) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#1073](https://github.com/commitizen-tools/commitizen/issues/1073) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1135](https://github.com/commitizen-tools/commitizen/issues/1135) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#1032](https://github.com/commitizen-tools/commitizen/issues/1032) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#1110](https://github.com/commitizen-tools/commitizen/issues/1110) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#841](https://github.com/commitizen-tools/commitizen/issues/841) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#38497](https://github.com/apache/airflow/pull/38497) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#1142](https://github.com/commitizen-tools/commitizen/pull/1142) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ❗️ Opened issue [#1145](https://github.com/commitizen-tools/commitizen/issues/1145) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#160](https://github.com/Lee-W/cookiecutter-python-template/pull/160) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+3. 🎉 Merged PR [#160](https://github.com/Lee-W/cookiecutter-python-template/pull/160) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+4. ❌ Closed PR [#179](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/179) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+5. ❌ Closed PR [#177](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/177) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. ❌ Closed PR [#171](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/171) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. ❌ Closed PR [#170](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/170) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. ❌ Closed PR [#172](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/172) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. 💪 Opened PR [#181](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/181) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. ❌ Closed PR [#175](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/175) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 
 
 ## ⭐ GitHub Stat
