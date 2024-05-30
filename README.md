@@ -52,7 +52,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: today)
+ * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: 1 day ago)
  * [30 天歌挑戰 - Day 30](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-30) (Published: 1 week ago)
  * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 1 week ago)
  * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 1 week ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. ❗️ Opened issue [#1145](https://github.com/commitizen-tools/commitizen/issues/1145) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#160](https://github.com/Lee-W/cookiecutter-python-template/pull/160) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-3. 🎉 Merged PR [#160](https://github.com/Lee-W/cookiecutter-python-template/pull/160) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-4. ❌ Closed PR [#179](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/179) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. ❌ Closed PR [#177](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/177) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. ❌ Closed PR [#171](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/171) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. ❌ Closed PR [#170](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/170) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. ❌ Closed PR [#172](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/172) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-9. 💪 Opened PR [#181](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/181) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-10. ❌ Closed PR [#175](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/175) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+1. 🎉 Merged PR [#182](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/182) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+2. 🎉 Merged PR [#181](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/181) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+3. 🎉 Merged PR [#183](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/183) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+4. 🗣 Commented on [#39912](https://github.com/apache/airflow/issues/39912) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#134](https://github.com/pycontw/pycontw-blog/pull/134) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 💪 Opened PR [#39912](https://github.com/apache/airflow/pull/39912) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#1147](https://github.com/commitizen-tools/commitizen/pull/1147) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#1539](https://github.com/astronomer/astronomer-providers/pull/1539) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. ❗️ Opened issue [#1145](https://github.com/commitizen-tools/commitizen/issues/1145) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#160](https://github.com/Lee-W/cookiecutter-python-template/pull/160) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 
 
 ## ⭐ GitHub Stat
