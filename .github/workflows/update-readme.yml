@@ -13,12 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Lee-W/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 10
-          README_PATH: "template/README.md.tpl"
+          TARGET_FILE: "template/README.md.tpl"
 
       - uses: muesli/readme-scribe@master
         env:
