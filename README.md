@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [2024 冬季看什麼](https://travlog.wei-lee.me/posts/review/2024/05/what-i-watched-in-2024-winter) (Published: today)
- * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: 2 days ago)
+ * [2024 冬季看什麼](https://travlog.wei-lee.me/posts/review/2024/05/what-i-watched-in-2024-winter) (Published: 1 day ago)
+ * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: 3 days ago)
  * [30 天歌挑戰 - Day 30](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-30) (Published: 1 week ago)
  * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 1 week ago)
  * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#161](https://github.com/Lee-W/cookiecutter-python-template/pull/161) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. 🗣 Commented on [#995](https://github.com/commitizen-tools/commitizen/pull/995#issuecomment-2138544992) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#182](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/182) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-4. 🎉 Merged PR [#181](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/181) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. 🎉 Merged PR [#183](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/183) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. 🗣 Commented on [#39912](https://github.com/apache/airflow/pull/39912#issuecomment-2137183722) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#134](https://github.com/pycontw/pycontw-blog/pull/134) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 💪 Opened PR [#39912](https://github.com/apache/airflow/pull/39912) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#1147](https://github.com/commitizen-tools/commitizen/pull/1147) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#1539](https://github.com/astronomer/astronomer-providers/pull/1539) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+1. 🗣 Commented on [#995](https://github.com/commitizen-tools/commitizen/pull/995#issuecomment-2142510682) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#1540](https://github.com/astronomer/astronomer-providers/pull/1540#issuecomment-2142505905) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+3. ❌ Closed PR [#1540](https://github.com/astronomer/astronomer-providers/pull/1540) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+4. 🗣 Commented on [#39912](https://github.com/apache/airflow/pull/39912#issuecomment-2141725680) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#1541](https://github.com/astronomer/astronomer-providers/pull/1541) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🗣 Commented on [#39947](https://github.com/apache/airflow/issues/39947#issuecomment-2141166391) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#161](https://github.com/Lee-W/cookiecutter-python-template/pull/161) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. 🗣 Commented on [#995](https://github.com/commitizen-tools/commitizen/pull/995#issuecomment-2138544992) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#182](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/182) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. 🎉 Merged PR [#181](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/181) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 
 
 ## ⭐ GitHub Stat
