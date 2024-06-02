@@ -52,11 +52,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [2024 冬季看什麼](https://travlog.wei-lee.me/posts/review/2024/05/what-i-watched-in-2024-winter) (Published: 1 day ago)
- * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: 3 days ago)
+ * [2024 冬季看什麼](https://travlog.wei-lee.me/posts/review/2024/05/what-i-watched-in-2024-winter) (Published: 2 days ago)
+ * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: 4 days ago)
  * [30 天歌挑戰 - Day 30](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-30) (Published: 1 week ago)
- * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 1 week ago)
- * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 1 week ago)
+ * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 2 weeks ago)
+ * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
