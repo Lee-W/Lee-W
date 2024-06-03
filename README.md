@@ -44,16 +44,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
+* [Starts Airflow task execution directly from the triggerer](https://blog.wei-lee.me/posts/tech/2024/06/starts-execution-directly-from-triggerer-without-going-to-worker) (Published: 1 day ago)
 * [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 1 week ago)
-* [[Book] 創作的基因：書籍、電影、音樂,賦予遊戲製作人小島秀夫無限創意的文化記憶](https://blog.wei-lee.me/posts/book/2024/05/creative-gene) (Published: 2 weeks ago)
+* [[Book] 創作的基因：書籍、電影、音樂,賦予遊戲製作人小島秀夫無限創意的文化記憶](https://blog.wei-lee.me/posts/book/2024/05/creative-gene) (Published: 3 weeks ago)
 * [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 1 month ago)
-* [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 1 month ago)
-* [Intro to Airflow - From Zero to Hero](https://blog.wei-lee.me/posts/tech/2024/02/intro-to-airflow-from-zero-to-hero) (Published: 3 months ago)
+* [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 2 months ago)
 
 ### Those things no one cares about
  
- * [2024 冬季看什麼](https://travlog.wei-lee.me/posts/review/2024/05/what-i-watched-in-2024-winter) (Published: 2 days ago)
- * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: 4 days ago)
+ * [2024 冬季看什麼](https://travlog.wei-lee.me/posts/review/2024/05/what-i-watched-in-2024-winter) (Published: 3 days ago)
+ * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: 5 days ago)
  * [30 天歌挑戰 - Day 30](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-30) (Published: 1 week ago)
  * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 2 weeks ago)
  * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 2 weeks ago)
