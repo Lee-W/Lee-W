@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#184](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/184) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-2. 🎉 Merged PR [#186](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/186) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-3. 🎉 Merged PR [#185](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/185) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-4. 🎉 Merged PR [#135](https://github.com/pycontw/pycontw-blog/pull/135) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. 🎉 Merged PR [#1150](https://github.com/commitizen-tools/commitizen/pull/1150) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#1151](https://github.com/commitizen-tools/commitizen/pull/1151) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#995](https://github.com/commitizen-tools/commitizen/pull/995#issuecomment-2142510682) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#1540](https://github.com/astronomer/astronomer-providers/pull/1540#issuecomment-2142505905) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-9. ❌ Closed PR [#1540](https://github.com/astronomer/astronomer-providers/pull/1540) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🗣 Commented on [#39912](https://github.com/apache/airflow/pull/39912#issuecomment-2141725680) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#163](https://github.com/Lee-W/cookiecutter-python-template/pull/163) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+2. 🎉 Merged PR [#187](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/187) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+3. 🎉 Merged PR [#162](https://github.com/Lee-W/cookiecutter-python-template/pull/162) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+4. 💪 Opened PR [#40060](https://github.com/apache/airflow/pull/40060) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#40058](https://github.com/apache/airflow/pull/40058) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#1153](https://github.com/commitizen-tools/commitizen/pull/1153) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#39717](https://github.com/apache/airflow/issues/39717#issuecomment-2148697763) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Closed PR [#184](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/184) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. 🎉 Merged PR [#186](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/186) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. 🎉 Merged PR [#185](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/185) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
