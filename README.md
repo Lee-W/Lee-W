@@ -45,7 +45,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those aren't written down are meant to be forgotten
 
 * [Starts Airflow task execution directly from the triggerer](https://blog.wei-lee.me/posts/tech/2024/06/starts-execution-directly-from-triggerer-without-going-to-worker) (Published: 1 week ago)
-* [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 2 weeks ago)
+* [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 3 weeks ago)
 * [[Book] 創作的基因：書籍、電影、音樂,賦予遊戲製作人小島秀夫無限創意的文化記憶](https://blog.wei-lee.me/posts/book/2024/05/creative-gene) (Published: 4 weeks ago)
 * [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 2 months ago)
 * [Python package installation failure inside a CircleCI pipeline](https://blog.wei-lee.me/posts/tech/2024/04/python-package-installation-failure-inside-a-CircleCI-pipeline) (Published: 2 months ago)
@@ -54,22 +54,22 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  
  * [2024 冬季看什麼](https://travlog.wei-lee.me/posts/review/2024/05/what-i-watched-in-2024-winter) (Published: 1 week ago)
  * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: 1 week ago)
- * [30 天歌挑戰 - Day 30](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-30) (Published: 2 weeks ago)
+ * [30 天歌挑戰 - Day 30](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-30) (Published: 3 weeks ago)
  * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 3 weeks ago)
  * [30 天歌挑戰 - Day 28](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-28) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#40050](https://github.com/apache/airflow/pull/40050#issuecomment-2151466061) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#40080](https://github.com/apache/airflow/pull/40080) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#1154](https://github.com/commitizen-tools/commitizen/pull/1154) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#47](https://github.com/pycontw/mail_handler/pull/47) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-5. 🎉 Merged PR [#163](https://github.com/Lee-W/cookiecutter-python-template/pull/163) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-6. 🎉 Merged PR [#187](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/187) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. 🎉 Merged PR [#162](https://github.com/Lee-W/cookiecutter-python-template/pull/162) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. 💪 Opened PR [#40060](https://github.com/apache/airflow/pull/40060) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#40058](https://github.com/apache/airflow/pull/40058) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#185](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/185) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+1. 💪 Opened PR [#58](https://github.com/pycontw/mail_handler/pull/58) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+2. ❌ Closed PR [#57](https://github.com/pycontw/mail_handler/pull/57) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+3. ❌ Closed PR [#55](https://github.com/pycontw/mail_handler/pull/55) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+4. ❌ Closed PR [#56](https://github.com/pycontw/mail_handler/pull/56) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+5. ❌ Closed PR [#53](https://github.com/pycontw/mail_handler/pull/53) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+6. ❌ Closed PR [#52](https://github.com/pycontw/mail_handler/pull/52) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+7. ❌ Closed PR [#51](https://github.com/pycontw/mail_handler/pull/51) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+8. ❌ Closed PR [#50](https://github.com/pycontw/mail_handler/pull/50) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+9. ❌ Closed PR [#49](https://github.com/pycontw/mail_handler/pull/49) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+10. ❌ Closed PR [#48](https://github.com/pycontw/mail_handler/pull/48) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
 
 
 ## ⭐ GitHub Stat
