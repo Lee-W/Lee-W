@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/pycontw/mail_handler/pull/58) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-2. ❌ Closed PR [#57](https://github.com/pycontw/mail_handler/pull/57) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-3. ❌ Closed PR [#55](https://github.com/pycontw/mail_handler/pull/55) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-4. ❌ Closed PR [#56](https://github.com/pycontw/mail_handler/pull/56) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-5. ❌ Closed PR [#53](https://github.com/pycontw/mail_handler/pull/53) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-6. ❌ Closed PR [#52](https://github.com/pycontw/mail_handler/pull/52) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-7. ❌ Closed PR [#51](https://github.com/pycontw/mail_handler/pull/51) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-8. ❌ Closed PR [#50](https://github.com/pycontw/mail_handler/pull/50) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-9. ❌ Closed PR [#49](https://github.com/pycontw/mail_handler/pull/49) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-10. ❌ Closed PR [#48](https://github.com/pycontw/mail_handler/pull/48) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+1. 🗣 Commented on [#136](https://github.com/pycontw/pycontw-blog/pull/136#issuecomment-2161121786) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🎉 Merged PR [#59](https://github.com/pycontw/mail_handler/pull/59) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+3. 💪 Opened PR [#138](https://github.com/pycontw/pycontw-blog/pull/138) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🗣 Commented on [#59](https://github.com/pycontw/mail_handler/pull/59#issuecomment-2160492615) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+5. 🎉 Merged PR [#61](https://github.com/pycontw/mail_handler/pull/61) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+6. 🎉 Merged PR [#58](https://github.com/pycontw/mail_handler/pull/58) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+7. 🎉 Merged PR [#39585](https://github.com/apache/airflow/pull/39585) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#39717](https://github.com/apache/airflow/issues/39717#issuecomment-2160290930) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#40169](https://github.com/apache/airflow/pull/40169) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#40158](https://github.com/apache/airflow/pull/40158) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
