@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [小酒館 Basue](https://travlog.wei-lee.me/posts/review/2024/06/basue) (Published: 1 day ago)
- * [2024 冬季看什麼](https://travlog.wei-lee.me/posts/review/2024/05/what-i-watched-in-2024-winter) (Published: 1 week ago)
+ * [米奇與達利](https://travlog.wei-lee.me/posts/review/2024/06/migi-and-dali) (Published: 1 day ago)
+ * [小酒館 Basue](https://travlog.wei-lee.me/posts/review/2024/06/basue) (Published: 2 days ago)
+ * [2024 冬季看什麼](https://travlog.wei-lee.me/posts/review/2024/05/what-i-watched-in-2024-winter) (Published: 2 weeks ago)
  * [夢的化石](https://travlog.wei-lee.me/posts/review/2024/05/dream-fossil) (Published: 2 weeks ago)
  * [30 天歌挑戰 - Day 30](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-30) (Published: 3 weeks ago)
- * [30 天歌挑戰 - Day 29](https://travlog.wei-lee.me/posts/review/2024/05/30-day-song-challenge-day-29) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#40194](https://github.com/apache/airflow/pull/40194) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#60](https://github.com/pycontw/mail_handler/pull/60) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-3. 🗣 Commented on [#136](https://github.com/pycontw/pycontw-blog/pull/136#issuecomment-2161121786) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🎉 Merged PR [#59](https://github.com/pycontw/mail_handler/pull/59) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-5. 💪 Opened PR [#138](https://github.com/pycontw/pycontw-blog/pull/138) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🗣 Commented on [#59](https://github.com/pycontw/mail_handler/pull/59#issuecomment-2160492615) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-7. 🎉 Merged PR [#61](https://github.com/pycontw/mail_handler/pull/61) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-8. 🎉 Merged PR [#58](https://github.com/pycontw/mail_handler/pull/58) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-9. 🎉 Merged PR [#39585](https://github.com/apache/airflow/pull/39585) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#39717](https://github.com/apache/airflow/issues/39717#issuecomment-2160290930) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#40167](https://github.com/apache/airflow/issues/40167#issuecomment-2165144309) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#40167](https://github.com/apache/airflow/issues/40167) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#101](https://github.com/python-pinot-dbapi/pinot-dbapi/pull/101) in [python-pinot-dbapi/pinot-dbapi](https://github.com/python-pinot-dbapi/pinot-dbapi)
+4. 💪 Opened PR [#40194](https://github.com/apache/airflow/pull/40194) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#60](https://github.com/pycontw/mail_handler/pull/60) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+6. 🗣 Commented on [#136](https://github.com/pycontw/pycontw-blog/pull/136#issuecomment-2161121786) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🎉 Merged PR [#59](https://github.com/pycontw/mail_handler/pull/59) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+8. 💪 Opened PR [#138](https://github.com/pycontw/pycontw-blog/pull/138) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🗣 Commented on [#59](https://github.com/pycontw/mail_handler/pull/59#issuecomment-2160492615) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+10. 🎉 Merged PR [#61](https://github.com/pycontw/mail_handler/pull/61) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
 
 
 ## ⭐ GitHub Stat
