@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40167](https://github.com/apache/airflow/issues/40167#issuecomment-2165144309) in [apache/airflow](https://github.com/apache/airflow)
-2. 🔒 Closed issue [#40167](https://github.com/apache/airflow/issues/40167) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#101](https://github.com/python-pinot-dbapi/pinot-dbapi/pull/101) in [python-pinot-dbapi/pinot-dbapi](https://github.com/python-pinot-dbapi/pinot-dbapi)
-4. 💪 Opened PR [#40194](https://github.com/apache/airflow/pull/40194) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#60](https://github.com/pycontw/mail_handler/pull/60) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-6. 🗣 Commented on [#136](https://github.com/pycontw/pycontw-blog/pull/136#issuecomment-2161121786) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🎉 Merged PR [#59](https://github.com/pycontw/mail_handler/pull/59) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-8. 💪 Opened PR [#138](https://github.com/pycontw/pycontw-blog/pull/138) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🗣 Commented on [#59](https://github.com/pycontw/mail_handler/pull/59#issuecomment-2160492615) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-10. 🎉 Merged PR [#61](https://github.com/pycontw/mail_handler/pull/61) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+1. 🗣 Commented on [#101](https://github.com/python-pinot-dbapi/pinot-dbapi/pull/101#issuecomment-2167559644) in [python-pinot-dbapi/pinot-dbapi](https://github.com/python-pinot-dbapi/pinot-dbapi)
+2. 🗣 Commented on [#40167](https://github.com/apache/airflow/issues/40167#issuecomment-2165144309) in [apache/airflow](https://github.com/apache/airflow)
+3. 🔒 Closed issue [#40167](https://github.com/apache/airflow/issues/40167) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#101](https://github.com/python-pinot-dbapi/pinot-dbapi/pull/101) in [python-pinot-dbapi/pinot-dbapi](https://github.com/python-pinot-dbapi/pinot-dbapi)
+5. 💪 Opened PR [#40194](https://github.com/apache/airflow/pull/40194) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#60](https://github.com/pycontw/mail_handler/pull/60) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+7. 🗣 Commented on [#136](https://github.com/pycontw/pycontw-blog/pull/136#issuecomment-2161121786) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🎉 Merged PR [#59](https://github.com/pycontw/mail_handler/pull/59) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+9. 💪 Opened PR [#138](https://github.com/pycontw/pycontw-blog/pull/138) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🗣 Commented on [#59](https://github.com/pycontw/mail_handler/pull/59#issuecomment-2160492615) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
