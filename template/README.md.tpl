@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/python-pinot-dbapi/pinot-dbapi/pull/101#issuecomment-2167559644) in [python-pinot-dbapi/pinot-dbapi](https://github.com/python-pinot-dbapi/pinot-dbapi)
-2. 🗣 Commented on [#40167](https://github.com/apache/airflow/issues/40167#issuecomment-2165144309) in [apache/airflow](https://github.com/apache/airflow)
-3. 🔒 Closed issue [#40167](https://github.com/apache/airflow/issues/40167) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#101](https://github.com/python-pinot-dbapi/pinot-dbapi/pull/101) in [python-pinot-dbapi/pinot-dbapi](https://github.com/python-pinot-dbapi/pinot-dbapi)
-5. 💪 Opened PR [#40194](https://github.com/apache/airflow/pull/40194) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#60](https://github.com/pycontw/mail_handler/pull/60) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-7. 🗣 Commented on [#136](https://github.com/pycontw/pycontw-blog/pull/136#issuecomment-2161121786) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🎉 Merged PR [#59](https://github.com/pycontw/mail_handler/pull/59) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-9. 💪 Opened PR [#138](https://github.com/pycontw/pycontw-blog/pull/138) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 🗣 Commented on [#59](https://github.com/pycontw/mail_handler/pull/59#issuecomment-2160492615) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+1. 🎉 Merged PR [#189](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/189) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+2. 🎉 Merged PR [#188](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/188) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+3. 🎉 Merged PR [#164](https://github.com/Lee-W/cookiecutter-python-template/pull/164) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+4. ❌ Closed PR [#191](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/191) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+5. ❌ Closed PR [#190](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/190) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. 🎉 Merged PR [#192](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/192) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. 🎉 Merged PR [#167](https://github.com/Lee-W/cookiecutter-python-template/pull/167) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. 🎉 Merged PR [#166](https://github.com/Lee-W/cookiecutter-python-template/pull/166) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. 🎉 Merged PR [#62](https://github.com/pycontw/mail_handler/pull/62) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+10. ❌ Closed PR [#11](https://github.com/Lee-W/main-blog/pull/11) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
