@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 2 days ago)
+* [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 3 days ago)
 * [Starts Airflow task execution directly from the triggerer](https://blog.wei-lee.me/posts/tech/2024/06/starts-execution-directly-from-triggerer-without-going-to-worker) (Published: 2 weeks ago)
-* [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 3 weeks ago)
+* [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 4 weeks ago)
 * [[Book] 創作的基因：書籍、電影、音樂,賦予遊戲製作人小島秀夫無限創意的文化記憶](https://blog.wei-lee.me/posts/book/2024/05/creative-gene) (Published: 1 month ago)
 * [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 2 months ago)
 
 ### Those things no one cares about
  
- * [藍色巨星 Blue Giant](https://travlog.wei-lee.me/posts/review/2024/06/blue-giant) (Published: today)
- * [劇場版 排球少年!!垃圾場的決戰](https://travlog.wei-lee.me/posts/review/2024/06/haikyu-the-movie-decisive-battle-at-the-garbage-dump) (Published: 1 day ago)
- * [莉茲與青鳥](https://travlog.wei-lee.me/posts/review/2024/06/liz-and-the-blue-bird) (Published: 2 days ago)
- * [暗殺教室 第二季](https://travlog.wei-lee.me/posts/review/2024/06/assassination-classroom-s2) (Published: 3 days ago)
- * [米奇與達利](https://travlog.wei-lee.me/posts/review/2024/06/migi-and-dali) (Published: 4 days ago)
+ * [藍色巨星 Blue Giant](https://travlog.wei-lee.me/posts/review/2024/06/blue-giant) (Published: 1 day ago)
+ * [劇場版 排球少年!!垃圾場的決戰](https://travlog.wei-lee.me/posts/review/2024/06/haikyu-the-movie-decisive-battle-at-the-garbage-dump) (Published: 2 days ago)
+ * [莉茲與青鳥](https://travlog.wei-lee.me/posts/review/2024/06/liz-and-the-blue-bird) (Published: 3 days ago)
+ * [暗殺教室 第二季](https://travlog.wei-lee.me/posts/review/2024/06/assassination-classroom-s2) (Published: 4 days ago)
+ * [米奇與達利](https://travlog.wei-lee.me/posts/review/2024/06/migi-and-dali) (Published: 5 days ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#189](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/189) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-2. 🎉 Merged PR [#188](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/188) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-3. 🎉 Merged PR [#164](https://github.com/Lee-W/cookiecutter-python-template/pull/164) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-4. ❌ Closed PR [#191](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/191) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. ❌ Closed PR [#190](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/190) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. 🎉 Merged PR [#192](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/192) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. 🎉 Merged PR [#167](https://github.com/Lee-W/cookiecutter-python-template/pull/167) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. 🎉 Merged PR [#166](https://github.com/Lee-W/cookiecutter-python-template/pull/166) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🎉 Merged PR [#62](https://github.com/pycontw/mail_handler/pull/62) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-10. ❌ Closed PR [#11](https://github.com/Lee-W/main-blog/pull/11) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+1. 🎉 Merged PR [#168](https://github.com/Lee-W/cookiecutter-python-template/pull/168) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+2. 🎉 Merged PR [#63](https://github.com/pycontw/mail_handler/pull/63) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+3. 🎉 Merged PR [#139](https://github.com/pycontw/pycontw-blog/pull/139) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#140](https://github.com/pycontw/pycontw-blog/pull/140) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🗣 Commented on [#63](https://github.com/pycontw/mail_handler/pull/63#issuecomment-2173621502) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+6. 🎉 Merged PR [#64](https://github.com/pycontw/mail_handler/pull/64) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+7. 🎉 Merged PR [#195](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/195) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. 🎉 Merged PR [#193](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/193) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. ❌ Closed PR [#194](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/194) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. 🎉 Merged PR [#196](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/196) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 
 
 ## ⭐ GitHub Stat
