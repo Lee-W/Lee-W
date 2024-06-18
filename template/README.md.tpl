@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/189) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-2. 🎉 Merged PR [#188](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/188) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-3. 🎉 Merged PR [#164](https://github.com/Lee-W/cookiecutter-python-template/pull/164) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-4. ❌ Closed PR [#191](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/191) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. ❌ Closed PR [#190](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/190) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. 🎉 Merged PR [#192](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/192) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. 🎉 Merged PR [#167](https://github.com/Lee-W/cookiecutter-python-template/pull/167) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. 🎉 Merged PR [#166](https://github.com/Lee-W/cookiecutter-python-template/pull/166) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🎉 Merged PR [#62](https://github.com/pycontw/mail_handler/pull/62) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-10. ❌ Closed PR [#11](https://github.com/Lee-W/main-blog/pull/11) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+1. 🎉 Merged PR [#168](https://github.com/Lee-W/cookiecutter-python-template/pull/168) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+2. 🎉 Merged PR [#63](https://github.com/pycontw/mail_handler/pull/63) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+3. 🎉 Merged PR [#139](https://github.com/pycontw/pycontw-blog/pull/139) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#140](https://github.com/pycontw/pycontw-blog/pull/140) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🗣 Commented on [#63](https://github.com/pycontw/mail_handler/pull/63#issuecomment-2173621502) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+6. 🎉 Merged PR [#64](https://github.com/pycontw/mail_handler/pull/64) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+7. 🎉 Merged PR [#195](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/195) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. 🎉 Merged PR [#193](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/193) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. ❌ Closed PR [#194](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/194) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. 🎉 Merged PR [#196](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/196) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
