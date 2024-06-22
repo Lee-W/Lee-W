@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40194](https://github.com/apache/airflow/pull/40194#issuecomment-2180112546) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#1544](https://github.com/astronomer/astronomer-providers/pull/1544) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 🎉 Merged PR [#1546](https://github.com/astronomer/astronomer-providers/pull/1546) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🎉 Merged PR [#169](https://github.com/Lee-W/cookiecutter-python-template/pull/169) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. 🗣 Commented on [#1543](https://github.com/astronomer/astronomer-providers/pull/1543#issuecomment-2174895934) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. ❌ Closed PR [#1543](https://github.com/astronomer/astronomer-providers/pull/1543) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 💪 Opened PR [#1547](https://github.com/astronomer/astronomer-providers/pull/1547) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🎉 Merged PR [#65](https://github.com/pycontw/mail_handler/pull/65) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-9. 🎉 Merged PR [#1163](https://github.com/commitizen-tools/commitizen/pull/1163) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#168](https://github.com/Lee-W/cookiecutter-python-template/pull/168) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 💪 Opened PR [#40376](https://github.com/apache/airflow/pull/40376) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#40332](https://github.com/apache/airflow/pull/40332#issuecomment-2182875190) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#2170](https://github.com/astronomer/astro-sdk/issues/2170#issuecomment-2182457100) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+4. 🔒 Closed issue [#2170](https://github.com/astronomer/astro-sdk/issues/2170) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+5. 🚀 Published release [1.8.1](https://github.com/astronomer/astro-sdk/releases/tag/1.8.1) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+6. 🎉 Merged PR [#2172](https://github.com/astronomer/astro-sdk/pull/2172) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+7. 🎉 Merged PR [#141](https://github.com/pycontw/pycontw-blog/pull/141) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 💪 Opened PR [#2172](https://github.com/astronomer/astro-sdk/pull/2172) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+9. 🎉 Merged PR [#2171](https://github.com/astronomer/astro-sdk/pull/2171) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+10. 💪 Opened PR [#2171](https://github.com/astronomer/astro-sdk/pull/2171) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
