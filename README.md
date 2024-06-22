@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 6 days ago)
+* [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 1 week ago)
 * [Starts Airflow task execution directly from the triggerer](https://blog.wei-lee.me/posts/tech/2024/06/starts-execution-directly-from-triggerer-without-going-to-worker) (Published: 2 weeks ago)
 * [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 1 month ago)
 * [[Book] 創作的基因：書籍、電影、音樂,賦予遊戲製作人小島秀夫無限創意的文化記憶](https://blog.wei-lee.me/posts/book/2024/05/creative-gene) (Published: 1 month ago)
@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [藍色巨星 Blue Giant](https://travlog.wei-lee.me/posts/review/2024/06/blue-giant) (Published: 4 days ago)
- * [劇場版 排球少年!!垃圾場的決戰](https://travlog.wei-lee.me/posts/review/2024/06/haikyu-the-movie-decisive-battle-at-the-garbage-dump) (Published: 5 days ago)
- * [莉茲與青鳥](https://travlog.wei-lee.me/posts/review/2024/06/liz-and-the-blue-bird) (Published: 6 days ago)
+ * [藍色巨星 Blue Giant](https://travlog.wei-lee.me/posts/review/2024/06/blue-giant) (Published: 5 days ago)
+ * [劇場版 排球少年!!垃圾場的決戰](https://travlog.wei-lee.me/posts/review/2024/06/haikyu-the-movie-decisive-battle-at-the-garbage-dump) (Published: 6 days ago)
+ * [莉茲與青鳥](https://travlog.wei-lee.me/posts/review/2024/06/liz-and-the-blue-bird) (Published: 1 week ago)
  * [暗殺教室 第二季](https://travlog.wei-lee.me/posts/review/2024/06/assassination-classroom-s2) (Published: 1 week ago)
  * [米奇與達利](https://travlog.wei-lee.me/posts/review/2024/06/migi-and-dali) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#40194](https://github.com/apache/airflow/pull/40194#issuecomment-2180112546) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#1544](https://github.com/astronomer/astronomer-providers/pull/1544) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-3. 🎉 Merged PR [#1546](https://github.com/astronomer/astronomer-providers/pull/1546) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🎉 Merged PR [#169](https://github.com/Lee-W/cookiecutter-python-template/pull/169) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. 🗣 Commented on [#1543](https://github.com/astronomer/astronomer-providers/pull/1543#issuecomment-2174895934) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-6. ❌ Closed PR [#1543](https://github.com/astronomer/astronomer-providers/pull/1543) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-7. 💪 Opened PR [#1547](https://github.com/astronomer/astronomer-providers/pull/1547) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-8. 🎉 Merged PR [#65](https://github.com/pycontw/mail_handler/pull/65) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-9. 🎉 Merged PR [#1163](https://github.com/commitizen-tools/commitizen/pull/1163) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#168](https://github.com/Lee-W/cookiecutter-python-template/pull/168) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 💪 Opened PR [#40376](https://github.com/apache/airflow/pull/40376) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#40332](https://github.com/apache/airflow/pull/40332#issuecomment-2182875190) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#2170](https://github.com/astronomer/astro-sdk/issues/2170#issuecomment-2182457100) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+4. 🔒 Closed issue [#2170](https://github.com/astronomer/astro-sdk/issues/2170) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+5. 🚀 Published release [1.8.1](https://github.com/astronomer/astro-sdk/releases/tag/1.8.1) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+6. 🎉 Merged PR [#2172](https://github.com/astronomer/astro-sdk/pull/2172) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+7. 🎉 Merged PR [#141](https://github.com/pycontw/pycontw-blog/pull/141) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 💪 Opened PR [#2172](https://github.com/astronomer/astro-sdk/pull/2172) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+9. 🎉 Merged PR [#2171](https://github.com/astronomer/astro-sdk/pull/2171) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+10. 💪 Opened PR [#2171](https://github.com/astronomer/astro-sdk/pull/2171) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
 
 
 ## ⭐ GitHub Stat
