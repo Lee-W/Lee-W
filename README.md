@@ -45,15 +45,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those aren't written down are meant to be forgotten
 
 * [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 1 week ago)
-* [Starts Airflow task execution directly from the triggerer](https://blog.wei-lee.me/posts/tech/2024/06/starts-execution-directly-from-triggerer-without-going-to-worker) (Published: 2 weeks ago)
+* [Starts Airflow task execution directly from the triggerer](https://blog.wei-lee.me/posts/tech/2024/06/starts-execution-directly-from-triggerer-without-going-to-worker) (Published: 3 weeks ago)
 * [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 1 month ago)
 * [[Book] 創作的基因：書籍、電影、音樂,賦予遊戲製作人小島秀夫無限創意的文化記憶](https://blog.wei-lee.me/posts/book/2024/05/creative-gene) (Published: 1 month ago)
 * [將終端機畫面紀錄成 gif](https://blog.wei-lee.me/posts/tech/2024/04/record-terminal-actions-and-export-as-gif) (Published: 2 months ago)
 
 ### Those things no one cares about
  
- * [藍色巨星 Blue Giant](https://travlog.wei-lee.me/posts/review/2024/06/blue-giant) (Published: 5 days ago)
- * [劇場版 排球少年!!垃圾場的決戰](https://travlog.wei-lee.me/posts/review/2024/06/haikyu-the-movie-decisive-battle-at-the-garbage-dump) (Published: 6 days ago)
+ * [藍色巨星 Blue Giant](https://travlog.wei-lee.me/posts/review/2024/06/blue-giant) (Published: 6 days ago)
+ * [劇場版 排球少年!!垃圾場的決戰](https://travlog.wei-lee.me/posts/review/2024/06/haikyu-the-movie-decisive-battle-at-the-garbage-dump) (Published: 1 week ago)
  * [莉茲與青鳥](https://travlog.wei-lee.me/posts/review/2024/06/liz-and-the-blue-bird) (Published: 1 week ago)
  * [暗殺教室 第二季](https://travlog.wei-lee.me/posts/review/2024/06/assassination-classroom-s2) (Published: 1 week ago)
  * [米奇與達利](https://travlog.wei-lee.me/posts/review/2024/06/migi-and-dali) (Published: 1 week ago)
