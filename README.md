@@ -52,7 +52,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [藍色巨星 Blue Giant](https://travlog.wei-lee.me/posts/review/2024/06/blue-giant) (Published: 6 days ago)
+ * [藍色巨星 Blue Giant](https://travlog.wei-lee.me/posts/review/2024/06/blue-giant) (Published: 1 week ago)
  * [劇場版 排球少年!!垃圾場的決戰](https://travlog.wei-lee.me/posts/review/2024/06/haikyu-the-movie-decisive-battle-at-the-garbage-dump) (Published: 1 week ago)
  * [莉茲與青鳥](https://travlog.wei-lee.me/posts/review/2024/06/liz-and-the-blue-bird) (Published: 1 week ago)
  * [暗殺教室 第二季](https://travlog.wei-lee.me/posts/review/2024/06/assassination-classroom-s2) (Published: 1 week ago)
