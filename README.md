@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#40376](https://github.com/apache/airflow/pull/40376) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#40332](https://github.com/apache/airflow/pull/40332#issuecomment-2182875190) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#2170](https://github.com/astronomer/astro-sdk/issues/2170#issuecomment-2182457100) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-4. 🔒 Closed issue [#2170](https://github.com/astronomer/astro-sdk/issues/2170) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-5. 🚀 Published release [1.8.1](https://github.com/astronomer/astro-sdk/releases/tag/1.8.1) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-6. 🎉 Merged PR [#2172](https://github.com/astronomer/astro-sdk/pull/2172) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-7. 🎉 Merged PR [#141](https://github.com/pycontw/pycontw-blog/pull/141) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 💪 Opened PR [#2172](https://github.com/astronomer/astro-sdk/pull/2172) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-9. 🎉 Merged PR [#2171](https://github.com/astronomer/astro-sdk/pull/2171) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
-10. 💪 Opened PR [#2171](https://github.com/astronomer/astro-sdk/pull/2171) in [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk)
+1. 🎉 Merged PR [#40399](https://github.com/apache/airflow/pull/40399) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#40396](https://github.com/apache/airflow/pull/40396) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#40382](https://github.com/apache/airflow/issues/40382#issuecomment-2186078717) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#142](https://github.com/pycontw/pycontw-blog/pull/142) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🎉 Merged PR [#1167](https://github.com/commitizen-tools/commitizen/pull/1167) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#17](https://github.com/commitizen-tools/commitizen-docker-image/pull/17) in [commitizen-tools/commitizen-docker-image](https://github.com/commitizen-tools/commitizen-docker-image)
+7. 🎉 Merged PR [#66](https://github.com/pycontw/mail_handler/pull/66) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+8. 🎉 Merged PR [#197](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/197) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. 🎉 Merged PR [#170](https://github.com/Lee-W/cookiecutter-python-template/pull/170) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 💪 Opened PR [#40376](https://github.com/apache/airflow/pull/40376) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
