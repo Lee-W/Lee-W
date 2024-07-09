@@ -45,31 +45,31 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those aren't written down are meant to be forgotten
 
 * [[Book] 我可能錯了：森林智者的最後一堂人生課](https://blog.wei-lee.me/posts/book/2024/06/I-May-Be-Wrong) (Published: 1 week ago)
-* [Fix Neovim &#34;&#39;fzf&#39; extension doesn&#39;t exist or isn&#39;t installed:&#34;](https://blog.wei-lee.me/posts/tech/2024/06/neo-vim-fzf-not-loaded) (Published: 1 week ago)
+* [Fix Neovim &#34;&#39;fzf&#39; extension doesn&#39;t exist or isn&#39;t installed:&#34;](https://blog.wei-lee.me/posts/tech/2024/06/neo-vim-fzf-not-loaded) (Published: 2 weeks ago)
 * [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 3 weeks ago)
 * [Starts Airflow task execution directly from the triggerer](https://blog.wei-lee.me/posts/tech/2024/06/starts-execution-directly-from-triggerer-without-going-to-worker) (Published: 1 month ago)
 * [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 1 month ago)
 
 ### Those things no one cares about
  
- * [死神少爺與黑女僕](https://travlog.wei-lee.me/posts/review/2024/07/the-death-boy-and-the-black-maid) (Published: 1 day ago)
+ * [(日劇) 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-teasing-master-takagi-san) (Published: 1 day ago)
+ * [死神少爺與黑女僕](https://travlog.wei-lee.me/posts/review/2024/07/the-death-boy-and-the-black-maid) (Published: 2 days ago)
  * [迷宮飯 第一季下半](https://travlog.wei-lee.me/posts/review/2024/06/44-dungeon-meshi-season-1-second-half) (Published: 1 week ago)
  * [藍色巨星 Blue Giant](https://travlog.wei-lee.me/posts/review/2024/06/blue-giant) (Published: 3 weeks ago)
  * [劇場版 排球少年!!垃圾場的決戰](https://travlog.wei-lee.me/posts/review/2024/06/haikyu-the-movie-decisive-battle-at-the-garbage-dump) (Published: 3 weeks ago)
- * [莉茲與青鳥](https://travlog.wei-lee.me/posts/review/2024/06/liz-and-the-blue-bird) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#1175](https://github.com/commitizen-tools/commitizen/pull/1175) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#40478](https://github.com/apache/airflow/pull/40478#issuecomment-2211577179) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#39717](https://github.com/apache/airflow/issues/39717#issuecomment-2211576613) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#70](https://github.com/pycontw/mail_handler/pull/70) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-5. ❌ Closed PR [#203](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/203) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. ❌ Closed PR [#204](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/204) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. 🎉 Merged PR [#205](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/205) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. 🎉 Merged PR [#174](https://github.com/Lee-W/cookiecutter-python-template/pull/174) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🎉 Merged PR [#71](https://github.com/pycontw/mail_handler/pull/71) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-10. 🗣 Commented on [#40506](https://github.com/apache/airflow/pull/40506#issuecomment-2205365003) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Closed PR [#12](https://github.com/Lee-W/main-blog/pull/12) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 🗣 Commented on [#40478](https://github.com/apache/airflow/pull/40478#issuecomment-2213757066) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#144](https://github.com/pycontw/pycontw-blog/pull/144) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🗣 Commented on [#12](https://github.com/Lee-W/main-blog/pull/12#issuecomment-2213085148) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+5. 🗣 Commented on [#12](https://github.com/Lee-W/main-blog/pull/12#issuecomment-2212774925) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+6. 🗣 Commented on [#12](https://github.com/Lee-W/main-blog/pull/12#issuecomment-2212768029) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+7. 🎉 Merged PR [#175](https://github.com/Lee-W/cookiecutter-python-template/pull/175) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. 🎉 Merged PR [#176](https://github.com/Lee-W/cookiecutter-python-template/pull/176) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. 🎉 Merged PR [#72](https://github.com/pycontw/mail_handler/pull/72) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+10. 🎉 Merged PR [#1175](https://github.com/commitizen-tools/commitizen/pull/1175) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
