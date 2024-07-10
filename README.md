@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [(日劇) 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-teasing-master-takagi-san) (Published: 1 day ago)
- * [死神少爺與黑女僕](https://travlog.wei-lee.me/posts/review/2024/07/the-death-boy-and-the-black-maid) (Published: 2 days ago)
+ * [(日劇) 電影版 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-movie-teasing-master-takagi-san) (Published: 1 day ago)
+ * [(日劇) 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-teasing-master-takagi-san) (Published: 2 days ago)
+ * [死神少爺與黑女僕](https://travlog.wei-lee.me/posts/review/2024/07/the-death-boy-and-the-black-maid) (Published: 3 days ago)
  * [迷宮飯 第一季下半](https://travlog.wei-lee.me/posts/review/2024/06/44-dungeon-meshi-season-1-second-half) (Published: 1 week ago)
  * [藍色巨星 Blue Giant](https://travlog.wei-lee.me/posts/review/2024/06/blue-giant) (Published: 3 weeks ago)
- * [劇場版 排球少年!!垃圾場的決戰](https://travlog.wei-lee.me/posts/review/2024/06/haikyu-the-movie-decisive-battle-at-the-garbage-dump) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. ❌ Closed PR [#12](https://github.com/Lee-W/main-blog/pull/12) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 🗣 Commented on [#40478](https://github.com/apache/airflow/pull/40478#issuecomment-2213757066) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#144](https://github.com/pycontw/pycontw-blog/pull/144) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🗣 Commented on [#12](https://github.com/Lee-W/main-blog/pull/12#issuecomment-2213085148) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-5. 🗣 Commented on [#12](https://github.com/Lee-W/main-blog/pull/12#issuecomment-2212774925) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-6. 🗣 Commented on [#12](https://github.com/Lee-W/main-blog/pull/12#issuecomment-2212768029) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-7. 🎉 Merged PR [#175](https://github.com/Lee-W/cookiecutter-python-template/pull/175) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. 🎉 Merged PR [#176](https://github.com/Lee-W/cookiecutter-python-template/pull/176) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🎉 Merged PR [#72](https://github.com/pycontw/mail_handler/pull/72) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-10. 🎉 Merged PR [#1175](https://github.com/commitizen-tools/commitizen/pull/1175) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#40478](https://github.com/apache/airflow/pull/40478#issuecomment-2217895818) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#40670](https://github.com/apache/airflow/pull/40670#issuecomment-2217814025) in [apache/airflow](https://github.com/apache/airflow)
+3. ❌ Closed PR [#9](https://github.com/Lee-W/travlog/pull/9) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 🎉 Merged PR [#73](https://github.com/pycontw/mail_handler/pull/73) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+5. 🎉 Merged PR [#208](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/208) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. ❌ Closed PR [#206](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/206) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. ❌ Closed PR [#207](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/207) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. 🎉 Merged PR [#1552](https://github.com/astronomer/astronomer-providers/pull/1552) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+9. 🎉 Merged PR [#100](https://github.com/astronomer/airflow-provider-fivetran-async/pull/100) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
+10. ❌ Closed PR [#12](https://github.com/Lee-W/main-blog/pull/12) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 
 
 ## ⭐ GitHub Stat
