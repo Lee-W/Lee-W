@@ -52,22 +52,22 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [劇場總集篇 孤獨搖滾！ Re:](https://travlog.wei-lee.me/posts/review/2024/07/bocchi-the-rock-movie-1) (Published: 1 day ago)
- * [(日劇) 電影版 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-movie-teasing-master-takagi-san) (Published: 2 days ago)
- * [(日劇) 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-teasing-master-takagi-san) (Published: 3 days ago)
- * [死神少爺與黑女僕](https://travlog.wei-lee.me/posts/review/2024/07/the-death-boy-and-the-black-maid) (Published: 4 days ago)
- * [迷宮飯 第一季下半](https://travlog.wei-lee.me/posts/review/2024/06/44-dungeon-meshi-season-1-second-half) (Published: 1 week ago)
+ * [【推しの子】 Mother and Children](https://travlog.wei-lee.me/posts/review/2024/07/oshi-no-ko-mother-and-children) (Published: 1 day ago)
+ * [劇場總集篇 孤獨搖滾！ Re:](https://travlog.wei-lee.me/posts/review/2024/07/bocchi-the-rock-movie-1) (Published: 2 days ago)
+ * [(日劇) 電影版 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-movie-teasing-master-takagi-san) (Published: 3 days ago)
+ * [(日劇) 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-teasing-master-takagi-san) (Published: 4 days ago)
+ * [死神少爺與黑女僕](https://travlog.wei-lee.me/posts/review/2024/07/the-death-boy-and-the-black-maid) (Published: 5 days ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#177](https://github.com/Lee-W/cookiecutter-python-template/pull/177) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. 🎉 Merged PR [#1177](https://github.com/commitizen-tools/commitizen/pull/1177) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#40478](https://github.com/apache/airflow/pull/40478#issuecomment-2217895818) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#40670](https://github.com/apache/airflow/pull/40670#issuecomment-2217814025) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Closed PR [#9](https://github.com/Lee-W/travlog/pull/9) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 🎉 Merged PR [#73](https://github.com/pycontw/mail_handler/pull/73) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-7. 🎉 Merged PR [#208](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/208) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. ❌ Closed PR [#206](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/206) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+1. 💪 Opened PR [#40723](https://github.com/apache/airflow/pull/40723) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#1143](https://github.com/commitizen-tools/commitizen/pull/1143#issuecomment-2221875901) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#1176](https://github.com/commitizen-tools/commitizen/pull/1176) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#1179](https://github.com/commitizen-tools/commitizen/pull/1179) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#177](https://github.com/Lee-W/cookiecutter-python-template/pull/177) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+6. 🎉 Merged PR [#1177](https://github.com/commitizen-tools/commitizen/pull/1177) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#40478](https://github.com/apache/airflow/pull/40478#issuecomment-2217895818) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#40670](https://github.com/apache/airflow/pull/40670#issuecomment-2217814025) in [apache/airflow](https://github.com/apache/airflow)
 9. ❌ Closed PR [#207](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/207) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 10. 🎉 Merged PR [#1552](https://github.com/astronomer/astronomer-providers/pull/1552) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
 
