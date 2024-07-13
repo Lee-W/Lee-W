@@ -46,17 +46,17 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 * [[Book] 我可能錯了：森林智者的最後一堂人生課](https://blog.wei-lee.me/posts/book/2024/06/I-May-Be-Wrong) (Published: 2 weeks ago)
 * [Fix Neovim &#34;&#39;fzf&#39; extension doesn&#39;t exist or isn&#39;t installed:&#34;](https://blog.wei-lee.me/posts/tech/2024/06/neo-vim-fzf-not-loaded) (Published: 2 weeks ago)
-* [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 3 weeks ago)
+* [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 4 weeks ago)
 * [Starts Airflow task execution directly from the triggerer](https://blog.wei-lee.me/posts/tech/2024/06/starts-execution-directly-from-triggerer-without-going-to-worker) (Published: 1 month ago)
 * [PyCon US 2024 Development Sprint](https://blog.wei-lee.me/posts/tech/2024/05/pycon-us-2024-development-sprint) (Published: 1 month ago)
 
 ### Those things no one cares about
  
- * [【推しの子】 Mother and Children](https://travlog.wei-lee.me/posts/review/2024/07/oshi-no-ko-mother-and-children) (Published: 1 day ago)
- * [劇場總集篇 孤獨搖滾！ Re:](https://travlog.wei-lee.me/posts/review/2024/07/bocchi-the-rock-movie-1) (Published: 2 days ago)
- * [(日劇) 電影版 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-movie-teasing-master-takagi-san) (Published: 3 days ago)
- * [(日劇) 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-teasing-master-takagi-san) (Published: 4 days ago)
- * [死神少爺與黑女僕](https://travlog.wei-lee.me/posts/review/2024/07/the-death-boy-and-the-black-maid) (Published: 5 days ago)
+ * [【推しの子】 Mother and Children](https://travlog.wei-lee.me/posts/review/2024/07/oshi-no-ko-mother-and-children) (Published: 2 days ago)
+ * [劇場總集篇 孤獨搖滾！ Re:](https://travlog.wei-lee.me/posts/review/2024/07/bocchi-the-rock-movie-1) (Published: 3 days ago)
+ * [(日劇) 電影版 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-movie-teasing-master-takagi-san) (Published: 4 days ago)
+ * [(日劇) 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-teasing-master-takagi-san) (Published: 5 days ago)
+ * [死神少爺與黑女僕](https://travlog.wei-lee.me/posts/review/2024/07/the-death-boy-and-the-black-maid) (Published: 6 days ago)
 
 ## 🖥️ Recently working on
 
