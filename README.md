@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」的草稿](https://blog.wei-lee.me/posts/tech/2024/07/Introducing-Python-ch19-draft) (Published: 3 days ago)
+* [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」的草稿](https://blog.wei-lee.me/posts/tech/2024/07/Introducing-Python-ch19-draft) (Published: 4 days ago)
 * [[Book] 我可能錯了：森林智者的最後一堂人生課](https://blog.wei-lee.me/posts/book/2024/06/I-May-Be-Wrong) (Published: 2 weeks ago)
 * [Fix Neovim &#34;&#39;fzf&#39; extension doesn&#39;t exist or isn&#39;t installed:&#34;](https://blog.wei-lee.me/posts/tech/2024/06/neo-vim-fzf-not-loaded) (Published: 3 weeks ago)
 * [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 1 month ago)
@@ -52,20 +52,20 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [怪人的沙拉碗](https://travlog.wei-lee.me/posts/review/2024/07/Salad-Bowl-of-Eccentrics) (Published: 1 day ago)
- * [【推しの子】 Mother and Children](https://travlog.wei-lee.me/posts/review/2024/07/oshi-no-ko-mother-and-children) (Published: 5 days ago)
- * [劇場總集篇 孤獨搖滾！ Re:](https://travlog.wei-lee.me/posts/review/2024/07/bocchi-the-rock-movie-1) (Published: 6 days ago)
+ * [2024 夏季嚐百草](https://travlog.wei-lee.me/posts/review/2024/07/what-i-will-watch-in-2024-summer) (Published: 1 day ago)
+ * [怪人的沙拉碗](https://travlog.wei-lee.me/posts/review/2024/07/Salad-Bowl-of-Eccentrics) (Published: 2 days ago)
+ * [【推しの子】 Mother and Children](https://travlog.wei-lee.me/posts/review/2024/07/oshi-no-ko-mother-and-children) (Published: 6 days ago)
+ * [劇場總集篇 孤獨搖滾！ Re:](https://travlog.wei-lee.me/posts/review/2024/07/bocchi-the-rock-movie-1) (Published: 1 week ago)
  * [(日劇) 電影版 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-movie-teasing-master-takagi-san) (Published: 1 week ago)
- * [(日劇) 擅長捉弄人的高木同學](https://travlog.wei-lee.me/posts/review/2024/07/drama-teasing-master-takagi-san) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#40723](https://github.com/apache/airflow/pull/40723) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#145](https://github.com/pycontw/pycontw-blog/pull/145) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🎉 Merged PR [#1182](https://github.com/commitizen-tools/commitizen/pull/1182) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#1181](https://github.com/commitizen-tools/commitizen/pull/1181) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#40478](https://github.com/apache/airflow/pull/40478) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#40723](https://github.com/apache/airflow/pull/40723) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#40809](https://github.com/apache/airflow/pull/40809#issuecomment-2230894946) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#40723](https://github.com/apache/airflow/pull/40723) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#145](https://github.com/pycontw/pycontw-blog/pull/145) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#1182](https://github.com/commitizen-tools/commitizen/pull/1182) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#1181](https://github.com/commitizen-tools/commitizen/pull/1181) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#40478](https://github.com/apache/airflow/pull/40478) in [apache/airflow](https://github.com/apache/airflow)
 7. 🎉 Merged PR [#1177](https://github.com/commitizen-tools/commitizen/pull/1177) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 8. 🗣 Commented on [#40478](https://github.com/apache/airflow/pull/40478#issuecomment-2217895818) in [apache/airflow](https://github.com/apache/airflow)
 9. 🗣 Commented on [#40670](https://github.com/apache/airflow/pull/40670#issuecomment-2217814025) in [apache/airflow](https://github.com/apache/airflow)
