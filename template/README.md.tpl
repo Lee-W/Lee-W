@@ -52,12 +52,12 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40723](https://github.com/apache/airflow/pull/40723) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#145](https://github.com/pycontw/pycontw-blog/pull/145) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🎉 Merged PR [#1182](https://github.com/commitizen-tools/commitizen/pull/1182) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#1181](https://github.com/commitizen-tools/commitizen/pull/1181) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#40478](https://github.com/apache/airflow/pull/40478) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#40723](https://github.com/apache/airflow/pull/40723) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#40809](https://github.com/apache/airflow/pull/40809#issuecomment-2230894946) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#40723](https://github.com/apache/airflow/pull/40723) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#145](https://github.com/pycontw/pycontw-blog/pull/145) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#1182](https://github.com/commitizen-tools/commitizen/pull/1182) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#1181](https://github.com/commitizen-tools/commitizen/pull/1181) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#40478](https://github.com/apache/airflow/pull/40478) in [apache/airflow](https://github.com/apache/airflow)
 7. 🎉 Merged PR [#1177](https://github.com/commitizen-tools/commitizen/pull/1177) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 8. 🗣 Commented on [#40478](https://github.com/apache/airflow/pull/40478#issuecomment-2217895818) in [apache/airflow](https://github.com/apache/airflow)
 9. 🗣 Commented on [#40670](https://github.com/apache/airflow/pull/40670#issuecomment-2217814025) in [apache/airflow](https://github.com/apache/airflow)
