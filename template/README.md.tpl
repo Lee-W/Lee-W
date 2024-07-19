@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/Lee-W/cookiecutter-python-template/pull/181) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. 🎉 Merged PR [#1178](https://github.com/commitizen-tools/commitizen/pull/1178) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 💪 Opened PR [#40830](https://github.com/apache/airflow/pull/40830) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#39912](https://github.com/apache/airflow/pull/39912#issuecomment-2232271441) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#40809](https://github.com/apache/airflow/pull/40809#issuecomment-2230894946) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#40723](https://github.com/apache/airflow/pull/40723) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#145](https://github.com/pycontw/pycontw-blog/pull/145) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🎉 Merged PR [#1182](https://github.com/commitizen-tools/commitizen/pull/1182) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#1181](https://github.com/commitizen-tools/commitizen/pull/1181) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#40478](https://github.com/apache/airflow/pull/40478) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#40868](https://github.com/apache/airflow/pull/40868#issuecomment-2237068975) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#40868](https://github.com/apache/airflow/pull/40868) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#146](https://github.com/pycontw/pycontw-blog/pull/146) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#181](https://github.com/Lee-W/cookiecutter-python-template/pull/181) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+5. 🎉 Merged PR [#1178](https://github.com/commitizen-tools/commitizen/pull/1178) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 💪 Opened PR [#40830](https://github.com/apache/airflow/pull/40830) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#39912](https://github.com/apache/airflow/pull/39912#issuecomment-2232271441) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#40809](https://github.com/apache/airflow/pull/40809#issuecomment-2230894946) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#40723](https://github.com/apache/airflow/pull/40723) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#145](https://github.com/pycontw/pycontw-blog/pull/145) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
