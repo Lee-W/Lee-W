@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」的草稿](https://blog.wei-lee.me/posts/tech/2024/07/Introducing-Python-ch19-draft) (Published: 6 days ago)
+* [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」的草稿](https://blog.wei-lee.me/posts/tech/2024/07/Introducing-Python-ch19-draft) (Published: 1 week ago)
 * [[Book] 我可能錯了：森林智者的最後一堂人生課](https://blog.wei-lee.me/posts/book/2024/06/I-May-Be-Wrong) (Published: 3 weeks ago)
 * [Fix Neovim &#34;&#39;fzf&#39; extension doesn&#39;t exist or isn&#39;t installed:&#34;](https://blog.wei-lee.me/posts/tech/2024/06/neo-vim-fzf-not-loaded) (Published: 3 weeks ago)
 * [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 1 month ago)
@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 2 days ago)
- * [2024 夏季嚐百草](https://travlog.wei-lee.me/posts/review/2024/07/what-i-will-watch-in-2024-summer) (Published: 3 days ago)
- * [怪人的沙拉碗](https://travlog.wei-lee.me/posts/review/2024/07/Salad-Bowl-of-Eccentrics) (Published: 4 days ago)
+ * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 3 days ago)
+ * [2024 夏季嚐百草](https://travlog.wei-lee.me/posts/review/2024/07/what-i-will-watch-in-2024-summer) (Published: 4 days ago)
+ * [怪人的沙拉碗](https://travlog.wei-lee.me/posts/review/2024/07/Salad-Bowl-of-Eccentrics) (Published: 5 days ago)
  * [【推しの子】 Mother and Children](https://travlog.wei-lee.me/posts/review/2024/07/oshi-no-ko-mother-and-children) (Published: 1 week ago)
  * [劇場總集篇 孤獨搖滾！ Re:](https://travlog.wei-lee.me/posts/review/2024/07/bocchi-the-rock-movie-1) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#40868](https://github.com/apache/airflow/pull/40868#issuecomment-2237068975) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#40868](https://github.com/apache/airflow/pull/40868) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#146](https://github.com/pycontw/pycontw-blog/pull/146) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🎉 Merged PR [#181](https://github.com/Lee-W/cookiecutter-python-template/pull/181) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. 🎉 Merged PR [#1178](https://github.com/commitizen-tools/commitizen/pull/1178) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 💪 Opened PR [#40830](https://github.com/apache/airflow/pull/40830) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#39912](https://github.com/apache/airflow/pull/39912#issuecomment-2232271441) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#40809](https://github.com/apache/airflow/pull/40809#issuecomment-2230894946) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#40723](https://github.com/apache/airflow/pull/40723) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#145](https://github.com/pycontw/pycontw-blog/pull/145) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🎉 Merged PR [#77](https://github.com/pycontw/mail_handler/pull/77) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+2. 🎉 Merged PR [#214](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/214) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+3. 🎉 Merged PR [#215](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/215) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+4. 🎉 Merged PR [#78](https://github.com/pycontw/mail_handler/pull/78) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+5. 🎉 Merged PR [#17](https://github.com/Lee-W/main-blog/pull/17) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+6. 🎉 Merged PR [#18](https://github.com/Lee-W/main-blog/pull/18) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+7. 🎉 Merged PR [#147](https://github.com/pycontw/pycontw-blog/pull/147) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🎉 Merged PR [#1183](https://github.com/commitizen-tools/commitizen/pull/1183) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#40868](https://github.com/apache/airflow/pull/40868#issuecomment-2237068975) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#40868](https://github.com/apache/airflow/pull/40868) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
