@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 1 day ago)
- * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 4 days ago)
- * [2024 夏季嚐百草](https://travlog.wei-lee.me/posts/review/2024/07/what-i-will-watch-in-2024-summer) (Published: 5 days ago)
- * [怪人的沙拉碗](https://travlog.wei-lee.me/posts/review/2024/07/Salad-Bowl-of-Eccentrics) (Published: 6 days ago)
+ * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 2 days ago)
+ * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 5 days ago)
+ * [2024 夏季嚐百草](https://travlog.wei-lee.me/posts/review/2024/07/what-i-will-watch-in-2024-summer) (Published: 6 days ago)
+ * [怪人的沙拉碗](https://travlog.wei-lee.me/posts/review/2024/07/Salad-Bowl-of-Eccentrics) (Published: 1 week ago)
  * [【推しの子】 Mother and Children](https://travlog.wei-lee.me/posts/review/2024/07/oshi-no-ko-mother-and-children) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#182](https://github.com/Lee-W/cookiecutter-python-template/pull/182) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. 🎉 Merged PR [#77](https://github.com/pycontw/mail_handler/pull/77) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-3. 🎉 Merged PR [#214](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/214) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-4. 🎉 Merged PR [#215](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/215) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. 🎉 Merged PR [#78](https://github.com/pycontw/mail_handler/pull/78) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-6. 🎉 Merged PR [#17](https://github.com/Lee-W/main-blog/pull/17) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-7. 🎉 Merged PR [#18](https://github.com/Lee-W/main-blog/pull/18) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-8. 🎉 Merged PR [#147](https://github.com/pycontw/pycontw-blog/pull/147) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🎉 Merged PR [#1183](https://github.com/commitizen-tools/commitizen/pull/1183) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#40868](https://github.com/apache/airflow/pull/40868#issuecomment-2237068975) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#40787](https://github.com/apache/airflow/issues/40787#issuecomment-2241633631) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#182](https://github.com/Lee-W/cookiecutter-python-template/pull/182) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+3. 🎉 Merged PR [#77](https://github.com/pycontw/mail_handler/pull/77) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+4. 🎉 Merged PR [#214](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/214) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+5. 🎉 Merged PR [#215](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/215) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. 🎉 Merged PR [#78](https://github.com/pycontw/mail_handler/pull/78) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+7. 🎉 Merged PR [#17](https://github.com/Lee-W/main-blog/pull/17) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+8. 🎉 Merged PR [#18](https://github.com/Lee-W/main-blog/pull/18) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+9. 🎉 Merged PR [#147](https://github.com/pycontw/pycontw-blog/pull/147) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🎉 Merged PR [#1183](https://github.com/commitizen-tools/commitizen/pull/1183) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
