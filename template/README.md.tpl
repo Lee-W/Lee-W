@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40809](https://github.com/apache/airflow/pull/40809) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#40830](https://github.com/apache/airflow/pull/40830) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#80](https://github.com/pycontw/mail_handler/pull/80) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-4. 🎉 Merged PR [#184](https://github.com/Lee-W/cookiecutter-python-template/pull/184) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. 🎉 Merged PR [#183](https://github.com/Lee-W/cookiecutter-python-template/pull/183) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-6. 🎉 Merged PR [#79](https://github.com/pycontw/mail_handler/pull/79) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-7. ❌ Closed PR [#216](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/216) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. ❌ Closed PR [#217](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/217) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-9. 🎉 Merged PR [#218](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/218) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-10. 🎉 Merged PR [#219](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/219) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+1. ❌ Closed PR [#62](https://github.com/Lee-W/bahamut_ani_stat/pull/62) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+2. ❌ Closed PR [#60](https://github.com/Lee-W/bahamut_ani_stat/pull/60) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+3. ❌ Closed PR [#59](https://github.com/Lee-W/bahamut_ani_stat/pull/59) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+4. ❌ Closed PR [#58](https://github.com/Lee-W/bahamut_ani_stat/pull/58) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+5. ❌ Closed PR [#57](https://github.com/Lee-W/bahamut_ani_stat/pull/57) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+6. ❌ Closed PR [#48](https://github.com/Lee-W/bahamut_ani_stat/pull/48) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+7. 🗣 Commented on [#40084](https://github.com/apache/airflow/pull/40084#issuecomment-2247684232) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#40993](https://github.com/apache/airflow/pull/40993) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#40984](https://github.com/apache/airflow/pull/40984) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#186](https://github.com/Lee-W/cookiecutter-python-template/pull/186) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
