@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 5 days ago)
+ * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 1 day ago)
+ * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 6 days ago)
  * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 1 week ago)
  * [2024 夏季嚐百草](https://travlog.wei-lee.me/posts/review/2024/07/what-i-will-watch-in-2024-summer) (Published: 1 week ago)
  * [怪人的沙拉碗](https://travlog.wei-lee.me/posts/review/2024/07/Salad-Bowl-of-Eccentrics) (Published: 1 week ago)
- * [【推しの子】 Mother and Children](https://travlog.wei-lee.me/posts/review/2024/07/oshi-no-ko-mother-and-children) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. ❌ Closed PR [#62](https://github.com/Lee-W/bahamut_ani_stat/pull/62) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-2. ❌ Closed PR [#60](https://github.com/Lee-W/bahamut_ani_stat/pull/60) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-3. ❌ Closed PR [#59](https://github.com/Lee-W/bahamut_ani_stat/pull/59) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-4. ❌ Closed PR [#58](https://github.com/Lee-W/bahamut_ani_stat/pull/58) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-5. ❌ Closed PR [#57](https://github.com/Lee-W/bahamut_ani_stat/pull/57) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-6. ❌ Closed PR [#48](https://github.com/Lee-W/bahamut_ani_stat/pull/48) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-7. 🗣 Commented on [#40084](https://github.com/apache/airflow/pull/40084#issuecomment-2247684232) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#40993](https://github.com/apache/airflow/pull/40993) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#40984](https://github.com/apache/airflow/pull/40984) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#186](https://github.com/Lee-W/cookiecutter-python-template/pull/186) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 💪 Opened PR [#41022](https://github.com/apache/airflow/pull/41022) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#41021](https://github.com/apache/airflow/pull/41021) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#40084](https://github.com/apache/airflow/pull/40084) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#40084](https://github.com/apache/airflow/pull/40084#issuecomment-2249236099) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#1190](https://github.com/commitizen-tools/commitizen/pull/1190) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#1191](https://github.com/commitizen-tools/commitizen/pull/1191) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. ❌ Closed PR [#62](https://github.com/Lee-W/bahamut_ani_stat/pull/62) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+8. ❌ Closed PR [#60](https://github.com/Lee-W/bahamut_ani_stat/pull/60) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+9. ❌ Closed PR [#59](https://github.com/Lee-W/bahamut_ani_stat/pull/59) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+10. ❌ Closed PR [#58](https://github.com/Lee-W/bahamut_ani_stat/pull/58) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 
 
 ## ⭐ GitHub Stat
