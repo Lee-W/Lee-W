@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41043](https://github.com/apache/airflow/pull/41043) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#41041](https://github.com/apache/airflow/pull/41041) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#41043](https://github.com/apache/airflow/pull/41043) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#41041](https://github.com/apache/airflow/pull/41041) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#41037](https://github.com/apache/airflow/pull/41037) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#187](https://github.com/Lee-W/cookiecutter-python-template/pull/187) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-7. 🎉 Merged PR [#149](https://github.com/pycontw/pycontw-blog/pull/149) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🎉 Merged PR [#221](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/221) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-9. 🎉 Merged PR [#82](https://github.com/pycontw/mail_handler/pull/82) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-10. 🗣 Commented on [#1170](https://github.com/commitizen-tools/commitizen/pull/1170#issuecomment-2251863089) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#41062](https://github.com/apache/airflow/pull/41062) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#41043](https://github.com/apache/airflow/pull/41043) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#41041](https://github.com/apache/airflow/pull/41041) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#41043](https://github.com/apache/airflow/pull/41043) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#41041](https://github.com/apache/airflow/pull/41041) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#41037](https://github.com/apache/airflow/pull/41037) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#187](https://github.com/Lee-W/cookiecutter-python-template/pull/187) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. 🎉 Merged PR [#149](https://github.com/pycontw/pycontw-blog/pull/149) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 🎉 Merged PR [#221](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/221) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. 🎉 Merged PR [#82](https://github.com/pycontw/mail_handler/pull/82) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
