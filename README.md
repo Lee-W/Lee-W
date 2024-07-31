@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 5 days ago)
+ * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 6 days ago)
  * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 1 week ago)
- * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 1 week ago)
+ * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 2 weeks ago)
  * [2024 夏季嚐百草](https://travlog.wei-lee.me/posts/review/2024/07/what-i-will-watch-in-2024-summer) (Published: 2 weeks ago)
  * [怪人的沙拉碗](https://travlog.wei-lee.me/posts/review/2024/07/Salad-Bowl-of-Eccentrics) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. ❗ Opened issue [#3982](https://github.com/astronomer/docs/issues/3982) in [astronomer/docs](https://github.com/astronomer/docs)
-2. 💪 Opened PR [#41099](https://github.com/apache/airflow/pull/41099) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#41097](https://github.com/apache/airflow/pull/41097) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#41091](https://github.com/apache/airflow/pull/41091#issuecomment-2255541106) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#41091](https://github.com/apache/airflow/pull/41091) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#41089](https://github.com/apache/airflow/pull/41089) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#150](https://github.com/pycontw/pycontw-blog/pull/150) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🎉 Merged PR [#41022](https://github.com/apache/airflow/pull/41022) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#70](https://github.com/Lee-W/bahamut_ani_stat/pull/70) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-10. 💪 Opened PR [#41062](https://github.com/apache/airflow/pull/41062) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#41021](https://github.com/apache/airflow/pull/41021) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#41037](https://github.com/apache/airflow/pull/41037) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#41097](https://github.com/apache/airflow/pull/41097) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#1557](https://github.com/astronomer/astronomer-providers/pull/1557#issuecomment-2257759592) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+5. ❌ Closed PR [#1557](https://github.com/astronomer/astronomer-providers/pull/1557) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+6. 🗣 Commented on [#41085](https://github.com/apache/airflow/issues/41085#issuecomment-2257634587) in [apache/airflow](https://github.com/apache/airflow)
+7. ❌ Closed PR [#41099](https://github.com/apache/airflow/pull/41099) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#83](https://github.com/pycontw/mail_handler/pull/83) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+9. 🎉 Merged PR [#188](https://github.com/Lee-W/cookiecutter-python-template/pull/188) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 🎉 Merged PR [#189](https://github.com/Lee-W/cookiecutter-python-template/pull/189) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 
 
 ## ⭐ GitHub Stat
