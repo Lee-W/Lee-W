@@ -44,8 +44,8 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Achieve 200 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2024/07/achieve-200-contributions-in-apache-airflow) (Published: 2 days ago)
-* [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」的草稿](https://blog.wei-lee.me/posts/tech/2024/07/Introducing-Python-ch19-draft) (Published: 2 weeks ago)
+* [Achieve 200 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2024/07/achieve-200-contributions-in-apache-airflow) (Published: 3 days ago)
+* [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」的草稿](https://blog.wei-lee.me/posts/tech/2024/07/Introducing-Python-ch19-draft) (Published: 3 weeks ago)
 * [[Book] 我可能錯了：森林智者的最後一堂人生課](https://blog.wei-lee.me/posts/book/2024/06/I-May-Be-Wrong) (Published: 1 month ago)
 * [Fix Neovim &#34;&#39;fzf&#39; extension doesn&#39;t exist or isn&#39;t installed:&#34;](https://blog.wei-lee.me/posts/tech/2024/06/neo-vim-fzf-not-loaded) (Published: 1 month ago)
 * [Bartender 失去信任的此時，我們該何去何從](https://blog.wei-lee.me/posts/tech/2024/06/where-should-we-go-if-bartender-is-no-longer-considered-safe) (Published: 1 month ago)
@@ -53,23 +53,23 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those things no one cares about
  
  * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 1 week ago)
- * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 1 week ago)
+ * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 2 weeks ago)
  * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 2 weeks ago)
  * [2024 夏季嚐百草](https://travlog.wei-lee.me/posts/review/2024/07/what-i-will-watch-in-2024-summer) (Published: 2 weeks ago)
  * [怪人的沙拉碗](https://travlog.wei-lee.me/posts/review/2024/07/Salad-Bowl-of-Eccentrics) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#41182](https://github.com/apache/airflow/pull/41182) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#41177](https://github.com/apache/airflow/pull/41177) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#41182](https://github.com/apache/airflow/pull/41182) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#41177](https://github.com/apache/airflow/pull/41177) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#41166](https://github.com/apache/airflow/pull/41166) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#41166](https://github.com/apache/airflow/pull/41166) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#41137](https://github.com/apache/airflow/pull/41137#issuecomment-2261765292) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#41137](https://github.com/apache/airflow/pull/41137#issuecomment-2261764178) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#1195](https://github.com/commitizen-tools/commitizen/pull/1195#issuecomment-2260681580) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 💪 Opened PR [#41152](https://github.com/apache/airflow/pull/41152) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#41192](https://github.com/apache/airflow/pull/41192) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#190](https://github.com/Lee-W/cookiecutter-python-template/pull/190) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+3. 🎉 Merged PR [#41182](https://github.com/apache/airflow/pull/41182) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#41177](https://github.com/apache/airflow/pull/41177) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#41182](https://github.com/apache/airflow/pull/41182) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#41177](https://github.com/apache/airflow/pull/41177) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#41166](https://github.com/apache/airflow/pull/41166) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#41166](https://github.com/apache/airflow/pull/41166) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#41137](https://github.com/apache/airflow/pull/41137#issuecomment-2261765292) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#41137](https://github.com/apache/airflow/pull/41137#issuecomment-2261764178) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
