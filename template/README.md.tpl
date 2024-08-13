@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/commitizen-tools/commitizen/issues/220#issuecomment-2282786296) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🔒 Closed issue [#220](https://github.com/commitizen-tools/commitizen/issues/220) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🔒 Closed issue [#1205](https://github.com/commitizen-tools/commitizen/issues/1205) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#1205](https://github.com/commitizen-tools/commitizen/issues/1205#issuecomment-2282785224) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1149](https://github.com/commitizen-tools/commitizen/issues/1149#issuecomment-2282784171) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#1149](https://github.com/commitizen-tools/commitizen/issues/1149#issuecomment-2282783912) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#1164](https://github.com/commitizen-tools/commitizen/issues/1164#issuecomment-2282782096) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#1152](https://github.com/commitizen-tools/commitizen/issues/1152#issuecomment-2282781372) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🔒 Closed issue [#1152](https://github.com/commitizen-tools/commitizen/issues/1152) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🔒 Closed issue [#1184](https://github.com/commitizen-tools/commitizen/issues/1184) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#41403](https://github.com/apache/airflow/pull/41403#issuecomment-2284060218) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#41403](https://github.com/apache/airflow/pull/41403) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#41403](https://github.com/apache/airflow/pull/41403#issuecomment-2284005076) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#41403](https://github.com/apache/airflow/pull/41403) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#41398](https://github.com/apache/airflow/pull/41398#issuecomment-2283347960) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#3982](https://github.com/astronomer/docs/issues/3982#issuecomment-2283300124) in [astronomer/docs](https://github.com/astronomer/docs)
+7. 🗣 Commented on [#41398](https://github.com/apache/airflow/pull/41398#issuecomment-2283281058) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#41398](https://github.com/apache/airflow/pull/41398#issuecomment-2283269327) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#41398](https://github.com/apache/airflow/pull/41398) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#154](https://github.com/pycontw/pycontw-blog/pull/154) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
