@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Enhancing Airflow Task Execution with StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/enhancing-airflow-task-execution-with-start-trigger-args) (Published: 1 day ago)
-* [這一拳下去，我可能會死](https://blog.wei-lee.me/posts/gossiping/2024/08/boxing) (Published: 2 days ago)
+* [Enhancing Airflow Task Execution with StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/enhancing-airflow-task-execution-with-start-trigger-args) (Published: 2 days ago)
+* [這一拳下去，我可能會死](https://blog.wei-lee.me/posts/gossiping/2024/08/boxing) (Published: 3 days ago)
 * [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」決定版](https://blog.wei-lee.me/posts/tech/2024/08/Introducing-Python-ch19-final) (Published: 1 week ago)
-* [Achieve 200 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2024/07/achieve-200-contributions-in-apache-airflow) (Published: 1 week ago)
+* [Achieve 200 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2024/07/achieve-200-contributions-in-apache-airflow) (Published: 2 weeks ago)
 * [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」的草稿](https://blog.wei-lee.me/posts/tech/2024/07/Introducing-Python-ch19-draft) (Published: 1 month ago)
 
 ### Those things no one cares about
  
- * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 5 days ago)
+ * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 6 days ago)
  * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 2 weeks ago)
  * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 3 weeks ago)
- * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 3 weeks ago)
+ * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 4 weeks ago)
  * [2024 夏季嚐百草](https://travlog.wei-lee.me/posts/review/2024/07/what-i-will-watch-in-2024-summer) (Published: 4 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#41403](https://github.com/apache/airflow/pull/41403#issuecomment-2284060218) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#41403](https://github.com/apache/airflow/pull/41403) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#41403](https://github.com/apache/airflow/pull/41403#issuecomment-2284005076) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#41403](https://github.com/apache/airflow/pull/41403) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#41398](https://github.com/apache/airflow/pull/41398#issuecomment-2283347960) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#3982](https://github.com/astronomer/docs/issues/3982#issuecomment-2283300124) in [astronomer/docs](https://github.com/astronomer/docs)
-7. 🗣 Commented on [#41398](https://github.com/apache/airflow/pull/41398#issuecomment-2283281058) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#41398](https://github.com/apache/airflow/pull/41398#issuecomment-2283269327) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#41398](https://github.com/apache/airflow/pull/41398) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#154](https://github.com/pycontw/pycontw-blog/pull/154) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🎉 Merged PR [#76](https://github.com/Lee-W/bahamut_ani_stat/pull/76) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+2. 💪 Opened PR [#76](https://github.com/Lee-W/bahamut_ani_stat/pull/76) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+3. 🗣 Commented on [#41427](https://github.com/apache/airflow/pull/41427#issuecomment-2286015380) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#41427](https://github.com/apache/airflow/pull/41427) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#41348](https://github.com/apache/airflow/pull/41348#issuecomment-2285944211) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#93](https://github.com/pycontw/mail_handler/pull/93) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+7. 🗣 Commented on [#30716](https://github.com/apache/airflow/issues/30716#issuecomment-2285528977) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#86](https://github.com/pycontw/mail_handler/pull/86) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+9. 🎉 Merged PR [#88](https://github.com/pycontw/mail_handler/pull/88) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+10. 🎉 Merged PR [#75](https://github.com/Lee-W/bahamut_ani_stat/pull/75) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 
 
 ## ⭐ GitHub Stat
