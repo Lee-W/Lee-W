@@ -44,19 +44,19 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Enhancing Airflow Task Execution with StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/enhancing-airflow-task-execution-with-start-trigger-args) (Published: 6 days ago)
+* [Serialize StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/serialize-start-trigger-args) (Published: 1 day ago)
+* [Enhancing Airflow Task Execution with StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/enhancing-airflow-task-execution-with-start-trigger-args) (Published: 1 week ago)
 * [這一拳下去，我可能會死](https://blog.wei-lee.me/posts/gossiping/2024/08/boxing) (Published: 1 week ago)
 * [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」決定版](https://blog.wei-lee.me/posts/tech/2024/08/Introducing-Python-ch19-final) (Published: 1 week ago)
 * [Achieve 200 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2024/07/achieve-200-contributions-in-apache-airflow) (Published: 2 weeks ago)
-* [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」的草稿](https://blog.wei-lee.me/posts/tech/2024/07/Introducing-Python-ch19-draft) (Published: 1 month ago)
 
 ### Those things no one cares about
  
+ * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 1 day ago)
  * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 1 week ago)
  * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 3 weeks ago)
- * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 4 weeks ago)
+ * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 1 month ago)
  * [腦筋急轉彎 2](https://travlog.wei-lee.me/posts/review/2024/07/inside-out-2) (Published: 1 month ago)
- * [2024 夏季嚐百草](https://travlog.wei-lee.me/posts/review/2024/07/what-i-will-watch-in-2024-summer) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
