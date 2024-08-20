@@ -44,15 +44,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Serialize StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/serialize-start-trigger-args) (Published: 1 day ago)
+* [Serialize StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/serialize-start-trigger-args) (Published: 2 days ago)
 * [Enhancing Airflow Task Execution with StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/enhancing-airflow-task-execution-with-start-trigger-args) (Published: 1 week ago)
 * [這一拳下去，我可能會死](https://blog.wei-lee.me/posts/gossiping/2024/08/boxing) (Published: 1 week ago)
-* [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」決定版](https://blog.wei-lee.me/posts/tech/2024/08/Introducing-Python-ch19-final) (Published: 1 week ago)
+* [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」決定版](https://blog.wei-lee.me/posts/tech/2024/08/Introducing-Python-ch19-final) (Published: 2 weeks ago)
 * [Achieve 200 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2024/07/achieve-200-contributions-in-apache-airflow) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 1 day ago)
+ * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 2 days ago)
  * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 1 week ago)
  * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 3 weeks ago)
  * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 1 month ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#82](https://github.com/Lee-W/bahamut_ani_stat/pull/82) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-2. 💪 Opened PR [#82](https://github.com/Lee-W/bahamut_ani_stat/pull/82) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-3. 🎉 Merged PR [#238](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/238) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-4. 🎉 Merged PR [#24](https://github.com/Lee-W/main-blog/pull/24) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-5. 🎉 Merged PR [#197](https://github.com/Lee-W/cookiecutter-python-template/pull/197) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-6. 🎉 Merged PR [#95](https://github.com/pycontw/mail_handler/pull/95) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-7. 🗣 Commented on [#1073](https://github.com/commitizen-tools/commitizen/issues/1073#issuecomment-2294591010) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#1209](https://github.com/commitizen-tools/commitizen/pull/1209#issuecomment-2293852447) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 💪 Opened PR [#1434](https://github.com/giscus/giscus/pull/1434) in [giscus/giscus](https://github.com/giscus/giscus)
-10. 🗣 Commented on [#1209](https://github.com/commitizen-tools/commitizen/pull/1209#issuecomment-2293720105) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#156](https://github.com/pycontw/pycontw-blog/pull/156) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🎉 Merged PR [#1211](https://github.com/commitizen-tools/commitizen/pull/1211) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#82](https://github.com/Lee-W/bahamut_ani_stat/pull/82) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+4. 💪 Opened PR [#82](https://github.com/Lee-W/bahamut_ani_stat/pull/82) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+5. 🎉 Merged PR [#238](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/238) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. 🎉 Merged PR [#24](https://github.com/Lee-W/main-blog/pull/24) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+7. 🎉 Merged PR [#197](https://github.com/Lee-W/cookiecutter-python-template/pull/197) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. 🎉 Merged PR [#95](https://github.com/pycontw/mail_handler/pull/95) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+9. 🗣 Commented on [#1073](https://github.com/commitizen-tools/commitizen/issues/1073#issuecomment-2294591010) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1209](https://github.com/commitizen-tools/commitizen/pull/1209#issuecomment-2293852447) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
