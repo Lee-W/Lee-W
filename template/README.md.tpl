@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41621](https://github.com/apache/airflow/pull/41621) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#41607](https://github.com/apache/airflow/pull/41607) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#1212](https://github.com/commitizen-tools/commitizen/pull/1212) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#1213](https://github.com/commitizen-tools/commitizen/pull/1213) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#156](https://github.com/pycontw/pycontw-blog/pull/156) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🎉 Merged PR [#1211](https://github.com/commitizen-tools/commitizen/pull/1211) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#82](https://github.com/Lee-W/bahamut_ani_stat/pull/82) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-8. 💪 Opened PR [#82](https://github.com/Lee-W/bahamut_ani_stat/pull/82) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-9. 🎉 Merged PR [#238](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/238) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-10. 🎉 Merged PR [#24](https://github.com/Lee-W/main-blog/pull/24) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+1. 🎉 Merged PR [#23](https://github.com/Lee-W/main-blog/pull/23) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 🎉 Merged PR [#25](https://github.com/Lee-W/main-blog/pull/25) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+3. 💪 Opened PR [#25](https://github.com/Lee-W/main-blog/pull/25) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2302244678) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#41453](https://github.com/apache/airflow/pull/41453#issuecomment-2301840275) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2301825432) in [apache/airflow](https://github.com/apache/airflow)
+7. ❗ Opened issue [#41641](https://github.com/apache/airflow/issues/41641) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#41626](https://github.com/apache/airflow/pull/41626#issuecomment-2301457788) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#41621](https://github.com/apache/airflow/pull/41621) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#83](https://github.com/Lee-W/bahamut_ani_stat/pull/83) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
