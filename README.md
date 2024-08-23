@@ -44,15 +44,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 1 day ago)
-* [Serialize StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/serialize-start-trigger-args) (Published: 4 days ago)
+* [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 2 days ago)
+* [Serialize StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/serialize-start-trigger-args) (Published: 5 days ago)
 * [Enhancing Airflow Task Execution with StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/enhancing-airflow-task-execution-with-start-trigger-args) (Published: 1 week ago)
 * [這一拳下去，我可能會死](https://blog.wei-lee.me/posts/gossiping/2024/08/boxing) (Published: 1 week ago)
 * [Gobby&#39;s Python 讀書會 - 「第十九章 成為 Python 鐵粉」決定版](https://blog.wei-lee.me/posts/tech/2024/08/Introducing-Python-ch19-final) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 4 days ago)
+ * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 5 days ago)
  * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 2 weeks ago)
  * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 4 weeks ago)
  * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 1 month ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#23](https://github.com/Lee-W/main-blog/pull/23) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 🎉 Merged PR [#25](https://github.com/Lee-W/main-blog/pull/25) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-3. 💪 Opened PR [#25](https://github.com/Lee-W/main-blog/pull/25) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2302244678) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#41453](https://github.com/apache/airflow/pull/41453#issuecomment-2301840275) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2301825432) in [apache/airflow](https://github.com/apache/airflow)
-7. ❗ Opened issue [#41641](https://github.com/apache/airflow/issues/41641) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#41626](https://github.com/apache/airflow/pull/41626#issuecomment-2301457788) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#41621](https://github.com/apache/airflow/pull/41621) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#83](https://github.com/Lee-W/bahamut_ani_stat/pull/83) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+1. 🗣 Commented on [#41671](https://github.com/apache/airflow/pull/41671#issuecomment-2304914869) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Closed PR [#41671](https://github.com/apache/airflow/pull/41671) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#41671](https://github.com/apache/airflow/pull/41671) in [apache/airflow](https://github.com/apache/airflow)
+4. 🔒 Closed issue [#41336](https://github.com/apache/airflow/issues/41336) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#41554](https://github.com/apache/airflow/pull/41554) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#1206](https://github.com/commitizen-tools/commitizen/pull/1206#issuecomment-2303593449) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#1053](https://github.com/commitizen-tools/commitizen/issues/1053#issuecomment-2303585084) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#1073](https://github.com/commitizen-tools/commitizen/issues/1073#issuecomment-2303561115) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🔒 Closed issue [#1113](https://github.com/commitizen-tools/commitizen/issues/1113) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#1215](https://github.com/commitizen-tools/commitizen/pull/1215) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
