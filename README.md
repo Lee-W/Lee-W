@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 3 days ago)
+* [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 4 days ago)
 * [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 1 week ago)
 * [Serialize StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/serialize-start-trigger-args) (Published: 1 week ago)
 * [Enhancing Airflow Task Execution with StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/enhancing-airflow-task-execution-with-start-trigger-args) (Published: 2 weeks ago)
@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [歡迎光臨，千歲醬](https://travlog.wei-lee.me/posts/review/2024/08/okoshiyasu-chitose-chan) (Published: 1 day ago)
+ * [異世界自殺突擊隊](https://travlog.wei-lee.me/posts/review/2024/08/Suicide-Squad-ISEKAI) (Published: 1 day ago)
+ * [歡迎光臨，千歲醬](https://travlog.wei-lee.me/posts/review/2024/08/okoshiyasu-chitose-chan) (Published: 2 days ago)
  * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 1 week ago)
- * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 2 weeks ago)
+ * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 3 weeks ago)
  * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 1 month ago)
- * [僕の心のヤバイやつ OST](https://travlog.wei-lee.me/posts/review/2024/07/bokuyaba-ost) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#203](https://github.com/Lee-W/cookiecutter-python-template/pull/203) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. 🗣 Commented on [#41613](https://github.com/apache/airflow/issues/41613#issuecomment-2312620099) in [apache/airflow](https://github.com/apache/airflow)
-3. 🔒 Closed issue [#40533](https://github.com/apache/airflow/issues/40533) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#41416](https://github.com/apache/airflow/pull/41416) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#41412](https://github.com/apache/airflow/pull/41412#issuecomment-2312598134) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#1224](https://github.com/commitizen-tools/commitizen/pull/1224) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#105](https://github.com/astronomer/airflow-provider-fivetran-async/pull/105) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
-8. ❌ Closed PR [#244](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/244) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-9. ❌ Closed PR [#245](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/245) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-10. 🎉 Merged PR [#246](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/246) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+1. 🎉 Merged PR [#41834](https://github.com/apache/airflow/pull/41834) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#41834](https://github.com/apache/airflow/pull/41834#issuecomment-2315278660) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#41834](https://github.com/apache/airflow/pull/41834) in [apache/airflow](https://github.com/apache/airflow)
+4. 🔒 Closed issue [#41613](https://github.com/apache/airflow/issues/41613) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#41754](https://github.com/apache/airflow/pull/41754) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#41828](https://github.com/apache/airflow/pull/41828) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#41601](https://github.com/apache/airflow/pull/41601#issuecomment-2314777532) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#41816](https://github.com/apache/airflow/issues/41816#issuecomment-2314770103) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#41412](https://github.com/apache/airflow/pull/41412#issuecomment-2314696702) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#41815](https://github.com/apache/airflow/pull/41815) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
