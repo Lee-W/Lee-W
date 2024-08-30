@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 4 days ago)
+* [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 1 day ago)
+* [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 5 days ago)
 * [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 1 week ago)
 * [Serialize StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/serialize-start-trigger-args) (Published: 1 week ago)
 * [Enhancing Airflow Task Execution with StartTriggerArgs](https://blog.wei-lee.me/posts/tech/2024/08/enhancing-airflow-task-execution-with-start-trigger-args) (Published: 2 weeks ago)
-* [這一拳下去，我可能會死](https://blog.wei-lee.me/posts/gossiping/2024/08/boxing) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [異世界自殺突擊隊](https://travlog.wei-lee.me/posts/review/2024/08/Suicide-Squad-ISEKAI) (Published: 1 day ago)
- * [歡迎光臨，千歲醬](https://travlog.wei-lee.me/posts/review/2024/08/okoshiyasu-chitose-chan) (Published: 2 days ago)
+ * [異世界自殺突擊隊](https://travlog.wei-lee.me/posts/review/2024/08/Suicide-Squad-ISEKAI) (Published: 2 days ago)
+ * [歡迎光臨，千歲醬](https://travlog.wei-lee.me/posts/review/2024/08/okoshiyasu-chitose-chan) (Published: 3 days ago)
  * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 1 week ago)
  * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 3 weeks ago)
  * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#41834](https://github.com/apache/airflow/pull/41834) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#41834](https://github.com/apache/airflow/pull/41834#issuecomment-2315278660) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#41834](https://github.com/apache/airflow/pull/41834) in [apache/airflow](https://github.com/apache/airflow)
-4. 🔒 Closed issue [#41613](https://github.com/apache/airflow/issues/41613) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#41754](https://github.com/apache/airflow/pull/41754) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#41828](https://github.com/apache/airflow/pull/41828) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#41601](https://github.com/apache/airflow/pull/41601#issuecomment-2314777532) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#41816](https://github.com/apache/airflow/issues/41816#issuecomment-2314770103) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#41412](https://github.com/apache/airflow/pull/41412#issuecomment-2314696702) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#41815](https://github.com/apache/airflow/pull/41815) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#41852](https://github.com/apache/airflow/pull/41852#issuecomment-2317189773) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#41834](https://github.com/apache/airflow/pull/41834) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#41834](https://github.com/apache/airflow/pull/41834#issuecomment-2315278660) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#41834](https://github.com/apache/airflow/pull/41834) in [apache/airflow](https://github.com/apache/airflow)
+5. 🔒 Closed issue [#41613](https://github.com/apache/airflow/issues/41613) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#41754](https://github.com/apache/airflow/pull/41754) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#41828](https://github.com/apache/airflow/pull/41828) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#41601](https://github.com/apache/airflow/pull/41601#issuecomment-2314777532) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#41816](https://github.com/apache/airflow/issues/41816#issuecomment-2314770103) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#41412](https://github.com/apache/airflow/pull/41412#issuecomment-2314696702) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
