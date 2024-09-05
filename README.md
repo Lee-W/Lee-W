@@ -44,9 +44,9 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 2 days ago)
-* [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 3 days ago)
-* [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 6 days ago)
+* [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 3 days ago)
+* [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 4 days ago)
+* [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 1 week ago)
 * [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 1 week ago)
 * [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 2 weeks ago)
 
@@ -55,21 +55,21 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  * [異世界自殺突擊隊](https://travlog.wei-lee.me/posts/review/2024/08/Suicide-Squad-ISEKAI) (Published: 1 week ago)
  * [歡迎光臨，千歲醬](https://travlog.wei-lee.me/posts/review/2024/08/okoshiyasu-chitose-chan) (Published: 1 week ago)
  * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 2 weeks ago)
- * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 3 weeks ago)
+ * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 4 weeks ago)
  * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#204](https://github.com/Lee-W/cookiecutter-python-template/pull/204) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. 🎉 Merged PR [#99](https://github.com/pycontw/mail_handler/pull/99) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-3. 🎉 Merged PR [#101](https://github.com/pycontw/mail_handler/pull/101) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-4. 🎉 Merged PR [#205](https://github.com/Lee-W/cookiecutter-python-template/pull/205) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. 🎉 Merged PR [#102](https://github.com/pycontw/mail_handler/pull/102) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-6. 🎉 Merged PR [#98](https://github.com/Lee-W/bahamut_ani_stat/pull/98) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-7. 🎉 Merged PR [#99](https://github.com/Lee-W/bahamut_ani_stat/pull/99) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-8. 🎉 Merged PR [#206](https://github.com/Lee-W/cookiecutter-python-template/pull/206) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🎉 Merged PR [#103](https://github.com/pycontw/mail_handler/pull/103) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-10. 🎉 Merged PR [#41968](https://github.com/apache/airflow/pull/41968) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#42001](https://github.com/apache/airflow/pull/42001#issuecomment-2329296732) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328596934) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328529306) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328399791) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328356517) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328337318) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#41987](https://github.com/apache/airflow/pull/41987) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#41956](https://github.com/apache/airflow/issues/41956#issuecomment-2327838913) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#41412](https://github.com/apache/airflow/pull/41412#issuecomment-2327834405) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#101](https://github.com/Lee-W/bahamut_ani_stat/pull/101) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 
 
 ## ⭐ GitHub Stat
