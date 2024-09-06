@@ -44,8 +44,8 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 3 days ago)
-* [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 4 days ago)
+* [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 4 days ago)
+* [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 5 days ago)
 * [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 1 week ago)
 * [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 1 week ago)
 * [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 2 weeks ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#42001](https://github.com/apache/airflow/pull/42001#issuecomment-2329296732) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328596934) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328529306) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328399791) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328356517) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328337318) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#41987](https://github.com/apache/airflow/pull/41987) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#41956](https://github.com/apache/airflow/issues/41956#issuecomment-2327838913) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#41412](https://github.com/apache/airflow/pull/41412#issuecomment-2327834405) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#101](https://github.com/Lee-W/bahamut_ani_stat/pull/101) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+1. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2331235262) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Closed PR [#41987](https://github.com/apache/airflow/pull/41987) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#42023](https://github.com/apache/airflow/pull/42023) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#104](https://github.com/pycontw/mail_handler/pull/104) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+5. 🎉 Merged PR [#252](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/252) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. 🗣 Commented on [#1206](https://github.com/commitizen-tools/commitizen/pull/1206#issuecomment-2330554040) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#42001](https://github.com/apache/airflow/pull/42001#issuecomment-2329296732) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328596934) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328529306) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2328399791) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
