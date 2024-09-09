@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 6 days ago)
+* [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 1 week ago)
 * [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 1 week ago)
 * [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 1 week ago)
 * [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 2 weeks ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#41984](https://github.com/apache/airflow/pull/41984#issuecomment-2335604971) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#42083](https://github.com/apache/airflow/pull/42083) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#1579](https://github.com/astronomer/astronomer-providers/pull/1579) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-4. 🎉 Merged PR [#41984](https://github.com/apache/airflow/pull/41984) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#42055](https://github.com/apache/airflow/pull/42055) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#42055](https://github.com/apache/airflow/pull/42055) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2333194974) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#159](https://github.com/pycontw/pycontw-blog/pull/159) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 🎉 Merged PR [#1228](https://github.com/commitizen-tools/commitizen/pull/1228) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2331235262) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#42089](https://github.com/apache/airflow/pull/42089) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#42083](https://github.com/apache/airflow/pull/42083) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#42083](https://github.com/apache/airflow/pull/42083#issuecomment-2336596201) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#41984](https://github.com/apache/airflow/pull/41984#issuecomment-2335604971) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#42083](https://github.com/apache/airflow/pull/42083) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#1579](https://github.com/astronomer/astronomer-providers/pull/1579) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
+7. 🎉 Merged PR [#41984](https://github.com/apache/airflow/pull/41984) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#42055](https://github.com/apache/airflow/pull/42055) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#42055](https://github.com/apache/airflow/pull/42055) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#41987](https://github.com/apache/airflow/pull/41987#issuecomment-2333194974) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
