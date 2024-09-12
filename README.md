@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 * [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 1 week ago)
 * [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 1 week ago)
-* [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 1 week ago)
+* [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 2 weeks ago)
 * [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 2 weeks ago)
 * [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 3 weeks ago)
 
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#41412](https://github.com/apache/airflow/pull/41412#issuecomment-2342082260) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#104](https://github.com/Lee-W/bahamut_ani_stat/pull/104) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-3. ❌ Closed PR [#254](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/254) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-4. 🎉 Merged PR [#253](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/253) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. ❌ Closed PR [#102](https://github.com/Lee-W/bahamut_ani_stat/pull/102) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-6. 🎉 Merged PR [#103](https://github.com/Lee-W/bahamut_ani_stat/pull/103) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-7. 🎉 Merged PR [#106](https://github.com/Lee-W/bahamut_ani_stat/pull/106) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-8. 🎉 Merged PR [#107](https://github.com/Lee-W/bahamut_ani_stat/pull/107) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-9. 🎉 Merged PR [#105](https://github.com/pycontw/mail_handler/pull/105) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-10. 🎉 Merged PR [#207](https://github.com/Lee-W/cookiecutter-python-template/pull/207) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2344774026) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#106](https://github.com/pycontw/mail_handler/pull/106) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+3. 🎉 Merged PR [#109](https://github.com/Lee-W/bahamut_ani_stat/pull/109) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+4. 🎉 Merged PR [#108](https://github.com/Lee-W/bahamut_ani_stat/pull/108) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+5. 🎉 Merged PR [#107](https://github.com/pycontw/mail_handler/pull/107) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+6. 🎉 Merged PR [#255](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/255) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2342600710) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2342538528) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2342535979) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2342420100) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
