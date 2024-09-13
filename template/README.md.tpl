@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2344774026) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#106](https://github.com/pycontw/mail_handler/pull/106) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-3. 🎉 Merged PR [#109](https://github.com/Lee-W/bahamut_ani_stat/pull/109) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-4. 🎉 Merged PR [#108](https://github.com/Lee-W/bahamut_ani_stat/pull/108) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-5. 🎉 Merged PR [#107](https://github.com/pycontw/mail_handler/pull/107) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-6. 🎉 Merged PR [#255](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/255) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2342600710) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2342538528) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2342535979) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2342420100) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#180](https://github.com/g0v/tw-rental-house-data/pull/180#issuecomment-2347070998) in [g0v/tw-rental-house-data](https://github.com/g0v/tw-rental-house-data)
+2. 🎉 Merged PR [#110](https://github.com/Lee-W/bahamut_ani_stat/pull/110) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+3. 🗣 Commented on [#41412](https://github.com/apache/airflow/pull/41412#issuecomment-2345335723) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#1235](https://github.com/commitizen-tools/commitizen/pull/1235) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 💪 Opened PR [#180](https://github.com/g0v/tw-rental-house-data/pull/180) in [g0v/tw-rental-house-data](https://github.com/g0v/tw-rental-house-data)
+6. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2345294073) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#42189](https://github.com/apache/airflow/pull/42189) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-2344774026) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#106](https://github.com/pycontw/mail_handler/pull/106) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+10. 🎉 Merged PR [#109](https://github.com/Lee-W/bahamut_ani_stat/pull/109) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
