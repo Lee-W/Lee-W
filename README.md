@@ -45,9 +45,9 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those aren't written down are meant to be forgotten
 
 * [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 2 weeks ago)
-* [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 2 weeks ago)
+* [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 3 weeks ago)
 * [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 3 weeks ago)
-* [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 3 weeks ago)
+* [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 4 weeks ago)
 * [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 1 month ago)
 
 ### Those things no one cares about
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#41828](https://github.com/apache/airflow/pull/41828) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#42304](https://github.com/apache/airflow/pull/42304#issuecomment-2363067458) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#41828](https://github.com/apache/airflow/pull/41828#issuecomment-2363014873) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#42180](https://github.com/apache/airflow/pull/42180#issuecomment-2360929603) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#42180](https://github.com/apache/airflow/pull/42180) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#110](https://github.com/pycontw/mail_handler/pull/110) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
-7. ❌ Closed PR [#113](https://github.com/Lee-W/bahamut_ani_stat/pull/113) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-8. 🎉 Merged PR [#116](https://github.com/Lee-W/bahamut_ani_stat/pull/116) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-9. ❌ Closed PR [#30](https://github.com/Lee-W/main-blog/pull/30) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-10. 🎉 Merged PR [#114](https://github.com/Lee-W/bahamut_ani_stat/pull/114) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+1. ❌ Closed PR [#31](https://github.com/Lee-W/main-blog/pull/31) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 🎉 Merged PR [#259](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/259) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+3. 🎉 Merged PR [#112](https://github.com/pycontw/mail_handler/pull/112) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+4. 🎉 Merged PR [#41828](https://github.com/apache/airflow/pull/41828) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#42304](https://github.com/apache/airflow/pull/42304#issuecomment-2363067458) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#41828](https://github.com/apache/airflow/pull/41828#issuecomment-2363014873) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#42180](https://github.com/apache/airflow/pull/42180#issuecomment-2360929603) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#42180](https://github.com/apache/airflow/pull/42180) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#110](https://github.com/pycontw/mail_handler/pull/110) in [pycontw/mail_handler](https://github.com/pycontw/mail_handler)
+10. ❌ Closed PR [#113](https://github.com/Lee-W/bahamut_ani_stat/pull/113) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 
 
 ## ⭐ GitHub Stat
