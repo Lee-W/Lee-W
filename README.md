@@ -45,7 +45,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those aren't written down are meant to be forgotten
 
 * [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 3 weeks ago)
-* [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 3 weeks ago)
+* [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 4 weeks ago)
 * [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 1 month ago)
 * [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 1 month ago)
 * [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 1 month ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#1243](https://github.com/commitizen-tools/commitizen/pull/1243) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#1244](https://github.com/commitizen-tools/commitizen/pull/1244) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#42490](https://github.com/apache/airflow/pull/42490#issuecomment-2376351359) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#42488](https://github.com/apache/airflow/pull/42488) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#42490](https://github.com/apache/airflow/pull/42490#issuecomment-2376217630) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#42490](https://github.com/apache/airflow/pull/42490) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#42452](https://github.com/apache/airflow/issues/42452#issuecomment-2375809304) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#42452](https://github.com/apache/airflow/issues/42452#issuecomment-2375782275) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#1242](https://github.com/commitizen-tools/commitizen/pull/1242) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#41348](https://github.com/apache/airflow/pull/41348#issuecomment-2375474299) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#42538](https://github.com/apache/airflow/issues/42538#issuecomment-2380420887) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#1243](https://github.com/commitizen-tools/commitizen/pull/1243) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#1244](https://github.com/commitizen-tools/commitizen/pull/1244) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#42490](https://github.com/apache/airflow/pull/42490#issuecomment-2376351359) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#42488](https://github.com/apache/airflow/pull/42488) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#42490](https://github.com/apache/airflow/pull/42490#issuecomment-2376217630) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#42490](https://github.com/apache/airflow/pull/42490) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#42452](https://github.com/apache/airflow/issues/42452#issuecomment-2375809304) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#42452](https://github.com/apache/airflow/issues/42452#issuecomment-2375782275) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#1242](https://github.com/commitizen-tools/commitizen/pull/1242) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
