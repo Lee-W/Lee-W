@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#166](https://github.com/pycontw/pycontw-blog/pull/166) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🎉 Merged PR [#167](https://github.com/pycontw/pycontw-blog/pull/167) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. 🎉 Merged PR [#168](https://github.com/pycontw/pycontw-blog/pull/168) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🎉 Merged PR [#42791](https://github.com/apache/airflow/pull/42791) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#1251](https://github.com/commitizen-tools/commitizen/pull/1251) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#1250](https://github.com/commitizen-tools/commitizen/pull/1250) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#41814](https://github.com/apache/airflow/pull/41814#issuecomment-2395655768) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#42668](https://github.com/apache/airflow/pull/42668#issuecomment-2395650521) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#42569](https://github.com/apache/airflow/pull/42569#issuecomment-2395643685) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#42744](https://github.com/apache/airflow/pull/42744#issuecomment-2395642963) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Closed PR [#37](https://github.com/Lee-W/main-blog/pull/37) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. ❌ Closed PR [#36](https://github.com/Lee-W/main-blog/pull/36) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+3. ❌ Closed PR [#35](https://github.com/Lee-W/main-blog/pull/35) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. ❌ Closed PR [#34](https://github.com/Lee-W/main-blog/pull/34) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+5. 🎉 Merged PR [#1252](https://github.com/commitizen-tools/commitizen/pull/1252) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#169](https://github.com/pycontw/pycontw-blog/pull/169) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+7. 🎉 Merged PR [#111](https://github.com/astronomer/airflow-provider-fivetran-async/pull/111) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
+8. 🗣 Commented on [#42733](https://github.com/apache/airflow/pull/42733#issuecomment-2398317770) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#166](https://github.com/pycontw/pycontw-blog/pull/166) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🎉 Merged PR [#167](https://github.com/pycontw/pycontw-blog/pull/167) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 
 
 ## ⭐ GitHub Stat
