@@ -54,22 +54,22 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  
  * [異世界自殺突擊隊](https://travlog.wei-lee.me/posts/review/2024/08/Suicide-Squad-ISEKAI) (Published: 1 month ago)
  * [歡迎光臨，千歲醬](https://travlog.wei-lee.me/posts/review/2024/08/okoshiyasu-chitose-chan) (Published: 1 month ago)
- * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 1 month ago)
+ * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 2 months ago)
  * [2024 春季看什麼](https://travlog.wei-lee.me/posts/review/2024/08/what-i-watched-in-2024-sprint) (Published: 2 months ago)
  * [夜晚的水母不會游泳](https://travlog.wei-lee.me/posts/review/2024/07/yurukura) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#38](https://github.com/Lee-W/main-blog/pull/38) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 💪 Opened PR [#38](https://github.com/Lee-W/main-blog/pull/38) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-3. 🎉 Merged PR [#1260](https://github.com/commitizen-tools/commitizen/pull/1260) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#41601](https://github.com/apache/airflow/pull/41601#issuecomment-2412632998) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#1255](https://github.com/commitizen-tools/commitizen/pull/1255) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#1256](https://github.com/commitizen-tools/commitizen/pull/1256) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🔒 Closed issue [#526](https://github.com/commitizen-tools/commitizen/issues/526) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#526](https://github.com/commitizen-tools/commitizen/issues/526#issuecomment-2410849593) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#1590](https://github.com/astronomer/astronomer-providers/pull/1590) in [astronomer/astronomer-providers](https://github.com/astronomer/astronomer-providers)
-10. 🗣 Commented on [#42902](https://github.com/apache/airflow/pull/42902#issuecomment-2408787579) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#11](https://github.com/Lee-W/travlog/pull/11) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. 💪 Opened PR [#11](https://github.com/Lee-W/travlog/pull/11) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+3. 💪 Opened PR [#43075](https://github.com/apache/airflow/pull/43075) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#43073](https://github.com/apache/airflow/pull/43073) in [apache/airflow](https://github.com/apache/airflow)
+5. ❌ Closed PR [#275](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/275) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. ❌ Closed PR [#270](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/270) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. ❌ Closed PR [#268](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/268) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. ❌ Closed PR [#260](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/260) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. 🎉 Merged PR [#1259](https://github.com/commitizen-tools/commitizen/pull/1259) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1259](https://github.com/commitizen-tools/commitizen/pull/1259#issuecomment-2415587644) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
