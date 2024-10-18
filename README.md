@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#11](https://github.com/Lee-W/travlog/pull/11) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-2. 💪 Opened PR [#11](https://github.com/Lee-W/travlog/pull/11) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-3. 💪 Opened PR [#43075](https://github.com/apache/airflow/pull/43075) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#43073](https://github.com/apache/airflow/pull/43073) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Closed PR [#275](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/275) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. ❌ Closed PR [#270](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/270) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. ❌ Closed PR [#268](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/268) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. ❌ Closed PR [#260](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/260) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-9. 🎉 Merged PR [#1259](https://github.com/commitizen-tools/commitizen/pull/1259) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#1259](https://github.com/commitizen-tools/commitizen/pull/1259#issuecomment-2415587644) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#43112](https://github.com/apache/airflow/pull/43112) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Closed PR [#43075](https://github.com/apache/airflow/pull/43075) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#43111](https://github.com/apache/airflow/pull/43111) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#43110](https://github.com/apache/airflow/pull/43110) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#11](https://github.com/Lee-W/travlog/pull/11) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+6. 💪 Opened PR [#11](https://github.com/Lee-W/travlog/pull/11) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+7. 💪 Opened PR [#43075](https://github.com/apache/airflow/pull/43075) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#43073](https://github.com/apache/airflow/pull/43073) in [apache/airflow](https://github.com/apache/airflow)
+9. ❌ Closed PR [#275](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/275) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. ❌ Closed PR [#270](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/270) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 
 
 ## ⭐ GitHub Stat
