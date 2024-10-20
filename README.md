@@ -48,7 +48,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 * [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 1 month ago)
 * [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 1 month ago)
 * [Dynamic task mapping on operators that can start execution from trigger](https://blog.wei-lee.me/posts/tech/2024/08/dynamic-task-mapping-on-operators-that-can-start-execution-from-trigger) (Published: 1 month ago)
-* [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 1 month ago)
+* [謝謝你 elegant，你曾是最棒的](https://blog.wei-lee.me/posts/tech/2024/08/thanks-elegant-you-were-the-best) (Published: 2 months ago)
 
 ### Those things no one cares about
  
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#43144](https://github.com/apache/airflow/pull/43144#issuecomment-2422017526) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#1266](https://github.com/commitizen-tools/commitizen/pull/1266) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#42566](https://github.com/apache/airflow/pull/42566#issuecomment-2421598442) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#43142](https://github.com/apache/airflow/pull/43142) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#43111](https://github.com/apache/airflow/pull/43111) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#43112](https://github.com/apache/airflow/pull/43112) in [apache/airflow](https://github.com/apache/airflow)
-7. ❌ Closed PR [#43075](https://github.com/apache/airflow/pull/43075) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#43111](https://github.com/apache/airflow/pull/43111) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#43110](https://github.com/apache/airflow/pull/43110) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#11](https://github.com/Lee-W/travlog/pull/11) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🎉 Merged PR [#171](https://github.com/pycontw/pycontw-blog/pull/171) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🗣 Commented on [#43144](https://github.com/apache/airflow/pull/43144#issuecomment-2422017526) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#1266](https://github.com/commitizen-tools/commitizen/pull/1266) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#42566](https://github.com/apache/airflow/pull/42566#issuecomment-2421598442) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#43142](https://github.com/apache/airflow/pull/43142) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#43111](https://github.com/apache/airflow/pull/43111) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#43112](https://github.com/apache/airflow/pull/43112) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Closed PR [#43075](https://github.com/apache/airflow/pull/43075) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#43111](https://github.com/apache/airflow/pull/43111) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#43110](https://github.com/apache/airflow/pull/43110) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
