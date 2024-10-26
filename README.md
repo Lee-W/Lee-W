@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [用立牌拍照的哲學思辨](https://blog.wei-lee.me/posts/gossiping/2024/10/use-acrylic-standees-to-take-photos) (Published: 2 days ago)
-* [淺嚐 uv](https://blog.wei-lee.me/posts/tech/2024/10/dabble-uv) (Published: 4 days ago)
+* [用立牌拍照的哲學思辨](https://blog.wei-lee.me/posts/gossiping/2024/10/use-acrylic-standees-to-take-photos) (Published: 3 days ago)
+* [淺嚐 uv](https://blog.wei-lee.me/posts/tech/2024/10/dabble-uv) (Published: 5 days ago)
 * [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 1 month ago)
 * [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 1 month ago)
 * [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 1 month ago)
 
 ### Those things no one cares about
  
- * [尼爾：自動人形 Ver1.1a 下半季](https://travlog.wei-lee.me/posts/review/2024/10/nier-automata) (Published: 3 days ago)
- * [BanG Dream! It&#39;s MyGO!!!!! 前編 春の陽だまり、迷い猫](https://travlog.wei-lee.me/posts/review/2024/10/band-dream-it-s-my-go-movie-1) (Published: 6 days ago)
+ * [尼爾：自動人形 Ver1.1a 下半季](https://travlog.wei-lee.me/posts/review/2024/10/nier-automata) (Published: 4 days ago)
+ * [BanG Dream! It&#39;s MyGO!!!!! 前編 春の陽だまり、迷い猫](https://travlog.wei-lee.me/posts/review/2024/10/band-dream-it-s-my-go-movie-1) (Published: 1 week ago)
  * [異世界自殺突擊隊](https://travlog.wei-lee.me/posts/review/2024/08/Suicide-Squad-ISEKAI) (Published: 1 month ago)
- * [歡迎光臨，千歲醬](https://travlog.wei-lee.me/posts/review/2024/08/okoshiyasu-chitose-chan) (Published: 1 month ago)
+ * [歡迎光臨，千歲醬](https://travlog.wei-lee.me/posts/review/2024/08/okoshiyasu-chitose-chan) (Published: 2 months ago)
  * [言葉之庭](https://travlog.wei-lee.me/posts/review/2024/08/the-garden-of-words) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#172](https://github.com/pycontw/pycontw-blog/pull/172) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🗣 Commented on [#43315](https://github.com/apache/airflow/pull/43315#issuecomment-2433930005) in [apache/airflow](https://github.com/apache/airflow)
-3. ❌ Closed PR [#43315](https://github.com/apache/airflow/pull/43315) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#43314](https://github.com/apache/airflow/pull/43314#issuecomment-2433919695) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#43315](https://github.com/apache/airflow/pull/43315) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#43245](https://github.com/apache/airflow/pull/43245#issuecomment-2432317079) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#43314](https://github.com/apache/airflow/pull/43314) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#43313](https://github.com/apache/airflow/pull/43313) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#1262](https://github.com/commitizen-tools/commitizen/pull/1262) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🔒 Closed issue [#264](https://github.com/commitizen-tools/commitizen/issues/264) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#43373](https://github.com/apache/airflow/pull/43373) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#43372](https://github.com/apache/airflow/pull/43372) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#43314](https://github.com/apache/airflow/pull/43314#issuecomment-2436835934) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#173](https://github.com/pycontw/pycontw-blog/pull/173) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🎉 Merged PR [#43369](https://github.com/apache/airflow/pull/43369) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#1276](https://github.com/commitizen-tools/commitizen/pull/1276) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#172](https://github.com/pycontw/pycontw-blog/pull/172) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🗣 Commented on [#43315](https://github.com/apache/airflow/pull/43315#issuecomment-2433930005) in [apache/airflow](https://github.com/apache/airflow)
+9. ❌ Closed PR [#43315](https://github.com/apache/airflow/pull/43315) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#43314](https://github.com/apache/airflow/pull/43314#issuecomment-2433919695) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
