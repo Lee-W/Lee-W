@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41325](https://github.com/apache/airflow/pull/41325#issuecomment-2446772859) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2445614119) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#43176](https://github.com/apache/airflow/issues/43176#issuecomment-2445607755) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#43470](https://github.com/apache/airflow/pull/43470) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#43469](https://github.com/apache/airflow/pull/43469) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#43416](https://github.com/apache/airflow/issues/43416#issuecomment-2444035805) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#43470](https://github.com/apache/airflow/pull/43470) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#43469](https://github.com/apache/airflow/pull/43469) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#114](https://github.com/astronomer/airflow-provider-fivetran-async/pull/114) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
-10. 🗣 Commented on [#42668](https://github.com/apache/airflow/pull/42668#issuecomment-2440807716) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#43572](https://github.com/apache/airflow/pull/43572#issuecomment-2451398348) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#1279](https://github.com/commitizen-tools/commitizen/pull/1279) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 💪 Opened PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+5. 🗣 Commented on [#41325](https://github.com/apache/airflow/pull/41325#issuecomment-2446772859) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2445614119) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#43176](https://github.com/apache/airflow/issues/43176#issuecomment-2445607755) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#43470](https://github.com/apache/airflow/pull/43470) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#43469](https://github.com/apache/airflow/pull/43469) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#43416](https://github.com/apache/airflow/issues/43416#issuecomment-2444035805) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
