@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452879589) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452878582) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#1221](https://github.com/commitizen-tools/commitizen/pull/1221#issuecomment-2452876352) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#43572](https://github.com/apache/airflow/pull/43572#issuecomment-2451398348) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#1279](https://github.com/commitizen-tools/commitizen/pull/1279) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-7. 💪 Opened PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-8. 🗣 Commented on [#41325](https://github.com/apache/airflow/pull/41325#issuecomment-2446772859) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2445614119) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#43176](https://github.com/apache/airflow/issues/43176#issuecomment-2445607755) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2453653753) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+2. 💪 Opened PR [#57](https://github.com/stefmolin/exif-stripper/pull/57) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+3. ❗ Opened issue [#56](https://github.com/stefmolin/exif-stripper/issues/56) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+4. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452879589) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452878582) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#1221](https://github.com/commitizen-tools/commitizen/pull/1221#issuecomment-2452876352) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#43572](https://github.com/apache/airflow/pull/43572#issuecomment-2451398348) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#1279](https://github.com/commitizen-tools/commitizen/pull/1279) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+10. 💪 Opened PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
