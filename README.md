@@ -44,15 +44,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
+* [移除照片 Exif 中的 GPSInfo](https://blog.wei-lee.me/posts/tech/2024/11/remove-gps-info-from-exif) (Published: 1 day ago)
 * [用立牌拍照的哲學思辨](https://blog.wei-lee.me/posts/gossiping/2024/10/use-acrylic-standees-to-take-photos) (Published: 1 week ago)
-* [淺嚐 uv](https://blog.wei-lee.me/posts/tech/2024/10/dabble-uv) (Published: 1 week ago)
+* [淺嚐 uv](https://blog.wei-lee.me/posts/tech/2024/10/dabble-uv) (Published: 2 weeks ago)
 * [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 2 months ago)
 * [Building a Customized Linter](https://blog.wei-lee.me/posts/tech/2024/09/check_default_value_of_default_deferrable_through_ast) (Published: 2 months ago)
-* [Optimizing Airflow Operators](https://blog.wei-lee.me/posts/tech/2024/08/optimizing-airflow-operators-with-default_deferrable) (Published: 2 months ago)
 
 ### Those things no one cares about
  
- * [【我推的孩子】 第二季](https://travlog.wei-lee.me/posts/review/2024/10/oshi-no-ko-season-2) (Published: 5 days ago)
+ * [【我推的孩子】 第二季](https://travlog.wei-lee.me/posts/review/2024/10/oshi-no-ko-season-2) (Published: 6 days ago)
  * [尼爾：自動人形 Ver1.1a 下半季](https://travlog.wei-lee.me/posts/review/2024/10/nier-automata) (Published: 1 week ago)
  * [BanG Dream! It&#39;s MyGO!!!!! 前編 春の陽だまり、迷い猫](https://travlog.wei-lee.me/posts/review/2024/10/band-dream-it-s-my-go-movie-1) (Published: 2 weeks ago)
  * [異世界自殺突擊隊](https://travlog.wei-lee.me/posts/review/2024/08/Suicide-Squad-ISEKAI) (Published: 2 months ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452879589) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452878582) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#1221](https://github.com/commitizen-tools/commitizen/pull/1221#issuecomment-2452876352) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#43572](https://github.com/apache/airflow/pull/43572#issuecomment-2451398348) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#1279](https://github.com/commitizen-tools/commitizen/pull/1279) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-7. 💪 Opened PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-8. 🗣 Commented on [#41325](https://github.com/apache/airflow/pull/41325#issuecomment-2446772859) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2445614119) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#43176](https://github.com/apache/airflow/issues/43176#issuecomment-2445607755) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2453653753) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+2. 💪 Opened PR [#57](https://github.com/stefmolin/exif-stripper/pull/57) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+3. ❗ Opened issue [#56](https://github.com/stefmolin/exif-stripper/issues/56) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+4. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452879589) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452878582) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#1221](https://github.com/commitizen-tools/commitizen/pull/1221#issuecomment-2452876352) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#43572](https://github.com/apache/airflow/pull/43572#issuecomment-2451398348) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#1279](https://github.com/commitizen-tools/commitizen/pull/1279) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+10. 💪 Opened PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 
 
 ## ⭐ GitHub Stat
