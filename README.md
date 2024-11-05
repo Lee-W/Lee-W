@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [移除照片 Exif 中的 GPSInfo](https://blog.wei-lee.me/posts/tech/2024/11/remove-gps-info-from-exif) (Published: 1 day ago)
+* [移除照片 Exif 中的 GPSInfo](https://blog.wei-lee.me/posts/tech/2024/11/remove-gps-info-from-exif) (Published: 2 days ago)
 * [用立牌拍照的哲學思辨](https://blog.wei-lee.me/posts/gossiping/2024/10/use-acrylic-standees-to-take-photos) (Published: 1 week ago)
 * [淺嚐 uv](https://blog.wei-lee.me/posts/tech/2024/10/dabble-uv) (Published: 2 weeks ago)
 * [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 2 months ago)
@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [【我推的孩子】 第二季](https://travlog.wei-lee.me/posts/review/2024/10/oshi-no-ko-season-2) (Published: 6 days ago)
- * [尼爾：自動人形 Ver1.1a 下半季](https://travlog.wei-lee.me/posts/review/2024/10/nier-automata) (Published: 1 week ago)
+ * [【我推的孩子】 第二季](https://travlog.wei-lee.me/posts/review/2024/10/oshi-no-ko-season-2) (Published: 1 week ago)
+ * [尼爾：自動人形 Ver1.1a 下半季](https://travlog.wei-lee.me/posts/review/2024/10/nier-automata) (Published: 2 weeks ago)
  * [BanG Dream! It&#39;s MyGO!!!!! 前編 春の陽だまり、迷い猫](https://travlog.wei-lee.me/posts/review/2024/10/band-dream-it-s-my-go-movie-1) (Published: 2 weeks ago)
  * [異世界自殺突擊隊](https://travlog.wei-lee.me/posts/review/2024/08/Suicide-Squad-ISEKAI) (Published: 2 months ago)
  * [歡迎光臨，千歲醬](https://travlog.wei-lee.me/posts/review/2024/08/okoshiyasu-chitose-chan) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2453653753) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
-2. 💪 Opened PR [#57](https://github.com/stefmolin/exif-stripper/pull/57) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
-3. ❗ Opened issue [#56](https://github.com/stefmolin/exif-stripper/issues/56) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
-4. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452879589) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452878582) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#1221](https://github.com/commitizen-tools/commitizen/pull/1221#issuecomment-2452876352) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#43572](https://github.com/apache/airflow/pull/43572#issuecomment-2451398348) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#1279](https://github.com/commitizen-tools/commitizen/pull/1279) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-10. 💪 Opened PR [#39](https://github.com/Lee-W/main-blog/pull/39) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+1. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2454747733) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+2. 🗣 Commented on [#43615](https://github.com/apache/airflow/issues/43615#issuecomment-2454404869) in [apache/airflow](https://github.com/apache/airflow)
+3. ❗ Opened issue [#43619](https://github.com/apache/airflow/issues/43619) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#1281](https://github.com/commitizen-tools/commitizen/pull/1281) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#1280](https://github.com/commitizen-tools/commitizen/pull/1280) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2453653753) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+7. 💪 Opened PR [#57](https://github.com/stefmolin/exif-stripper/pull/57) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+8. ❗ Opened issue [#56](https://github.com/stefmolin/exif-stripper/issues/56) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+9. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452879589) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452878582) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
