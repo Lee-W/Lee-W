@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2454747733) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
-2. 🗣 Commented on [#43615](https://github.com/apache/airflow/issues/43615#issuecomment-2454404869) in [apache/airflow](https://github.com/apache/airflow)
-3. ❗ Opened issue [#43619](https://github.com/apache/airflow/issues/43619) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#1281](https://github.com/commitizen-tools/commitizen/pull/1281) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🎉 Merged PR [#1280](https://github.com/commitizen-tools/commitizen/pull/1280) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2453653753) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
-7. 💪 Opened PR [#57](https://github.com/stefmolin/exif-stripper/pull/57) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
-8. ❗ Opened issue [#56](https://github.com/stefmolin/exif-stripper/issues/56) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
-9. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452879589) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2452878582) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#43693](https://github.com/apache/airflow/pull/43693) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#1274](https://github.com/commitizen-tools/commitizen/pull/1274#issuecomment-2456096253) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2456051504) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+4. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2454747733) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+5. 🗣 Commented on [#43615](https://github.com/apache/airflow/issues/43615#issuecomment-2454404869) in [apache/airflow](https://github.com/apache/airflow)
+6. ❗ Opened issue [#43619](https://github.com/apache/airflow/issues/43619) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#1281](https://github.com/commitizen-tools/commitizen/pull/1281) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#1280](https://github.com/commitizen-tools/commitizen/pull/1280) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2453653753) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
+10. 💪 Opened PR [#57](https://github.com/stefmolin/exif-stripper/pull/57) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
