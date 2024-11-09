@@ -52,11 +52,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#43781](https://github.com/apache/airflow/pull/43781) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#43781](https://github.com/apache/airflow/pull/43781) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#43774](https://github.com/apache/airflow/pull/43774) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#43773](https://github.com/apache/airflow/pull/43773) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Closed PR [#1](https://github.com/Lee-W/exif-stripper/pull/1) in [Lee-W/exif-stripper](https://github.com/Lee-W/exif-stripper)
+1. 🎉 Merged PR [#174](https://github.com/pycontw/pycontw-blog/pull/174) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. ❌ Closed PR [#43781](https://github.com/apache/airflow/pull/43781) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#43781](https://github.com/apache/airflow/pull/43781) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#43774](https://github.com/apache/airflow/pull/43774) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#43773](https://github.com/apache/airflow/pull/43773) in [apache/airflow](https://github.com/apache/airflow)
 6. 💪 Opened PR [#1](https://github.com/Lee-W/exif-stripper/pull/1) in [Lee-W/exif-stripper](https://github.com/Lee-W/exif-stripper)
 7. 🗣 Commented on [#43612](https://github.com/apache/airflow/pull/43612#issuecomment-2461096378) in [apache/airflow](https://github.com/apache/airflow)
 8. 🗣 Commented on [#56](https://github.com/stefmolin/exif-stripper/issues/56#issuecomment-2457386504) in [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper)
