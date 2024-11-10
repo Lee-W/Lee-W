@@ -44,26 +44,26 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 3 days ago)
-* [移除照片 Exif 中的 GPSInfo](https://blog.wei-lee.me/posts/tech/2024/11/remove-gps-info-from-exif) (Published: 6 days ago)
+* [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 4 days ago)
+* [移除照片 Exif 中的 GPSInfo](https://blog.wei-lee.me/posts/tech/2024/11/remove-gps-info-from-exif) (Published: 1 week ago)
 * [用立牌拍照的哲學思辨](https://blog.wei-lee.me/posts/gossiping/2024/10/use-acrylic-standees-to-take-photos) (Published: 2 weeks ago)
 * [淺嚐 uv](https://blog.wei-lee.me/posts/tech/2024/10/dabble-uv) (Published: 2 weeks ago)
 * [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 2 months ago)
 
 ### Those things no one cares about
  
- * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 2 days ago)
- * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 4 days ago)
+ * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 3 days ago)
+ * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 5 days ago)
  * [【我推的孩子】 第二季](https://travlog.wei-lee.me/posts/review/2024/10/oshi-no-ko-season-2) (Published: 1 week ago)
  * [尼爾：自動人形 Ver1.1a 下半季](https://travlog.wei-lee.me/posts/review/2024/10/nier-automata) (Published: 2 weeks ago)
  * [BanG Dream! It&#39;s MyGO!!!!! 前編 春の陽だまり、迷い猫](https://travlog.wei-lee.me/posts/review/2024/10/band-dream-it-s-my-go-movie-1) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#174](https://github.com/pycontw/pycontw-blog/pull/174) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. ❌ Closed PR [#43781](https://github.com/apache/airflow/pull/43781) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#43781](https://github.com/apache/airflow/pull/43781) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#43774](https://github.com/apache/airflow/pull/43774) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#43826](https://github.com/apache/airflow/pull/43826#issuecomment-2466046072) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#174](https://github.com/pycontw/pycontw-blog/pull/174) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. ❌ Closed PR [#43781](https://github.com/apache/airflow/pull/43781) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#43781](https://github.com/apache/airflow/pull/43781) in [apache/airflow](https://github.com/apache/airflow)
 5. 💪 Opened PR [#43773](https://github.com/apache/airflow/pull/43773) in [apache/airflow](https://github.com/apache/airflow)
 6. 💪 Opened PR [#1](https://github.com/Lee-W/exif-stripper/pull/1) in [Lee-W/exif-stripper](https://github.com/Lee-W/exif-stripper)
 7. 🗣 Commented on [#43612](https://github.com/apache/airflow/pull/43612#issuecomment-2461096378) in [apache/airflow](https://github.com/apache/airflow)
