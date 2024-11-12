@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1285](https://github.com/commitizen-tools/commitizen/pull/1285) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 💪 Opened PR [#1285](https://github.com/commitizen-tools/commitizen/pull/1285) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🔒 Closed issue [#1053](https://github.com/commitizen-tools/commitizen/issues/1053) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#1054](https://github.com/commitizen-tools/commitizen/pull/1054) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 💪 Opened PR [#1284](https://github.com/commitizen-tools/commitizen/pull/1284) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#1261](https://github.com/commitizen-tools/commitizen/pull/1261#issuecomment-2466559585) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#1209](https://github.com/commitizen-tools/commitizen/pull/1209) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#1209](https://github.com/commitizen-tools/commitizen/pull/1209#issuecomment-2466557144) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#1282](https://github.com/commitizen-tools/commitizen/pull/1282) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#1081](https://github.com/commitizen-tools/commitizen/pull/1081#issuecomment-2466556160) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ❌ Closed PR [#228](https://github.com/Lee-W/cookiecutter-python-template/pull/228) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+2. ❌ Closed PR [#227](https://github.com/Lee-W/cookiecutter-python-template/pull/227) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+3. ❌ Closed PR [#226](https://github.com/Lee-W/cookiecutter-python-template/pull/226) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+4. ❌ Closed PR [#219](https://github.com/Lee-W/cookiecutter-python-template/pull/219) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+5. ❌ Closed PR [#213](https://github.com/Lee-W/cookiecutter-python-template/pull/213) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+6. 🎉 Merged PR [#43878](https://github.com/apache/airflow/pull/43878) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#229](https://github.com/Lee-W/cookiecutter-python-template/pull/229) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. 💪 Opened PR [#43878](https://github.com/apache/airflow/pull/43878) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#43877](https://github.com/apache/airflow/pull/43877) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#176](https://github.com/pycontw/pycontw-blog/pull/176) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
