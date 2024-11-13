@@ -44,15 +44,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 6 days ago)
+* [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 1 week ago)
 * [移除照片 Exif 中的 GPSInfo](https://blog.wei-lee.me/posts/tech/2024/11/remove-gps-info-from-exif) (Published: 1 week ago)
-* [用立牌拍照的哲學思辨](https://blog.wei-lee.me/posts/gossiping/2024/10/use-acrylic-standees-to-take-photos) (Published: 2 weeks ago)
+* [用立牌拍照的哲學思辨](https://blog.wei-lee.me/posts/gossiping/2024/10/use-acrylic-standees-to-take-photos) (Published: 3 weeks ago)
 * [淺嚐 uv](https://blog.wei-lee.me/posts/tech/2024/10/dabble-uv) (Published: 3 weeks ago)
 * [Dive deeper into AST](https://blog.wei-lee.me/posts/tech/2024/09/dig-into-ast-a-bit-more) (Published: 2 months ago)
 
 ### Those things no one cares about
  
- * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 5 days ago)
+ * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 6 days ago)
  * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 1 week ago)
  * [【我推的孩子】 第二季](https://travlog.wei-lee.me/posts/review/2024/10/oshi-no-ko-season-2) (Published: 2 weeks ago)
  * [尼爾：自動人形 Ver1.1a 下半季](https://travlog.wei-lee.me/posts/review/2024/10/nier-automata) (Published: 3 weeks ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. ❌ Closed PR [#228](https://github.com/Lee-W/cookiecutter-python-template/pull/228) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. ❌ Closed PR [#227](https://github.com/Lee-W/cookiecutter-python-template/pull/227) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-3. ❌ Closed PR [#226](https://github.com/Lee-W/cookiecutter-python-template/pull/226) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-4. ❌ Closed PR [#219](https://github.com/Lee-W/cookiecutter-python-template/pull/219) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. ❌ Closed PR [#213](https://github.com/Lee-W/cookiecutter-python-template/pull/213) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-6. 🎉 Merged PR [#43878](https://github.com/apache/airflow/pull/43878) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#229](https://github.com/Lee-W/cookiecutter-python-template/pull/229) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. 💪 Opened PR [#43878](https://github.com/apache/airflow/pull/43878) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#43877](https://github.com/apache/airflow/pull/43877) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#176](https://github.com/pycontw/pycontw-blog/pull/176) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 🎉 Merged PR [#230](https://github.com/Lee-W/cookiecutter-python-template/pull/230) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+2. 💪 Opened PR [#230](https://github.com/Lee-W/cookiecutter-python-template/pull/230) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+3. 💪 Opened PR [#43922](https://github.com/apache/airflow/pull/43922) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#229](https://github.com/Lee-W/cookiecutter-python-template/pull/229) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+5. ❌ Closed PR [#228](https://github.com/Lee-W/cookiecutter-python-template/pull/228) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+6. ❌ Closed PR [#227](https://github.com/Lee-W/cookiecutter-python-template/pull/227) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+7. ❌ Closed PR [#226](https://github.com/Lee-W/cookiecutter-python-template/pull/226) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. ❌ Closed PR [#219](https://github.com/Lee-W/cookiecutter-python-template/pull/219) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. ❌ Closed PR [#213](https://github.com/Lee-W/cookiecutter-python-template/pull/213) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 🎉 Merged PR [#43878](https://github.com/apache/airflow/pull/43878) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
