@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 2 days ago)
+* [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 3 days ago)
 * [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 1 week ago)
 * [移除照片 Exif 中的 GPSInfo](https://blog.wei-lee.me/posts/tech/2024/11/remove-gps-info-from-exif) (Published: 1 week ago)
 * [用立牌拍照的哲學思辨](https://blog.wei-lee.me/posts/gossiping/2024/10/use-acrylic-standees-to-take-photos) (Published: 3 weeks ago)
@@ -52,7 +52,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 1 day ago)
+ * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 2 days ago)
  * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 1 week ago)
  * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 1 week ago)
  * [【我推的孩子】 第二季](https://travlog.wei-lee.me/posts/review/2024/10/oshi-no-ko-season-2) (Published: 2 weeks ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🔒 Closed issue [#42314](https://github.com/apache/airflow/issues/42314) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#41325](https://github.com/apache/airflow/pull/41325) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#41325](https://github.com/apache/airflow/pull/41325#issuecomment-2475802671) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#43873](https://github.com/apache/airflow/pull/43873) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#44009](https://github.com/apache/airflow/pull/44009) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2475183081) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#43826](https://github.com/apache/airflow/pull/43826#issuecomment-2475109657) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#43922](https://github.com/apache/airflow/pull/43922) in [apache/airflow](https://github.com/apache/airflow)
-9. ❗ Opened issue [#234](https://github.com/Lee-W/cookiecutter-python-template/issues/234) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-10. ❗ Opened issue [#233](https://github.com/Lee-W/cookiecutter-python-template/issues/233) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. ❗ Opened issue [#44049](https://github.com/apache/airflow/issues/44049) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#44009](https://github.com/apache/airflow/pull/44009#issuecomment-2478158762) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#44009](https://github.com/apache/airflow/pull/44009#issuecomment-2478140508) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#44009](https://github.com/apache/airflow/pull/44009#issuecomment-2478096911) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#44009](https://github.com/apache/airflow/pull/44009#issuecomment-2477856149) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#1289](https://github.com/commitizen-tools/commitizen/pull/1289) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🔒 Closed issue [#42314](https://github.com/apache/airflow/issues/42314) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#41325](https://github.com/apache/airflow/pull/41325) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#41325](https://github.com/apache/airflow/pull/41325#issuecomment-2475802671) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#43873](https://github.com/apache/airflow/pull/43873) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
