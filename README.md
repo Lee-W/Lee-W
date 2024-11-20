@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 6 days ago)
-* [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 1 week ago)
+* [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 1 day ago)
+* [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 1 day ago)
+* [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 1 week ago)
+* [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 2 weeks ago)
 * [移除照片 Exif 中的 GPSInfo](https://blog.wei-lee.me/posts/tech/2024/11/remove-gps-info-from-exif) (Published: 2 weeks ago)
-* [用立牌拍照的哲學思辨](https://blog.wei-lee.me/posts/gossiping/2024/10/use-acrylic-standees-to-take-photos) (Published: 3 weeks ago)
-* [淺嚐 uv](https://blog.wei-lee.me/posts/tech/2024/10/dabble-uv) (Published: 4 weeks ago)
 
 ### Those things no one cares about
  
- * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 3 days ago)
- * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 5 days ago)
+ * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 4 days ago)
+ * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 6 days ago)
  * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 1 week ago)
  * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 2 weeks ago)
  * [【我推的孩子】 第二季](https://travlog.wei-lee.me/posts/review/2024/10/oshi-no-ko-season-2) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#44114](https://github.com/apache/airflow/issues/44114#issuecomment-2483106555) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#44140](https://github.com/apache/airflow/pull/44140) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#178](https://github.com/pycontw/pycontw-blog/pull/178) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2482705088) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#177](https://github.com/pycontw/pycontw-blog/pull/177) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🗣 Commented on [#44009](https://github.com/apache/airflow/pull/44009#issuecomment-2482177022) in [apache/airflow](https://github.com/apache/airflow)
-7. ❌ Closed PR [#44009](https://github.com/apache/airflow/pull/44009) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#1293](https://github.com/commitizen-tools/commitizen/pull/1293) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#1292](https://github.com/commitizen-tools/commitizen/pull/1292) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#1291](https://github.com/commitizen-tools/commitizen/pull/1291) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485685523) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485671170) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485668236) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#235](https://github.com/Lee-W/cookiecutter-python-template/pull/235) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+5. 💪 Opened PR [#44181](https://github.com/apache/airflow/pull/44181) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485410645) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485407863) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2484935133) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#44014](https://github.com/apache/airflow/issues/44014#issuecomment-2484640392) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#43978](https://github.com/apache/airflow/pull/43978#issuecomment-2484629746) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
