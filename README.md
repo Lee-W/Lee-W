@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 1 day ago)
-* [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 1 day ago)
+* [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 2 days ago)
+* [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 2 days ago)
 * [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 1 week ago)
 * [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 2 weeks ago)
 * [移除照片 Exif 中的 GPSInfo](https://blog.wei-lee.me/posts/tech/2024/11/remove-gps-info-from-exif) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 4 days ago)
- * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 6 days ago)
- * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 1 week ago)
+ * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 5 days ago)
+ * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 1 week ago)
+ * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 2 weeks ago)
  * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 2 weeks ago)
  * [【我推的孩子】 第二季](https://travlog.wei-lee.me/posts/review/2024/10/oshi-no-ko-season-2) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485685523) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485671170) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485668236) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#235](https://github.com/Lee-W/cookiecutter-python-template/pull/235) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. 💪 Opened PR [#44181](https://github.com/apache/airflow/pull/44181) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485410645) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485407863) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2484935133) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#44014](https://github.com/apache/airflow/issues/44014#issuecomment-2484640392) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#43978](https://github.com/apache/airflow/pull/43978#issuecomment-2484629746) in [apache/airflow](https://github.com/apache/airflow)
+1. 🔒 Closed issue [#43619](https://github.com/apache/airflow/issues/43619) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#43773](https://github.com/apache/airflow/pull/43773) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#44121](https://github.com/apache/airflow/pull/44121#issuecomment-2487235191) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#43978](https://github.com/apache/airflow/pull/43978#issuecomment-2487222599) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2487215287) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#231](https://github.com/Lee-W/cookiecutter-python-template/issues/231#issuecomment-2487145111) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+7. 🔒 Closed issue [#231](https://github.com/Lee-W/cookiecutter-python-template/issues/231) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. 🎉 Merged PR [#235](https://github.com/Lee-W/cookiecutter-python-template/pull/235) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485685523) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485671170) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
