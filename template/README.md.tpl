@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485685523) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485671170) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485668236) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#235](https://github.com/Lee-W/cookiecutter-python-template/pull/235) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-5. 💪 Opened PR [#44181](https://github.com/apache/airflow/pull/44181) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485410645) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485407863) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2484935133) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#44014](https://github.com/apache/airflow/issues/44014#issuecomment-2484640392) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#43978](https://github.com/apache/airflow/pull/43978#issuecomment-2484629746) in [apache/airflow](https://github.com/apache/airflow)
+1. 🔒 Closed issue [#43619](https://github.com/apache/airflow/issues/43619) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#43773](https://github.com/apache/airflow/pull/43773) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#44121](https://github.com/apache/airflow/pull/44121#issuecomment-2487235191) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#43978](https://github.com/apache/airflow/pull/43978#issuecomment-2487222599) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2487215287) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#231](https://github.com/Lee-W/cookiecutter-python-template/issues/231#issuecomment-2487145111) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+7. 🔒 Closed issue [#231](https://github.com/Lee-W/cookiecutter-python-template/issues/231) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. 🎉 Merged PR [#235](https://github.com/Lee-W/cookiecutter-python-template/pull/235) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485685523) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2485671170) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
