@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 5 days ago)
+* [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 6 days ago)
 * [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 1 week ago)
 * [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 1 week ago)
 * [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 2 weeks ago)
@@ -52,7 +52,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [好喝可可的泡法](https://travlog.wei-lee.me/posts/cook/2024/11/tasty-cocoa) (Published: 3 days ago)
+ * [好喝可可的泡法](https://travlog.wei-lee.me/posts/cook/2024/11/tasty-cocoa) (Published: 4 days ago)
  * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 2 weeks ago)
  * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 2 weeks ago)
  * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 3 weeks ago)
