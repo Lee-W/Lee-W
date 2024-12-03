@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 6 days ago)
-* [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 1 week ago)
-* [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 1 week ago)
+* [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 1 week ago)
+* [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 2 weeks ago)
+* [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 2 weeks ago)
 * [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 2 weeks ago)
 * [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [好喝可可的泡法](https://travlog.wei-lee.me/posts/cook/2024/11/tasty-cocoa) (Published: 4 days ago)
+ * [好喝可可的泡法](https://travlog.wei-lee.me/posts/cook/2024/11/tasty-cocoa) (Published: 5 days ago)
  * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 2 weeks ago)
  * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 2 weeks ago)
  * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 3 weeks ago)
- * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 3 weeks ago)
+ * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 4 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2508158125) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2508140120) in [apache/airflow](https://github.com/apache/airflow)
-3. ❗ Opened issue [#44482](https://github.com/apache/airflow/issues/44482) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#44475](https://github.com/apache/airflow/pull/44475) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2507518021) in [apache/airflow](https://github.com/apache/airflow)
-6. 🔒 Closed issue [#44472](https://github.com/apache/airflow/issues/44472) in [apache/airflow](https://github.com/apache/airflow)
-7. ❗ Opened issue [#44472](https://github.com/apache/airflow/issues/44472) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-2507263054) in [apache/airflow](https://github.com/apache/airflow)
-9. ❌ Reopened PR [#43959](https://github.com/apache/airflow/pull/43959) in [apache/airflow](https://github.com/apache/airflow)
-10. ❌ Closed PR [#43959](https://github.com/apache/airflow/pull/43959) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#14734](https://github.com/astral-sh/ruff/pull/14734) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#43956](https://github.com/apache/airflow/issues/43956#issuecomment-2511522887) in [apache/airflow](https://github.com/apache/airflow)
+3. 🔒 Closed issue [#44411](https://github.com/apache/airflow/issues/44411) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#44413](https://github.com/apache/airflow/pull/44413) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#44302](https://github.com/apache/airflow/pull/44302#issuecomment-2511254028) in [apache/airflow](https://github.com/apache/airflow)
+6. 🔒 Closed issue [#43958](https://github.com/apache/airflow/issues/43958) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#43774](https://github.com/apache/airflow/pull/43774) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#43774](https://github.com/apache/airflow/pull/43774#issuecomment-2511160394) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#1305](https://github.com/commitizen-tools/commitizen/pull/1305) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#1304](https://github.com/commitizen-tools/commitizen/pull/1304) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
