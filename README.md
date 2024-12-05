@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [好喝可可的泡法](https://travlog.wei-lee.me/posts/cook/2024/11/tasty-cocoa) (Published: 6 days ago)
+ * [好喝可可的泡法](https://travlog.wei-lee.me/posts/cook/2024/11/tasty-cocoa) (Published: 1 week ago)
  * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 2 weeks ago)
- * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 2 weeks ago)
- * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 3 weeks ago)
- * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 4 weeks ago)
+ * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 3 weeks ago)
+ * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 4 weeks ago)
+ * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#239](https://github.com/Lee-W/cookiecutter-python-template/pull/239) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. 🎉 Merged PR [#238](https://github.com/Lee-W/cookiecutter-python-template/pull/238) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-3. 🎉 Merged PR [#237](https://github.com/Lee-W/cookiecutter-python-template/pull/237) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-4. 🗣 Commented on [#41265](https://github.com/apache/airflow/issues/41265#issuecomment-2514792685) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#41265](https://github.com/apache/airflow/issues/41265) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#44556](https://github.com/apache/airflow/issues/44556#issuecomment-2514720328) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#44385](https://github.com/apache/airflow/issues/44385#issuecomment-2514692420) in [apache/airflow](https://github.com/apache/airflow)
-8. 🔒 Closed issue [#44385](https://github.com/apache/airflow/issues/44385) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#44610](https://github.com/apache/airflow/pull/44610) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2514181037) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 🗣 Commented on [#44601](https://github.com/apache/airflow/issues/44601#issuecomment-2516821879) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#44639](https://github.com/apache/airflow/pull/44639) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2516441838) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 💪 Opened PR [#14765](https://github.com/astral-sh/ruff/pull/14765) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+5. 💪 Opened PR [#14764](https://github.com/astral-sh/ruff/pull/14764) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+6. 💪 Opened PR [#44635](https://github.com/apache/airflow/pull/44635) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#240](https://github.com/Lee-W/cookiecutter-python-template/pull/240) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. 💪 Opened PR [#240](https://github.com/Lee-W/cookiecutter-python-template/pull/240) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. 🎉 Merged PR [#239](https://github.com/Lee-W/cookiecutter-python-template/pull/239) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 💪 Opened PR [#239](https://github.com/Lee-W/cookiecutter-python-template/pull/239) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 
 
 ## ⭐ GitHub Stat
