@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44601](https://github.com/apache/airflow/issues/44601#issuecomment-2516821879) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#44639](https://github.com/apache/airflow/pull/44639) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2516441838) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 💪 Opened PR [#14765](https://github.com/astral-sh/ruff/pull/14765) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 💪 Opened PR [#14764](https://github.com/astral-sh/ruff/pull/14764) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-6. 💪 Opened PR [#44635](https://github.com/apache/airflow/pull/44635) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#240](https://github.com/Lee-W/cookiecutter-python-template/pull/240) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. 💪 Opened PR [#240](https://github.com/Lee-W/cookiecutter-python-template/pull/240) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🎉 Merged PR [#239](https://github.com/Lee-W/cookiecutter-python-template/pull/239) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-10. 💪 Opened PR [#239](https://github.com/Lee-W/cookiecutter-python-template/pull/239) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+1. ❌ Closed PR [#44610](https://github.com/apache/airflow/pull/44610) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#44633](https://github.com/apache/airflow/pull/44633#issuecomment-2519656337) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#44681](https://github.com/apache/airflow/pull/44681) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#44681](https://github.com/apache/airflow/pull/44681) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#180](https://github.com/pycontw/pycontw-blog/pull/180) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 🗣 Commented on [#44601](https://github.com/apache/airflow/issues/44601#issuecomment-2516821879) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#44639](https://github.com/apache/airflow/pull/44639) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2516441838) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+9. 💪 Opened PR [#14765](https://github.com/astral-sh/ruff/pull/14765) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+10. 💪 Opened PR [#14764](https://github.com/astral-sh/ruff/pull/14764) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
