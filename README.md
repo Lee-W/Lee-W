@@ -53,23 +53,23 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those things no one cares about
  
  * [好喝可可的泡法](https://travlog.wei-lee.me/posts/cook/2024/11/tasty-cocoa) (Published: 1 week ago)
- * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 2 weeks ago)
+ * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 3 weeks ago)
  * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 3 weeks ago)
- * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 4 weeks ago)
+ * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 1 month ago)
  * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. ❌ Closed PR [#44610](https://github.com/apache/airflow/pull/44610) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#44633](https://github.com/apache/airflow/pull/44633#issuecomment-2519656337) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#44681](https://github.com/apache/airflow/pull/44681) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#44681](https://github.com/apache/airflow/pull/44681) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#180](https://github.com/pycontw/pycontw-blog/pull/180) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🗣 Commented on [#44601](https://github.com/apache/airflow/issues/44601#issuecomment-2516821879) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#44639](https://github.com/apache/airflow/pull/44639) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2516441838) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-9. 💪 Opened PR [#14765](https://github.com/astral-sh/ruff/pull/14765) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 💪 Opened PR [#14764](https://github.com/astral-sh/ruff/pull/14764) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 💪 Opened PR [#14804](https://github.com/astral-sh/ruff/pull/14804) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🎉 Merged PR [#1306](https://github.com/commitizen-tools/commitizen/pull/1306) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ❌ Closed PR [#44610](https://github.com/apache/airflow/pull/44610) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#44633](https://github.com/apache/airflow/pull/44633#issuecomment-2519656337) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#44681](https://github.com/apache/airflow/pull/44681) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#44681](https://github.com/apache/airflow/pull/44681) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#180](https://github.com/pycontw/pycontw-blog/pull/180) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🗣 Commented on [#44601](https://github.com/apache/airflow/issues/44601#issuecomment-2516821879) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#44639](https://github.com/apache/airflow/pull/44639) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2516441838) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 
 ## ⭐ GitHub Stat
