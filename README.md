@@ -53,7 +53,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those things no one cares about
  
  * [好喝可可的泡法](https://travlog.wei-lee.me/posts/cook/2024/11/tasty-cocoa) (Published: 2 weeks ago)
- * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 4 weeks ago)
+ * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 1 month ago)
  * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 1 month ago)
  * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 1 month ago)
  * [2024 秋番嚐百草](https://travlog.wei-lee.me/posts/review/2024/11/what-i-will-watch-in-2024-fall) (Published: 1 month ago)
