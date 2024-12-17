@@ -44,9 +44,9 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 2 weeks ago)
-* [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 3 weeks ago)
-* [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 3 weeks ago)
+* [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 3 weeks ago)
+* [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 4 weeks ago)
+* [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 4 weeks ago)
 * [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 1 month ago)
 * [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 1 month ago)
 
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#44905](https://github.com/apache/airflow/pull/44905) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#44836](https://github.com/apache/airflow/pull/44836) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#44831](https://github.com/apache/airflow/pull/44831#issuecomment-2540956199) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#44866](https://github.com/apache/airflow/pull/44866#issuecomment-2540277359) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#44213](https://github.com/apache/airflow/pull/44213) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#44835](https://github.com/apache/airflow/pull/44835) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#44833](https://github.com/apache/airflow/pull/44833) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#44836](https://github.com/apache/airflow/pull/44836) in [apache/airflow](https://github.com/apache/airflow)
-9. 🔒 Closed issue [#44601](https://github.com/apache/airflow/issues/44601) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#44639](https://github.com/apache/airflow/pull/44639) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#15015](https://github.com/astral-sh/ruff/pull/15015) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#44831](https://github.com/apache/airflow/pull/44831#issuecomment-2544920217) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#44556](https://github.com/apache/airflow/issues/44556#issuecomment-2544720136) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#44905](https://github.com/apache/airflow/pull/44905) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#44836](https://github.com/apache/airflow/pull/44836) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#44831](https://github.com/apache/airflow/pull/44831#issuecomment-2540956199) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#44866](https://github.com/apache/airflow/pull/44866#issuecomment-2540277359) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#44213](https://github.com/apache/airflow/pull/44213) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#44835](https://github.com/apache/airflow/pull/44835) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#44833](https://github.com/apache/airflow/pull/44833) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
