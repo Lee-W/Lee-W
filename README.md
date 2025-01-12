@@ -47,7 +47,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 * [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 1 month ago)
 * [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 1 month ago)
 * [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 1 month ago)
-* [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 1 month ago)
+* [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 2 months ago)
 * [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 2 months ago)
 
 ### Those things no one cares about
