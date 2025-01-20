@@ -52,24 +52,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [始於 Aimer 終於 Aimer](https://travlog.wei-lee.me/posts/travel/2025/01/start-with-aimer-and-end-with-aimer) (Published: 1 day ago)
+ * [TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会](https://travlog.wei-lee.me/posts/review/2025/01/bang-dream-ave-mujica-1-3) (Published: 1 day ago)
+ * [始於 Aimer 終於 Aimer](https://travlog.wei-lee.me/posts/travel/2025/01/start-with-aimer-and-end-with-aimer) (Published: 2 days ago)
  * [好喝可可的泡法](https://travlog.wei-lee.me/posts/cook/2024/11/tasty-cocoa) (Published: 1 month ago)
  * [小市民系列](https://travlog.wei-lee.me/posts/review/2024/11/Shoushimin) (Published: 2 months ago)
  * [Day 0 和事前準備](https://travlog.wei-lee.me/posts/travel/2024/11/2024-mt-fugi-biking-day-0) (Published: 2 months ago)
- * [哎咕島消失的舔甜歌姬](https://travlog.wei-lee.me/posts/review/2024/11/egumi-legacy) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#242](https://github.com/Lee-W/cookiecutter-python-template/pull/242) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-2. 🗣 Commented on [#5](https://github.com/Lee-W/markdown-mermaidjs/pull/5#issuecomment-2599596640) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
-3. 🗣 Commented on [#45678](https://github.com/apache/airflow/pull/45678#issuecomment-2598541991) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#45740](https://github.com/apache/airflow/pull/45740#issuecomment-2598530001) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#45740](https://github.com/apache/airflow/pull/45740) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#45722](https://github.com/apache/airflow/pull/45722#issuecomment-2597795596) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#45737](https://github.com/apache/airflow/pull/45737) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#45736](https://github.com/apache/airflow/pull/45736) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#45722](https://github.com/apache/airflow/pull/45722#issuecomment-2597770631) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#45701](https://github.com/apache/airflow/pull/45701) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#242](https://github.com/Lee-W/cookiecutter-python-template/pull/242) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+2. 💪 Opened PR [#242](https://github.com/Lee-W/cookiecutter-python-template/pull/242) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+3. 🗣 Commented on [#5](https://github.com/Lee-W/markdown-mermaidjs/pull/5#issuecomment-2599596640) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
+4. 🗣 Commented on [#45678](https://github.com/apache/airflow/pull/45678#issuecomment-2598541991) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#45740](https://github.com/apache/airflow/pull/45740#issuecomment-2598530001) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#45740](https://github.com/apache/airflow/pull/45740) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#45722](https://github.com/apache/airflow/pull/45722#issuecomment-2597795596) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#45737](https://github.com/apache/airflow/pull/45737) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#45736](https://github.com/apache/airflow/pull/45736) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#45722](https://github.com/apache/airflow/pull/45722#issuecomment-2597770631) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
