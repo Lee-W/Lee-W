@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45327](https://github.com/apache/airflow/pull/45327#issuecomment-2601926484) in [apache/airflow](https://github.com/apache/airflow)
-2. 🔒 Closed issue [#44482](https://github.com/apache/airflow/issues/44482) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#45740](https://github.com/apache/airflow/pull/45740) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#45740](https://github.com/apache/airflow/pull/45740#issuecomment-2601867973) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#15611](https://github.com/astral-sh/ruff/pull/15611) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-6. 🎉 Merged PR [#1339](https://github.com/commitizen-tools/commitizen/pull/1339) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#242](https://github.com/Lee-W/cookiecutter-python-template/pull/242) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. 💪 Opened PR [#242](https://github.com/Lee-W/cookiecutter-python-template/pull/242) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🗣 Commented on [#5](https://github.com/Lee-W/markdown-mermaidjs/pull/5#issuecomment-2599596640) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
-10. 🗣 Commented on [#45678](https://github.com/apache/airflow/pull/45678#issuecomment-2598541991) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#15633](https://github.com/astral-sh/ruff/pull/15633#issuecomment-2605077825) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 💪 Opened PR [#15633](https://github.com/astral-sh/ruff/pull/15633) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🗣 Commented on [#44951](https://github.com/apache/airflow/issues/44951#issuecomment-2603479546) in [apache/airflow](https://github.com/apache/airflow)
+4. 🔒 Closed issue [#45229](https://github.com/apache/airflow/issues/45229) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#45327](https://github.com/apache/airflow/pull/45327) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#1336](https://github.com/commitizen-tools/commitizen/pull/1336) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#1340](https://github.com/commitizen-tools/commitizen/pull/1340) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#1341](https://github.com/commitizen-tools/commitizen/pull/1341) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#45327](https://github.com/apache/airflow/pull/45327#issuecomment-2601926484) in [apache/airflow](https://github.com/apache/airflow)
+10. 🔒 Closed issue [#44482](https://github.com/apache/airflow/issues/44482) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
