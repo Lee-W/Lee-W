@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15633](https://github.com/astral-sh/ruff/pull/15633#issuecomment-2605077825) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 💪 Opened PR [#15633](https://github.com/astral-sh/ruff/pull/15633) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 🗣 Commented on [#44951](https://github.com/apache/airflow/issues/44951#issuecomment-2603479546) in [apache/airflow](https://github.com/apache/airflow)
-4. 🔒 Closed issue [#45229](https://github.com/apache/airflow/issues/45229) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#45327](https://github.com/apache/airflow/pull/45327) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#1336](https://github.com/commitizen-tools/commitizen/pull/1336) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#1340](https://github.com/commitizen-tools/commitizen/pull/1340) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#1341](https://github.com/commitizen-tools/commitizen/pull/1341) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#45327](https://github.com/apache/airflow/pull/45327#issuecomment-2601926484) in [apache/airflow](https://github.com/apache/airflow)
-10. 🔒 Closed issue [#44482](https://github.com/apache/airflow/issues/44482) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#45678](https://github.com/apache/airflow/pull/45678#issuecomment-2606928318) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#15144](https://github.com/astral-sh/ruff/pull/15144#issuecomment-2606158837) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🗣 Commented on [#5](https://github.com/Lee-W/markdown-mermaidjs/pull/5#issuecomment-2606103152) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
+4. 🎉 Merged PR [#196](https://github.com/pycontw/pycontw-blog/pull/196) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+5. 🗣 Commented on [#15633](https://github.com/astral-sh/ruff/pull/15633#issuecomment-2605077825) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+6. 💪 Opened PR [#15633](https://github.com/astral-sh/ruff/pull/15633) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+7. 🗣 Commented on [#44951](https://github.com/apache/airflow/issues/44951#issuecomment-2603479546) in [apache/airflow](https://github.com/apache/airflow)
+8. 🔒 Closed issue [#45229](https://github.com/apache/airflow/issues/45229) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#45327](https://github.com/apache/airflow/pull/45327) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#1336](https://github.com/commitizen-tools/commitizen/pull/1336) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
