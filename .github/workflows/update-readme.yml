@@ -18,7 +18,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 10
-          TARGET_FILE: "template/README.md"
+          TARGET_FILE: "README.md"
 
       - name: blog
         uses: sarisia/actions-readme-feed@v1
