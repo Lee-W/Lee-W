@@ -18,14 +18,23 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 10
-          TARGET_FILE: "template/README.md.tpl"
+          TARGET_FILE: "template/README.md"
 
-      - uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+      - name: blog
+        uses: sarisia/actions-readme-feed@v1
         with:
-          template: "template/README.md.tpl"
-          writeTo: "README.md"
+          url: "http://blog.wei-lee.me/feeds/all.atom.xml"
+          file: "README.md"
+          start_flag: "<!-- blog start -->"
+          end_flag: "<!-- blog end -->"
+
+      - name: qiita
+        uses: sarisia/actions-readme-feed@v1
+        with:
+          url: "http://travlog.wei-lee.me/feeds/all.atom.xml"
+          file: "README.md"
+          start_flag: "<!-- travlog start -->"
+          end_flag: "<!-- travlog end -->"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
