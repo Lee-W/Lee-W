@@ -43,34 +43,26 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ## 🖊️ Blogs
 
 ### Those aren't written down are meant to be forgotten
-
-* [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 2 months ago)
-* [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 2 months ago)
-* [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 2 months ago)
-* [Python Table Manners](https://blog.wei-lee.me/posts/tech/2024/11/python-table-manners-series-2024-2025-edition) (Published: 2 months ago)
-* [AIP-72 - Task Execution Interface aka Task SDK](https://blog.wei-lee.me/posts/tech/2024/11/aip-72) (Published: 2 months ago)
+{{ range rss "http://blog.wei-lee.me/feeds/all.atom.xml" 5 }}
+* [{{ .Title }}]({{ .URL }}) (Published: {{ humanize .PublishedAt }}){{ end }}
 
 ### Those things no one cares about
- 
- * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 1 day ago)
- * [Day 1 前往山中湖](https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1) (Published: 2 days ago)
- * [TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会](https://travlog.wei-lee.me/posts/review/2025/01/bang-dream-ave-mujica-1-3) (Published: 1 week ago)
- * [始於 Aimer 終於 Aimer](https://travlog.wei-lee.me/posts/travel/2025/01/start-with-aimer-and-end-with-aimer) (Published: 1 week ago)
- * [好喝可可的泡法](https://travlog.wei-lee.me/posts/cook/2024/11/tasty-cocoa) (Published: 2 months ago)
+ {{ range rss "http://travlog.wei-lee.me/feeds/all.atom.xml" 5 }}
+ * [{{ .Title }}]({{ .URL }}) (Published: {{ humanize .PublishedAt }}){{ end }}
 
 ## 🖥️ Recently working on
-
-1. 🎉 Merged PR [#198](https://github.com/pycontw/pycontw-blog/pull/198) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🎉 Merged PR [#45789](https://github.com/apache/airflow/pull/45789) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#1343](https://github.com/commitizen-tools/commitizen/pull/1343) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#1327](https://github.com/commitizen-tools/commitizen/pull/1327#issuecomment-2614323744) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1327](https://github.com/commitizen-tools/commitizen/pull/1327#issuecomment-2614323270) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#1301](https://github.com/commitizen-tools/commitizen/pull/1301) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#46053](https://github.com/apache/airflow/pull/46053#issuecomment-2614260906) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#46053](https://github.com/apache/airflow/pull/46053#issuecomment-2614260228) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#45811](https://github.com/apache/airflow/pull/45811#issuecomment-2614208469) in [apache/airflow](https://github.com/apache/airflow)
-10. 🔒 Closed issue [#44983](https://github.com/apache/airflow/issues/44983) in [apache/airflow](https://github.com/apache/airflow)
-
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#5](https://github.com/Lee-W/markdown-mermaidjs/pull/5#issuecomment-2619345308) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
+2. 🎉 Merged PR [#11](https://github.com/Lee-W/pelican-stat/pull/11) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+3. 💪 Opened PR [#11](https://github.com/Lee-W/pelican-stat/pull/11) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+4. 🎉 Merged PR [#10](https://github.com/Lee-W/pelican-stat/pull/10) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+5. 💪 Opened PR [#10](https://github.com/Lee-W/pelican-stat/pull/10) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+6. 🎉 Merged PR [#9](https://github.com/Lee-W/pelican-stat/pull/9) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+7. 💪 Opened PR [#9](https://github.com/Lee-W/pelican-stat/pull/9) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+8. 🎉 Merged PR [#6](https://github.com/Lee-W/pelican-stat/pull/6) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+9. 🎉 Merged PR [#5](https://github.com/Lee-W/pelican-stat/pull/5) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+10. 🎉 Merged PR [#7](https://github.com/Lee-W/pelican-stat/pull/7) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+<!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
 
