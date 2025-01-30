@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Lee-W/markdown-mermaidjs/pull/5#issuecomment-2619345308) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
-2. 🎉 Merged PR [#11](https://github.com/Lee-W/pelican-stat/pull/11) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-3. 💪 Opened PR [#11](https://github.com/Lee-W/pelican-stat/pull/11) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-4. 🎉 Merged PR [#10](https://github.com/Lee-W/pelican-stat/pull/10) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-5. 💪 Opened PR [#10](https://github.com/Lee-W/pelican-stat/pull/10) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-6. 🎉 Merged PR [#9](https://github.com/Lee-W/pelican-stat/pull/9) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-7. 💪 Opened PR [#9](https://github.com/Lee-W/pelican-stat/pull/9) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-8. 🎉 Merged PR [#6](https://github.com/Lee-W/pelican-stat/pull/6) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-9. 🎉 Merged PR [#5](https://github.com/Lee-W/pelican-stat/pull/5) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-10. 🎉 Merged PR [#7](https://github.com/Lee-W/pelican-stat/pull/7) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+1. 🎉 Merged PR [#12](https://github.com/Lee-W/pelican-stat/pull/12) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+2. 💪 Opened PR [#12](https://github.com/Lee-W/pelican-stat/pull/12) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+3. 🗣 Commented on [#5](https://github.com/Lee-W/markdown-mermaidjs/pull/5#issuecomment-2619345308) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
+4. 🎉 Merged PR [#11](https://github.com/Lee-W/pelican-stat/pull/11) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+5. 💪 Opened PR [#11](https://github.com/Lee-W/pelican-stat/pull/11) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+6. 🎉 Merged PR [#10](https://github.com/Lee-W/pelican-stat/pull/10) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+7. 💪 Opened PR [#10](https://github.com/Lee-W/pelican-stat/pull/10) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+8. 🎉 Merged PR [#9](https://github.com/Lee-W/pelican-stat/pull/9) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+9. 💪 Opened PR [#9](https://github.com/Lee-W/pelican-stat/pull/9) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+10. 🎉 Merged PR [#6](https://github.com/Lee-W/pelican-stat/pull/6) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
