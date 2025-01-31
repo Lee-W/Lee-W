@@ -44,17 +44,17 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [透過 RSS 奪回你的注意權！](https://blog.wei-lee.me/posts/gossiping/2025/01/get-your-retention-back-through-rss) (Published: 1 day ago)
-* [2021 ~ 2024 年度回顧 - 持續紀錄的秘訣是寫廢文](https://blog.wei-lee.me/posts/gossiping/2025/01/2021-2024-yearly-review) (Published: 2 days ago)
+* [透過 RSS 奪回你的注意權！](https://blog.wei-lee.me/posts/gossiping/2025/01/get-your-retention-back-through-rss) (Published: 2 days ago)
+* [2021 ~ 2024 年度回顧 - 持續紀錄的秘訣是寫廢文](https://blog.wei-lee.me/posts/gossiping/2025/01/2021-2024-yearly-review) (Published: 3 days ago)
 * [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 2 months ago)
 * [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 2 months ago)
 * [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 2 months ago)
 
 ### Those things no one cares about
  
- * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 1 day ago)
- * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 3 days ago)
- * [Day 1 前往山中湖](https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1) (Published: 4 days ago)
+ * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 2 days ago)
+ * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 4 days ago)
+ * [Day 1 前往山中湖](https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1) (Published: 5 days ago)
  * [TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会](https://travlog.wei-lee.me/posts/review/2025/01/bang-dream-ave-mujica-1-3) (Published: 1 week ago)
  * [始於 Aimer 終於 Aimer](https://travlog.wei-lee.me/posts/travel/2025/01/start-with-aimer-and-end-with-aimer) (Published: 1 week ago)
 
