@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Lee-W/pelican-stat/pull/12) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-2. 💪 Opened PR [#12](https://github.com/Lee-W/pelican-stat/pull/12) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-3. 🗣 Commented on [#5](https://github.com/Lee-W/markdown-mermaidjs/pull/5#issuecomment-2619345308) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
-4. 🎉 Merged PR [#11](https://github.com/Lee-W/pelican-stat/pull/11) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-5. 💪 Opened PR [#11](https://github.com/Lee-W/pelican-stat/pull/11) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-6. 🎉 Merged PR [#10](https://github.com/Lee-W/pelican-stat/pull/10) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-7. 💪 Opened PR [#10](https://github.com/Lee-W/pelican-stat/pull/10) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-8. 🎉 Merged PR [#9](https://github.com/Lee-W/pelican-stat/pull/9) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-9. 💪 Opened PR [#9](https://github.com/Lee-W/pelican-stat/pull/9) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-10. 🎉 Merged PR [#6](https://github.com/Lee-W/pelican-stat/pull/6) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+1. 🗣 Commented on [#1349](https://github.com/commitizen-tools/commitizen/issues/1349#issuecomment-2627517053) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 💪 Opened PR [#1351](https://github.com/commitizen-tools/commitizen/pull/1351) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#1350](https://github.com/commitizen-tools/commitizen/pull/1350#issuecomment-2627419839) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#16](https://github.com/oruelle/md_mermaid/issues/16#issuecomment-2627416016) in [oruelle/md_mermaid](https://github.com/oruelle/md_mermaid)
+5. 🎉 Merged PR [#1346](https://github.com/commitizen-tools/commitizen/pull/1346) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#7](https://github.com/Lee-W/markdown-mermaidjs/pull/7) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
+7. 💪 Opened PR [#7](https://github.com/Lee-W/markdown-mermaidjs/pull/7) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
+8. 💪 Opened PR [#200](https://github.com/pycontw/pycontw-blog/pull/200) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+9. 💪 Opened PR [#1346](https://github.com/commitizen-tools/commitizen/pull/1346) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 💪 Opened PR [#1345](https://github.com/commitizen-tools/commitizen/pull/1345) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
