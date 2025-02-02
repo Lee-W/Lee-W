@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [透過 RSS 奪回你的注意權！](https://blog.wei-lee.me/posts/gossiping/2025/01/get-your-retention-back-through-rss) (Published: 3 days ago)
-* [2021 ~ 2024 年度回顧 - 持續紀錄的秘訣是寫廢文](https://blog.wei-lee.me/posts/gossiping/2025/01/2021-2024-yearly-review) (Published: 4 days ago)
+* [透過 RSS 奪回你的注意權！](https://blog.wei-lee.me/posts/gossiping/2025/01/get-your-retention-back-through-rss) (Published: 4 days ago)
+* [2021 ~ 2024 年度回顧 - 持續紀錄的秘訣是寫廢文](https://blog.wei-lee.me/posts/gossiping/2025/01/2021-2024-yearly-review) (Published: 5 days ago)
 * [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 2 months ago)
 * [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 2 months ago)
 * [AIP-83 - Rename execution_date -&gt; logical_date and remove unique constraint](https://blog.wei-lee.me/posts/tech/2024/11/aip-83) (Published: 2 months ago)
 
 ### Those things no one cares about
  
- * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 3 days ago)
- * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 5 days ago)
- * [Day 1 前往山中湖](https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1) (Published: 6 days ago)
- * [TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会](https://travlog.wei-lee.me/posts/review/2025/01/bang-dream-ave-mujica-1-3) (Published: 1 week ago)
- * [始於 Aimer 終於 Aimer](https://travlog.wei-lee.me/posts/travel/2025/01/start-with-aimer-and-end-with-aimer) (Published: 2 weeks ago)
+ * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 1 day ago)
+ * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 4 days ago)
+ * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 6 days ago)
+ * [Day 1 前往山中湖](https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1) (Published: 1 week ago)
+ * [TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会](https://travlog.wei-lee.me/posts/review/2025/01/bang-dream-ave-mujica-1-3) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1349](https://github.com/commitizen-tools/commitizen/issues/1349#issuecomment-2627517053) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 💪 Opened PR [#1351](https://github.com/commitizen-tools/commitizen/pull/1351) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#1350](https://github.com/commitizen-tools/commitizen/pull/1350#issuecomment-2627419839) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#16](https://github.com/oruelle/md_mermaid/issues/16#issuecomment-2627416016) in [oruelle/md_mermaid](https://github.com/oruelle/md_mermaid)
-5. 🎉 Merged PR [#1346](https://github.com/commitizen-tools/commitizen/pull/1346) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#7](https://github.com/Lee-W/markdown-mermaidjs/pull/7) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
-7. 💪 Opened PR [#7](https://github.com/Lee-W/markdown-mermaidjs/pull/7) in [Lee-W/markdown-mermaidjs](https://github.com/Lee-W/markdown-mermaidjs)
-8. 💪 Opened PR [#200](https://github.com/pycontw/pycontw-blog/pull/200) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-9. 💪 Opened PR [#1346](https://github.com/commitizen-tools/commitizen/pull/1346) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 💪 Opened PR [#1345](https://github.com/commitizen-tools/commitizen/pull/1345) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#153](https://github.com/pycontw/pycon-etl/pull/153) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+2. 🗣 Commented on [#1350](https://github.com/commitizen-tools/commitizen/pull/1350#issuecomment-2628870140) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#1328](https://github.com/commitizen-tools/commitizen/pull/1328#issuecomment-2628724685) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#1350](https://github.com/commitizen-tools/commitizen/pull/1350) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🎉 Merged PR [#45811](https://github.com/apache/airflow/pull/45811) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#1350](https://github.com/commitizen-tools/commitizen/pull/1350#issuecomment-2628660344) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#1349](https://github.com/commitizen-tools/commitizen/issues/1349#issuecomment-2627517053) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 💪 Opened PR [#1351](https://github.com/commitizen-tools/commitizen/pull/1351) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1350](https://github.com/commitizen-tools/commitizen/pull/1350#issuecomment-2627419839) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#16](https://github.com/oruelle/md_mermaid/issues/16#issuecomment-2627416016) in [oruelle/md_mermaid](https://github.com/oruelle/md_mermaid)
 
 
 ## ⭐ GitHub Stat
