@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/01/27 - 02/03 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-01-27-02-03-open-source-report) (Published: 6 days ago)
+* [2025/01/27 - 02/03 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-01-27-02-03-open-source-report) (Published: 1 week ago)
 * [透過 RSS 奪回你的注意權！](https://blog.wei-lee.me/posts/gossiping/2025/01/get-your-retention-back-through-rss) (Published: 1 week ago)
 * [2021 ~ 2024 年度回顧 - 持續紀錄的秘訣是寫廢文](https://blog.wei-lee.me/posts/gossiping/2025/01/2021-2024-yearly-review) (Published: 1 week ago)
 * [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 2 months ago)
@@ -55,21 +55,21 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 1 week ago)
  * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 1 week ago)
  * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 1 week ago)
- * [Day 1 前往山中湖](https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1) (Published: 1 week ago)
- * [TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会](https://travlog.wei-lee.me/posts/review/2025/01/bang-dream-ave-mujica-1-3) (Published: 2 weeks ago)
+ * [Day 1 前往山中湖](https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1) (Published: 2 weeks ago)
+ * [TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会](https://travlog.wei-lee.me/posts/review/2025/01/bang-dream-ave-mujica-1-3) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#16013](https://github.com/astral-sh/ruff/pull/16013#issuecomment-2642578780) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 💪 Opened PR [#16015](https://github.com/astral-sh/ruff/pull/16015) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 🗣 Commented on [#46507](https://github.com/apache/airflow/pull/46507#issuecomment-2642465170) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#16014](https://github.com/astral-sh/ruff/pull/16014) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 🗣 Commented on [#16013](https://github.com/astral-sh/ruff/pull/16013#issuecomment-2642324494) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-6. 🗣 Commented on [#16013](https://github.com/astral-sh/ruff/pull/16013#issuecomment-2642142017) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-7. 💪 Opened PR [#16013](https://github.com/astral-sh/ruff/pull/16013) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-8. 🗣 Commented on [#46544](https://github.com/apache/airflow/pull/46544#issuecomment-2642068812) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#202](https://github.com/pycontw/pycontw-blog/pull/202#issuecomment-2641851222) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-10. 🎉 Merged PR [#43383](https://github.com/apache/airflow/pull/43383) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#1354](https://github.com/commitizen-tools/commitizen/pull/1354#issuecomment-2645794712) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#1353](https://github.com/commitizen-tools/commitizen/pull/1353) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#1354](https://github.com/commitizen-tools/commitizen/pull/1354#issuecomment-2644522096) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#1345](https://github.com/commitizen-tools/commitizen/pull/1345) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#1345](https://github.com/commitizen-tools/commitizen/pull/1345#issuecomment-2644521024) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. ❗ Opened issue [#1355](https://github.com/commitizen-tools/commitizen/issues/1355) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. ❌ Closed PR [#16015](https://github.com/astral-sh/ruff/pull/16015) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+8. 🗣 Commented on [#16013](https://github.com/astral-sh/ruff/pull/16013#issuecomment-2642578780) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+9. 💪 Opened PR [#16015](https://github.com/astral-sh/ruff/pull/16015) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+10. 🗣 Commented on [#46507](https://github.com/apache/airflow/pull/46507#issuecomment-2642465170) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
