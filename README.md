@@ -44,17 +44,17 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
+* [2025/02/04 - 02/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-04-02-09-open-source-report) (Published: 1 day ago)
+* [Play with the latest Airflow 3.0.0 alpha 1!](https://blog.wei-lee.me/posts/tech/2025/02/airflow-3-0-0-a2) (Published: 1 day ago)
 * [2025/01/27 - 02/03 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-01-27-02-03-open-source-report) (Published: 1 week ago)
 * [透過 RSS 奪回你的注意權！](https://blog.wei-lee.me/posts/gossiping/2025/01/get-your-retention-back-through-rss) (Published: 1 week ago)
 * [2021 ~ 2024 年度回顧 - 持續紀錄的秘訣是寫廢文](https://blog.wei-lee.me/posts/gossiping/2025/01/2021-2024-yearly-review) (Published: 1 week ago)
-* [PEP 2026 - Calendar versioning for Python](https://blog.wei-lee.me/posts/tech/2024/11/pep-2026) (Published: 2 months ago)
-* [貢獻 Airflow 101](https://blog.wei-lee.me/posts/tech/2024/11/airflow-contribution-101) (Published: 2 months ago)
 
 ### Those things no one cares about
  
  * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 1 week ago)
  * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 1 week ago)
- * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 1 week ago)
+ * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 2 weeks ago)
  * [Day 1 前往山中湖](https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1) (Published: 2 weeks ago)
  * [TVアニメ「BanG Dream! Ave Mujica」#1～#3 先行上映会](https://travlog.wei-lee.me/posts/review/2025/01/bang-dream-ave-mujica-1-3) (Published: 3 weeks ago)
 
