@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/02/04 - 02/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-04-02-09-open-source-report) (Published: 2 days ago)
-* [Play with the latest Airflow 3.0.0 alpha 1!](https://blog.wei-lee.me/posts/tech/2025/02/airflow-3-0-0-a2) (Published: 2 days ago)
+* [2025/02/04 - 02/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-04-02-09-open-source-report) (Published: 3 days ago)
+* [Play with the latest Airflow 3.0.0 alpha 1!](https://blog.wei-lee.me/posts/tech/2025/02/airflow-3-0-0-a2) (Published: 3 days ago)
 * [2025/01/27 - 02/03 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-01-27-02-03-open-source-report) (Published: 1 week ago)
-* [透過 RSS 奪回你的注意權！](https://blog.wei-lee.me/posts/gossiping/2025/01/get-your-retention-back-through-rss) (Published: 1 week ago)
+* [透過 RSS 奪回你的注意權！](https://blog.wei-lee.me/posts/gossiping/2025/01/get-your-retention-back-through-rss) (Published: 2 weeks ago)
 * [2021 ~ 2024 年度回顧 - 持續紀錄的秘訣是寫廢文](https://blog.wei-lee.me/posts/gossiping/2025/01/2021-2024-yearly-review) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 1 day ago)
+ * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 2 days ago)
  * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 1 week ago)
- * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 1 week ago)
+ * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 2 weeks ago)
  * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 2 weeks ago)
  * [Day 1 前往山中湖](https://travlog.wei-lee.me/posts/travel/2025/01/2024-mt-fugi-biking-day-1) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#46390](https://github.com/apache/airflow/pull/46390#issuecomment-2648247169) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#46460](https://github.com/apache/airflow/pull/46460#issuecomment-2648211095) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#46544](https://github.com/apache/airflow/pull/46544#issuecomment-2647627021) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#45745](https://github.com/apache/airflow/pull/45745) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#46409](https://github.com/apache/airflow/pull/46409) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#46460](https://github.com/apache/airflow/pull/46460#issuecomment-2647561519) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#46611](https://github.com/apache/airflow/pull/46611) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#46611](https://github.com/apache/airflow/pull/46611) in [apache/airflow](https://github.com/apache/airflow)
-9. 🔒 Closed issue [#46449](https://github.com/apache/airflow/issues/46449) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#46604](https://github.com/apache/airflow/pull/46604) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#46507](https://github.com/apache/airflow/pull/46507#issuecomment-2650902786) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Closed PR [#46507](https://github.com/apache/airflow/pull/46507) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#16013](https://github.com/astral-sh/ruff/pull/16013#issuecomment-2650398142) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🗣 Commented on [#46514](https://github.com/apache/airflow/issues/46514#issuecomment-2649976824) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#46634](https://github.com/apache/airflow/pull/46634) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#121](https://github.com/astronomer/airflow-provider-fivetran-async/pull/121) in [astronomer/airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async)
+7. 🗣 Commented on [#46460](https://github.com/apache/airflow/pull/46460#issuecomment-2649574419) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#46390](https://github.com/apache/airflow/pull/46390#issuecomment-2648247169) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#46460](https://github.com/apache/airflow/pull/46460#issuecomment-2648211095) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#46544](https://github.com/apache/airflow/pull/46544#issuecomment-2647627021) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
