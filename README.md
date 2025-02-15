@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [重設 Badger 2040](https://blog.wei-lee.me/posts/tech/2025/02/how-to-reset-bader-2024) (Published: 2 days ago)
-* [2025/02/04 - 02/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-04-02-09-open-source-report) (Published: 5 days ago)
-* [Play with the latest Airflow 3.0.0 alpha 1!](https://blog.wei-lee.me/posts/tech/2025/02/airflow-3-0-0-a2) (Published: 5 days ago)
+* [重設 Badger 2040](https://blog.wei-lee.me/posts/tech/2025/02/how-to-reset-bader-2024) (Published: 3 days ago)
+* [2025/02/04 - 02/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-04-02-09-open-source-report) (Published: 6 days ago)
+* [Play with the latest Airflow 3.0.0 alpha 1!](https://blog.wei-lee.me/posts/tech/2025/02/airflow-3-0-0-a2) (Published: 6 days ago)
 * [2025/01/27 - 02/03 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-01-27-02-03-open-source-report) (Published: 1 week ago)
 * [透過 RSS 奪回你的注意權！](https://blog.wei-lee.me/posts/gossiping/2025/01/get-your-retention-back-through-rss) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [2024 夏季看什麼](https://travlog.wei-lee.me/posts/review/2025/02/what-i-watched-in-2024-summer) (Published: 1 day ago)
- * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 4 days ago)
- * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 1 week ago)
+ * [2024 夏季看什麼](https://travlog.wei-lee.me/posts/review/2025/02/what-i-watched-in-2024-summer) (Published: 2 days ago)
+ * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 5 days ago)
+ * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 2 weeks ago)
  * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 2 weeks ago)
  * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🔒 Closed issue [#46197](https://github.com/apache/airflow/issues/46197) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#46512](https://github.com/apache/airflow/pull/46512) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#46641](https://github.com/apache/airflow/issues/46641#issuecomment-2655766417) in [apache/airflow](https://github.com/apache/airflow)
-4. 🔒 Closed issue [#46641](https://github.com/apache/airflow/issues/46641) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#46198](https://github.com/apache/airflow/issues/46198#issuecomment-2655766182) in [apache/airflow](https://github.com/apache/airflow)
-6. 🔒 Closed issue [#46198](https://github.com/apache/airflow/issues/46198) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#46196](https://github.com/apache/airflow/issues/46196#issuecomment-2655766075) in [apache/airflow](https://github.com/apache/airflow)
-8. 🔒 Closed issue [#46196](https://github.com/apache/airflow/issues/46196) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#46194](https://github.com/apache/airflow/issues/46194#issuecomment-2655765999) in [apache/airflow](https://github.com/apache/airflow)
-10. 🔒 Closed issue [#46194](https://github.com/apache/airflow/issues/46194) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#45736](https://github.com/apache/airflow/pull/45736#issuecomment-2658948437) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#46757](https://github.com/apache/airflow/pull/46757) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#45736](https://github.com/apache/airflow/pull/45736#issuecomment-2658942341) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#45736](https://github.com/apache/airflow/pull/45736) in [apache/airflow](https://github.com/apache/airflow)
+5. ❗ Opened issue [#46756](https://github.com/apache/airflow/issues/46756) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#45736](https://github.com/apache/airflow/pull/45736#issuecomment-2658934943) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#43176](https://github.com/apache/airflow/issues/43176#issuecomment-2658920383) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#46752](https://github.com/apache/airflow/pull/46752) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#16157](https://github.com/astral-sh/ruff/pull/16157) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+10. 🎉 Merged PR [#46667](https://github.com/apache/airflow/pull/46667) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
