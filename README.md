@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/02/10 - 02/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-10-02-16-open-source-report) (Published: 2 days ago)
-* [重設 Badger 2040](https://blog.wei-lee.me/posts/tech/2025/02/how-to-reset-bader-2024) (Published: 6 days ago)
+* [2025/02/10 - 02/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-10-02-16-open-source-report) (Published: 3 days ago)
+* [重設 Badger 2040](https://blog.wei-lee.me/posts/tech/2025/02/how-to-reset-bader-2024) (Published: 1 week ago)
 * [2025/02/04 - 02/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-04-02-09-open-source-report) (Published: 1 week ago)
 * [Play with the latest Airflow 3.0.0 alpha 1!](https://blog.wei-lee.me/posts/tech/2025/02/airflow-3-0-0-a2) (Published: 1 week ago)
 * [2025/01/27 - 02/03 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-01-27-02-03-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [2024 夏季看什麼](https://travlog.wei-lee.me/posts/review/2025/02/what-i-watched-in-2024-summer) (Published: 5 days ago)
+ * [2024 夏季看什麼](https://travlog.wei-lee.me/posts/review/2025/02/what-i-watched-in-2024-summer) (Published: 6 days ago)
  * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 1 week ago)
  * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 2 weeks ago)
- * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 2 weeks ago)
+ * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 3 weeks ago)
  * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#46508](https://github.com/apache/airflow/issues/46508#issuecomment-2663176751) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#46821](https://github.com/apache/airflow/pull/46821#issuecomment-2663107346) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#44283](https://github.com/apache/airflow/pull/44283#issuecomment-2662402958) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#46622](https://github.com/apache/airflow/pull/46622) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#46657](https://github.com/apache/airflow/issues/46657#issuecomment-2662233071) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#46657](https://github.com/apache/airflow/issues/46657#issuecomment-2662153809) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#46508](https://github.com/apache/airflow/issues/46508#issuecomment-2662140209) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#45632](https://github.com/apache/airflow/issues/45632#issuecomment-2661750210) in [apache/airflow](https://github.com/apache/airflow)
-9. 🔒 Closed issue [#45632](https://github.com/apache/airflow/issues/45632) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#46756](https://github.com/apache/airflow/issues/46756#issuecomment-2661737377) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#16226](https://github.com/astral-sh/ruff/pull/16226) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#45960](https://github.com/apache/airflow/pull/45960#issuecomment-2665244297) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#46756](https://github.com/apache/airflow/issues/46756#issuecomment-2664482200) in [apache/airflow](https://github.com/apache/airflow)
+4. 🔒 Closed issue [#46756](https://github.com/apache/airflow/issues/46756) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#46842](https://github.com/apache/airflow/issues/46842#issuecomment-2664479712) in [apache/airflow](https://github.com/apache/airflow)
+6. ❗ Opened issue [#46845](https://github.com/apache/airflow/issues/46845) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#46843](https://github.com/apache/airflow/issues/46843#issuecomment-2664475582) in [apache/airflow](https://github.com/apache/airflow)
+8. ❗ Opened issue [#46843](https://github.com/apache/airflow/issues/46843) in [apache/airflow](https://github.com/apache/airflow)
+9. ❗ Opened issue [#46842](https://github.com/apache/airflow/issues/46842) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#1357](https://github.com/commitizen-tools/commitizen/pull/1357) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
