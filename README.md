@@ -44,11 +44,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/02/10 - 02/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-10-02-16-open-source-report) (Published: 4 days ago)
+* [AIP-83 修正案](https://blog.wei-lee.me/posts/tech/2025/02/aip-83-amendment) (Published: 1 day ago)
+* [2025/02/10 - 02/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-10-02-16-open-source-report) (Published: 5 days ago)
 * [重設 Badger 2040](https://blog.wei-lee.me/posts/tech/2025/02/how-to-reset-bader-2024) (Published: 1 week ago)
 * [2025/02/04 - 02/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-04-02-09-open-source-report) (Published: 1 week ago)
 * [Play with the latest Airflow 3.0.0 alpha 1!](https://blog.wei-lee.me/posts/tech/2025/02/airflow-3-0-0-a2) (Published: 1 week ago)
-* [2025/01/27 - 02/03 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-01-27-02-03-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#156](https://github.com/pycontw/pycon-etl/pull/156) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. 🗣 Commented on [#1349](https://github.com/commitizen-tools/commitizen/issues/1349#issuecomment-2665890609) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#1358](https://github.com/commitizen-tools/commitizen/pull/1358) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 💪 Opened PR [#16226](https://github.com/astral-sh/ruff/pull/16226) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 🗣 Commented on [#45960](https://github.com/apache/airflow/pull/45960#issuecomment-2665244297) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#46756](https://github.com/apache/airflow/issues/46756#issuecomment-2664482200) in [apache/airflow](https://github.com/apache/airflow)
-7. 🔒 Closed issue [#46756](https://github.com/apache/airflow/issues/46756) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#46842](https://github.com/apache/airflow/issues/46842#issuecomment-2664479712) in [apache/airflow](https://github.com/apache/airflow)
-9. ❗ Opened issue [#46845](https://github.com/apache/airflow/issues/46845) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#46843](https://github.com/apache/airflow/issues/46843#issuecomment-2664475582) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Reopened PR [#46827](https://github.com/apache/airflow/pull/46827) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Closed PR [#46827](https://github.com/apache/airflow/pull/46827) in [apache/airflow](https://github.com/apache/airflow)
+3. 🔒 Closed issue [#46650](https://github.com/apache/airflow/issues/46650) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#46882](https://github.com/apache/airflow/pull/46882) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#156](https://github.com/pycontw/pycon-etl/pull/156) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🗣 Commented on [#1349](https://github.com/commitizen-tools/commitizen/issues/1349#issuecomment-2665890609) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#1358](https://github.com/commitizen-tools/commitizen/pull/1358) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 💪 Opened PR [#16226](https://github.com/astral-sh/ruff/pull/16226) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+9. 🗣 Commented on [#45960](https://github.com/apache/airflow/pull/45960#issuecomment-2665244297) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#46756](https://github.com/apache/airflow/issues/46756#issuecomment-2664482200) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
