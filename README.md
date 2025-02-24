@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [AIP-83 修正案](https://blog.wei-lee.me/posts/tech/2025/02/aip-83-amendment) (Published: 3 days ago)
+* [2025/02/17 - 02/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-17-02-23-open-source-report) (Published: 1 day ago)
+* [AIP-83 修正案](https://blog.wei-lee.me/posts/tech/2025/02/aip-83-amendment) (Published: 4 days ago)
 * [2025/02/10 - 02/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-10-02-16-open-source-report) (Published: 1 week ago)
 * [重設 Badger 2040](https://blog.wei-lee.me/posts/tech/2025/02/how-to-reset-bader-2024) (Published: 1 week ago)
 * [2025/02/04 - 02/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-04-02-09-open-source-report) (Published: 2 weeks ago)
-* [Play with the latest Airflow 3.0.0 alpha 1!](https://blog.wei-lee.me/posts/tech/2025/02/airflow-3-0-0-a2) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
  * [2024 夏季看什麼](https://travlog.wei-lee.me/posts/review/2025/02/what-i-watched-in-2024-summer) (Published: 1 week ago)
- * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 1 week ago)
+ * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 2 weeks ago)
  * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 3 weeks ago)
  * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 3 weeks ago)
- * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 3 weeks ago)
+ * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 4 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1351](https://github.com/commitizen-tools/commitizen/pull/1351#issuecomment-2674341184) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#46827](https://github.com/apache/airflow/pull/46827#issuecomment-2674210997) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#46827](https://github.com/apache/airflow/pull/46827#issuecomment-2674096070) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#46955](https://github.com/apache/airflow/issues/46955#issuecomment-2674087515) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#46827](https://github.com/apache/airflow/pull/46827#issuecomment-2674016883) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#46514](https://github.com/apache/airflow/issues/46514#issuecomment-2673268676) in [apache/airflow](https://github.com/apache/airflow)
-7. 🔒 Closed issue [#46514](https://github.com/apache/airflow/issues/46514) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#1351](https://github.com/commitizen-tools/commitizen/pull/1351#issuecomment-2671744130) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#99](https://github.com/commitizen-tools/commitizen-action/pull/99#issuecomment-2671741484) in [commitizen-tools/commitizen-action](https://github.com/commitizen-tools/commitizen-action)
-10. 🗣 Commented on [#46827](https://github.com/apache/airflow/pull/46827#issuecomment-2671576627) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#46827](https://github.com/apache/airflow/pull/46827#issuecomment-2677243567) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#99](https://github.com/commitizen-tools/commitizen-action/pull/99#issuecomment-2676913100) in [commitizen-tools/commitizen-action](https://github.com/commitizen-tools/commitizen-action)
+3. 🗣 Commented on [#1351](https://github.com/commitizen-tools/commitizen/pull/1351#issuecomment-2676911437) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#99](https://github.com/commitizen-tools/commitizen-action/pull/99#issuecomment-2676526248) in [commitizen-tools/commitizen-action](https://github.com/commitizen-tools/commitizen-action)
+5. 🗣 Commented on [#203](https://github.com/pycontw/pycontw-blog/pull/203#issuecomment-2676524366) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 🗣 Commented on [#1351](https://github.com/commitizen-tools/commitizen/pull/1351#issuecomment-2676516990) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#1351](https://github.com/commitizen-tools/commitizen/pull/1351#issuecomment-2676516131) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#1351](https://github.com/commitizen-tools/commitizen/pull/1351#issuecomment-2674341184) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#46827](https://github.com/apache/airflow/pull/46827#issuecomment-2674210997) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#46827](https://github.com/apache/airflow/pull/46827#issuecomment-2674096070) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
