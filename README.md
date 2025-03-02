@@ -44,11 +44,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/02/17 - 02/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-17-02-23-open-source-report) (Published: 6 days ago)
+* [2025/02/17 - 02/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-17-02-23-open-source-report) (Published: 1 week ago)
 * [AIP-83 修正案](https://blog.wei-lee.me/posts/tech/2025/02/aip-83-amendment) (Published: 1 week ago)
-* [2025/02/10 - 02/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-10-02-16-open-source-report) (Published: 1 week ago)
+* [2025/02/10 - 02/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-10-02-16-open-source-report) (Published: 2 weeks ago)
 * [重設 Badger 2040](https://blog.wei-lee.me/posts/tech/2025/02/how-to-reset-bader-2024) (Published: 2 weeks ago)
-* [2025/02/04 - 02/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-04-02-09-open-source-report) (Published: 2 weeks ago)
+* [2025/02/04 - 02/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-04-02-09-open-source-report) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🔒 Closed issue [#1349](https://github.com/commitizen-tools/commitizen/issues/1349) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#46820](https://github.com/apache/airflow/pull/46820#issuecomment-2691825019) in [apache/airflow](https://github.com/apache/airflow)
 2. 🔒 Closed issue [#1349](https://github.com/commitizen-tools/commitizen/issues/1349) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#1351](https://github.com/commitizen-tools/commitizen/pull/1351) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#46820](https://github.com/apache/airflow/pull/46820#issuecomment-2689716593) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#46657](https://github.com/apache/airflow/issues/46657) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#46827](https://github.com/apache/airflow/pull/46827) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#46827](https://github.com/apache/airflow/pull/46827#issuecomment-2687592570) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#45960](https://github.com/apache/airflow/pull/45960#issuecomment-2687014613) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#46875](https://github.com/apache/airflow/pull/46875) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#45960](https://github.com/apache/airflow/pull/45960#issuecomment-2684585549) in [apache/airflow](https://github.com/apache/airflow)
+3. 🔒 Closed issue [#1349](https://github.com/commitizen-tools/commitizen/issues/1349) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#1351](https://github.com/commitizen-tools/commitizen/pull/1351) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#46820](https://github.com/apache/airflow/pull/46820#issuecomment-2689716593) in [apache/airflow](https://github.com/apache/airflow)
+6. 🔒 Closed issue [#46657](https://github.com/apache/airflow/issues/46657) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#46827](https://github.com/apache/airflow/pull/46827) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#46827](https://github.com/apache/airflow/pull/46827#issuecomment-2687592570) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#45960](https://github.com/apache/airflow/pull/45960#issuecomment-2687014613) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#46875](https://github.com/apache/airflow/pull/46875) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
