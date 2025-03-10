@@ -53,7 +53,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those things no one cares about
  
  * [2024 夏季看什麼](https://travlog.wei-lee.me/posts/review/2025/02/what-i-watched-in-2024-summer) (Published: 3 weeks ago)
- * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 3 weeks ago)
+ * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 4 weeks ago)
  * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 1 month ago)
  * [演劇【推しの子】2.5次元舞台編](https://travlog.wei-lee.me/posts/travel/2025/01/oshinoko-2-5-stage) (Published: 1 month ago)
  * [妻子變成小學生。](https://travlog.wei-lee.me/posts/review/2025/01/If-My-Wife-Becomes-an-Elementary-School-Student) (Published: 1 month ago)
