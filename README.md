@@ -44,15 +44,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/02/24 - 03/02 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/03/2025-02-24-03-02-open-source-report) (Published: 2 weeks ago)
-* [2025/02/17 - 02/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-17-02-23-open-source-report) (Published: 3 weeks ago)
+* [2025/02/24 - 03/02 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/03/2025-02-24-03-02-open-source-report) (Published: 3 weeks ago)
+* [2025/02/17 - 02/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-17-02-23-open-source-report) (Published: 4 weeks ago)
 * [AIP-83 修正案](https://blog.wei-lee.me/posts/tech/2025/02/aip-83-amendment) (Published: 1 month ago)
 * [2025/02/10 - 02/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-10-02-16-open-source-report) (Published: 1 month ago)
 * [重設 Badger 2040](https://blog.wei-lee.me/posts/tech/2025/02/how-to-reset-bader-2024) (Published: 1 month ago)
 
 ### Those things no one cares about
  
- * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 4 days ago)
+ * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 5 days ago)
  * [2024 夏季看什麼](https://travlog.wei-lee.me/posts/review/2025/02/what-i-watched-in-2024-summer) (Published: 1 month ago)
  * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 1 month ago)
  * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 1 month ago)
