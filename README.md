@@ -44,8 +44,8 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/03/24 - 03/30 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/03/2025-03-24-03-30-open-source-report) (Published: 5 days ago)
-* [黃金流沙饅頭營 Airflow 3.0 宣傳影片 幕後花絮](https://blog.wei-lee.me/posts/tech/2025/03/opensource4you-airflow-3-0-event-promotion) (Published: 6 days ago)
+* [2025/03/24 - 03/30 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/03/2025-03-24-03-30-open-source-report) (Published: 6 days ago)
+* [黃金流沙饅頭營 Airflow 3.0 宣傳影片 幕後花絮](https://blog.wei-lee.me/posts/tech/2025/03/opensource4you-airflow-3-0-event-promotion) (Published: 1 week ago)
 * [2025/03/17 - 03/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/03/2025-03-07-03-23-open-source-report) (Published: 1 week ago)
 * [2025/02/24 - 03/02 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/03/2025-02-24-03-02-open-source-report) (Published: 1 month ago)
 * [2025/02/17 - 02/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/02/2025-02-17-02-23-open-source-report) (Published: 1 month ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#48560](https://github.com/apache/airflow/issues/48560#issuecomment-2774377466) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2774330038) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 🗣 Commented on [#17038](https://github.com/astral-sh/ruff/pull/17038#issuecomment-2774168717) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 🗣 Commented on [#17151](https://github.com/astral-sh/ruff/pull/17151#issuecomment-2773068874) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 🗣 Commented on [#17038](https://github.com/astral-sh/ruff/pull/17038#issuecomment-2773015813) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-6. 🗣 Commented on [#16965](https://github.com/astral-sh/ruff/pull/16965#issuecomment-2772904294) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-7. 🗣 Commented on [#16977](https://github.com/astral-sh/ruff/pull/16977#issuecomment-2772899023) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-8. 💪 Opened PR [#17152](https://github.com/astral-sh/ruff/pull/17152) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-9. 🗣 Commented on [#48560](https://github.com/apache/airflow/issues/48560#issuecomment-2772747938) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#48560](https://github.com/apache/airflow/issues/48560#issuecomment-2772608006) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#1378](https://github.com/commitizen-tools/commitizen/pull/1378#issuecomment-2777481347) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#48560](https://github.com/apache/airflow/issues/48560#issuecomment-2774377466) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2774330038) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🗣 Commented on [#17038](https://github.com/astral-sh/ruff/pull/17038#issuecomment-2774168717) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+5. 🗣 Commented on [#17151](https://github.com/astral-sh/ruff/pull/17151#issuecomment-2773068874) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+6. 🗣 Commented on [#17038](https://github.com/astral-sh/ruff/pull/17038#issuecomment-2773015813) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+7. 🗣 Commented on [#16965](https://github.com/astral-sh/ruff/pull/16965#issuecomment-2772904294) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+8. 🗣 Commented on [#16977](https://github.com/astral-sh/ruff/pull/16977#issuecomment-2772899023) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+9. 💪 Opened PR [#17152](https://github.com/astral-sh/ruff/pull/17152) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+10. 🗣 Commented on [#48560](https://github.com/apache/airflow/issues/48560#issuecomment-2772747938) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
