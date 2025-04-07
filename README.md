@@ -52,7 +52,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 1 day ago)
+ * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 2 days ago)
  * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 2 weeks ago)
  * [2024 夏季看什麼](https://travlog.wei-lee.me/posts/review/2025/02/what-i-watched-in-2024-summer) (Published: 1 month ago)
  * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 1 month ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. ❌ Closed PR [#332](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/332) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-2. ❌ Closed PR [#331](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/331) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-3. ❌ Closed PR [#329](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/329) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-4. ❌ Closed PR [#328](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/328) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. ❌ Closed PR [#322](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/322) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. ❌ Closed PR [#327](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/327) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. ❌ Closed PR [#323](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/323) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. 🎉 Merged PR [#333](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/333) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-9. 💪 Opened PR [#333](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/333) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-10. 🗣 Commented on [#44](https://github.com/Lee-W/main-blog/issues/44#issuecomment-2780156689) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+1. 🗣 Commented on [#1383](https://github.com/commitizen-tools/commitizen/issues/1383#issuecomment-2781780330) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#156](https://github.com/pycontw/pycon-etl/pull/156) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+3. 🎉 Merged PR [#155](https://github.com/pycontw/pycon-etl/pull/155) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+4. 🗣 Commented on [#155](https://github.com/pycontw/pycon-etl/pull/155#issuecomment-2781446007) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 🗣 Commented on [#1367](https://github.com/commitizen-tools/commitizen/issues/1367#issuecomment-2781216148) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#1328](https://github.com/commitizen-tools/commitizen/pull/1328#issuecomment-2781212777) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. ❌ Closed PR [#1328](https://github.com/commitizen-tools/commitizen/pull/1328) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ❗ Opened issue [#1383](https://github.com/commitizen-tools/commitizen/issues/1383) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1374](https://github.com/commitizen-tools/commitizen/issues/1374#issuecomment-2781203992) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. ❌ Closed PR [#332](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/332) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 
 
 ## ⭐ GitHub Stat
