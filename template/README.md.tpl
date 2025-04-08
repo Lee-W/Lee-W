@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1383](https://github.com/commitizen-tools/commitizen/issues/1383#issuecomment-2781780330) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#156](https://github.com/pycontw/pycon-etl/pull/156) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-3. 🎉 Merged PR [#155](https://github.com/pycontw/pycon-etl/pull/155) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 🗣 Commented on [#155](https://github.com/pycontw/pycon-etl/pull/155#issuecomment-2781446007) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 🗣 Commented on [#1367](https://github.com/commitizen-tools/commitizen/issues/1367#issuecomment-2781216148) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#1328](https://github.com/commitizen-tools/commitizen/pull/1328#issuecomment-2781212777) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. ❌ Closed PR [#1328](https://github.com/commitizen-tools/commitizen/pull/1328) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. ❗ Opened issue [#1383](https://github.com/commitizen-tools/commitizen/issues/1383) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#1374](https://github.com/commitizen-tools/commitizen/issues/1374#issuecomment-2781203992) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. ❌ Closed PR [#332](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/332) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+1. 🗣 Commented on [#17278](https://github.com/astral-sh/ruff/pull/17278#issuecomment-2783716671) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 💪 Opened PR [#17278](https://github.com/astral-sh/ruff/pull/17278) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🎉 Merged PR [#48618](https://github.com/apache/airflow/pull/48618) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#17123](https://github.com/astral-sh/ruff/pull/17123#issuecomment-2781829097) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+5. 🗣 Commented on [#1383](https://github.com/commitizen-tools/commitizen/issues/1383#issuecomment-2781780330) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#156](https://github.com/pycontw/pycon-etl/pull/156) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+7. 🎉 Merged PR [#155](https://github.com/pycontw/pycon-etl/pull/155) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+8. 🗣 Commented on [#155](https://github.com/pycontw/pycon-etl/pull/155#issuecomment-2781446007) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+9. 🗣 Commented on [#1367](https://github.com/commitizen-tools/commitizen/issues/1367#issuecomment-2781216148) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1328](https://github.com/commitizen-tools/commitizen/pull/1328#issuecomment-2781212777) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
