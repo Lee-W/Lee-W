@@ -44,32 +44,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [更新 Neovim 0.11.0 後， iTerm 視窗一直閃](https://blog.wei-lee.me/posts/tech/2025/05/neovim-flashing-after-upgrading-to-0-11) (Published: 1 day ago)
-* [2025/04/14 - 05/04 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-04-14-05-04-open-source-report) (Published: 4 days ago)
-* [推しは推せる時に推せる](https://blog.wei-lee.me/posts/gossiping/2025/05/support-your-oshi-while-you-can) (Published: 5 days ago)
+* [更新 Neovim 0.11.0 後， iTerm 視窗一直閃](https://blog.wei-lee.me/posts/tech/2025/05/neovim-flashing-after-upgrading-to-0-11) (Published: 2 days ago)
+* [2025/04/14 - 05/04 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-04-14-05-04-open-source-report) (Published: 5 days ago)
+* [推しは推せる時に推せる](https://blog.wei-lee.me/posts/gossiping/2025/05/support-your-oshi-while-you-can) (Published: 6 days ago)
 * [9 公里慢跑初體驗](https://blog.wei-lee.me/posts/gossiping/2025/05/first-9-km-run) (Published: 1 week ago)
 * [可以封存我在 PyPI 上的沒用套件了！](https://blog.wei-lee.me/posts/tech/2025/04/i-can-archive-my-useless-package-on-pypi-now) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
+ * [學姊是男孩劇場版：雨後天晴](https://travlog.wei-lee.me/posts/review/2025/12/senpai-wa-odokonoko-movie) (Published: today)
  * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 1 month ago)
  * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 1 month ago)
  * [2024 夏季看什麼](https://travlog.wei-lee.me/posts/review/2025/02/what-i-watched-in-2024-summer) (Published: 2 months ago)
  * [藍色監獄 -EPISODE 凪-](https://travlog.wei-lee.me/posts/review/2025/02/blue-lock-episode-nagi) (Published: 2 months ago)
- * [《First Love 初戀》](https://travlog.wei-lee.me/posts/review/2025/02/first-love) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#17887](https://github.com/astral-sh/ruff/pull/17887#issuecomment-2858528815) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 💪 Opened PR [#17913](https://github.com/astral-sh/ruff/pull/17913) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 🗣 Commented on [#17887](https://github.com/astral-sh/ruff/pull/17887#issuecomment-2857481717) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 🗣 Commented on [#17884](https://github.com/astral-sh/ruff/pull/17884#issuecomment-2857457977) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 🎉 Merged PR [#1391](https://github.com/commitizen-tools/commitizen/pull/1391) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#17884](https://github.com/astral-sh/ruff/pull/17884#issuecomment-2856679715) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-7. 🎉 Merged PR [#1381](https://github.com/commitizen-tools/commitizen/pull/1381) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#1401](https://github.com/commitizen-tools/commitizen/pull/1401) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 💪 Opened PR [#17887](https://github.com/astral-sh/ruff/pull/17887) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 🗣 Commented on [#17707](https://github.com/astral-sh/ruff/pull/17707#issuecomment-2853979686) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2862817703) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#17940](https://github.com/astral-sh/ruff/pull/17940#issuecomment-2862770886) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 💪 Opened PR [#17946](https://github.com/astral-sh/ruff/pull/17946) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🗣 Commented on [#49598](https://github.com/apache/airflow/issues/49598#issuecomment-2862747980) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#17942](https://github.com/astral-sh/ruff/pull/17942) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+6. 💪 Opened PR [#17941](https://github.com/astral-sh/ruff/pull/17941) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+7. 💪 Opened PR [#17940](https://github.com/astral-sh/ruff/pull/17940) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+8. 🗣 Commented on [#50182](https://github.com/apache/airflow/pull/50182#issuecomment-2861121054) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#17884](https://github.com/astral-sh/ruff/pull/17884#issuecomment-2861108707) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+10. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2861034267) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 
 ## ⭐ GitHub Stat
