@@ -52,16 +52,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50626](https://github.com/apache/airflow/pull/50626#issuecomment-2885658355) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#50178](https://github.com/apache/airflow/pull/50178#issuecomment-2885472322) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#1412](https://github.com/commitizen-tools/commitizen/pull/1412#issuecomment-2885439883) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#1414](https://github.com/commitizen-tools/commitizen/pull/1414#issuecomment-2883779765) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 💪 Opened PR [#50641](https://github.com/apache/airflow/pull/50641) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#50637](https://github.com/apache/airflow/issues/50637#issuecomment-2882740714) in [apache/airflow](https://github.com/apache/airflow)
-7. ❗ Opened issue [#50637](https://github.com/apache/airflow/issues/50637) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#17942](https://github.com/astral-sh/ruff/pull/17942#issuecomment-2882062736) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-9. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2876691112) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 🔒 Closed issue [#41140](https://github.com/apache/airflow/issues/41140) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#49598](https://github.com/apache/airflow/issues/49598#issuecomment-2888200087) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#49598](https://github.com/apache/airflow/issues/49598) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2886788659) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 🗣 Commented on [#50626](https://github.com/apache/airflow/pull/50626#issuecomment-2885658355) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#50178](https://github.com/apache/airflow/pull/50178#issuecomment-2885472322) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#1412](https://github.com/commitizen-tools/commitizen/pull/1412#issuecomment-2885439883) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#1414](https://github.com/commitizen-tools/commitizen/pull/1414#issuecomment-2883779765) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 💪 Opened PR [#50641](https://github.com/apache/airflow/pull/50641) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#50637](https://github.com/apache/airflow/issues/50637#issuecomment-2882740714) in [apache/airflow](https://github.com/apache/airflow)
+10. ❗ Opened issue [#50637](https://github.com/apache/airflow/issues/50637) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
