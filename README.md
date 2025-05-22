@@ -44,7 +44,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/05/12 - 05/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-12-05-18-open-source-report) (Published: 1 day ago)
+* [2025/05/12 - 05/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-12-05-18-open-source-report) (Published: 2 days ago)
 * [2025/05/05 - 05/11 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-05-05-11-open-source-report) (Published: 1 week ago)
 * [舒跑杯 9 公里完賽](https://blog.wei-lee.me/posts/gossiping/2025/05/supau-cup-mini-marathon) (Published: 1 week ago)
 * [更新 Neovim 0.11.0 後， iTerm 視窗一直閃](https://blog.wei-lee.me/posts/tech/2025/05/neovim-flashing-after-upgrading-to-0-11) (Published: 2 weeks ago)
@@ -60,16 +60,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#8](https://github.com/opensource4you/readme/pull/8#issuecomment-2894876819) in [opensource4you/readme](https://github.com/opensource4you/readme)
-2. 💪 Opened PR [#8](https://github.com/opensource4you/readme/pull/8) in [opensource4you/readme](https://github.com/opensource4you/readme)
-3. 🎉 Merged PR [#1414](https://github.com/commitizen-tools/commitizen/pull/1414) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#1414](https://github.com/commitizen-tools/commitizen/pull/1414#issuecomment-2894762733) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2893864625) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-6. 💪 Opened PR [#18215](https://github.com/astral-sh/ruff/pull/18215) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-7. 💪 Opened PR [#50773](https://github.com/apache/airflow/pull/50773) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#50371](https://github.com/apache/airflow/pull/50371#issuecomment-2891317453) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#1435](https://github.com/commitizen-tools/commitizen/issues/1435#issuecomment-2891305051) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#1438](https://github.com/commitizen-tools/commitizen/pull/1438) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#50637](https://github.com/apache/airflow/issues/50637#issuecomment-2896728222) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#50855](https://github.com/apache/airflow/pull/50855#issuecomment-2896270153) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#50863](https://github.com/apache/airflow/issues/50863#issuecomment-2896243706) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#558](https://github.com/commitizen-tools/commitizen/issues/558#issuecomment-2896223570) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🔒 Closed issue [#558](https://github.com/commitizen-tools/commitizen/issues/558) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#8](https://github.com/opensource4you/readme/pull/8#issuecomment-2894876819) in [opensource4you/readme](https://github.com/opensource4you/readme)
+7. 💪 Opened PR [#8](https://github.com/opensource4you/readme/pull/8) in [opensource4you/readme](https://github.com/opensource4you/readme)
+8. 🎉 Merged PR [#1414](https://github.com/commitizen-tools/commitizen/pull/1414) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1414](https://github.com/commitizen-tools/commitizen/pull/1414#issuecomment-2894762733) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2893864625) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 
 ## ⭐ GitHub Stat
