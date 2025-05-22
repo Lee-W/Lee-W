@@ -6,6 +6,7 @@ I'm a
 * 🐍 [PyCon Taiwan](https://tw.pycon.org/) organizer
 * [commitizen-tools](https://github.com/commitizen-tools) maintainer
 * [Apache Airflow](https://github.com/apache/airflow/) committer
+* `#apache-airflow` Mentor and Memebot Bot @ [OpenSource4You](https://github.com/opensource4you/)
 * [📷 Traveler](https://travlog.wei-lee.me/)
 * ⛺ Member of [台湾野クル▲](https://twitter.com/Taiwannokuru)
 * 📺 Anime Lover
@@ -17,6 +18,7 @@ I enjoy automating tedious tasks and creating high-quality code. Enjoy participa
 
 I share my technical notes, book digests, and occasional thoughts on my main blog [Those aren't written down are meant to be forgotten](https://blog.wei-lee.me/). If you're interested in topics such as cooking, anime, and travel, I chat about those things on [Those things no one cares about](https://travlog.wei-lee.me/).
 
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109323826846876448)
 
 ---
 
