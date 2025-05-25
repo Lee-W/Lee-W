@@ -46,11 +46,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/05/12 - 05/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-12-05-18-open-source-report) (Published: 4 days ago)
+* [你有在健身哦？](https://blog.wei-lee.me/posts/gossiping/2025/05/weight-training) (Published: 1 day ago)
+* [2025/05/12 - 05/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-12-05-18-open-source-report) (Published: 5 days ago)
 * [2025/05/05 - 05/11 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-05-05-11-open-source-report) (Published: 1 week ago)
-* [舒跑杯 9 公里完賽](https://blog.wei-lee.me/posts/gossiping/2025/05/supau-cup-mini-marathon) (Published: 1 week ago)
+* [舒跑杯 9 公里完賽](https://blog.wei-lee.me/posts/gossiping/2025/05/supau-cup-mini-marathon) (Published: 2 weeks ago)
 * [更新 Neovim 0.11.0 後， iTerm 視窗一直閃](https://blog.wei-lee.me/posts/tech/2025/05/neovim-flashing-after-upgrading-to-0-11) (Published: 2 weeks ago)
-* [2025/04/14 - 05/04 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-04-14-05-04-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
