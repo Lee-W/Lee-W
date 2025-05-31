@@ -46,15 +46,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [黃金流沙饅頭營 Airflow 3.0 The First Glance](https://blog.wei-lee.me/posts/tech/2025/05/airflow-3-0-the-first-glance) (Published: 1 day ago)
-* [2025/05/19 - 05/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-19-05-25-open-source-report) (Published: 5 days ago)
-* [你有在健身哦？](https://blog.wei-lee.me/posts/gossiping/2025/05/weight-training) (Published: 6 days ago)
+* [Airflow 多語系化](https://blog.wei-lee.me/posts/tech/2025/05/airflow-multilingual) (Published: 1 day ago)
+* [黃金流沙饅頭營 Airflow 3.0 The First Glance](https://blog.wei-lee.me/posts/tech/2025/05/airflow-3-0-the-first-glance) (Published: 2 days ago)
+* [2025/05/19 - 05/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-19-05-25-open-source-report) (Published: 6 days ago)
+* [你有在健身哦？](https://blog.wei-lee.me/posts/gossiping/2025/05/weight-training) (Published: 1 week ago)
 * [2025/05/12 - 05/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-12-05-18-open-source-report) (Published: 1 week ago)
-* [2025/05/05 - 05/11 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-05-05-11-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 4 days ago)
+ * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 5 days ago)
  * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 2 weeks ago)
  * [學姊是男孩劇場版：雨後天晴](https://travlog.wei-lee.me/posts/review/2025/05/senpai-wa-odokonoko-movie) (Published: 3 weeks ago)
  * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 1 month ago)
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#18363](https://github.com/astral-sh/ruff/pull/18363) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 🗣 Commented on [#51166](https://github.com/apache/airflow/pull/51166#issuecomment-2917941759) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#51177](https://github.com/apache/airflow/pull/51177) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#51159](https://github.com/apache/airflow/pull/51159) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#1463](https://github.com/commitizen-tools/commitizen/pull/1463) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 💪 Opened PR [#51159](https://github.com/apache/airflow/pull/51159) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#51157](https://github.com/apache/airflow/pull/51157#issuecomment-2916414571) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#51157](https://github.com/apache/airflow/pull/51157) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#1464](https://github.com/commitizen-tools/commitizen/pull/1464) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#1461](https://github.com/commitizen-tools/commitizen/pull/1461) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#51230](https://github.com/apache/airflow/pull/51230#issuecomment-2921127942) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#51230](https://github.com/apache/airflow/pull/51230) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#50178](https://github.com/apache/airflow/pull/50178) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#1467](https://github.com/commitizen-tools/commitizen/pull/1467#issuecomment-2921098408) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2919192567) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+6. ❌ Reopened PR [#18366](https://github.com/astral-sh/ruff/pull/18366) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+7. ❌ Closed PR [#18366](https://github.com/astral-sh/ruff/pull/18366) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+8. 💪 Opened PR [#18367](https://github.com/astral-sh/ruff/pull/18367) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+9. 💪 Opened PR [#18366](https://github.com/astral-sh/ruff/pull/18366) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+10. 💪 Opened PR [#18363](https://github.com/astral-sh/ruff/pull/18363) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 
 ## ⭐ GitHub Stat
