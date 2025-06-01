@@ -46,15 +46,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Airflow 多語系化](https://blog.wei-lee.me/posts/tech/2025/05/airflow-multilingual) (Published: 1 day ago)
-* [黃金流沙饅頭營 Airflow 3.0 The First Glance](https://blog.wei-lee.me/posts/tech/2025/05/airflow-3-0-the-first-glance) (Published: 2 days ago)
-* [2025/05/19 - 05/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-19-05-25-open-source-report) (Published: 6 days ago)
+* [Airflow 多語系化](https://blog.wei-lee.me/posts/tech/2025/05/airflow-multilingual) (Published: 2 days ago)
+* [黃金流沙饅頭營 Airflow 3.0 The First Glance](https://blog.wei-lee.me/posts/tech/2025/05/airflow-3-0-the-first-glance) (Published: 3 days ago)
+* [2025/05/19 - 05/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-19-05-25-open-source-report) (Published: 1 week ago)
 * [你有在健身哦？](https://blog.wei-lee.me/posts/gossiping/2025/05/weight-training) (Published: 1 week ago)
 * [2025/05/12 - 05/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-12-05-18-open-source-report) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 5 days ago)
+ * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 6 days ago)
  * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 2 weeks ago)
  * [學姊是男孩劇場版：雨後天晴](https://travlog.wei-lee.me/posts/review/2025/05/senpai-wa-odokonoko-movie) (Published: 3 weeks ago)
  * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 1 month ago)
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#51230](https://github.com/apache/airflow/pull/51230#issuecomment-2921127942) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#51230](https://github.com/apache/airflow/pull/51230) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#50178](https://github.com/apache/airflow/pull/50178) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#1467](https://github.com/commitizen-tools/commitizen/pull/1467#issuecomment-2921098408) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-2919192567) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-6. ❌ Reopened PR [#18366](https://github.com/astral-sh/ruff/pull/18366) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-7. ❌ Closed PR [#18366](https://github.com/astral-sh/ruff/pull/18366) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-8. 💪 Opened PR [#18367](https://github.com/astral-sh/ruff/pull/18367) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-9. 💪 Opened PR [#18366](https://github.com/astral-sh/ruff/pull/18366) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 💪 Opened PR [#18363](https://github.com/astral-sh/ruff/pull/18363) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 🎉 Merged PR [#1479](https://github.com/commitizen-tools/commitizen/pull/1479) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🎉 Merged PR [#1480](https://github.com/commitizen-tools/commitizen/pull/1480) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#1073](https://github.com/commitizen-tools/commitizen/issues/1073#issuecomment-2924304813) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🔒 Closed issue [#1073](https://github.com/commitizen-tools/commitizen/issues/1073) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. ❗ Opened issue [#1481](https://github.com/commitizen-tools/commitizen/issues/1481) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#1480](https://github.com/commitizen-tools/commitizen/pull/1480#issuecomment-2924252600) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#1474](https://github.com/commitizen-tools/commitizen/issues/1474#issuecomment-2923969490) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🔒 Closed issue [#414](https://github.com/commitizen-tools/commitizen/issues/414) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#414](https://github.com/commitizen-tools/commitizen/issues/414#issuecomment-2922147648) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#247](https://github.com/commitizen-tools/commitizen/issues/247#issuecomment-2922140754) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
