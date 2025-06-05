@@ -46,11 +46,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Airflow 多語系化](https://blog.wei-lee.me/posts/tech/2025/05/airflow-multilingual) (Published: 5 days ago)
-* [黃金流沙饅頭營 Airflow 3.0 The First Glance](https://blog.wei-lee.me/posts/tech/2025/05/airflow-3-0-the-first-glance) (Published: 6 days ago)
+* [2025/05/26 - 06/01 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-05-26-06-01-open-source-report) (Published: 1 day ago)
+* [Airflow 多語系化](https://blog.wei-lee.me/posts/tech/2025/05/airflow-multilingual) (Published: 6 days ago)
+* [黃金流沙饅頭營 Airflow 3.0 The First Glance](https://blog.wei-lee.me/posts/tech/2025/05/airflow-3-0-the-first-glance) (Published: 1 week ago)
 * [2025/05/19 - 05/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-19-05-25-open-source-report) (Published: 1 week ago)
 * [你有在健身哦？](https://blog.wei-lee.me/posts/gossiping/2025/05/weight-training) (Published: 1 week ago)
-* [2025/05/12 - 05/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-12-05-18-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#916](https://github.com/commitizen-tools/commitizen/issues/916#issuecomment-2935448306) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#51295](https://github.com/apache/airflow/pull/51295) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#51295](https://github.com/apache/airflow/pull/51295#issuecomment-2934157041) in [apache/airflow](https://github.com/apache/airflow)
-4. 🔒 Closed issue [#50654](https://github.com/apache/airflow/issues/50654) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#50773](https://github.com/apache/airflow/pull/50773) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#50773](https://github.com/apache/airflow/pull/50773#issuecomment-2934140052) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#51242](https://github.com/apache/airflow/pull/51242#issuecomment-2933777652) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#50773](https://github.com/apache/airflow/pull/50773#issuecomment-2933749054) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#51340](https://github.com/apache/airflow/pull/51340) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#51340](https://github.com/apache/airflow/pull/51340) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#46](https://github.com/Lee-W/main-blog/issues/46#issuecomment-2939577028) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 🗣 Commented on [#51390](https://github.com/apache/airflow/pull/51390#issuecomment-2938997142) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#916](https://github.com/commitizen-tools/commitizen/issues/916#issuecomment-2935448306) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#51295](https://github.com/apache/airflow/pull/51295) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#51295](https://github.com/apache/airflow/pull/51295#issuecomment-2934157041) in [apache/airflow](https://github.com/apache/airflow)
+6. 🔒 Closed issue [#50654](https://github.com/apache/airflow/issues/50654) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#50773](https://github.com/apache/airflow/pull/50773) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#50773](https://github.com/apache/airflow/pull/50773#issuecomment-2934140052) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#51242](https://github.com/apache/airflow/pull/51242#issuecomment-2933777652) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#50773](https://github.com/apache/airflow/pull/50773#issuecomment-2933749054) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
