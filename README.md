@@ -46,32 +46,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [讓照片自動分類的腳本](https://blog.wei-lee.me/posts/tech/2025/06/script-to-organize-photo) (Published: 1 day ago)
-* [2025/05/26 - 06/01 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-05-26-06-01-open-source-report) (Published: 3 days ago)
+* [讓照片自動分類的腳本](https://blog.wei-lee.me/posts/tech/2025/06/script-to-organize-photo) (Published: 2 days ago)
+* [2025/05/26 - 06/01 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-05-26-06-01-open-source-report) (Published: 4 days ago)
 * [Airflow 多語系化](https://blog.wei-lee.me/posts/tech/2025/05/airflow-multilingual) (Published: 1 week ago)
 * [黃金流沙饅頭營 Airflow 3.0 The First Glance](https://blog.wei-lee.me/posts/tech/2025/05/airflow-3-0-the-first-glance) (Published: 1 week ago)
-* [2025/05/19 - 05/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-19-05-25-open-source-report) (Published: 1 week ago)
+* [2025/05/19 - 05/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/05/2025-05-19-05-25-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 1 week ago)
  * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 3 weeks ago)
- * [學姊是男孩劇場版：雨後天晴](https://travlog.wei-lee.me/posts/review/2025/05/senpai-wa-odokonoko-movie) (Published: 4 weeks ago)
+ * [學姊是男孩劇場版：雨後天晴](https://travlog.wei-lee.me/posts/review/2025/05/senpai-wa-odokonoko-movie) (Published: 1 month ago)
  * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 2 months ago)
  * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#51464](https://github.com/apache/airflow/pull/51464) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#51464](https://github.com/apache/airflow/pull/51464#issuecomment-2948310253) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#51464](https://github.com/apache/airflow/pull/51464#issuecomment-2948254405) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#51464](https://github.com/apache/airflow/pull/51464#issuecomment-2948043146) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#51457](https://github.com/apache/airflow/issues/51457#issuecomment-2948024828) in [apache/airflow](https://github.com/apache/airflow)
-6. 🔒 Closed issue [#51457](https://github.com/apache/airflow/issues/51457) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#51381](https://github.com/apache/airflow/issues/51381#issuecomment-2948003754) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#51464](https://github.com/apache/airflow/pull/51464) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#51369](https://github.com/apache/airflow/pull/51369) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#51369](https://github.com/apache/airflow/pull/51369#issuecomment-2947538362) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Closed PR [#50441](https://github.com/apache/airflow/pull/50441) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#159](https://github.com/pycontw/pycon-etl/pull/159#issuecomment-2952607037) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+3. 🗣 Commented on [#159](https://github.com/pycontw/pycon-etl/pull/159#issuecomment-2952605142) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+4. 💪 Opened PR [#159](https://github.com/pycontw/pycon-etl/pull/159) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 🗣 Commented on [#158](https://github.com/pycontw/pycon-etl/pull/158#issuecomment-2952353190) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🎉 Merged PR [#51464](https://github.com/apache/airflow/pull/51464) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#51464](https://github.com/apache/airflow/pull/51464#issuecomment-2948310253) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#51464](https://github.com/apache/airflow/pull/51464#issuecomment-2948254405) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#51464](https://github.com/apache/airflow/pull/51464#issuecomment-2948043146) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#51457](https://github.com/apache/airflow/issues/51457#issuecomment-2948024828) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
