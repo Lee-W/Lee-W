@@ -54,16 +54,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#50441](https://github.com/apache/airflow/pull/50441) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#159](https://github.com/pycontw/pycon-etl/pull/159#issuecomment-2952607037) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-3. 🗣 Commented on [#159](https://github.com/pycontw/pycon-etl/pull/159#issuecomment-2952605142) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 💪 Opened PR [#159](https://github.com/pycontw/pycon-etl/pull/159) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 🗣 Commented on [#158](https://github.com/pycontw/pycon-etl/pull/158#issuecomment-2952353190) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-6. 🎉 Merged PR [#51464](https://github.com/apache/airflow/pull/51464) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#51464](https://github.com/apache/airflow/pull/51464#issuecomment-2948310253) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#51464](https://github.com/apache/airflow/pull/51464#issuecomment-2948254405) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#51464](https://github.com/apache/airflow/pull/51464#issuecomment-2948043146) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#51457](https://github.com/apache/airflow/issues/51457#issuecomment-2948024828) in [apache/airflow](https://github.com/apache/airflow)
+1. ❗ Opened issue [#161](https://github.com/pycontw/pycon-etl/issues/161) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+2. 🎉 Merged PR [#1517](https://github.com/commitizen-tools/commitizen/pull/1517) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#1494](https://github.com/commitizen-tools/commitizen/pull/1494) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#1494](https://github.com/commitizen-tools/commitizen/pull/1494#issuecomment-2954377930) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#1207](https://github.com/commitizen-tools/commitizen/pull/1207#issuecomment-2954121922) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🎉 Merged PR [#1472](https://github.com/commitizen-tools/commitizen/pull/1472) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#1469](https://github.com/commitizen-tools/commitizen/pull/1469) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#1471](https://github.com/commitizen-tools/commitizen/pull/1471) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#1470](https://github.com/commitizen-tools/commitizen/pull/1470) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#1485](https://github.com/commitizen-tools/commitizen/pull/1485) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
