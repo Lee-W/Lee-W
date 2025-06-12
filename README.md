@@ -46,9 +46,9 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Sony WH-1000 XM6 開箱](https://blog.wei-lee.me/posts/gossiping/2025/06/sony-wh-1000-xm6-unboxing) (Published: 1 day ago)
-* [2025/06/02 - 06/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-02-06-08-open-source-report) (Published: 2 days ago)
-* [讓照片自動分類的腳本](https://blog.wei-lee.me/posts/tech/2025/06/script-to-organize-photo) (Published: 5 days ago)
+* [Sony WH-1000 XM6 開箱](https://blog.wei-lee.me/posts/gossiping/2025/06/sony-wh-1000-xm6-unboxing) (Published: 2 days ago)
+* [2025/06/02 - 06/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-02-06-08-open-source-report) (Published: 3 days ago)
+* [讓照片自動分類的腳本](https://blog.wei-lee.me/posts/tech/2025/06/script-to-organize-photo) (Published: 6 days ago)
 * [2025/05/26 - 06/01 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-05-26-06-01-open-source-report) (Published: 1 week ago)
 * [Airflow 多語系化](https://blog.wei-lee.me/posts/tech/2025/05/airflow-multilingual) (Published: 1 week ago)
 
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#1532](https://github.com/commitizen-tools/commitizen/pull/1532) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🔒 Closed issue [#1525](https://github.com/commitizen-tools/commitizen/issues/1525) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#51557](https://github.com/apache/airflow/pull/51557) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#1525](https://github.com/commitizen-tools/commitizen/issues/1525#issuecomment-2957548778) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1383](https://github.com/commitizen-tools/commitizen/issues/1383#issuecomment-2957545231) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🎉 Merged PR [#1522](https://github.com/commitizen-tools/commitizen/pull/1522) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#1501](https://github.com/commitizen-tools/commitizen/issues/1501#issuecomment-2955953934) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🔒 Closed issue [#1501](https://github.com/commitizen-tools/commitizen/issues/1501) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#1420](https://github.com/commitizen-tools/commitizen/issues/1420#issuecomment-2955953202) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🔒 Closed issue [#1420](https://github.com/commitizen-tools/commitizen/issues/1420) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#1370](https://github.com/commitizen-tools/commitizen/issues/1370#issuecomment-2963117393) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🔒 Closed issue [#1370](https://github.com/commitizen-tools/commitizen/issues/1370) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 💪 Opened PR [#51616](https://github.com/apache/airflow/pull/51616) in [apache/airflow](https://github.com/apache/airflow)
+4. ❌ Closed PR [#51615](https://github.com/apache/airflow/pull/51615) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#51615](https://github.com/apache/airflow/pull/51615) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#1535](https://github.com/commitizen-tools/commitizen/pull/1535) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#1530](https://github.com/commitizen-tools/commitizen/issues/1530#issuecomment-2959340594) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🎉 Merged PR [#1533](https://github.com/commitizen-tools/commitizen/pull/1533) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🔒 Closed issue [#1514](https://github.com/commitizen-tools/commitizen/issues/1514) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#1532](https://github.com/commitizen-tools/commitizen/pull/1532) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
