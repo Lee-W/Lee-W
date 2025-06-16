@@ -46,32 +46,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Sony WH-1000 XM6 開箱](https://blog.wei-lee.me/posts/gossiping/2025/06/sony-wh-1000-xm6-unboxing) (Published: 5 days ago)
-* [2025/06/02 - 06/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-02-06-08-open-source-report) (Published: 6 days ago)
+* [Sony WH-1000 XM6 開箱](https://blog.wei-lee.me/posts/gossiping/2025/06/sony-wh-1000-xm6-unboxing) (Published: 6 days ago)
+* [2025/06/02 - 06/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-02-06-08-open-source-report) (Published: 1 week ago)
 * [讓照片自動分類的腳本](https://blog.wei-lee.me/posts/tech/2025/06/script-to-organize-photo) (Published: 1 week ago)
 * [2025/05/26 - 06/01 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-05-26-06-01-open-source-report) (Published: 1 week ago)
 * [Airflow 多語系化](https://blog.wei-lee.me/posts/tech/2025/05/airflow-multilingual) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 2 weeks ago)
+ * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 weeks ago)
  * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 1 month ago)
  * [學姊是男孩劇場版：雨後天晴](https://travlog.wei-lee.me/posts/review/2025/05/senpai-wa-odokonoko-movie) (Published: 1 month ago)
  * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 2 months ago)
- * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 2 months ago)
+ * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#51728](https://github.com/apache/airflow/pull/51728#issuecomment-2972766048) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#51728](https://github.com/apache/airflow/pull/51728) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#51726](https://github.com/apache/airflow/pull/51726) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#1456](https://github.com/commitizen-tools/commitizen/pull/1456) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1456](https://github.com/commitizen-tools/commitizen/pull/1456#issuecomment-2972227160) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#1554](https://github.com/commitizen-tools/commitizen/pull/1554#issuecomment-2972203964) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#1554](https://github.com/commitizen-tools/commitizen/pull/1554) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#1554](https://github.com/commitizen-tools/commitizen/pull/1554#issuecomment-2972187299) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#1552](https://github.com/commitizen-tools/commitizen/pull/1552) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#50182](https://github.com/apache/airflow/pull/50182#issuecomment-2968926455) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#159](https://github.com/pycontw/pycon-etl/pull/159#issuecomment-2973922886) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+2. 🎉 Merged PR [#51753](https://github.com/apache/airflow/pull/51753) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#51726](https://github.com/apache/airflow/pull/51726) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#51728](https://github.com/apache/airflow/pull/51728#issuecomment-2972766048) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#51728](https://github.com/apache/airflow/pull/51728) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#51726](https://github.com/apache/airflow/pull/51726) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#1456](https://github.com/commitizen-tools/commitizen/pull/1456) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#1456](https://github.com/commitizen-tools/commitizen/pull/1456#issuecomment-2972227160) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1554](https://github.com/commitizen-tools/commitizen/pull/1554#issuecomment-2972203964) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#1554](https://github.com/commitizen-tools/commitizen/pull/1554) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
