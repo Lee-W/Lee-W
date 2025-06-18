@@ -46,11 +46,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
+* [2025/06/09 - 06/15 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-09-06-15-open-source-report) (Published: 1 day ago)
 * [Sony WH-1000 XM6 開箱](https://blog.wei-lee.me/posts/gossiping/2025/06/sony-wh-1000-xm6-unboxing) (Published: 1 week ago)
 * [2025/06/02 - 06/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-02-06-08-open-source-report) (Published: 1 week ago)
 * [讓照片自動分類的腳本](https://blog.wei-lee.me/posts/tech/2025/06/script-to-organize-photo) (Published: 1 week ago)
-* [2025/05/26 - 06/01 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-05-26-06-01-open-source-report) (Published: 1 week ago)
-* [Airflow 多語系化](https://blog.wei-lee.me/posts/tech/2025/05/airflow-multilingual) (Published: 2 weeks ago)
+* [2025/05/26 - 06/01 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-05-26-06-01-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#51767](https://github.com/apache/airflow/pull/51767) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#50038](https://github.com/apache/airflow/issues/50038#issuecomment-2975700584) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#1555](https://github.com/commitizen-tools/commitizen/pull/1555) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#159](https://github.com/pycontw/pycon-etl/pull/159#issuecomment-2973922886) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 🎉 Merged PR [#51753](https://github.com/apache/airflow/pull/51753) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#51726](https://github.com/apache/airflow/pull/51726) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#51728](https://github.com/apache/airflow/pull/51728#issuecomment-2972766048) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#51728](https://github.com/apache/airflow/pull/51728) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#51726](https://github.com/apache/airflow/pull/51726) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#1456](https://github.com/commitizen-tools/commitizen/pull/1456) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#51530](https://github.com/apache/airflow/pull/51530) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#39017](https://github.com/apache/airflow/issues/39017) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#50182](https://github.com/apache/airflow/pull/50182) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#1](https://github.com/Lee-W/attila/pull/1) in [Lee-W/attila](https://github.com/Lee-W/attila)
+5. 🗣 Commented on [#1](https://github.com/Lee-W/attila/pull/1#issuecomment-2978742133) in [Lee-W/attila](https://github.com/Lee-W/attila)
+6. 🎉 Merged PR [#1541](https://github.com/commitizen-tools/commitizen/pull/1541) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#1551](https://github.com/commitizen-tools/commitizen/pull/1551) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#50371](https://github.com/apache/airflow/pull/50371#issuecomment-2978686419) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#51767](https://github.com/apache/airflow/pull/51767) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#50038](https://github.com/apache/airflow/issues/50038#issuecomment-2975700584) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
