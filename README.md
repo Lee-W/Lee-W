@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/06/09 - 06/15 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-09-06-15-open-source-report) (Published: 3 days ago)
+* [2025/06/09 - 06/15 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-09-06-15-open-source-report) (Published: 4 days ago)
 * [Sony WH-1000 XM6 開箱](https://blog.wei-lee.me/posts/gossiping/2025/06/sony-wh-1000-xm6-unboxing) (Published: 1 week ago)
 * [2025/06/02 - 06/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-02-06-08-open-source-report) (Published: 1 week ago)
 * [讓照片自動分類的腳本](https://blog.wei-lee.me/posts/tech/2025/06/script-to-organize-photo) (Published: 2 weeks ago)
