@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/06/09 - 06/15 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-09-06-15-open-source-report) (Published: 4 days ago)
+* [2025/06/09 - 06/15 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-09-06-15-open-source-report) (Published: 5 days ago)
 * [Sony WH-1000 XM6 開箱](https://blog.wei-lee.me/posts/gossiping/2025/06/sony-wh-1000-xm6-unboxing) (Published: 1 week ago)
 * [2025/06/02 - 06/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-02-06-08-open-source-report) (Published: 1 week ago)
 * [讓照片自動分類的腳本](https://blog.wei-lee.me/posts/tech/2025/06/script-to-organize-photo) (Published: 2 weeks ago)
@@ -62,12 +62,12 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#51229](https://github.com/apache/airflow/pull/51229#issuecomment-2987289310) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#51913](https://github.com/apache/airflow/pull/51913) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#51911](https://github.com/apache/airflow/pull/51911#issuecomment-2986518717) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#51911](https://github.com/apache/airflow/pull/51911) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#50371](https://github.com/apache/airflow/pull/50371#issuecomment-2986430283) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#51728](https://github.com/apache/airflow/pull/51728) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Closed PR [#51989](https://github.com/apache/airflow/pull/51989) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#51989](https://github.com/apache/airflow/pull/51989#issuecomment-2993471523) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#51983](https://github.com/apache/airflow/pull/51983#issuecomment-2993378071) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#17884](https://github.com/astral-sh/ruff/pull/17884#issuecomment-2993366721) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+5. ❌ Closed PR [#17884](https://github.com/astral-sh/ruff/pull/17884) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+6. 💪 Opened PR [#51981](https://github.com/apache/airflow/pull/51981) in [apache/airflow](https://github.com/apache/airflow)
 7. 🗣 Commented on [#51728](https://github.com/apache/airflow/pull/51728#issuecomment-2986429077) in [apache/airflow](https://github.com/apache/airflow)
 8. 🎉 Merged PR [#51530](https://github.com/apache/airflow/pull/51530) in [apache/airflow](https://github.com/apache/airflow)
 9. 🔒 Closed issue [#39017](https://github.com/apache/airflow/issues/39017) in [apache/airflow](https://github.com/apache/airflow)
