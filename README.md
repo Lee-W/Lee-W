@@ -46,8 +46,8 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/06/16 - 06/22 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-16-06-2s-open-source-report) (Published: 4 days ago)
-* [DurianPy - Apache Airflow Development Sprint](https://blog.wei-lee.me/posts/tech/2025/06/durianpy-apache-airflow-development-sprint) (Published: 6 days ago)
+* [2025/06/16 - 06/22 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-16-06-2s-open-source-report) (Published: 5 days ago)
+* [DurianPy - Apache Airflow Development Sprint](https://blog.wei-lee.me/posts/tech/2025/06/durianpy-apache-airflow-development-sprint) (Published: 1 week ago)
 * [2025/06/09 - 06/15 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-09-06-15-open-source-report) (Published: 1 week ago)
 * [Sony WH-1000 XM6 開箱](https://blog.wei-lee.me/posts/gossiping/2025/06/sony-wh-1000-xm6-unboxing) (Published: 2 weeks ago)
 * [2025/06/02 - 06/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-02-06-08-open-source-report) (Published: 2 weeks ago)
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#52203](https://github.com/apache/airflow/issues/52203#issuecomment-3011084567) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#52094](https://github.com/apache/airflow/issues/52094#issuecomment-3006737822) in [apache/airflow](https://github.com/apache/airflow)
-3. ❌ Closed PR [#164](https://github.com/pycontw/pycon-etl/pull/164) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 💪 Opened PR [#164](https://github.com/pycontw/pycon-etl/pull/164) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 🔒 Closed issue [#51781](https://github.com/apache/airflow/issues/51781) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#51847](https://github.com/apache/airflow/pull/51847) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#163](https://github.com/pycontw/pycon-etl/pull/163) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-8. 🗣 Commented on [#52094](https://github.com/apache/airflow/issues/52094#issuecomment-2999378229) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#50371](https://github.com/apache/airflow/pull/50371#issuecomment-2999127182) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#52094](https://github.com/apache/airflow/issues/52094#issuecomment-2998572635) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#171](https://github.com/pycontw/pycon-etl/pull/171) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+2. ❗ Opened issue [#170](https://github.com/pycontw/pycon-etl/issues/170) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+3. ❗ Opened issue [#169](https://github.com/pycontw/pycon-etl/issues/169) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+4. 🗣 Commented on [#154](https://github.com/pycontw/pycon-etl/issues/154#issuecomment-3015187560) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 🔒 Closed issue [#154](https://github.com/pycontw/pycon-etl/issues/154) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🗣 Commented on [#52203](https://github.com/apache/airflow/issues/52203#issuecomment-3011084567) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#52094](https://github.com/apache/airflow/issues/52094#issuecomment-3006737822) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Closed PR [#164](https://github.com/pycontw/pycon-etl/pull/164) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+9. 💪 Opened PR [#164](https://github.com/pycontw/pycon-etl/pull/164) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+10. 🔒 Closed issue [#51781](https://github.com/apache/airflow/issues/51781) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
