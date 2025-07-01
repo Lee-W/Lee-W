@@ -46,10 +46,10 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/06/16 - 06/22 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-16-06-2s-open-source-report) (Published: 6 days ago)
+* [2025/06/16 - 06/22 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-16-06-2s-open-source-report) (Published: 1 week ago)
 * [DurianPy - Apache Airflow Development Sprint](https://blog.wei-lee.me/posts/tech/2025/06/durianpy-apache-airflow-development-sprint) (Published: 1 week ago)
-* [2025/06/09 - 06/15 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-09-06-15-open-source-report) (Published: 1 week ago)
-* [Sony WH-1000 XM6 開箱](https://blog.wei-lee.me/posts/gossiping/2025/06/sony-wh-1000-xm6-unboxing) (Published: 2 weeks ago)
+* [2025/06/09 - 06/15 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-09-06-15-open-source-report) (Published: 2 weeks ago)
+* [Sony WH-1000 XM6 開箱](https://blog.wei-lee.me/posts/gossiping/2025/06/sony-wh-1000-xm6-unboxing) (Published: 3 weeks ago)
 * [2025/06/02 - 06/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-02-06-08-open-source-report) (Published: 3 weeks ago)
 
 ### Those things no one cares about
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#1538](https://github.com/commitizen-tools/commitizen/pull/1538) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#52206](https://github.com/apache/airflow/issues/52206#issuecomment-3016729154) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#171](https://github.com/pycontw/pycon-etl/pull/171) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. ❗ Opened issue [#170](https://github.com/pycontw/pycon-etl/issues/170) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. ❗ Opened issue [#169](https://github.com/pycontw/pycon-etl/issues/169) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-6. 🗣 Commented on [#154](https://github.com/pycontw/pycon-etl/issues/154#issuecomment-3015187560) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-7. 🔒 Closed issue [#154](https://github.com/pycontw/pycon-etl/issues/154) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-8. 🗣 Commented on [#52203](https://github.com/apache/airflow/issues/52203#issuecomment-3011084567) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#52094](https://github.com/apache/airflow/issues/52094#issuecomment-3006737822) in [apache/airflow](https://github.com/apache/airflow)
-10. ❌ Closed PR [#164](https://github.com/pycontw/pycon-etl/pull/164) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+1. 🗣 Commented on [#52094](https://github.com/apache/airflow/issues/52094#issuecomment-3017448785) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#1538](https://github.com/commitizen-tools/commitizen/pull/1538) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#52206](https://github.com/apache/airflow/issues/52206#issuecomment-3016729154) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#171](https://github.com/pycontw/pycon-etl/pull/171) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. ❗ Opened issue [#170](https://github.com/pycontw/pycon-etl/issues/170) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. ❗ Opened issue [#169](https://github.com/pycontw/pycon-etl/issues/169) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+7. 🗣 Commented on [#154](https://github.com/pycontw/pycon-etl/issues/154#issuecomment-3015187560) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+8. 🔒 Closed issue [#154](https://github.com/pycontw/pycon-etl/issues/154) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+9. 🗣 Commented on [#52203](https://github.com/apache/airflow/issues/52203#issuecomment-3011084567) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#52094](https://github.com/apache/airflow/issues/52094#issuecomment-3006737822) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
