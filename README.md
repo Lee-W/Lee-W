@@ -46,11 +46,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [AIP-90 - 圓環之理的人們](https://blog.wei-lee.me/posts/tech/2025/07/aip-90-human-in-the-loop) (Published: 2 days ago)
-* [2025/06/23 - 06/29 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-23-06-29-open-source-report) (Published: 5 days ago)
+* [2025/06/30 - 07/06 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-30-07-06-open-source-report) (Published: 1 day ago)
+* [AIP-90 - 圓環之理的人們](https://blog.wei-lee.me/posts/tech/2025/07/aip-90-human-in-the-loop) (Published: 3 days ago)
+* [2025/06/23 - 06/29 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-23-06-29-open-source-report) (Published: 6 days ago)
 * [2025/06/16 - 06/22 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-16-06-2s-open-source-report) (Published: 1 week ago)
 * [DurianPy - Apache Airflow Development Sprint](https://blog.wei-lee.me/posts/tech/2025/06/durianpy-apache-airflow-development-sprint) (Published: 2 weeks ago)
-* [2025/06/09 - 06/15 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-09-06-15-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#173](https://github.com/pycontw/pycon-etl/pull/173) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. 🗣 Commented on [#52746](https://github.com/apache/airflow/issues/52746#issuecomment-3038030809) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#172](https://github.com/pycontw/pycon-etl/pull/172#issuecomment-3038024866) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 💪 Opened PR [#172](https://github.com/pycontw/pycon-etl/pull/172) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 🗣 Commented on [#52868](https://github.com/apache/airflow/pull/52868#issuecomment-3037859108) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#52868](https://github.com/apache/airflow/pull/52868#issuecomment-3037857107) in [apache/airflow](https://github.com/apache/airflow)
-7. ❌ Closed PR [#51604](https://github.com/apache/airflow/pull/51604) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#52868](https://github.com/apache/airflow/pull/52868) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#52698](https://github.com/apache/airflow/pull/52698) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#52202](https://github.com/apache/airflow/issues/52202#issuecomment-3030384940) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#1542](https://github.com/commitizen-tools/commitizen/pull/1542) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#1556](https://github.com/commitizen-tools/commitizen/pull/1556#issuecomment-3041391745) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🎉 Merged PR [#51794](https://github.com/apache/airflow/pull/51794) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#173](https://github.com/pycontw/pycon-etl/pull/173#issuecomment-3040551574) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 💪 Opened PR [#173](https://github.com/pycontw/pycon-etl/pull/173) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🗣 Commented on [#52746](https://github.com/apache/airflow/issues/52746#issuecomment-3038030809) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#172](https://github.com/pycontw/pycon-etl/pull/172#issuecomment-3038024866) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+8. 💪 Opened PR [#172](https://github.com/pycontw/pycon-etl/pull/172) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+9. 🗣 Commented on [#52868](https://github.com/apache/airflow/pull/52868#issuecomment-3037859108) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#52868](https://github.com/apache/airflow/pull/52868#issuecomment-3037857107) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
