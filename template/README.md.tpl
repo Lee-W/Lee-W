@@ -18,7 +18,6 @@ I enjoy automating tedious tasks and creating high-quality code. Enjoy participa
 
 I share my technical notes, book digests, and occasional thoughts on my main blog [Those aren't written down are meant to be forgotten](https://blog.wei-lee.me/). If you're interested in topics such as cooking, anime, and travel, I chat about those things on [Those things no one cares about](https://travlog.wei-lee.me/).
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109323826846876448)
 
 ---
 
@@ -33,6 +32,7 @@ You can find me through
   <a href="https://github.com/Lee-W/" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/mastodon/follow/109323826846876448?domain=mtd.pythonasia.org" />
 </p>
 
 ---
