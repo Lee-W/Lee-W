@@ -46,16 +46,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/06/30 - 07/06 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-30-07-06-open-source-report) (Published: 6 days ago)
+* [2025/06/30 - 07/06 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-30-07-06-open-source-report) (Published: 1 week ago)
 * [AIP-90 - 圓環之理的人們](https://blog.wei-lee.me/posts/tech/2025/07/aip-90-human-in-the-loop) (Published: 1 week ago)
 * [2025/06/23 - 06/29 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-23-06-29-open-source-report) (Published: 1 week ago)
 * [2025/06/16 - 06/22 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-16-06-2s-open-source-report) (Published: 2 weeks ago)
-* [DurianPy - Apache Airflow Development Sprint](https://blog.wei-lee.me/posts/tech/2025/06/durianpy-apache-airflow-development-sprint) (Published: 2 weeks ago)
+* [DurianPy - Apache Airflow Development Sprint](https://blog.wei-lee.me/posts/tech/2025/06/durianpy-apache-airflow-development-sprint) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 1 month ago)
- * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 1 month ago)
+ * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 2 months ago)
  * [學姊是男孩劇場版：雨後天晴](https://travlog.wei-lee.me/posts/review/2025/05/senpai-wa-odokonoko-movie) (Published: 2 months ago)
  * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 3 months ago)
  * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 3 months ago)
