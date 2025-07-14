@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#53184](https://github.com/apache/airflow/pull/53184) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#53183](https://github.com/apache/airflow/pull/53183) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#52203](https://github.com/apache/airflow/issues/52203#issuecomment-3062328810) in [apache/airflow](https://github.com/apache/airflow)
-4. 🔒 Closed issue [#52203](https://github.com/apache/airflow/issues/52203) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#52202](https://github.com/apache/airflow/issues/52202#issuecomment-3061707728) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#52206](https://github.com/apache/airflow/issues/52206#issuecomment-3061701533) in [apache/airflow](https://github.com/apache/airflow)
-7. ❗ Opened issue [#53178](https://github.com/apache/airflow/issues/53178) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#52094](https://github.com/apache/airflow/issues/52094#issuecomment-3061654056) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#52203](https://github.com/apache/airflow/issues/52203#issuecomment-3061643053) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#174](https://github.com/pycontw/pycon-etl/pull/174) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+1. ❗ Opened issue [#177](https://github.com/pycontw/pycon-etl/issues/177) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+2. ❗ Opened issue [#176](https://github.com/pycontw/pycon-etl/issues/176) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+3. 🎉 Merged PR [#175](https://github.com/pycontw/pycon-etl/pull/175) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+4. 💪 Opened PR [#175](https://github.com/pycontw/pycon-etl/pull/175) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 💪 Opened PR [#1437](https://github.com/EuroPython/website/pull/1437) in [EuroPython/website](https://github.com/EuroPython/website)
+6. 🎉 Merged PR [#173](https://github.com/pycontw/pycon-etl/pull/173) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+7. 🎉 Merged PR [#174](https://github.com/pycontw/pycon-etl/pull/174) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+8. 🗣 Commented on [#174](https://github.com/pycontw/pycon-etl/pull/174#issuecomment-3066680477) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+9. 🗣 Commented on [#52349](https://github.com/apache/airflow/issues/52349#issuecomment-3066647749) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#1558](https://github.com/commitizen-tools/commitizen/pull/1558) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
