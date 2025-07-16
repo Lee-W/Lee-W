@@ -58,20 +58,20 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 2 months ago)
  * [學姊是男孩劇場版：雨後天晴](https://travlog.wei-lee.me/posts/review/2025/05/senpai-wa-odokonoko-movie) (Published: 2 months ago)
  * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 3 months ago)
- * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 3 months ago)
+ * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 4 months ago)
 
 ## 🖥️ Recently working on
 
-1. ❗ Opened issue [#177](https://github.com/pycontw/pycon-etl/issues/177) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. ❗ Opened issue [#176](https://github.com/pycontw/pycon-etl/issues/176) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-3. 🎉 Merged PR [#175](https://github.com/pycontw/pycon-etl/pull/175) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 💪 Opened PR [#175](https://github.com/pycontw/pycon-etl/pull/175) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 💪 Opened PR [#1437](https://github.com/EuroPython/website/pull/1437) in [EuroPython/website](https://github.com/EuroPython/website)
-6. 🎉 Merged PR [#173](https://github.com/pycontw/pycon-etl/pull/173) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-7. 🎉 Merged PR [#174](https://github.com/pycontw/pycon-etl/pull/174) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-8. 🗣 Commented on [#174](https://github.com/pycontw/pycon-etl/pull/174#issuecomment-3066680477) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-9. 🗣 Commented on [#52349](https://github.com/apache/airflow/issues/52349#issuecomment-3066647749) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#1558](https://github.com/commitizen-tools/commitizen/pull/1558) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#53376](https://github.com/apache/airflow/pull/53376#issuecomment-3074479744) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#52349](https://github.com/apache/airflow/issues/52349#issuecomment-3074475783) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#53376](https://github.com/apache/airflow/pull/53376) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#53373](https://github.com/apache/airflow/pull/53373#issuecomment-3074468615) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#1561](https://github.com/commitizen-tools/commitizen/pull/1561) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#1561](https://github.com/commitizen-tools/commitizen/pull/1561#issuecomment-3074393811) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 💪 Opened PR [#1561](https://github.com/commitizen-tools/commitizen/pull/1561) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 💪 Opened PR [#53360](https://github.com/apache/airflow/pull/53360) in [apache/airflow](https://github.com/apache/airflow)
+9. ❗ Opened issue [#177](https://github.com/pycontw/pycon-etl/issues/177) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+10. ❗ Opened issue [#176](https://github.com/pycontw/pycon-etl/issues/176) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
 
 
 ## ⭐ GitHub Stat
