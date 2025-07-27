@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/06/30 - 07/06 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-30-07-06-open-source-report) (Published: 2 weeks ago)
+* [2025/06/30 - 07/06 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-30-07-06-open-source-report) (Published: 3 weeks ago)
 * [AIP-90 - 圓環之理的人們](https://blog.wei-lee.me/posts/tech/2025/07/aip-90-human-in-the-loop) (Published: 3 weeks ago)
 * [2025/06/23 - 06/29 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-23-06-29-open-source-report) (Published: 3 weeks ago)
 * [2025/06/16 - 06/22 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/06/2025-06-16-06-2s-open-source-report) (Published: 1 month ago)
