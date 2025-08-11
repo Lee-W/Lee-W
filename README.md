@@ -46,8 +46,8 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Achieve 400 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2025/08/achieve-400-contributions-in-apache-airflow) (Published: 3 days ago)
-* [住手啊，這樣用 Python 寫程式沒有人會獲得幸福的](https://blog.wei-lee.me/posts/tech/2025/08/stop-it-dont-use-python-like-this) (Published: 4 days ago)
+* [Achieve 400 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2025/08/achieve-400-contributions-in-apache-airflow) (Published: 4 days ago)
+* [住手啊，這樣用 Python 寫程式沒有人會獲得幸福的](https://blog.wei-lee.me/posts/tech/2025/08/stop-it-dont-use-python-like-this) (Published: 5 days ago)
 * [EuroPython 2025 Airflow Development Sprint](https://blog.wei-lee.me/posts/tech/2025/08/europython-2025-airflow-development-sprint) (Published: 1 week ago)
 * [2025/06/30 - 07/06 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-30-07-06-open-source-report) (Published: 1 month ago)
 * [AIP-90 - 圓環之理的人們](https://blog.wei-lee.me/posts/tech/2025/07/aip-90-human-in-the-loop) (Published: 1 month ago)
