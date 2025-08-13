@@ -46,11 +46,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Achieve 400 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2025/08/achieve-400-contributions-in-apache-airflow) (Published: 5 days ago)
-* [住手啊，這樣用 Python 寫程式沒有人會獲得幸福的](https://blog.wei-lee.me/posts/tech/2025/08/stop-it-dont-use-python-like-this) (Published: 6 days ago)
+* [2025/08/04 - 08/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-04-08-10-open-source-report) (Published: 1 day ago)
+* [Achieve 400 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2025/08/achieve-400-contributions-in-apache-airflow) (Published: 6 days ago)
+* [住手啊，這樣用 Python 寫程式沒有人會獲得幸福的](https://blog.wei-lee.me/posts/tech/2025/08/stop-it-dont-use-python-like-this) (Published: 1 week ago)
 * [EuroPython 2025 Airflow Development Sprint](https://blog.wei-lee.me/posts/tech/2025/08/europython-2025-airflow-development-sprint) (Published: 1 week ago)
 * [2025/06/30 - 07/06 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/07/2025-06-30-07-06-open-source-report) (Published: 1 month ago)
-* [AIP-90 - 圓環之理的人們](https://blog.wei-lee.me/posts/tech/2025/07/aip-90-human-in-the-loop) (Published: 1 month ago)
 
 ### Those things no one cares about
  
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1571](https://github.com/commitizen-tools/commitizen/issues/1571#issuecomment-3175108362) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 💪 Opened PR [#54355](https://github.com/apache/airflow/pull/54355) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#54105](https://github.com/apache/airflow/pull/54105#issuecomment-3174416463) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#54308](https://github.com/apache/airflow/pull/54308#issuecomment-3174410116) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#54298](https://github.com/apache/airflow/issues/54298#issuecomment-3174172200) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#54308](https://github.com/apache/airflow/pull/54308#issuecomment-3173927759) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#54222](https://github.com/apache/airflow/pull/54222#issuecomment-3173824752) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#54308](https://github.com/apache/airflow/pull/54308#issuecomment-3173437242) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#54298](https://github.com/apache/airflow/issues/54298#issuecomment-3173436285) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#54265](https://github.com/apache/airflow/issues/54265#issuecomment-3170245682) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#244](https://github.com/Lee-W/cookiecutter-python-template/pull/244) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+2. 🎉 Merged PR [#16](https://github.com/Lee-W/pelican-stat/pull/16) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+3. 🎉 Merged PR [#54347](https://github.com/apache/airflow/pull/54347) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#1571](https://github.com/commitizen-tools/commitizen/issues/1571#issuecomment-3175108362) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 💪 Opened PR [#54355](https://github.com/apache/airflow/pull/54355) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#54105](https://github.com/apache/airflow/pull/54105#issuecomment-3174416463) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#54308](https://github.com/apache/airflow/pull/54308#issuecomment-3174410116) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#54298](https://github.com/apache/airflow/issues/54298#issuecomment-3174172200) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#54308](https://github.com/apache/airflow/pull/54308#issuecomment-3173927759) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#54222](https://github.com/apache/airflow/pull/54222#issuecomment-3173824752) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
