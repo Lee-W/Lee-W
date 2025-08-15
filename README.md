@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/08/04 - 08/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-04-08-10-open-source-report) (Published: 2 days ago)
+* [2025/08/04 - 08/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-04-08-10-open-source-report) (Published: 3 days ago)
 * [Achieve 400 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2025/08/achieve-400-contributions-in-apache-airflow) (Published: 1 week ago)
 * [住手啊，這樣用 Python 寫程式沒有人會獲得幸福的](https://blog.wei-lee.me/posts/tech/2025/08/stop-it-dont-use-python-like-this) (Published: 1 week ago)
 * [EuroPython 2025 Airflow Development Sprint](https://blog.wei-lee.me/posts/tech/2025/08/europython-2025-airflow-development-sprint) (Published: 1 week ago)
@@ -58,7 +58,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 3 months ago)
  * [學姊是男孩劇場版：雨後天晴](https://travlog.wei-lee.me/posts/review/2025/05/senpai-wa-odokonoko-movie) (Published: 3 months ago)
  * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 4 months ago)
- * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 4 months ago)
+ * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 5 months ago)
 
 ## 🖥️ Recently working on
 
