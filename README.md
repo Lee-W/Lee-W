@@ -46,32 +46,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/08/11 - 08/17 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-11-08-17-open-source-report) (Published: 2 days ago)
-* [平平都是 joinedload](https://blog.wei-lee.me/posts/tech/2025/08/same-joinedload-but-not-the-same) (Published: 3 days ago)
+* [Airflow 的測試要用 unittest 風格還是 pytest 風格的 assert](https://blog.wei-lee.me/posts/tech/2025/08/consistent-test-assertion-style-pytest-native-vs-unittest-style) (Published: today)
+* [Airflow 3.1 RC 出來前，你各位要好好翻譯啊](https://blog.wei-lee.me/posts/tech/2025/08/complete-i18n-locales-for-airflow-3-1-RC) (Published: 1 day ago)
+* [2025/08/11 - 08/17 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-11-08-17-open-source-report) (Published: 3 days ago)
+* [平平都是 joinedload](https://blog.wei-lee.me/posts/tech/2025/08/same-joinedload-but-not-the-same) (Published: 4 days ago)
 * [2025/08/04 - 08/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-04-08-10-open-source-report) (Published: 1 week ago)
-* [Achieve 400 contributions in Apache Airflow](https://blog.wei-lee.me/posts/tech/2025/08/achieve-400-contributions-in-apache-airflow) (Published: 1 week ago)
-* [住手啊，這樣用 Python 寫程式沒有人會獲得幸福的](https://blog.wei-lee.me/posts/tech/2025/08/stop-it-dont-use-python-like-this) (Published: 1 week ago)
 
 ### Those things no one cares about
  
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 1 day ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 1 day ago)
+ * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 2 months ago)
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 2 months ago)
  * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 3 months ago)
- * [學姊是男孩劇場版：雨後天晴](https://travlog.wei-lee.me/posts/review/2025/05/senpai-wa-odokonoko-movie) (Published: 3 months ago)
- * [2024 秋季看什麼](https://travlog.wei-lee.me/posts/review/2025/04/what-i-watched-in-2024-fall) (Published: 4 months ago)
- * [地。-關於地球的運動-](https://travlog.wei-lee.me/posts/review/2025/03/chi-on-the-movements-of-the-earth) (Published: 5 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#53042](https://github.com/apache/airflow/issues/53042#issuecomment-3196088963) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#53907](https://github.com/apache/airflow/pull/53907#issuecomment-3196054884) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#53907](https://github.com/apache/airflow/pull/53907#issuecomment-3195701080) in [apache/airflow](https://github.com/apache/airflow)
-4. 🔒 Closed issue [#54016](https://github.com/apache/airflow/issues/54016) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#54308](https://github.com/apache/airflow/pull/54308) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#53907](https://github.com/apache/airflow/pull/53907#issuecomment-3195519001) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#54384](https://github.com/apache/airflow/pull/54384#issuecomment-3195510286) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#1537](https://github.com/commitizen-tools/commitizen/pull/1537) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#20](https://github.com/commitizen-tools/commitizen-docker-image/pull/20) in [commitizen-tools/commitizen-docker-image](https://github.com/commitizen-tools/commitizen-docker-image)
-10. 🗣 Commented on [#53907](https://github.com/apache/airflow/pull/53907#issuecomment-3194827149) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#54506](https://github.com/apache/airflow/issues/54506#issuecomment-3200993856) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#53042](https://github.com/apache/airflow/issues/53042#issuecomment-3196088963) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#53907](https://github.com/apache/airflow/pull/53907#issuecomment-3196054884) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#53907](https://github.com/apache/airflow/pull/53907#issuecomment-3195701080) in [apache/airflow](https://github.com/apache/airflow)
+5. 🔒 Closed issue [#54016](https://github.com/apache/airflow/issues/54016) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#54308](https://github.com/apache/airflow/pull/54308) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#53907](https://github.com/apache/airflow/pull/53907#issuecomment-3195519001) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#54384](https://github.com/apache/airflow/pull/54384#issuecomment-3195510286) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#1537](https://github.com/commitizen-tools/commitizen/pull/1537) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#20](https://github.com/commitizen-tools/commitizen-docker-image/pull/20) in [commitizen-tools/commitizen-docker-image](https://github.com/commitizen-tools/commitizen-docker-image)
 
 
 ## ⭐ GitHub Stat
