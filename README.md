@@ -46,32 +46,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [要不要用 uv.lock 取代 airflow 開發環境用的 constraints 檔](https://blog.wei-lee.me/posts/tech/2025/08/replace-constraints-with-uv-lock-mechanisms-for-dev-env-freeze) (Published: 2 days ago)
-* [Airflow 的測試要用 unittest 風格還是 pytest 風格的 assert](https://blog.wei-lee.me/posts/tech/2025/08/consistent-test-assertion-style-pytest-native-vs-unittest-style) (Published: 3 days ago)
-* [Airflow 3.1 RC 出來前，你各位要好好翻譯啊](https://blog.wei-lee.me/posts/tech/2025/08/complete-i18n-locales-for-airflow-3-1-RC) (Published: 4 days ago)
-* [2025/08/11 - 08/17 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-11-08-17-open-source-report) (Published: 6 days ago)
+* [要不要用 uv.lock 取代 airflow 開發環境用的 constraints 檔](https://blog.wei-lee.me/posts/tech/2025/08/replace-constraints-with-uv-lock-mechanisms-for-dev-env-freeze) (Published: 3 days ago)
+* [Airflow 的測試要用 unittest 風格還是 pytest 風格的 assert](https://blog.wei-lee.me/posts/tech/2025/08/consistent-test-assertion-style-pytest-native-vs-unittest-style) (Published: 4 days ago)
+* [Airflow 3.1 RC 出來前，你各位要好好翻譯啊](https://blog.wei-lee.me/posts/tech/2025/08/complete-i18n-locales-for-airflow-3-1-RC) (Published: 5 days ago)
+* [2025/08/11 - 08/17 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-11-08-17-open-source-report) (Published: 1 week ago)
 * [平平都是 joinedload](https://blog.wei-lee.me/posts/tech/2025/08/same-joinedload-but-not-the-same) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 4 days ago)
- * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 4 days ago)
- * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 2 months ago)
- * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 2 months ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 5 days ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 5 days ago)
+ * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 months ago)
+ * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 months ago)
  * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#54827](https://github.com/apache/airflow/pull/54827) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#54697](https://github.com/apache/airflow/issues/54697#issuecomment-3213872064) in [apache/airflow](https://github.com/apache/airflow)
-3. 🔒 Closed issue [#54697](https://github.com/apache/airflow/issues/54697) in [apache/airflow](https://github.com/apache/airflow)
-4. 🔒 Closed issue [#54694](https://github.com/apache/airflow/issues/54694) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#54767](https://github.com/apache/airflow/pull/54767) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#54773](https://github.com/apache/airflow/pull/54773) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#54429](https://github.com/apache/airflow/issues/54429#issuecomment-3209895080) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#54767](https://github.com/apache/airflow/pull/54767) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#54670](https://github.com/apache/airflow/pull/54670) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#43957](https://github.com/apache/airflow/issues/43957#issuecomment-3209259642) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#54783](https://github.com/apache/airflow/pull/54783#issuecomment-3217075776) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#54783](https://github.com/apache/airflow/pull/54783#issuecomment-3217063313) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#54783](https://github.com/apache/airflow/pull/54783#issuecomment-3216110523) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#54827](https://github.com/apache/airflow/pull/54827) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#54697](https://github.com/apache/airflow/issues/54697#issuecomment-3213872064) in [apache/airflow](https://github.com/apache/airflow)
+6. 🔒 Closed issue [#54697](https://github.com/apache/airflow/issues/54697) in [apache/airflow](https://github.com/apache/airflow)
+7. 🔒 Closed issue [#54694](https://github.com/apache/airflow/issues/54694) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#54767](https://github.com/apache/airflow/pull/54767) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#54773](https://github.com/apache/airflow/pull/54773) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#54429](https://github.com/apache/airflow/issues/54429#issuecomment-3209895080) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
