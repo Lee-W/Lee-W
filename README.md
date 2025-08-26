@@ -46,32 +46,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2022 年 7 月至今，你到底都做了什麼啊！](https://blog.wei-lee.me/posts/tech/2025/08/what-have-you-done-since-2022-07) (Published: 1 day ago)
-* [要不要用 uv.lock 取代 airflow 開發環境用的 constraints 檔](https://blog.wei-lee.me/posts/tech/2025/08/replace-constraints-with-uv-lock-mechanisms-for-dev-env-freeze) (Published: 4 days ago)
-* [Airflow 的測試要用 unittest 風格還是 pytest 風格的 assert](https://blog.wei-lee.me/posts/tech/2025/08/consistent-test-assertion-style-pytest-native-vs-unittest-style) (Published: 5 days ago)
-* [Airflow 3.1 RC 出來前，你各位要好好翻譯啊](https://blog.wei-lee.me/posts/tech/2025/08/complete-i18n-locales-for-airflow-3-1-RC) (Published: 6 days ago)
-* [2025/08/11 - 08/17 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-11-08-17-open-source-report) (Published: 1 week ago)
+* [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 1 day ago)
+* [2022 年 7 月至今，你到底都做了什麼啊！](https://blog.wei-lee.me/posts/tech/2025/08/what-have-you-done-since-2022-07) (Published: 2 days ago)
+* [要不要用 uv.lock 取代 airflow 開發環境用的 constraints 檔](https://blog.wei-lee.me/posts/tech/2025/08/replace-constraints-with-uv-lock-mechanisms-for-dev-env-freeze) (Published: 5 days ago)
+* [Airflow 的測試要用 unittest 風格還是 pytest 風格的 assert](https://blog.wei-lee.me/posts/tech/2025/08/consistent-test-assertion-style-pytest-native-vs-unittest-style) (Published: 6 days ago)
+* [Airflow 3.1 RC 出來前，你各位要好好翻譯啊](https://blog.wei-lee.me/posts/tech/2025/08/complete-i18n-locales-for-airflow-3-1-RC) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 6 days ago)
- * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 6 days ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 1 week ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 1 week ago)
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 months ago)
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 months ago)
  * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#54783](https://github.com/apache/airflow/pull/54783#issuecomment-3218047215) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#1574](https://github.com/commitizen-tools/commitizen/pull/1574#issuecomment-3218039058) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#692](https://github.com/commitizen-tools/commitizen/pull/692#issuecomment-3218037833) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. ❌ Closed PR [#692](https://github.com/commitizen-tools/commitizen/pull/692) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1044](https://github.com/commitizen-tools/commitizen/pull/1044#issuecomment-3218034856) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. ❌ Closed PR [#1044](https://github.com/commitizen-tools/commitizen/pull/1044) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#486](https://github.com/commitizen-tools/commitizen/pull/486#issuecomment-3218034339) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. ❌ Closed PR [#486](https://github.com/commitizen-tools/commitizen/pull/486) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. ❌ Closed PR [#649](https://github.com/commitizen-tools/commitizen/pull/649) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#648](https://github.com/commitizen-tools/commitizen/pull/648#issuecomment-3218033794) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#46843](https://github.com/apache/airflow/issues/46843#issuecomment-3220607760) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#46843](https://github.com/apache/airflow/issues/46843) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#46845](https://github.com/apache/airflow/issues/46845#issuecomment-3220607358) in [apache/airflow](https://github.com/apache/airflow)
+4. 🔒 Closed issue [#46845](https://github.com/apache/airflow/issues/46845) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#46842](https://github.com/apache/airflow/issues/46842#issuecomment-3220607060) in [apache/airflow](https://github.com/apache/airflow)
+6. 🔒 Closed issue [#46842](https://github.com/apache/airflow/issues/46842) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#20082](https://github.com/astral-sh/ruff/pull/20082) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+8. 🗣 Commented on [#54827](https://github.com/apache/airflow/pull/54827#issuecomment-3220560325) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#20081](https://github.com/astral-sh/ruff/pull/20081) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+10. 🗣 Commented on [#694](https://github.com/commitizen-tools/commitizen/issues/694#issuecomment-3220370724) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
