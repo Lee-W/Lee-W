@@ -46,10 +46,10 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 1 day ago)
-* [2022 年 7 月至今，你到底都做了什麼啊！](https://blog.wei-lee.me/posts/tech/2025/08/what-have-you-done-since-2022-07) (Published: 2 days ago)
-* [要不要用 uv.lock 取代 airflow 開發環境用的 constraints 檔](https://blog.wei-lee.me/posts/tech/2025/08/replace-constraints-with-uv-lock-mechanisms-for-dev-env-freeze) (Published: 5 days ago)
-* [Airflow 的測試要用 unittest 風格還是 pytest 風格的 assert](https://blog.wei-lee.me/posts/tech/2025/08/consistent-test-assertion-style-pytest-native-vs-unittest-style) (Published: 6 days ago)
+* [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 2 days ago)
+* [2022 年 7 月至今，你到底都做了什麼啊！](https://blog.wei-lee.me/posts/tech/2025/08/what-have-you-done-since-2022-07) (Published: 3 days ago)
+* [要不要用 uv.lock 取代 airflow 開發環境用的 constraints 檔](https://blog.wei-lee.me/posts/tech/2025/08/replace-constraints-with-uv-lock-mechanisms-for-dev-env-freeze) (Published: 6 days ago)
+* [Airflow 的測試要用 unittest 風格還是 pytest 風格的 assert](https://blog.wei-lee.me/posts/tech/2025/08/consistent-test-assertion-style-pytest-native-vs-unittest-style) (Published: 1 week ago)
 * [Airflow 3.1 RC 出來前，你各位要好好翻譯啊](https://blog.wei-lee.me/posts/tech/2025/08/complete-i18n-locales-for-airflow-3-1-RC) (Published: 1 week ago)
 
 ### Those things no one cares about
