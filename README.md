@@ -46,9 +46,9 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 2 days ago)
-* [2022 年 7 月至今，你到底都做了什麼啊！](https://blog.wei-lee.me/posts/tech/2025/08/what-have-you-done-since-2022-07) (Published: 3 days ago)
-* [要不要用 uv.lock 取代 airflow 開發環境用的 constraints 檔](https://blog.wei-lee.me/posts/tech/2025/08/replace-constraints-with-uv-lock-mechanisms-for-dev-env-freeze) (Published: 6 days ago)
+* [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 3 days ago)
+* [2022 年 7 月至今，你到底都做了什麼啊！](https://blog.wei-lee.me/posts/tech/2025/08/what-have-you-done-since-2022-07) (Published: 4 days ago)
+* [要不要用 uv.lock 取代 airflow 開發環境用的 constraints 檔](https://blog.wei-lee.me/posts/tech/2025/08/replace-constraints-with-uv-lock-mechanisms-for-dev-env-freeze) (Published: 1 week ago)
 * [Airflow 的測試要用 unittest 風格還是 pytest 風格的 assert](https://blog.wei-lee.me/posts/tech/2025/08/consistent-test-assertion-style-pytest-native-vs-unittest-style) (Published: 1 week ago)
 * [Airflow 3.1 RC 出來前，你各位要好好翻譯啊](https://blog.wei-lee.me/posts/tech/2025/08/complete-i18n-locales-for-airflow-3-1-RC) (Published: 1 week ago)
 
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#46843](https://github.com/apache/airflow/issues/46843#issuecomment-3220607760) in [apache/airflow](https://github.com/apache/airflow)
-2. 🔒 Closed issue [#46843](https://github.com/apache/airflow/issues/46843) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#46845](https://github.com/apache/airflow/issues/46845#issuecomment-3220607358) in [apache/airflow](https://github.com/apache/airflow)
-4. 🔒 Closed issue [#46845](https://github.com/apache/airflow/issues/46845) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#46842](https://github.com/apache/airflow/issues/46842#issuecomment-3220607060) in [apache/airflow](https://github.com/apache/airflow)
-6. 🔒 Closed issue [#46842](https://github.com/apache/airflow/issues/46842) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#20082](https://github.com/astral-sh/ruff/pull/20082) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-8. 🗣 Commented on [#54827](https://github.com/apache/airflow/pull/54827#issuecomment-3220560325) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#20081](https://github.com/astral-sh/ruff/pull/20081) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 🗣 Commented on [#694](https://github.com/commitizen-tools/commitizen/issues/694#issuecomment-3220370724) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🎉 Merged PR [#54975](https://github.com/apache/airflow/pull/54975) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#54696](https://github.com/apache/airflow/issues/54696) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#54827](https://github.com/apache/airflow/pull/54827) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#54827](https://github.com/apache/airflow/pull/54827#issuecomment-3227315889) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#54975](https://github.com/apache/airflow/pull/54975#issuecomment-3227305046) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#54975](https://github.com/apache/airflow/pull/54975) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#12](https://github.com/Lee-W/travlog/pull/12) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+8. 💪 Opened PR [#49](https://github.com/Lee-W/main-blog/pull/49) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+9. 💪 Opened PR [#12](https://github.com/Lee-W/travlog/pull/12) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+10. 🗣 Commented on [#54956](https://github.com/apache/airflow/issues/54956#issuecomment-3226415130) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
