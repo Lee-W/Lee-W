@@ -46,32 +46,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [JLPT N3](https://blog.wei-lee.me/posts/gossiping/2025/08/JLPT-N3) (Published: 2 days ago)
-* [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 5 days ago)
-* [2022 年 7 月至今，你到底都做了什麼啊！](https://blog.wei-lee.me/posts/tech/2025/08/what-have-you-done-since-2022-07) (Published: 6 days ago)
+* [JLPT N3](https://blog.wei-lee.me/posts/gossiping/2025/08/JLPT-N3) (Published: 3 days ago)
+* [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 6 days ago)
+* [2022 年 7 月至今，你到底都做了什麼啊！](https://blog.wei-lee.me/posts/tech/2025/08/what-have-you-done-since-2022-07) (Published: 1 week ago)
 * [要不要用 uv.lock 取代 airflow 開發環境用的 constraints 檔](https://blog.wei-lee.me/posts/tech/2025/08/replace-constraints-with-uv-lock-mechanisms-for-dev-env-freeze) (Published: 1 week ago)
 * [Airflow 的測試要用 unittest 風格還是 pytest 風格的 assert](https://blog.wei-lee.me/posts/tech/2025/08/consistent-test-assertion-style-pytest-native-vs-unittest-style) (Published: 1 week ago)
 
 ### Those things no one cares about
  
+ * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 1 day ago)
  * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 1 week ago)
  * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 1 week ago)
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 months ago)
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 months ago)
- * [劇場版 我與機器子](https://travlog.wei-lee.me/posts/review/2025/05/Boku-to-Roboko-Movie) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#55050](https://github.com/apache/airflow/pull/55050) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#1538](https://github.com/astronomer/airflow/pull/1538) in [astronomer/airflow](https://github.com/astronomer/airflow)
-3. 🗣 Commented on [#10052](https://github.com/zen-browser/desktop/issues/10052#issuecomment-3235513663) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 💪 Opened PR [#55022](https://github.com/apache/airflow/pull/55022) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#55019](https://github.com/apache/airflow/pull/55019) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#54975](https://github.com/apache/airflow/pull/54975) in [apache/airflow](https://github.com/apache/airflow)
-7. 🔒 Closed issue [#54696](https://github.com/apache/airflow/issues/54696) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#54827](https://github.com/apache/airflow/pull/54827) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#54827](https://github.com/apache/airflow/pull/54827#issuecomment-3227315889) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#54975](https://github.com/apache/airflow/pull/54975#issuecomment-3227305046) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#55098](https://github.com/apache/airflow/pull/55098) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#55096](https://github.com/apache/airflow/pull/55096#issuecomment-3239275442) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#55096](https://github.com/apache/airflow/pull/55096) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#1539](https://github.com/commitizen-tools/commitizen/pull/1539) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#186](https://github.com/pycontw/pycon-etl/pull/186#issuecomment-3238921616) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🎉 Merged PR [#185](https://github.com/pycontw/pycon-etl/pull/185) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+7. 🎉 Merged PR [#186](https://github.com/pycontw/pycon-etl/pull/186) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+8. 🔒 Closed issue [#54506](https://github.com/apache/airflow/issues/54506) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#54783](https://github.com/apache/airflow/pull/54783) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#186](https://github.com/pycontw/pycon-etl/pull/186#issuecomment-3238851495) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
 
 
 ## ⭐ GitHub Stat
