@@ -54,16 +54,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55050](https://github.com/apache/airflow/pull/55050) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#1538](https://github.com/astronomer/airflow/pull/1538) in [astronomer/airflow](https://github.com/astronomer/airflow)
-3. 🗣 Commented on [#10052](https://github.com/zen-browser/desktop/issues/10052#issuecomment-3235513663) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 💪 Opened PR [#55022](https://github.com/apache/airflow/pull/55022) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#55019](https://github.com/apache/airflow/pull/55019) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#54975](https://github.com/apache/airflow/pull/54975) in [apache/airflow](https://github.com/apache/airflow)
-7. 🔒 Closed issue [#54696](https://github.com/apache/airflow/issues/54696) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#54827](https://github.com/apache/airflow/pull/54827) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#54827](https://github.com/apache/airflow/pull/54827#issuecomment-3227315889) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#54975](https://github.com/apache/airflow/pull/54975#issuecomment-3227305046) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#55098](https://github.com/apache/airflow/pull/55098) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#55096](https://github.com/apache/airflow/pull/55096#issuecomment-3239275442) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#55096](https://github.com/apache/airflow/pull/55096) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#1539](https://github.com/commitizen-tools/commitizen/pull/1539) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#186](https://github.com/pycontw/pycon-etl/pull/186#issuecomment-3238921616) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🎉 Merged PR [#185](https://github.com/pycontw/pycon-etl/pull/185) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+7. 🎉 Merged PR [#186](https://github.com/pycontw/pycon-etl/pull/186) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+8. 🔒 Closed issue [#54506](https://github.com/apache/airflow/issues/54506) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#54783](https://github.com/apache/airflow/pull/54783) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#186](https://github.com/pycontw/pycon-etl/pull/186#issuecomment-3238851495) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
