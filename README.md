@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [JLPT N3](https://blog.wei-lee.me/posts/gossiping/2025/08/JLPT-N3) (Published: 4 days ago)
+* [JLPT N3](https://blog.wei-lee.me/posts/gossiping/2025/08/JLPT-N3) (Published: 5 days ago)
 * [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 1 week ago)
 * [2022 年 7 月至今，你到底都做了什麼啊！](https://blog.wei-lee.me/posts/tech/2025/08/what-have-you-done-since-2022-07) (Published: 1 week ago)
 * [要不要用 uv.lock 取代 airflow 開發環境用的 constraints 檔](https://blog.wei-lee.me/posts/tech/2025/08/replace-constraints-with-uv-lock-mechanisms-for-dev-env-freeze) (Published: 1 week ago)
@@ -54,24 +54,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 2 days ago)
- * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 1 week ago)
- * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 1 week ago)
- * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 months ago)
+ * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 1 day ago)
+ * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 3 days ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 2 weeks ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 2 weeks ago)
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#55119](https://github.com/apache/airflow/pull/55119#issuecomment-3240597333) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#55119](https://github.com/apache/airflow/pull/55119#issuecomment-3240591984) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#20173](https://github.com/astral-sh/ruff/pull/20173) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 💪 Opened PR [#20172](https://github.com/astral-sh/ruff/pull/20172) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 💪 Opened PR [#55098](https://github.com/apache/airflow/pull/55098) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#55096](https://github.com/apache/airflow/pull/55096#issuecomment-3239275442) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#55096](https://github.com/apache/airflow/pull/55096) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#1539](https://github.com/commitizen-tools/commitizen/pull/1539) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#186](https://github.com/pycontw/pycon-etl/pull/186#issuecomment-3238921616) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-10. 🎉 Merged PR [#185](https://github.com/pycontw/pycon-etl/pull/185) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+1. 🎉 Merged PR [#55093](https://github.com/apache/airflow/pull/55093) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#55054](https://github.com/apache/airflow/issues/55054#issuecomment-3241919549) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#46730](https://github.com/apache/airflow/issues/46730#issuecomment-3241914568) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#55022](https://github.com/apache/airflow/pull/55022) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#55022](https://github.com/apache/airflow/pull/55022#issuecomment-3241597984) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#55053](https://github.com/apache/airflow/issues/55053#issuecomment-3241529010) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#46730](https://github.com/apache/airflow/issues/46730#issuecomment-3241491352) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#55119](https://github.com/apache/airflow/pull/55119#issuecomment-3241484499) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#55041](https://github.com/apache/airflow/pull/55041#issuecomment-3241030072) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#55119](https://github.com/apache/airflow/pull/55119#issuecomment-3241017148) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
