@@ -46,15 +46,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [貢獻 CPython 101](https://blog.wei-lee.me/posts/tech/2025/09/contribute-to-cpython-your-first-step) (Published: 2 days ago)
-* [DAG 即將從 Airflow 移除](https://blog.wei-lee.me/posts/tech/2025/09/removing-DAG-from-airflow) (Published: 2 days ago)
-* [2025/08/25 - 08/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/09/2025-08-25-08-31-open-source-report) (Published: 3 days ago)
+* [貢獻 CPython 101](https://blog.wei-lee.me/posts/tech/2025/09/contribute-to-cpython-your-first-step) (Published: 3 days ago)
+* [DAG 即將從 Airflow 移除](https://blog.wei-lee.me/posts/tech/2025/09/removing-DAG-from-airflow) (Published: 3 days ago)
+* [2025/08/25 - 08/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/09/2025-08-25-08-31-open-source-report) (Published: 4 days ago)
 * [JLPT N3](https://blog.wei-lee.me/posts/gossiping/2025/08/JLPT-N3) (Published: 1 week ago)
 * [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 5 days ago)
+ * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 6 days ago)
  * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 1 week ago)
  * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 2 weeks ago)
  * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 2 weeks ago)
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1586](https://github.com/commitizen-tools/commitizen/issues/1586#issuecomment-3258883329) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#1582](https://github.com/commitizen-tools/commitizen/pull/1582#issuecomment-3258859903) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 💪 Opened PR [#55260](https://github.com/apache/airflow/pull/55260) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#55255](https://github.com/apache/airflow/pull/55255) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#20173](https://github.com/astral-sh/ruff/pull/20173#issuecomment-3252896873) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-6. 🎉 Merged PR [#55217](https://github.com/apache/airflow/pull/55217) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#20173](https://github.com/astral-sh/ruff/pull/20173#issuecomment-3249304793) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-8. 💪 Opened PR [#55217](https://github.com/apache/airflow/pull/55217) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#20173](https://github.com/astral-sh/ruff/pull/20173#issuecomment-3249244847) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 🗣 Commented on [#54568](https://github.com/apache/airflow/pull/54568#issuecomment-3248430776) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#59518](https://github.com/python/cpython/issues/59518#issuecomment-3261297703) in [python/cpython](https://github.com/python/cpython)
+2. 🗣 Commented on [#1586](https://github.com/commitizen-tools/commitizen/issues/1586#issuecomment-3258883329) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#1582](https://github.com/commitizen-tools/commitizen/pull/1582#issuecomment-3258859903) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 💪 Opened PR [#55260](https://github.com/apache/airflow/pull/55260) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#55255](https://github.com/apache/airflow/pull/55255) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#20173](https://github.com/astral-sh/ruff/pull/20173#issuecomment-3252896873) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+7. 🎉 Merged PR [#55217](https://github.com/apache/airflow/pull/55217) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#20173](https://github.com/astral-sh/ruff/pull/20173#issuecomment-3249304793) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+9. 💪 Opened PR [#55217](https://github.com/apache/airflow/pull/55217) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#20173](https://github.com/astral-sh/ruff/pull/20173#issuecomment-3249244847) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 
 ## ⭐ GitHub Stat
