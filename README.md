@@ -46,9 +46,9 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [貢獻 CPython 101](https://blog.wei-lee.me/posts/tech/2025/09/contribute-to-cpython-your-first-step) (Published: 4 days ago)
-* [DAG 即將從 Airflow 移除](https://blog.wei-lee.me/posts/tech/2025/09/removing-DAG-from-airflow) (Published: 4 days ago)
-* [2025/08/25 - 08/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/09/2025-08-25-08-31-open-source-report) (Published: 5 days ago)
+* [貢獻 CPython 101](https://blog.wei-lee.me/posts/tech/2025/09/contribute-to-cpython-your-first-step) (Published: 5 days ago)
+* [DAG 即將從 Airflow 移除](https://blog.wei-lee.me/posts/tech/2025/09/removing-DAG-from-airflow) (Published: 5 days ago)
+* [2025/08/25 - 08/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/09/2025-08-25-08-31-open-source-report) (Published: 6 days ago)
 * [JLPT N3](https://blog.wei-lee.me/posts/gossiping/2025/08/JLPT-N3) (Published: 1 week ago)
 * [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 2 weeks ago)
 
@@ -56,8 +56,8 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  
  * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 1 week ago)
  * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 1 week ago)
- * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 2 weeks ago)
- * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 2 weeks ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 3 weeks ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 3 weeks ago)
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
