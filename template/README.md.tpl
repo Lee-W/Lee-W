@@ -54,16 +54,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/commitizen-tools/commitizen-docker-image/pull/21) in [commitizen-tools/commitizen-docker-image](https://github.com/commitizen-tools/commitizen-docker-image)
-2. 🗣 Commented on [#138625](https://github.com/python/cpython/pull/138625#issuecomment-3263892994) in [python/cpython](https://github.com/python/cpython)
-3. ❌ Closed PR [#138625](https://github.com/python/cpython/pull/138625) in [python/cpython](https://github.com/python/cpython)
-4. 💪 Opened PR [#138625](https://github.com/python/cpython/pull/138625) in [python/cpython](https://github.com/python/cpython)
-5. 🗣 Commented on [#59518](https://github.com/python/cpython/issues/59518#issuecomment-3261297703) in [python/cpython](https://github.com/python/cpython)
-6. 🗣 Commented on [#1586](https://github.com/commitizen-tools/commitizen/issues/1586#issuecomment-3258883329) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#1582](https://github.com/commitizen-tools/commitizen/pull/1582#issuecomment-3258859903) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 💪 Opened PR [#55260](https://github.com/apache/airflow/pull/55260) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#55255](https://github.com/apache/airflow/pull/55255) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#20173](https://github.com/astral-sh/ruff/pull/20173#issuecomment-3252896873) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 💪 Opened PR [#55420](https://github.com/apache/airflow/pull/55420) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#55416](https://github.com/apache/airflow/pull/55416) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#1548](https://github.com/commitizen-tools/commitizen/pull/1548#issuecomment-3270978059) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. ❌ Reopened PR [#1548](https://github.com/commitizen-tools/commitizen/pull/1548) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#1591](https://github.com/commitizen-tools/commitizen/pull/1591#issuecomment-3270971143) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#1576](https://github.com/commitizen-tools/commitizen/pull/1576#issuecomment-3270968628) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🎉 Merged PR [#21](https://github.com/commitizen-tools/commitizen-docker-image/pull/21) in [commitizen-tools/commitizen-docker-image](https://github.com/commitizen-tools/commitizen-docker-image)
+8. 🗣 Commented on [#138625](https://github.com/python/cpython/pull/138625#issuecomment-3263892994) in [python/cpython](https://github.com/python/cpython)
+9. ❌ Closed PR [#138625](https://github.com/python/cpython/pull/138625) in [python/cpython](https://github.com/python/cpython)
+10. 💪 Opened PR [#138625](https://github.com/python/cpython/pull/138625) in [python/cpython](https://github.com/python/cpython)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
