@@ -46,10 +46,10 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [貢獻 CPython 101](https://blog.wei-lee.me/posts/tech/2025/09/contribute-to-cpython-your-first-step) (Published: 6 days ago)
-* [DAG 即將從 Airflow 移除](https://blog.wei-lee.me/posts/tech/2025/09/removing-DAG-from-airflow) (Published: 6 days ago)
+* [貢獻 CPython 101](https://blog.wei-lee.me/posts/tech/2025/09/contribute-to-cpython-your-first-step) (Published: 1 week ago)
+* [DAG 即將從 Airflow 移除](https://blog.wei-lee.me/posts/tech/2025/09/removing-DAG-from-airflow) (Published: 1 week ago)
 * [2025/08/25 - 08/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/09/2025-08-25-08-31-open-source-report) (Published: 1 week ago)
-* [JLPT N3](https://blog.wei-lee.me/posts/gossiping/2025/08/JLPT-N3) (Published: 1 week ago)
+* [JLPT N3](https://blog.wei-lee.me/posts/gossiping/2025/08/JLPT-N3) (Published: 2 weeks ago)
 * [2025/08/18 - 08/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/08/2025-08-18-08-24-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#55420](https://github.com/apache/airflow/pull/55420) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#55416](https://github.com/apache/airflow/pull/55416) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#1548](https://github.com/commitizen-tools/commitizen/pull/1548#issuecomment-3270978059) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. ❌ Reopened PR [#1548](https://github.com/commitizen-tools/commitizen/pull/1548) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1591](https://github.com/commitizen-tools/commitizen/pull/1591#issuecomment-3270971143) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#1576](https://github.com/commitizen-tools/commitizen/pull/1576#issuecomment-3270968628) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🎉 Merged PR [#21](https://github.com/commitizen-tools/commitizen-docker-image/pull/21) in [commitizen-tools/commitizen-docker-image](https://github.com/commitizen-tools/commitizen-docker-image)
-8. 🗣 Commented on [#138625](https://github.com/python/cpython/pull/138625#issuecomment-3263892994) in [python/cpython](https://github.com/python/cpython)
-9. ❌ Closed PR [#138625](https://github.com/python/cpython/pull/138625) in [python/cpython](https://github.com/python/cpython)
-10. 💪 Opened PR [#138625](https://github.com/python/cpython/pull/138625) in [python/cpython](https://github.com/python/cpython)
+1. 💪 Opened PR [#55472](https://github.com/apache/airflow/pull/55472) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#55463](https://github.com/apache/airflow/pull/55463) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#55428](https://github.com/apache/airflow/pull/55428) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#55420](https://github.com/apache/airflow/pull/55420) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#55416](https://github.com/apache/airflow/pull/55416) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#1548](https://github.com/commitizen-tools/commitizen/pull/1548#issuecomment-3270978059) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. ❌ Reopened PR [#1548](https://github.com/commitizen-tools/commitizen/pull/1548) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#1591](https://github.com/commitizen-tools/commitizen/pull/1591#issuecomment-3270971143) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1576](https://github.com/commitizen-tools/commitizen/pull/1576#issuecomment-3270968628) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🎉 Merged PR [#21](https://github.com/commitizen-tools/commitizen-docker-image/pull/21) in [commitizen-tools/commitizen-docker-image](https://github.com/commitizen-tools/commitizen-docker-image)
 
 
 ## ⭐ GitHub Stat
