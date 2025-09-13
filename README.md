@@ -55,23 +55,23 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ### Those things no one cares about
  
  * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 1 week ago)
- * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 1 week ago)
+ * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 2 weeks ago)
  * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 3 weeks ago)
  * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 3 weeks ago)
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#55500](https://github.com/apache/airflow/pull/55500#issuecomment-3282629602) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#55539](https://github.com/apache/airflow/pull/55539) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#55536](https://github.com/apache/airflow/pull/55536) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#55535](https://github.com/apache/airflow/pull/55535) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#55534](https://github.com/apache/airflow/pull/55534) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#55463](https://github.com/apache/airflow/pull/55463) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#50182](https://github.com/apache/airflow/pull/50182#issuecomment-3282278100) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#55519](https://github.com/apache/airflow/pull/55519) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#55530](https://github.com/apache/airflow/pull/55530) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#55526](https://github.com/apache/airflow/issues/55526#issuecomment-3282178187) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#55536](https://github.com/apache/airflow/pull/55536) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#55509](https://github.com/apache/airflow/pull/55509#issuecomment-3282667834) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#55500](https://github.com/apache/airflow/pull/55500#issuecomment-3282629602) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#55539](https://github.com/apache/airflow/pull/55539) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#55536](https://github.com/apache/airflow/pull/55536) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#55535](https://github.com/apache/airflow/pull/55535) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#55534](https://github.com/apache/airflow/pull/55534) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#55463](https://github.com/apache/airflow/pull/55463) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#50182](https://github.com/apache/airflow/pull/50182#issuecomment-3282278100) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#55519](https://github.com/apache/airflow/pull/55519) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
