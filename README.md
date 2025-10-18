@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [雖然只有一下下，還是想愛木須龍一下](https://blog.wei-lee.me/posts/tech/2025/10/airflow-top-commit-count-moment) (Published: 4 days ago)
+* [雖然只有一下下，還是想愛木須龍一下](https://blog.wei-lee.me/posts/tech/2025/10/airflow-top-commit-count-moment) (Published: 5 days ago)
 * [貢獻 CPython 101](https://blog.wei-lee.me/posts/tech/2025/09/contribute-to-cpython-your-first-step) (Published: 1 month ago)
 * [DAG 即將從 Airflow 移除](https://blog.wei-lee.me/posts/tech/2025/09/removing-DAG-from-airflow) (Published: 1 month ago)
 * [2025/08/25 - 08/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/09/2025-08-25-08-31-open-source-report) (Published: 1 month ago)
@@ -56,22 +56,22 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  
  * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 1 month ago)
  * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 1 month ago)
- * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 1 month ago)
- * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 1 month ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 2 months ago)
+ * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 2 months ago)
  * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 4 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🔓 Reopened issue [#54956](https://github.com/apache/airflow/issues/54956) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#54956](https://github.com/apache/airflow/issues/54956#issuecomment-3405392635) in [apache/airflow](https://github.com/apache/airflow)
-3. 🔒 Closed issue [#54956](https://github.com/apache/airflow/issues/54956) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#42495](https://github.com/apache/airflow/issues/42495#issuecomment-3401127793) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#42495](https://github.com/apache/airflow/issues/42495#issuecomment-3401125996) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#55952](https://github.com/apache/airflow/pull/55952#issuecomment-3400687403) in [apache/airflow](https://github.com/apache/airflow)
-7. 🔒 Closed issue [#56401](https://github.com/apache/airflow/issues/56401) in [apache/airflow](https://github.com/apache/airflow)
-8.  Unlabeled issue [#56401](https://github.com/apache/airflow/issues/56401) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#56199](https://github.com/apache/airflow/issues/56199#issuecomment-3346399451) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#1626](https://github.com/commitizen-tools/commitizen/pull/1626) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1.  Assigned issue [#56763](https://github.com/apache/airflow/issues/56763) in [apache/airflow](https://github.com/apache/airflow)
+2.  Labeled issue [#56763](https://github.com/apache/airflow/issues/56763) in [apache/airflow](https://github.com/apache/airflow)
+3.  Unlabeled issue [#56763](https://github.com/apache/airflow/issues/56763) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#56760](https://github.com/apache/airflow/pull/56760#issuecomment-3414849606) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#56760](undefined) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#56759](undefined) in [apache/airflow](https://github.com/apache/airflow)
+7. 🔓 Reopened issue [#54956](https://github.com/apache/airflow/issues/54956) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#54956](https://github.com/apache/airflow/issues/54956#issuecomment-3405392635) in [apache/airflow](https://github.com/apache/airflow)
+9. 🔒 Closed issue [#54956](https://github.com/apache/airflow/issues/54956) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#42495](https://github.com/apache/airflow/issues/42495#issuecomment-3401127793) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
