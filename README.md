@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [雖然只有一下下，還是想愛木須龍一下](https://blog.wei-lee.me/posts/tech/2025/10/airflow-top-commit-count-moment) (Published: 6 days ago)
+* [雖然只有一下下，還是想愛木須龍一下](https://blog.wei-lee.me/posts/tech/2025/10/airflow-top-commit-count-moment) (Published: 1 week ago)
 * [貢獻 CPython 101](https://blog.wei-lee.me/posts/tech/2025/09/contribute-to-cpython-your-first-step) (Published: 1 month ago)
 * [DAG 即將從 Airflow 移除](https://blog.wei-lee.me/posts/tech/2025/09/removing-DAG-from-airflow) (Published: 1 month ago)
 * [2025/08/25 - 08/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/09/2025-08-25-08-31-open-source-report) (Published: 1 month ago)
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1.  Assigned issue [#56763](https://github.com/apache/airflow/issues/56763) in [apache/airflow](https://github.com/apache/airflow)
-2.  Labeled issue [#56763](https://github.com/apache/airflow/issues/56763) in [apache/airflow](https://github.com/apache/airflow)
-3.  Unlabeled issue [#56763](https://github.com/apache/airflow/issues/56763) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#56760](https://github.com/apache/airflow/pull/56760#issuecomment-3414849606) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#56760](undefined) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#56759](undefined) in [apache/airflow](https://github.com/apache/airflow)
-7. 🔓 Reopened issue [#54956](https://github.com/apache/airflow/issues/54956) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#54956](https://github.com/apache/airflow/issues/54956#issuecomment-3405392635) in [apache/airflow](https://github.com/apache/airflow)
-9. 🔒 Closed issue [#54956](https://github.com/apache/airflow/issues/54956) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#42495](https://github.com/apache/airflow/issues/42495#issuecomment-3401127793) in [apache/airflow](https://github.com/apache/airflow)
+1.  Assigned issue [#53051](https://github.com/apache/airflow/issues/53051) in [apache/airflow](https://github.com/apache/airflow)
+2.  Assigned issue [#56763](https://github.com/apache/airflow/issues/56763) in [apache/airflow](https://github.com/apache/airflow)
+3.  Labeled issue [#56763](https://github.com/apache/airflow/issues/56763) in [apache/airflow](https://github.com/apache/airflow)
+4.  Unlabeled issue [#56763](https://github.com/apache/airflow/issues/56763) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#56760](https://github.com/apache/airflow/pull/56760#issuecomment-3414849606) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#56760](undefined) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#56759](undefined) in [apache/airflow](https://github.com/apache/airflow)
+8. 🔓 Reopened issue [#54956](https://github.com/apache/airflow/issues/54956) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#54956](https://github.com/apache/airflow/issues/54956#issuecomment-3405392635) in [apache/airflow](https://github.com/apache/airflow)
+10. 🔒 Closed issue [#54956](https://github.com/apache/airflow/issues/54956) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
