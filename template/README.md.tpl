@@ -5,7 +5,7 @@ I'm a
 * 🐍 [Pythonista](https://pycon-note.wei-lee.me/)
 * 🐍 [PyCon Taiwan](https://tw.pycon.org/) organizer
 * [commitizen-tools](https://github.com/commitizen-tools) maintainer
-* [Apache Airflow](https://github.com/apache/airflow/) committer
+* [Apache Airflow](https://github.com/apache/airflow/) PMC member
 * `#apache-airflow` Mentor and Memebot Bot @ [OpenSource4You](https://github.com/opensource4you/)
 * [📷 Traveler](https://travlog.wei-lee.me/)
 * ⛺ Member of [台湾野クル▲](https://twitter.com/Taiwannokuru)
