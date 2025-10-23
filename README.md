@@ -46,11 +46,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
+* [2025/09/08 - 10/19 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/10/2025-09-08-10-19-open-source-report) (Published: 1 day ago)
 * [雖然只有一下下，還是想愛木須龍一下](https://blog.wei-lee.me/posts/tech/2025/10/airflow-top-commit-count-moment) (Published: 1 week ago)
 * [貢獻 CPython 101](https://blog.wei-lee.me/posts/tech/2025/09/contribute-to-cpython-your-first-step) (Published: 1 month ago)
 * [DAG 即將從 Airflow 移除](https://blog.wei-lee.me/posts/tech/2025/09/removing-DAG-from-airflow) (Published: 1 month ago)
 * [2025/08/25 - 08/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/09/2025-08-25-08-31-open-source-report) (Published: 1 month ago)
-* [JLPT N3](https://blog.wei-lee.me/posts/gossiping/2025/08/JLPT-N3) (Published: 1 month ago)
 
 ### Those things no one cares about
  
@@ -58,20 +58,20 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 1 month ago)
  * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 2 months ago)
  * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/star-wars-the-mandalorian-season-3) (Published: 2 months ago)
- * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 4 months ago)
+ * [Star Wars: The Mandalorian Season 3](https://travlog.wei-lee.me/posts/review/2025/05/star-wars-the-mandalorian-season-3) (Published: 5 months ago)
 
 ## 🖥️ Recently working on
 
-1.  Unlabeled issue [#56088](https://github.com/apache/airflow/issues/56088) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#56088](https://github.com/apache/airflow/issues/56088#issuecomment-3425648949) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#56938](https://github.com/apache/airflow/pull/56938#issuecomment-3425623369) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#56938](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#56937](undefined) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#56088](https://github.com/apache/airflow/issues/56088#issuecomment-3425506464) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#56924](https://github.com/apache/airflow/pull/56924#issuecomment-3425278227) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#56919](https://github.com/apache/airflow/pull/56919#issuecomment-3424398722) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#56919](undefined) in [apache/airflow](https://github.com/apache/airflow)
-10. ❌ Labeled PR [#56916](undefined) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#57033](https://github.com/apache/airflow/pull/57033#issuecomment-3431217796) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Unlabeled PR [#57033](undefined) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#57033](https://github.com/apache/airflow/pull/57033#issuecomment-3431215735) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#57035](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#57034](undefined) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#57033](undefined) in [apache/airflow](https://github.com/apache/airflow)
+7. 🔒 Closed issue [#52574](https://github.com/apache/airflow/issues/52574) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Labeled PR [#54568](undefined) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#57010](https://github.com/apache/airflow/pull/57010#issuecomment-3430345617) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#57010](https://github.com/apache/airflow/pull/57010#issuecomment-3430281313) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
