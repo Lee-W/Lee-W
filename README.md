@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/09/08 - 10/19 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/10/2025-09-08-10-19-open-source-report) (Published: 2 days ago)
+* [2025/09/08 - 10/19 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/10/2025-09-08-10-19-open-source-report) (Published: 3 days ago)
 * [雖然只有一下下，還是想愛木須龍一下](https://blog.wei-lee.me/posts/tech/2025/10/airflow-top-commit-count-moment) (Published: 1 week ago)
 * [貢獻 CPython 101](https://blog.wei-lee.me/posts/tech/2025/09/contribute-to-cpython-your-first-step) (Published: 1 month ago)
 * [DAG 即將從 Airflow 移除](https://blog.wei-lee.me/posts/tech/2025/09/removing-DAG-from-airflow) (Published: 1 month ago)
@@ -54,7 +54,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [劇場版 咒術迴戰 懷玉・玉折](https://travlog.wei-lee.me/posts/review/2025/10/jujutsu-kaisen-hidden-inventory-premature-death%E2%80%93the-movie) (Published: 1 day ago)
+ * [劇場版 咒術迴戰 懷玉・玉折](https://travlog.wei-lee.me/posts/review/2025/10/jujutsu-kaisen-hidden-inventory-premature-death%E2%80%93the-movie) (Published: 2 days ago)
  * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 1 month ago)
  * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 1 month ago)
  * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/re-0-season-3) (Published: 2 months ago)
@@ -62,16 +62,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#57148](undefined) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-3436263037) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 💪 Opened PR [#21043](undefined) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 🗣 Commented on [#57033](https://github.com/apache/airflow/pull/57033#issuecomment-3431217796) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Unlabeled PR [#57033](undefined) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#57033](https://github.com/apache/airflow/pull/57033#issuecomment-3431215735) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#57035](undefined) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#57034](undefined) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#57033](undefined) in [apache/airflow](https://github.com/apache/airflow)
-10. 🔒 Closed issue [#52574](https://github.com/apache/airflow/issues/52574) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#57148](https://github.com/apache/airflow/pull/57148#issuecomment-3440929963) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#57148](undefined) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-3436263037) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 💪 Opened PR [#21043](undefined) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+5. 🗣 Commented on [#57033](https://github.com/apache/airflow/pull/57033#issuecomment-3431217796) in [apache/airflow](https://github.com/apache/airflow)
+6. ❌ Unlabeled PR [#57033](undefined) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#57033](https://github.com/apache/airflow/pull/57033#issuecomment-3431215735) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#57035](undefined) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#57034](undefined) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#57033](undefined) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
