@@ -54,16 +54,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57148](https://github.com/apache/airflow/pull/57148#issuecomment-3440929963) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#57148](undefined) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-3436263037) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 💪 Opened PR [#21043](undefined) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. 🗣 Commented on [#57033](https://github.com/apache/airflow/pull/57033#issuecomment-3431217796) in [apache/airflow](https://github.com/apache/airflow)
-6. ❌ Unlabeled PR [#57033](undefined) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#57033](https://github.com/apache/airflow/pull/57033#issuecomment-3431215735) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#57035](undefined) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#57034](undefined) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#57033](undefined) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Closed PR [#57148](undefined) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-3445540301) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🗣 Commented on [#57148](https://github.com/apache/airflow/pull/57148#issuecomment-3440929963) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#57148](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#14626](https://github.com/astral-sh/ruff/issues/14626#issuecomment-3436263037) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+6. 💪 Opened PR [#21043](undefined) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+7. 🗣 Commented on [#57033](https://github.com/apache/airflow/pull/57033#issuecomment-3431217796) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Unlabeled PR [#57033](undefined) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#57033](https://github.com/apache/airflow/pull/57033#issuecomment-3431215735) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#57035](undefined) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
