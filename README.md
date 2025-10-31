@@ -46,32 +46,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [commitizen 首頁](https://blog.wei-lee.me/posts/tech/2025/10/commitizen-home-page) (Published: 4 days ago)
-* [成為 Airflow PMC Member](https://blog.wei-lee.me/posts/tech/2025/10/becoming-an-airflow-pmc-member) (Published: 5 days ago)
-* [ウォール・ローゼが突破された！](https://blog.wei-lee.me/posts/tech/2025/10/it-matters-revised) (Published: 5 days ago)
+* [commitizen 首頁](https://blog.wei-lee.me/posts/tech/2025/10/commitizen-home-page) (Published: 5 days ago)
+* [成為 Airflow PMC Member](https://blog.wei-lee.me/posts/tech/2025/10/becoming-an-airflow-pmc-member) (Published: 6 days ago)
+* [ウォール・ローゼが突破された！](https://blog.wei-lee.me/posts/tech/2025/10/it-matters-revised) (Published: 6 days ago)
 * [2025/09/08 - 10/19 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/10/2025-09-08-10-19-open-source-report) (Published: 1 week ago)
 * [雖然只有一下下，還是想愛木須龍一下](https://blog.wei-lee.me/posts/tech/2025/10/airflow-top-commit-count-moment) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 5 days ago)
+ * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 6 days ago)
  * [劇場版 咒術迴戰 懷玉・玉折](https://travlog.wei-lee.me/posts/review/2025/10/jujutsu-kaisen-hidden-inventory-premature-death%E2%80%93the-movie) (Published: 1 week ago)
- * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 1 month ago)
+ * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 2 months ago)
  * [塗鴉日記](https://travlog.wei-lee.me/posts/review/2025/08/kakukakujikajika) (Published: 2 months ago)
  * [Re:從零開始的異世界生活 第三季](https://travlog.wei-lee.me/posts/review/2025/08/re-0-season-3) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#57498](https://github.com/apache/airflow/issues/57498#issuecomment-3465620473) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#57350](https://github.com/apache/airflow/issues/57350#issuecomment-3465615749) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#57437](https://github.com/apache/airflow/issues/57437#issuecomment-3461289291) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#57474](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#21096](https://github.com/astral-sh/ruff/pull/21096#issuecomment-3459245532) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-6.  Assigned issue [#57437](https://github.com/apache/airflow/issues/57437) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#43176](https://github.com/apache/airflow/issues/43176#issuecomment-3455535232) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-3455517569) in [apache/airflow](https://github.com/apache/airflow)
-9. ❌ Labeled PR [#57352](undefined) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#57352](https://github.com/apache/airflow/pull/57352#issuecomment-3455078568) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#1639](https://github.com/commitizen-tools/commitizen/pull/1639#issuecomment-3467644978) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#57547](https://github.com/apache/airflow/pull/57547#issuecomment-3467581874) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#57547](undefined) in [apache/airflow](https://github.com/apache/airflow)
+4.  Unlabeled issue [#57350](https://github.com/apache/airflow/issues/57350) in [apache/airflow](https://github.com/apache/airflow)
+5.  Unlabeled issue [#57498](https://github.com/apache/airflow/issues/57498) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#57350](https://github.com/apache/airflow/issues/57350#issuecomment-3466971791) in [apache/airflow](https://github.com/apache/airflow)
+7. ❌ Labeled PR [#57474](undefined) in [apache/airflow](https://github.com/apache/airflow)
+8. 🔒 Closed issue [#48539](https://github.com/apache/airflow/issues/48539) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#48539](https://github.com/apache/airflow/issues/48539#issuecomment-3466635304) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#57498](https://github.com/apache/airflow/issues/57498#issuecomment-3465620473) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
