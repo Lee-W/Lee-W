@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [commitizen 首頁](https://blog.wei-lee.me/posts/tech/2025/10/commitizen-home-page) (Published: 6 days ago)
+* [commitizen 首頁](https://blog.wei-lee.me/posts/tech/2025/10/commitizen-home-page) (Published: 1 week ago)
 * [成為 Airflow PMC Member](https://blog.wei-lee.me/posts/tech/2025/10/becoming-an-airflow-pmc-member) (Published: 1 week ago)
 * [ウォール・ローゼが突破された！](https://blog.wei-lee.me/posts/tech/2025/10/it-matters-revised) (Published: 1 week ago)
 * [2025/09/08 - 10/19 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/10/2025-09-08-10-19-open-source-report) (Published: 1 week ago)
