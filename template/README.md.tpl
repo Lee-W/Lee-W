@@ -54,16 +54,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57808](https://github.com/apache/airflow/pull/57808#issuecomment-3491013475) in [apache/airflow](https://github.com/apache/airflow)
-2. ❌ Assigned PR [#57547](undefined) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#34206](https://github.com/apache/airflow/issues/34206#issuecomment-3489706938) in [apache/airflow](https://github.com/apache/airflow)
-4. 🔒 Closed issue [#34206](https://github.com/apache/airflow/issues/34206) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#56911](https://github.com/apache/airflow/pull/56911#issuecomment-3488794951) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#57710](https://github.com/apache/airflow/pull/57710#issuecomment-3485316608) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#57786](undefined) in [apache/airflow](https://github.com/apache/airflow)
-8. 🔒 Closed issue [#52730](https://github.com/apache/airflow/issues/52730) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#57360](https://github.com/apache/airflow/pull/57360#issuecomment-3483311928) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#57779](undefined) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Labeled PR [#57547](undefined) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#57911](https://github.com/apache/airflow/pull/57911#issuecomment-3494851702) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#57700](https://github.com/apache/airflow/pull/57700#issuecomment-3494833165) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#57911](https://github.com/apache/airflow/pull/57911#issuecomment-3494806990) in [apache/airflow](https://github.com/apache/airflow)
+5. ❌ Labeled PR [#57911](undefined) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#57886](https://github.com/apache/airflow/pull/57886#issuecomment-3494765959) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#57916](https://github.com/apache/airflow/pull/57916#issuecomment-3494758067) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Unlabeled PR [#57917](undefined) in [apache/airflow](https://github.com/apache/airflow)
+9. ❌ Labeled PR [#57917](undefined) in [apache/airflow](https://github.com/apache/airflow)
+10. ❌ Labeled PR [#57914](undefined) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
