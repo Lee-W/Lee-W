@@ -54,16 +54,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1.  Assigned issue [#58146](https://github.com/apache/airflow/issues/58146) in [apache/airflow](https://github.com/apache/airflow)
-2.  Unlabeled issue [#58146](https://github.com/apache/airflow/issues/58146) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#58146](https://github.com/apache/airflow/issues/58146#issuecomment-3514532150) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#58144](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Closed PR [#1644](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 💪 Opened PR [#58130](undefined) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#56451](https://github.com/apache/airflow/issues/56451#issuecomment-3509421153) in [apache/airflow](https://github.com/apache/airflow)
-8.  Unlabeled issue [#56451](https://github.com/apache/airflow/issues/56451) in [apache/airflow](https://github.com/apache/airflow)
-9.  Labeled issue [#56451](https://github.com/apache/airflow/issues/56451) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#58121](undefined) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#56451](https://github.com/apache/airflow/issues/56451#issuecomment-3516232838) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#58192](undefined) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#58130](https://github.com/apache/airflow/pull/58130#issuecomment-3515473516) in [apache/airflow](https://github.com/apache/airflow)
+4. ❌ Labeled PR [#58130](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#58182](undefined) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#57853](https://github.com/apache/airflow/pull/57853#issuecomment-3515357498) in [apache/airflow](https://github.com/apache/airflow)
+7. ❌ Labeled PR [#57853](undefined) in [apache/airflow](https://github.com/apache/airflow)
+8.  Labeled issue [#1640](https://github.com/commitizen-tools/commitizen/issues/1640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9.  Unlabeled issue [#1640](https://github.com/commitizen-tools/commitizen/issues/1640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1640](https://github.com/commitizen-tools/commitizen/issues/1640#issuecomment-3514644243) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
