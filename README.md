@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/11/03 - 11/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-03-11-09-open-source-report) (Published: 3 days ago)
+* [2025/11/03 - 11/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-03-11-09-open-source-report) (Published: 4 days ago)
 * [2025/10/27 - 11/2 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-10-27-11-02-open-source-report) (Published: 1 week ago)
 * [commitizen 首頁](https://blog.wei-lee.me/posts/tech/2025/10/commitizen-home-page) (Published: 2 weeks ago)
 * [成為 Airflow PMC Member](https://blog.wei-lee.me/posts/tech/2025/10/becoming-an-airflow-pmc-member) (Published: 2 weeks ago)
@@ -54,24 +54,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 1 day ago)
- * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 4 days ago)
+ * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 2 days ago)
+ * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 5 days ago)
  * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 2 weeks ago)
  * [劇場版 咒術迴戰 懷玉・玉折](https://travlog.wei-lee.me/posts/review/2025/10/jujutsu-kaisen-hidden-inventory-premature-death%E2%80%93the-movie) (Published: 2 weeks ago)
  * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1.  Assigned issue [#58146](https://github.com/apache/airflow/issues/58146) in [apache/airflow](https://github.com/apache/airflow)
-2.  Unlabeled issue [#58146](https://github.com/apache/airflow/issues/58146) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#58146](https://github.com/apache/airflow/issues/58146#issuecomment-3514532150) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#58144](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Closed PR [#1644](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 💪 Opened PR [#58130](undefined) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#56451](https://github.com/apache/airflow/issues/56451#issuecomment-3509421153) in [apache/airflow](https://github.com/apache/airflow)
-8.  Unlabeled issue [#56451](https://github.com/apache/airflow/issues/56451) in [apache/airflow](https://github.com/apache/airflow)
-9.  Labeled issue [#56451](https://github.com/apache/airflow/issues/56451) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#58121](undefined) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#56451](https://github.com/apache/airflow/issues/56451#issuecomment-3516232838) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#58192](undefined) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#58130](https://github.com/apache/airflow/pull/58130#issuecomment-3515473516) in [apache/airflow](https://github.com/apache/airflow)
+4. ❌ Labeled PR [#58130](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#58182](undefined) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#57853](https://github.com/apache/airflow/pull/57853#issuecomment-3515357498) in [apache/airflow](https://github.com/apache/airflow)
+7. ❌ Labeled PR [#57853](undefined) in [apache/airflow](https://github.com/apache/airflow)
+8.  Labeled issue [#1640](https://github.com/commitizen-tools/commitizen/issues/1640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9.  Unlabeled issue [#1640](https://github.com/commitizen-tools/commitizen/issues/1640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1640](https://github.com/commitizen-tools/commitizen/issues/1640#issuecomment-3514644243) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
