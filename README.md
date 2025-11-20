@@ -46,7 +46,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/11/10 - 11/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-10-11-16-open-source-report) (Published: 2 days ago)
+* [2025/11/10 - 11/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-10-11-16-open-source-report) (Published: 3 days ago)
 * [更新到 pytest 9.0.0 了，大家記得更新環境](https://blog.wei-lee.me/posts/tech/2025/11/pytest-9-upgrade) (Published: 1 week ago)
 * [2025/11/03 - 11/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-03-11-09-open-source-report) (Published: 1 week ago)
 * [2025/10/27 - 11/2 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-10-27-11-02-open-source-report) (Published: 2 weeks ago)
@@ -57,21 +57,21 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 1 week ago)
  * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 1 week ago)
  * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 3 weeks ago)
- * [劇場版 咒術迴戰 懷玉・玉折](https://travlog.wei-lee.me/posts/review/2025/10/jujutsu-kaisen-hidden-inventory-premature-death%E2%80%93the-movie) (Published: 3 weeks ago)
+ * [劇場版 咒術迴戰 懷玉・玉折](https://travlog.wei-lee.me/posts/review/2025/10/jujutsu-kaisen-hidden-inventory-premature-death%E2%80%93the-movie) (Published: 4 weeks ago)
  * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#56911](https://github.com/apache/airflow/pull/56911#issuecomment-3547165781) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#58419](undefined) in [apache/airflow](https://github.com/apache/airflow)
-3.  Assigned issue [#58290](https://github.com/apache/airflow/issues/58290) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#58290](https://github.com/apache/airflow/issues/58290#issuecomment-3544644585) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#58387](undefined) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#1649](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 💪 Opened PR [#1648](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 💪 Opened PR [#1647](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#103](https://github.com/commitizen-tools/commitizen-action/pull/103#issuecomment-3537362437) in [commitizen-tools/commitizen-action](https://github.com/commitizen-tools/commitizen-action)
-10. 🔒 Closed issue [#48400](https://github.com/apache/airflow/issues/48400) in [apache/airflow](https://github.com/apache/airflow)
+1. 🔒 Closed issue [#57545](https://github.com/apache/airflow/issues/57545) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Labeled PR [#58227](undefined) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#1659](https://github.com/commitizen-tools/commitizen/pull/1659#issuecomment-3555298825) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4.  Assigned issue [#1658](https://github.com/commitizen-tools/commitizen/issues/1658) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5.  Labeled issue [#1658](https://github.com/commitizen-tools/commitizen/issues/1658) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6.  Labeled issue [#1658](https://github.com/commitizen-tools/commitizen/issues/1658) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7.  Unlabeled issue [#1658](https://github.com/commitizen-tools/commitizen/issues/1658) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#54812](https://github.com/apache/airflow/pull/54812#issuecomment-3552468135) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#56911](https://github.com/apache/airflow/pull/56911#issuecomment-3552452090) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#58485](https://github.com/apache/airflow/pull/58485#issuecomment-3552445362) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
