@@ -32,7 +32,9 @@ You can find me through
   <a href="https://github.com/Lee-W/" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/mastodon/follow/109323826846876448?domain=mtd.pythonasia.org" />
+  <a href="https://mtd.pythonasia.org/@weilee" target="blank">
+    <img src="https://img.shields.io/mastodon/follow/109323826846876448?domain=mtd.pythonasia.org" />
+  </a>
 </p>
 
 ---
