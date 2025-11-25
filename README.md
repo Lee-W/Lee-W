@@ -52,7 +52,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 * [更新到 pytest 9.0.0 了，大家記得更新環境](https://blog.wei-lee.me/posts/tech/2025/11/pytest-9-upgrade) (Published: 1 week ago)
 * [2025/11/03 - 11/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-03-11-09-open-source-report) (Published: 2 weeks ago)
 * [2025/10/27 - 11/2 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-10-27-11-02-open-source-report) (Published: 3 weeks ago)
-* [commitizen 首頁](https://blog.wei-lee.me/posts/tech/2025/10/commitizen-home-page) (Published: 4 weeks ago)
+* [commitizen 首頁](https://blog.wei-lee.me/posts/tech/2025/10/commitizen-home-page) (Published: 1 month ago)
 
 ### Those things no one cares about
  
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1.  Labeled issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2.  Unlabeled issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3.  Labeled issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4.  Unlabeled issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#58615](undefined) in [apache/airflow](https://github.com/apache/airflow)
+2.  Labeled issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3.  Unlabeled issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4.  Labeled issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 5.  Unlabeled issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🔒 Closed issue [#39457](https://github.com/apache/airflow/issues/39457) in [apache/airflow](https://github.com/apache/airflow)
-7. ❌ Labeled PR [#58545](undefined) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#58545](https://github.com/apache/airflow/pull/58545#issuecomment-3561724524) in [apache/airflow](https://github.com/apache/airflow)
-9. ❌ Unlabeled PR [#1667](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. ❌ Labeled PR [#1667](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6.  Unlabeled issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🔒 Closed issue [#39457](https://github.com/apache/airflow/issues/39457) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Labeled PR [#58545](undefined) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#58545](https://github.com/apache/airflow/pull/58545#issuecomment-3561724524) in [apache/airflow](https://github.com/apache/airflow)
+10. ❌ Unlabeled PR [#1667](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
