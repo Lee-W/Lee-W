@@ -48,11 +48,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
+* [一個 PR 獎不夠，你有想過兩個嗎？](https://blog.wei-lee.me/posts/tech/2025/11/recommendation-for-addition-to-PR-awards) (Published: 1 day ago)
+* [2025/11/17 - 11/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-17-11-23-open-source-report) (Published: 5 days ago)
 * [2025/11/10 - 11/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-10-11-16-open-source-report) (Published: 1 week ago)
 * [更新到 pytest 9.0.0 了，大家記得更新環境](https://blog.wei-lee.me/posts/tech/2025/11/pytest-9-upgrade) (Published: 2 weeks ago)
-* [2025/11/03 - 11/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-03-11-09-open-source-report) (Published: 2 weeks ago)
-* [2025/10/27 - 11/2 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-10-27-11-02-open-source-report) (Published: 3 weeks ago)
-* [commitizen 首頁](https://blog.wei-lee.me/posts/tech/2025/10/commitizen-home-page) (Published: 1 month ago)
+* [2025/11/03 - 11/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-03-11-09-open-source-report) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. ❌ Closed PR [#58087](undefined) in [apache/airflow](https://github.com/apache/airflow)
-2. 🔒 Closed issue [#56451](https://github.com/apache/airflow/issues/56451) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#58769](undefined) in [apache/airflow](https://github.com/apache/airflow)
-4. ❌ Labeled PR [#58229](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#58385](https://github.com/apache/airflow/issues/58385#issuecomment-3585218365) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#58385](https://github.com/apache/airflow/issues/58385#issuecomment-3584703653) in [apache/airflow](https://github.com/apache/airflow)
-7. 🔒 Closed issue [#58762](https://github.com/apache/airflow/issues/58762) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#58615](https://github.com/apache/airflow/pull/58615#issuecomment-3584632668) in [apache/airflow](https://github.com/apache/airflow)
-9. ❌ Closed PR [#58758](undefined) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#58758](https://github.com/apache/airflow/pull/58758#issuecomment-3584514400) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#58740](https://github.com/apache/airflow/pull/58740#issuecomment-3588001183) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#54054](https://github.com/apache/airflow/pull/54054#issuecomment-3587984539) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#58800](undefined) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#58799](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5.  Assigned issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. 🗣 Commented on [#58763](https://github.com/apache/airflow/pull/58763#issuecomment-3587660476) in [apache/airflow](https://github.com/apache/airflow)
+7. ❌ Closed PR [#58087](undefined) in [apache/airflow](https://github.com/apache/airflow)
+8. 🔒 Closed issue [#56451](https://github.com/apache/airflow/issues/56451) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#58769](undefined) in [apache/airflow](https://github.com/apache/airflow)
+10. ❌ Labeled PR [#58229](undefined) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
