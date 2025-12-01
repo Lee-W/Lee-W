@@ -48,15 +48,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [一個 PR 獎不夠，你有想過兩個嗎？](https://blog.wei-lee.me/posts/tech/2025/11/recommendation-for-addition-to-PR-awards) (Published: 2 days ago)
-* [2025/11/17 - 11/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-17-11-23-open-source-report) (Published: 6 days ago)
-* [2025/11/10 - 11/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-10-11-16-open-source-report) (Published: 1 week ago)
+* [2025/11/24 - 11/30 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-24-11-30-open-source-report) (Published: 1 day ago)
+* [一個 PR 獎不夠，你有想過兩個嗎？](https://blog.wei-lee.me/posts/tech/2025/11/recommendation-for-addition-to-PR-awards) (Published: 3 days ago)
+* [2025/11/17 - 11/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-17-11-23-open-source-report) (Published: 1 week ago)
+* [2025/11/10 - 11/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-10-11-16-open-source-report) (Published: 2 weeks ago)
 * [更新到 pytest 9.0.0 了，大家記得更新環境](https://blog.wei-lee.me/posts/tech/2025/11/pytest-9-upgrade) (Published: 2 weeks ago)
-* [2025/11/03 - 11/09 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-03-11-09-open-source-report) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 2 weeks ago)
+ * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 3 weeks ago)
  * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 3 weeks ago)
  * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 1 month ago)
  * [劇場版 咒術迴戰 懷玉・玉折](https://travlog.wei-lee.me/posts/review/2025/10/jujutsu-kaisen-hidden-inventory-premature-death%E2%80%93the-movie) (Published: 1 month ago)
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🔒 Closed issue [#58648](https://github.com/apache/airflow/issues/58648) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#58740](https://github.com/apache/airflow/pull/58740#issuecomment-3588001183) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#54054](https://github.com/apache/airflow/pull/54054#issuecomment-3587984539) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#58800](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#58799](undefined) in [apache/airflow](https://github.com/apache/airflow)
-6.  Assigned issue [#1672](https://github.com/commitizen-tools/commitizen/issues/1672) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#58763](https://github.com/apache/airflow/pull/58763#issuecomment-3587660476) in [apache/airflow](https://github.com/apache/airflow)
-8. ❌ Closed PR [#58087](undefined) in [apache/airflow](https://github.com/apache/airflow)
-9. 🔒 Closed issue [#56451](https://github.com/apache/airflow/issues/56451) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#58769](undefined) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#1640](https://github.com/commitizen-tools/commitizen/issues/1640#issuecomment-3592327042) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🔒 Closed issue [#1640](https://github.com/commitizen-tools/commitizen/issues/1640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🔓 Reopened issue [#1640](https://github.com/commitizen-tools/commitizen/issues/1640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#1671](https://github.com/commitizen-tools/commitizen/pull/1671#issuecomment-3592324171) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#1671](https://github.com/commitizen-tools/commitizen/pull/1671#issuecomment-3592324011) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. ❌ Reopened PR [#1671](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7.  Labeled issue [#515](https://github.com/commitizen-tools/commitizen/issues/515) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 🗣 Commented on [#515](https://github.com/commitizen-tools/commitizen/issues/515#issuecomment-3592202443) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. ❌ Closed PR [#1671](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1671](https://github.com/commitizen-tools/commitizen/pull/1671#issuecomment-3592195455) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
