@@ -48,11 +48,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/11/24 - 11/30 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-24-11-30-open-source-report) (Published: 2 days ago)
-* [一個 PR 獎不夠，你有想過兩個嗎？](https://blog.wei-lee.me/posts/tech/2025/11/recommendation-for-addition-to-PR-awards) (Published: 4 days ago)
+* [2025/11/24 - 11/30 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-24-11-30-open-source-report) (Published: 3 days ago)
+* [一個 PR 獎不夠，你有想過兩個嗎？](https://blog.wei-lee.me/posts/tech/2025/11/recommendation-for-addition-to-PR-awards) (Published: 5 days ago)
 * [2025/11/17 - 11/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-17-11-23-open-source-report) (Published: 1 week ago)
 * [2025/11/10 - 11/16 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-10-11-16-open-source-report) (Published: 2 weeks ago)
-* [更新到 pytest 9.0.0 了，大家記得更新環境](https://blog.wei-lee.me/posts/tech/2025/11/pytest-9-upgrade) (Published: 2 weeks ago)
+* [更新到 pytest 9.0.0 了，大家記得更新環境](https://blog.wei-lee.me/posts/tech/2025/11/pytest-9-upgrade) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1236](https://github.com/commitizen-tools/commitizen/pull/1236#issuecomment-3596028689) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#58509](https://github.com/apache/airflow/issues/58509#issuecomment-3595460408) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#58509](https://github.com/apache/airflow/issues/58509#issuecomment-3594948200) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#1640](https://github.com/commitizen-tools/commitizen/issues/1640#issuecomment-3592327042) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🔒 Closed issue [#1640](https://github.com/commitizen-tools/commitizen/issues/1640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🔓 Reopened issue [#1640](https://github.com/commitizen-tools/commitizen/issues/1640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#1671](https://github.com/commitizen-tools/commitizen/pull/1671#issuecomment-3592324171) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#1671](https://github.com/commitizen-tools/commitizen/pull/1671#issuecomment-3592324011) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. ❌ Reopened PR [#1671](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10.  Labeled issue [#515](https://github.com/commitizen-tools/commitizen/issues/515) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 💪 Opened PR [#58945](undefined) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#57498](https://github.com/apache/airflow/issues/57498#issuecomment-3600891371) in [apache/airflow](https://github.com/apache/airflow)
+3. 🔒 Closed issue [#57498](https://github.com/apache/airflow/issues/57498) in [apache/airflow](https://github.com/apache/airflow)
+4.  Assigned issue [#58919](https://github.com/apache/airflow/issues/58919) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#58509](https://github.com/apache/airflow/issues/58509#issuecomment-3599928850) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#1236](https://github.com/commitizen-tools/commitizen/pull/1236#issuecomment-3596028689) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#58509](https://github.com/apache/airflow/issues/58509#issuecomment-3595460408) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#58509](https://github.com/apache/airflow/issues/58509#issuecomment-3594948200) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#1640](https://github.com/commitizen-tools/commitizen/issues/1640#issuecomment-3592327042) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🔒 Closed issue [#1640](https://github.com/commitizen-tools/commitizen/issues/1640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
