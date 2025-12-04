@@ -56,16 +56,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58945](undefined) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#57498](https://github.com/apache/airflow/issues/57498#issuecomment-3600891371) in [apache/airflow](https://github.com/apache/airflow)
-3. 🔒 Closed issue [#57498](https://github.com/apache/airflow/issues/57498) in [apache/airflow](https://github.com/apache/airflow)
-4.  Assigned issue [#58919](https://github.com/apache/airflow/issues/58919) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#58509](https://github.com/apache/airflow/issues/58509#issuecomment-3599928850) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#1236](https://github.com/commitizen-tools/commitizen/pull/1236#issuecomment-3596028689) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#58509](https://github.com/apache/airflow/issues/58509#issuecomment-3595460408) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#58509](https://github.com/apache/airflow/issues/58509#issuecomment-3594948200) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#1640](https://github.com/commitizen-tools/commitizen/issues/1640#issuecomment-3592327042) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🔒 Closed issue [#1640](https://github.com/commitizen-tools/commitizen/issues/1640) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ❌ Merged PR [#58988](undefined) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#58676](https://github.com/apache/airflow/issues/58676#issuecomment-3605033463) in [apache/airflow](https://github.com/apache/airflow)
+3. ❌ Labeled PR [#58988](undefined) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#58988](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5. ❌ Closed PR [#50](undefined) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+6. ❌ Closed PR [#47](undefined) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+7. ❌ Closed PR [#49](undefined) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+8. ❌ Closed PR [#45](undefined) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+9. ❌ Closed PR [#43](undefined) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+10. ❌ Closed PR [#42](undefined) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
