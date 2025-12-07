@@ -48,32 +48,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [觸發觸發器的元件，是不是該叫觸發觸發器器](https://blog.wei-lee.me/posts/tech/2025/12/airflow-triggerer-trigger-translation) (Published: 2 days ago)
-* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 3 days ago)
-* [2025/11/24 - 11/30 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-24-11-30-open-source-report) (Published: 6 days ago)
+* [觸發觸發器的元件，是不是該叫觸發觸發器器](https://blog.wei-lee.me/posts/tech/2025/12/airflow-triggerer-trigger-translation) (Published: 3 days ago)
+* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 4 days ago)
+* [2025/11/24 - 11/30 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-24-11-30-open-source-report) (Published: 1 week ago)
 * [一個 PR 獎不夠，你有想過兩個嗎？](https://blog.wei-lee.me/posts/tech/2025/11/recommendation-for-addition-to-PR-awards) (Published: 1 week ago)
 * [2025/11/17 - 11/23 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-17-11-23-open-source-report) (Published: 1 week ago)
 
 ### Those things no one cares about
  
+ * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 1 day ago)
  * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 3 weeks ago)
- * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 4 weeks ago)
+ * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 1 month ago)
  * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 1 month ago)
  * [劇場版 咒術迴戰 懷玉・玉折](https://travlog.wei-lee.me/posts/review/2025/10/jujutsu-kaisen-hidden-inventory-premature-death%E2%80%93the-movie) (Published: 1 month ago)
- * [岸邊露伴一動也不動: 懺悔室](https://travlog.wei-lee.me/posts/review/2025/09/thus-spoke-kjishibe-rohan-at-a-confessional) (Published: 3 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#53357](https://github.com/apache/airflow/pull/53357#issuecomment-3615796238) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#56760](https://github.com/apache/airflow/pull/56760#issuecomment-3615193608) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3612245925) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3611788136) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Merged PR [#58945](undefined) in [apache/airflow](https://github.com/apache/airflow)
-6. ❌ Merged PR [#1648](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7.  Unlabeled issue [#1691](https://github.com/commitizen-tools/commitizen/issues/1691) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8.  Labeled issue [#1691](https://github.com/commitizen-tools/commitizen/issues/1691) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9.  Labeled issue [#1379](https://github.com/commitizen-tools/commitizen/issues/1379) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#55068](https://github.com/apache/airflow/pull/55068#issuecomment-3609946360) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#1673](https://github.com/commitizen-tools/commitizen/pull/1673#issuecomment-3619500711) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#189](https://github.com/pycontw/pycon-etl/pull/189#issuecomment-3619496231) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+3. 🗣 Commented on [#59033](https://github.com/apache/airflow/issues/59033#issuecomment-3619411073) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#189](undefined) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 🗣 Commented on [#53357](https://github.com/apache/airflow/pull/53357#issuecomment-3615796238) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#56760](https://github.com/apache/airflow/pull/56760#issuecomment-3615193608) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3612245925) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3611788136) in [apache/airflow](https://github.com/apache/airflow)
+9. ❌ Merged PR [#58945](undefined) in [apache/airflow](https://github.com/apache/airflow)
+10. ❌ Merged PR [#1648](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
