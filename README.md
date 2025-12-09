@@ -48,15 +48,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Apache Airflow 年度問卷流程正式化](https://blog.wei-lee.me/posts/tech/2025/12/formalising-how-we-already-run-the-airflow-suvery) (Published: 1 day ago)
-* [觸發觸發器的元件，是不是該叫觸發觸發器器](https://blog.wei-lee.me/posts/tech/2025/12/airflow-triggerer-trigger-translation) (Published: 4 days ago)
-* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 5 days ago)
+* [2025/12/01 - 12/07 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-01-12-07-open-source-report) (Published: 1 day ago)
+* [Apache Airflow 年度問卷流程正式化](https://blog.wei-lee.me/posts/tech/2025/12/formalising-how-we-already-run-the-airflow-suvery) (Published: 2 days ago)
+* [觸發觸發器的元件，是不是該叫觸發觸發器器](https://blog.wei-lee.me/posts/tech/2025/12/airflow-triggerer-trigger-translation) (Published: 5 days ago)
+* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 6 days ago)
 * [2025/11/24 - 11/30 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-24-11-30-open-source-report) (Published: 1 week ago)
-* [一個 PR 獎不夠，你有想過兩個嗎？](https://blog.wei-lee.me/posts/tech/2025/11/recommendation-for-addition-to-PR-awards) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 2 days ago)
+ * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 3 days ago)
  * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 4 weeks ago)
  * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 1 month ago)
  * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 1 month ago)
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#58676](https://github.com/apache/airflow/issues/58676#issuecomment-3622294831) in [apache/airflow](https://github.com/apache/airflow)
-2.  Labeled issue [#1698](https://github.com/commitizen-tools/commitizen/issues/1698) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3.  Unlabeled issue [#1698](https://github.com/commitizen-tools/commitizen/issues/1698) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. ❌ Merged PR [#1647](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5.  Unlabeled issue [#1697](https://github.com/commitizen-tools/commitizen/issues/1697) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6.  Labeled issue [#1697](https://github.com/commitizen-tools/commitizen/issues/1697) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7.  Labeled issue [#1697](https://github.com/commitizen-tools/commitizen/issues/1697) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8.  Unlabeled issue [#1697](https://github.com/commitizen-tools/commitizen/issues/1697) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9.  Labeled issue [#1691](https://github.com/commitizen-tools/commitizen/issues/1691) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10.  Unlabeled issue [#1691](https://github.com/commitizen-tools/commitizen/issues/1691) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3625771629) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#58763](https://github.com/apache/airflow/pull/58763#issuecomment-3625483566) in [apache/airflow](https://github.com/apache/airflow)
+3. 🔒 Closed issue [#46170](https://github.com/apache/airflow/issues/46170) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#59183](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3624121168) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#58676](https://github.com/apache/airflow/issues/58676#issuecomment-3622294831) in [apache/airflow](https://github.com/apache/airflow)
+7.  Labeled issue [#1698](https://github.com/commitizen-tools/commitizen/issues/1698) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8.  Unlabeled issue [#1698](https://github.com/commitizen-tools/commitizen/issues/1698) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. ❌ Merged PR [#1647](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10.  Unlabeled issue [#1697](https://github.com/commitizen-tools/commitizen/issues/1697) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
