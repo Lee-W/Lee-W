@@ -48,32 +48,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/12/01 - 12/07 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-01-12-07-open-source-report) (Published: 1 day ago)
-* [Apache Airflow 年度問卷流程正式化](https://blog.wei-lee.me/posts/tech/2025/12/formalising-how-we-already-run-the-airflow-suvery) (Published: 2 days ago)
-* [觸發觸發器的元件，是不是該叫觸發觸發器器](https://blog.wei-lee.me/posts/tech/2025/12/airflow-triggerer-trigger-translation) (Published: 5 days ago)
-* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 6 days ago)
+* [2025/12/01 - 12/07 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-01-12-07-open-source-report) (Published: 2 days ago)
+* [Apache Airflow 年度問卷流程正式化](https://blog.wei-lee.me/posts/tech/2025/12/formalising-how-we-already-run-the-airflow-suvery) (Published: 3 days ago)
+* [觸發觸發器的元件，是不是該叫觸發觸發器器](https://blog.wei-lee.me/posts/tech/2025/12/airflow-triggerer-trigger-translation) (Published: 6 days ago)
+* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 1 week ago)
 * [2025/11/24 - 11/30 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-24-11-30-open-source-report) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 3 days ago)
- * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 4 weeks ago)
+ * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 4 days ago)
+ * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 1 month ago)
  * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 1 month ago)
  * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 1 month ago)
  * [劇場版 咒術迴戰 懷玉・玉折](https://travlog.wei-lee.me/posts/review/2025/10/jujutsu-kaisen-hidden-inventory-premature-death%E2%80%93the-movie) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3625771629) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#58763](https://github.com/apache/airflow/pull/58763#issuecomment-3625483566) in [apache/airflow](https://github.com/apache/airflow)
-3. 🔒 Closed issue [#46170](https://github.com/apache/airflow/issues/46170) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#59183](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3624121168) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#58676](https://github.com/apache/airflow/issues/58676#issuecomment-3622294831) in [apache/airflow](https://github.com/apache/airflow)
-7.  Labeled issue [#1698](https://github.com/commitizen-tools/commitizen/issues/1698) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8.  Unlabeled issue [#1698](https://github.com/commitizen-tools/commitizen/issues/1698) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. ❌ Merged PR [#1647](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10.  Unlabeled issue [#1697](https://github.com/commitizen-tools/commitizen/issues/1697) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#58676](https://github.com/apache/airflow/issues/58676#issuecomment-3631572442) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#59183](https://github.com/apache/airflow/pull/59183#issuecomment-3631533327) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#52](https://github.com/Lee-W/main-blog/issues/52#issuecomment-3631418748) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3629800983) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3625771629) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#58763](https://github.com/apache/airflow/pull/58763#issuecomment-3625483566) in [apache/airflow](https://github.com/apache/airflow)
+7. 🔒 Closed issue [#46170](https://github.com/apache/airflow/issues/46170) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#59183](undefined) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#58919](https://github.com/apache/airflow/issues/58919#issuecomment-3624121168) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#58676](https://github.com/apache/airflow/issues/58676#issuecomment-3622294831) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
