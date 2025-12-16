@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. ❌ Merged PR [#59353](undefined) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#59348](https://github.com/apache/airflow/issues/59348#issuecomment-3645280298) in [apache/airflow](https://github.com/apache/airflow)
-3.  Unlabeled issue [#59348](https://github.com/apache/airflow/issues/59348) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#59353](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Merged PR [#59350](undefined) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#59350](undefined) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#1718](https://github.com/commitizen-tools/commitizen/pull/1718#issuecomment-3644737267) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🗣 Commented on [#1716](https://github.com/commitizen-tools/commitizen/issues/1716#issuecomment-3644718982) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. ❌ Merged PR [#1717](undefined) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. ❌ Merged PR [#59305](undefined) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Merged PR [#59446](undefined) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#21096](https://github.com/astral-sh/ruff/pull/21096#issuecomment-3654732259) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 💪 Opened PR [#59446](undefined) in [apache/airflow](https://github.com/apache/airflow)
+4. ❌ Merged PR [#59353](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#59348](https://github.com/apache/airflow/issues/59348#issuecomment-3645280298) in [apache/airflow](https://github.com/apache/airflow)
+6.  Unlabeled issue [#59348](https://github.com/apache/airflow/issues/59348) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#59353](undefined) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Merged PR [#59350](undefined) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#59350](undefined) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#1718](https://github.com/commitizen-tools/commitizen/pull/1718#issuecomment-3644737267) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
