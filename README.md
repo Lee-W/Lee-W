@@ -51,7 +51,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 * [2025/12/01 - 12/07 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-01-12-07-open-source-report) (Published: 1 week ago)
 * [Apache Airflow 年度問卷流程正式化](https://blog.wei-lee.me/posts/tech/2025/12/formalising-how-we-already-run-the-airflow-suvery) (Published: 1 week ago)
 * [觸發觸發器的元件，是不是該叫觸發觸發器器](https://blog.wei-lee.me/posts/tech/2025/12/airflow-triggerer-trigger-translation) (Published: 1 week ago)
-* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 1 week ago)
+* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 2 weeks ago)
 * [2025/11/24 - 11/30 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/11/2025-11-24-11-30-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. ❌ Merged PR [#59446](undefined) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#21096](https://github.com/astral-sh/ruff/pull/21096#issuecomment-3654732259) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 💪 Opened PR [#59446](undefined) in [apache/airflow](https://github.com/apache/airflow)
-4. ❌ Merged PR [#59353](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#59348](https://github.com/apache/airflow/issues/59348#issuecomment-3645280298) in [apache/airflow](https://github.com/apache/airflow)
-6.  Unlabeled issue [#59348](https://github.com/apache/airflow/issues/59348) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#59353](undefined) in [apache/airflow](https://github.com/apache/airflow)
-8. ❌ Merged PR [#59350](undefined) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#59350](undefined) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#1718](https://github.com/commitizen-tools/commitizen/pull/1718#issuecomment-3644737267) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ❌ Merged PR [#59513](undefined) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Unlabeled PR [#59513](undefined) in [apache/airflow](https://github.com/apache/airflow)
+3. ❌ Labeled PR [#59513](undefined) in [apache/airflow](https://github.com/apache/airflow)
+4. ❌ Unlabeled PR [#59513](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5. ❌ Unlabeled PR [#59513](undefined) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#59513](undefined) in [apache/airflow](https://github.com/apache/airflow)
+7. ❌ Merged PR [#190](undefined) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+8. 💪 Opened PR [#190](undefined) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+9. 💪 Opened PR [#1544](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+10. 🗣 Commented on [#58740](https://github.com/apache/airflow/pull/58740#issuecomment-3659386115) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
