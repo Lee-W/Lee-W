@@ -48,32 +48,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/12/08 - 12/14 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-08-12-14-open-source-report) (Published: 6 days ago)
+* [2025/12/08 - 12/14 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-08-12-14-open-source-report) (Published: 1 week ago)
 * [2025/12/01 - 12/07 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-01-12-07-open-source-report) (Published: 2 weeks ago)
 * [Apache Airflow 年度問卷流程正式化](https://blog.wei-lee.me/posts/tech/2025/12/formalising-how-we-already-run-the-airflow-suvery) (Published: 2 weeks ago)
 * [觸發觸發器的元件，是不是該叫觸發觸發器器](https://blog.wei-lee.me/posts/tech/2025/12/airflow-triggerer-trigger-translation) (Published: 2 weeks ago)
-* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 2 weeks ago)
+* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
  * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 2 weeks ago)
  * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 1 month ago)
  * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 1 month ago)
- * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 1 month ago)
+ * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 2 months ago)
  * [劇場版 咒術迴戰 懷玉・玉折](https://travlog.wei-lee.me/posts/review/2025/10/jujutsu-kaisen-hidden-inventory-premature-death%E2%80%93the-movie) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#59714](undefined) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3681020747) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#59604](undefined) in [apache/airflow](https://github.com/apache/airflow)
-4. ❌ Merged PR [#59183](undefined) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#58919](https://github.com/apache/airflow/issues/58919) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#59430](https://github.com/apache/airflow/pull/59430#issuecomment-3664762232) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#43176](https://github.com/apache/airflow/issues/43176#issuecomment-3664481315) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#1705](https://github.com/commitizen-tools/commitizen/pull/1705#issuecomment-3663419755) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. ❌ Closed PR [#1544](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-10. ❌ Merged PR [#59513](undefined) in [apache/airflow](https://github.com/apache/airflow)
+1. 🔒 Closed issue [#59693](https://github.com/apache/airflow/issues/59693) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#59693](https://github.com/apache/airflow/issues/59693#issuecomment-3688328678) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#59399](https://github.com/apache/airflow/pull/59399#issuecomment-3688324742) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#59768](https://github.com/apache/airflow/pull/59768#issuecomment-3688323943) in [apache/airflow](https://github.com/apache/airflow)
+5. ❌ Closed PR [#1545](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+6. 💪 Opened PR [#1545](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+7.  Labeled issue [#59740](https://github.com/apache/airflow/issues/59740) in [apache/airflow](https://github.com/apache/airflow)
+8. ❗ Opened issue [#59740](https://github.com/apache/airflow/issues/59740) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3685447224) in [apache/airflow](https://github.com/apache/airflow)
+10. ❌ Merged PR [#59714](undefined) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
