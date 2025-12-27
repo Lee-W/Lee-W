@@ -56,7 +56,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 2 weeks ago)
+ * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 3 weeks ago)
  * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 1 month ago)
  * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 1 month ago)
  * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 2 months ago)
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. ❌ Unlabeled PR [#55416](undefined) in [apache/airflow](https://github.com/apache/airflow)
-2. 🔒 Closed issue [#59693](https://github.com/apache/airflow/issues/59693) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#59693](https://github.com/apache/airflow/issues/59693#issuecomment-3688328678) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#59399](https://github.com/apache/airflow/pull/59399#issuecomment-3688324742) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#59768](https://github.com/apache/airflow/pull/59768#issuecomment-3688323943) in [apache/airflow](https://github.com/apache/airflow)
-6. ❌ Closed PR [#1545](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-7. 💪 Opened PR [#1545](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-8.  Labeled issue [#59740](https://github.com/apache/airflow/issues/59740) in [apache/airflow](https://github.com/apache/airflow)
-9. ❗ Opened issue [#59740](https://github.com/apache/airflow/issues/59740) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3685447224) in [apache/airflow](https://github.com/apache/airflow)
+1.  Assigned issue [#59760](https://github.com/apache/airflow/issues/59760) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#59760](https://github.com/apache/airflow/issues/59760#issuecomment-3692914808) in [apache/airflow](https://github.com/apache/airflow)
+3. 🔒 Closed issue [#1691](https://github.com/commitizen-tools/commitizen/issues/1691) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. ❌ Unlabeled PR [#55416](undefined) in [apache/airflow](https://github.com/apache/airflow)
+5. 🔒 Closed issue [#59693](https://github.com/apache/airflow/issues/59693) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#59693](https://github.com/apache/airflow/issues/59693#issuecomment-3688328678) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#59399](https://github.com/apache/airflow/pull/59399#issuecomment-3688324742) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#59768](https://github.com/apache/airflow/pull/59768#issuecomment-3688323943) in [apache/airflow](https://github.com/apache/airflow)
+9. ❌ Closed PR [#1545](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+10. 💪 Opened PR [#1545](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
 
 
 ## ⭐ GitHub Stat
