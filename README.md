@@ -56,7 +56,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [巧克力火鍋，但我沒有電烤盤](https://travlog.wei-lee.me/posts/cook/2025/12/crockpot-hot-chocolate) (Published: 1 day ago)
+ * [巧克力火鍋，但我沒有電烤盤](https://travlog.wei-lee.me/posts/cook/2025/12/crockpot-hot-chocolate) (Published: 2 days ago)
  * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 3 weeks ago)
  * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 1 month ago)
  * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 1 month ago)
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. ❌ Merged PR [#13](undefined) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-2. 💪 Opened PR [#13](undefined) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-3. 🗣 Commented on [#1738](https://github.com/commitizen-tools/commitizen/pull/1738#issuecomment-3693994723) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4.  Assigned issue [#59740](https://github.com/apache/airflow/issues/59740) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#59740](https://github.com/apache/airflow/issues/59740#issuecomment-3693581435) in [apache/airflow](https://github.com/apache/airflow)
-6.  Assigned issue [#59760](https://github.com/apache/airflow/issues/59760) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#59760](https://github.com/apache/airflow/issues/59760#issuecomment-3692914808) in [apache/airflow](https://github.com/apache/airflow)
-8. 🔒 Closed issue [#1691](https://github.com/commitizen-tools/commitizen/issues/1691) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. ❌ Unlabeled PR [#55416](undefined) in [apache/airflow](https://github.com/apache/airflow)
-10. 🔒 Closed issue [#59693](https://github.com/apache/airflow/issues/59693) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#22046](https://github.com/astral-sh/ruff/pull/22046#issuecomment-3696897102) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. ❌ Closed PR [#381](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+3. ❌ Closed PR [#377](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+4. ❌ Closed PR [#374](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+5. ❌ Closed PR [#367](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. ❌ Closed PR [#371](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. ❌ Closed PR [#365](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. ❌ Closed PR [#363](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. ❌ Closed PR [#349](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. ❌ Closed PR [#345](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 
 
 ## ⭐ GitHub Stat
