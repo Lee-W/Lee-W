@@ -56,16 +56,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3698701808) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#59747](https://github.com/apache/airflow/pull/59747#issuecomment-3698503702) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#1705](https://github.com/commitizen-tools/commitizen/pull/1705#issuecomment-3698260303) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#1749](https://github.com/commitizen-tools/commitizen/pull/1749#issuecomment-3698246347) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 💪 Opened PR [#1546](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-6. 🗣 Commented on [#22046](https://github.com/astral-sh/ruff/pull/22046#issuecomment-3696897102) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-7. ❌ Closed PR [#381](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. ❌ Closed PR [#377](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-9. ❌ Closed PR [#374](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-10. ❌ Closed PR [#367](undefined) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+1. 🔒 Closed issue [#46838](https://github.com/apache/airflow/issues/46838) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Closed PR [#1547](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+3. ❌ Closed PR [#1548](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+4. 💪 Opened PR [#1548](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+5. 💪 Opened PR [#1547](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+6. ❌ Closed PR [#1546](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+7. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3698701808) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#59747](https://github.com/apache/airflow/pull/59747#issuecomment-3698503702) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#1705](https://github.com/commitizen-tools/commitizen/pull/1705#issuecomment-3698260303) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1749](https://github.com/commitizen-tools/commitizen/pull/1749#issuecomment-3698246347) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
