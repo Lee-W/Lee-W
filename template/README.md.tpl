@@ -57,11 +57,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#46838](https://github.com/apache/airflow/issues/46838) in [apache/airflow](https://github.com/apache/airflow)
-2. ❌ Closed PR [#1547](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-3. ❌ Closed PR [#1548](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-4. 💪 Opened PR [#1548](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-5. 💪 Opened PR [#1547](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-6. ❌ Closed PR [#1546](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+2. ❌ Closed PR [#1547](https://github.com/astronomer/airflow/pull/1547) in [astronomer/airflow](https://github.com/astronomer/airflow)
+3. ❌ Closed PR [#1548](https://github.com/astronomer/airflow/pull/1548) in [astronomer/airflow](https://github.com/astronomer/airflow)
+4. 💪 Opened PR [#1548](https://github.com/astronomer/airflow/pull/1548) in [astronomer/airflow](https://github.com/astronomer/airflow)
+5. 💪 Opened PR [#1547](https://github.com/astronomer/airflow/pull/1547) in [astronomer/airflow](https://github.com/astronomer/airflow)
+6. ❌ Closed PR [#1546](https://github.com/astronomer/airflow/pull/1546) in [astronomer/airflow](https://github.com/astronomer/airflow)
 7. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3698701808) in [apache/airflow](https://github.com/apache/airflow)
 8. 🗣 Commented on [#59747](https://github.com/apache/airflow/pull/59747#issuecomment-3698503702) in [apache/airflow](https://github.com/apache/airflow)
 9. 🗣 Commented on [#1705](https://github.com/commitizen-tools/commitizen/pull/1705#issuecomment-3698260303) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
