@@ -52,11 +52,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 * [2025/12/01 - 12/07 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-01-12-07-open-source-report) (Published: 3 weeks ago)
 * [Apache Airflow 年度問卷流程正式化](https://blog.wei-lee.me/posts/tech/2025/12/formalising-how-we-already-run-the-airflow-suvery) (Published: 3 weeks ago)
 * [觸發觸發器的元件，是不是該叫觸發觸發器器](https://blog.wei-lee.me/posts/tech/2025/12/airflow-triggerer-trigger-translation) (Published: 4 weeks ago)
-* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 4 weeks ago)
+* [開源菜雞的隨意雜談](https://blog.wei-lee.me/posts/tech/2025/12/some-random-guy-talk-about-airflow) (Published: 1 month ago)
 
 ### Those things no one cares about
  
- * [巧克力火鍋，但我沒有電烤盤](https://travlog.wei-lee.me/posts/cook/2025/12/crockpot-hot-chocolate) (Published: 4 days ago)
+ * [巧克力火鍋，但我沒有電烤盤](https://travlog.wei-lee.me/posts/cook/2025/12/crockpot-hot-chocolate) (Published: 5 days ago)
  * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 3 weeks ago)
  * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 1 month ago)
  * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 1 month ago)
@@ -65,11 +65,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 ## 🖥️ Recently working on
 
 1. 🔒 Closed issue [#46838](https://github.com/apache/airflow/issues/46838) in [apache/airflow](https://github.com/apache/airflow)
-2. ❌ Closed PR [#1547](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-3. ❌ Closed PR [#1548](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-4. 💪 Opened PR [#1548](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-5. 💪 Opened PR [#1547](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
-6. ❌ Closed PR [#1546](undefined) in [astronomer/airflow](https://github.com/astronomer/airflow)
+2. ❌ Closed PR [#1547](https://github.com/astronomer/airflow/pull/1547) in [astronomer/airflow](https://github.com/astronomer/airflow)
+3. ❌ Closed PR [#1548](https://github.com/astronomer/airflow/pull/1548) in [astronomer/airflow](https://github.com/astronomer/airflow)
+4. 💪 Opened PR [#1548](https://github.com/astronomer/airflow/pull/1548) in [astronomer/airflow](https://github.com/astronomer/airflow)
+5. 💪 Opened PR [#1547](https://github.com/astronomer/airflow/pull/1547) in [astronomer/airflow](https://github.com/astronomer/airflow)
+6. ❌ Closed PR [#1546](https://github.com/astronomer/airflow/pull/1546) in [astronomer/airflow](https://github.com/astronomer/airflow)
 7. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3698701808) in [apache/airflow](https://github.com/apache/airflow)
 8. 🗣 Commented on [#59747](https://github.com/apache/airflow/pull/59747#issuecomment-3698503702) in [apache/airflow](https://github.com/apache/airflow)
 9. 🗣 Commented on [#1705](https://github.com/commitizen-tools/commitizen/pull/1705#issuecomment-3698260303) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
