@@ -48,32 +48,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025 Git Wrapped](https://blog.wei-lee.me/posts/tech/2026/01/2025-git-wrapped) (Published: 1 day ago)
+* [2025 Git Wrapped](https://blog.wei-lee.me/posts/tech/2026/01/2025-git-wrapped) (Published: 2 days ago)
 * [2025/12/08 - 12/14 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-08-12-14-open-source-report) (Published: 2 weeks ago)
-* [2025/12/01 - 12/07 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-01-12-07-open-source-report) (Published: 3 weeks ago)
+* [2025/12/01 - 12/07 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-01-12-07-open-source-report) (Published: 4 weeks ago)
 * [Apache Airflow 年度問卷流程正式化](https://blog.wei-lee.me/posts/tech/2025/12/formalising-how-we-already-run-the-airflow-suvery) (Published: 4 weeks ago)
 * [觸發觸發器的元件，是不是該叫觸發觸發器器](https://blog.wei-lee.me/posts/tech/2025/12/airflow-triggerer-trigger-translation) (Published: 1 month ago)
 
 ### Those things no one cares about
  
+ * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 1 day ago)
+ * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 1 day ago)
+ * [青春之箱](https://travlog.wei-lee.me/posts/review/2026/01/aonobako) (Published: 1 day ago)
+ * [BanG Dream! Ave Mujica](https://travlog.wei-lee.me/posts/review/2026/01/bang-dream-ave-mujica) (Published: 1 day ago)
  * [巧克力火鍋，但我沒有電烤盤](https://travlog.wei-lee.me/posts/cook/2025/12/crockpot-hot-chocolate) (Published: 1 week ago)
- * [小林家的龍女僕 交響音樂會 台北站](https://travlog.wei-lee.me/posts/review/2025/12/kobayashino-maid-dragon-concert) (Published: 4 weeks ago)
- * [小林家的龍女僕：害怕寂寞的龍](https://travlog.wei-lee.me/posts/review/2025/11/kobayashino-maid-dragon-movie) (Published: 1 month ago)
- * [《ACG文化議題研討會》動漫聖地巡禮與地方創生](https://travlog.wei-lee.me/posts/review/2025/11/anime-pilgrimage-local-revitalization) (Published: 1 month ago)
- * [ミュージカル「Fate/Zero ~A Hero of Justice~」](https://travlog.wei-lee.me/posts/review/2025/10/fate-zero-a-hero-of-justice) (Published: 2 months ago)
 
 ## 🖥️ Recently working on
 
-1. 🔒 Closed issue [#46838](https://github.com/apache/airflow/issues/46838) in [apache/airflow](https://github.com/apache/airflow)
-2. ❌ Closed PR [#1547](https://github.com/astronomer/airflow/pull/1547) in [astronomer/airflow](https://github.com/astronomer/airflow)
-3. ❌ Closed PR [#1548](https://github.com/astronomer/airflow/pull/1548) in [astronomer/airflow](https://github.com/astronomer/airflow)
-4. 💪 Opened PR [#1548](https://github.com/astronomer/airflow/pull/1548) in [astronomer/airflow](https://github.com/astronomer/airflow)
-5. 💪 Opened PR [#1547](https://github.com/astronomer/airflow/pull/1547) in [astronomer/airflow](https://github.com/astronomer/airflow)
-6. ❌ Closed PR [#1546](https://github.com/astronomer/airflow/pull/1546) in [astronomer/airflow](https://github.com/astronomer/airflow)
-7. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3698701808) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#59747](https://github.com/apache/airflow/pull/59747#issuecomment-3698503702) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#1705](https://github.com/commitizen-tools/commitizen/pull/1705#issuecomment-3698260303) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#1749](https://github.com/commitizen-tools/commitizen/pull/1749#issuecomment-3698246347) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#1756](https://github.com/commitizen-tools/commitizen/pull/1756#issuecomment-3708125253) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#1709](https://github.com/commitizen-tools/commitizen/issues/1709#issuecomment-3708105001) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 🗣 Commented on [#1709](https://github.com/commitizen-tools/commitizen/issues/1709#issuecomment-3707599435) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#1756](https://github.com/commitizen-tools/commitizen/pull/1756#issuecomment-3707598233) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#58676](https://github.com/apache/airflow/issues/58676#issuecomment-3707597521) in [apache/airflow](https://github.com/apache/airflow)
+6. ℹ️ Unlabeled issue [#58676](https://github.com/apache/airflow/issues/58676) in [apache/airflow](https://github.com/apache/airflow)
+7. ℹ️ Unlabeled issue [#58676](https://github.com/apache/airflow/issues/58676) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#52051](https://github.com/apache/airflow/pull/52051#issuecomment-3707596267) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3707595914) in [apache/airflow](https://github.com/apache/airflow)
+10. 🔒 Closed issue [#46838](https://github.com/apache/airflow/issues/46838) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
