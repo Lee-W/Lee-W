@@ -48,32 +48,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/12/15 - 01/04 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2025-12-15-2026-01-04-open-source-report) (Published: 2 days ago)
-* [2025 Git Wrapped](https://blog.wei-lee.me/posts/tech/2026/01/2025-git-wrapped) (Published: 5 days ago)
+* [2025/12/15 - 01/04 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2025-12-15-2026-01-04-open-source-report) (Published: 3 days ago)
+* [2025 Git Wrapped](https://blog.wei-lee.me/posts/tech/2026/01/2025-git-wrapped) (Published: 6 days ago)
 * [2025/12/08 - 12/14 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-08-12-14-open-source-report) (Published: 3 weeks ago)
 * [2025/12/01 - 12/07 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-01-12-07-open-source-report) (Published: 1 month ago)
 * [Apache Airflow 年度問卷流程正式化](https://blog.wei-lee.me/posts/tech/2025/12/formalising-how-we-already-run-the-airflow-suvery) (Published: 1 month ago)
 
 ### Those things no one cares about
  
- * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 1 day ago)
- * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 4 days ago)
- * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 4 days ago)
- * [青春之箱](https://travlog.wei-lee.me/posts/review/2026/01/aonobako) (Published: 4 days ago)
- * [BanG Dream! Ave Mujica](https://travlog.wei-lee.me/posts/review/2026/01/bang-dream-ave-mujica) (Published: 4 days ago)
+ * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 2 days ago)
+ * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 5 days ago)
+ * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 5 days ago)
+ * [青春之箱](https://travlog.wei-lee.me/posts/review/2026/01/aonobako) (Published: 5 days ago)
+ * [BanG Dream! Ave Mujica](https://travlog.wei-lee.me/posts/review/2026/01/bang-dream-ave-mujica) (Published: 5 days ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#60204](https://github.com/apache/airflow/pull/60204) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3717975763) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#59604](https://github.com/apache/airflow/pull/59604#issuecomment-3717931017) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Labeled issue [#1771](https://github.com/commitizen-tools/commitizen/issues/1771) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. ℹ️ Unlabeled issue [#1771](https://github.com/commitizen-tools/commitizen/issues/1771) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. ℹ️ Assigned issue [#1779](https://github.com/commitizen-tools/commitizen/issues/1779) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#1779](https://github.com/commitizen-tools/commitizen/issues/1779#issuecomment-3717207760) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 🎉 Merged PR [#60155](https://github.com/apache/airflow/pull/60155) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#1777](https://github.com/commitizen-tools/commitizen/issues/1777#issuecomment-3715136263) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#60153](https://github.com/apache/airflow/pull/60153) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#48389](https://github.com/apache/airflow/issues/48389#issuecomment-3726644154) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#48389](https://github.com/apache/airflow/issues/48389#issuecomment-3726643392) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#60248](https://github.com/apache/airflow/issues/60248#issuecomment-3721700057) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Labeled issue [#60248](https://github.com/apache/airflow/issues/60248) in [apache/airflow](https://github.com/apache/airflow)
+5. ❗ Opened issue [#60248](https://github.com/apache/airflow/issues/60248) in [apache/airflow](https://github.com/apache/airflow)
+6. ℹ️ Assigned issue [#60248](https://github.com/apache/airflow/issues/60248) in [apache/airflow](https://github.com/apache/airflow)
+7. ℹ️ Assigned issue [#60248](https://github.com/apache/airflow/issues/60248) in [apache/airflow](https://github.com/apache/airflow)
+8. ℹ️ Unassigned issue [#59621](https://github.com/apache/airflow/issues/59621) in [apache/airflow](https://github.com/apache/airflow)
+9. ℹ️ Assigned issue [#59621](https://github.com/apache/airflow/issues/59621) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#59621](https://github.com/apache/airflow/issues/59621#issuecomment-3721677313) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
