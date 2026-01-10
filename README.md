@@ -48,32 +48,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2025/12/15 - 01/04 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2025-12-15-2026-01-04-open-source-report) (Published: 3 days ago)
-* [2025 Git Wrapped](https://blog.wei-lee.me/posts/tech/2026/01/2025-git-wrapped) (Published: 6 days ago)
+* [CE&#39; &amp; LIB-RARY 天母店](https://blog.wei-lee.me/posts/tech/2026/01/CE-and-LIB-RARY-tian-mu) (Published: 1 day ago)
+* [一覺醒來 Neovim 的 treesitter 就壞掉了](https://blog.wei-lee.me/posts/tech/2026/01/neovim-treesitter-was-broken) (Published: 1 day ago)
+* [2025/12/15 - 01/04 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2025-12-15-2026-01-04-open-source-report) (Published: 4 days ago)
+* [2025 Git Wrapped](https://blog.wei-lee.me/posts/tech/2026/01/2025-git-wrapped) (Published: 1 week ago)
 * [2025/12/08 - 12/14 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-08-12-14-open-source-report) (Published: 3 weeks ago)
-* [2025/12/01 - 12/07 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-01-12-07-open-source-report) (Published: 1 month ago)
-* [Apache Airflow 年度問卷流程正式化](https://blog.wei-lee.me/posts/tech/2025/12/formalising-how-we-already-run-the-airflow-suvery) (Published: 1 month ago)
 
 ### Those things no one cares about
  
- * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 2 days ago)
- * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 5 days ago)
- * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 5 days ago)
- * [青春之箱](https://travlog.wei-lee.me/posts/review/2026/01/aonobako) (Published: 5 days ago)
- * [BanG Dream! Ave Mujica](https://travlog.wei-lee.me/posts/review/2026/01/bang-dream-ave-mujica) (Published: 5 days ago)
+ * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 3 days ago)
+ * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 6 days ago)
+ * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 6 days ago)
+ * [青春之箱](https://travlog.wei-lee.me/posts/review/2026/01/aonobako) (Published: 6 days ago)
+ * [BanG Dream! Ave Mujica](https://travlog.wei-lee.me/posts/review/2026/01/bang-dream-ave-mujica) (Published: 6 days ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#48389](https://github.com/apache/airflow/issues/48389#issuecomment-3726644154) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#48389](https://github.com/apache/airflow/issues/48389#issuecomment-3726643392) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#60248](https://github.com/apache/airflow/issues/60248#issuecomment-3721700057) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Labeled issue [#60248](https://github.com/apache/airflow/issues/60248) in [apache/airflow](https://github.com/apache/airflow)
-5. ❗ Opened issue [#60248](https://github.com/apache/airflow/issues/60248) in [apache/airflow](https://github.com/apache/airflow)
-6. ℹ️ Assigned issue [#60248](https://github.com/apache/airflow/issues/60248) in [apache/airflow](https://github.com/apache/airflow)
-7. ℹ️ Assigned issue [#60248](https://github.com/apache/airflow/issues/60248) in [apache/airflow](https://github.com/apache/airflow)
-8. ℹ️ Unassigned issue [#59621](https://github.com/apache/airflow/issues/59621) in [apache/airflow](https://github.com/apache/airflow)
-9. ℹ️ Assigned issue [#59621](https://github.com/apache/airflow/issues/59621) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#59621](https://github.com/apache/airflow/issues/59621#issuecomment-3721677313) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#59264](https://github.com/apache/airflow/pull/59264#issuecomment-3727703690) in [apache/airflow](https://github.com/apache/airflow)
+2. ❌ Closed PR [#59264](https://github.com/apache/airflow/pull/59264) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#51564](https://github.com/apache/airflow/pull/51564#issuecomment-3727697293) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#51564](https://github.com/apache/airflow/pull/51564#issuecomment-3727695211) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#22459](https://github.com/astral-sh/ruff/issues/22459#issuecomment-3727690244) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+6. 🗣 Commented on [#1183](https://github.com/folke/noice.nvim/issues/1183#issuecomment-3726840869) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
+7. 🗣 Commented on [#1705](https://github.com/commitizen-tools/commitizen/pull/1705#issuecomment-3726784033) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ℹ️ Unlabeled issue [#1779](https://github.com/commitizen-tools/commitizen/issues/1779) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. ℹ️ Labeled issue [#1779](https://github.com/commitizen-tools/commitizen/issues/1779) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. ℹ️ Labeled issue [#1779](https://github.com/commitizen-tools/commitizen/issues/1779) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
