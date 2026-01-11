@@ -48,19 +48,19 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [CE&#39; &amp; LIB-RARY 天母店](https://blog.wei-lee.me/posts/tech/2026/01/CE-and-LIB-RARY-tian-mu) (Published: 1 day ago)
-* [一覺醒來 Neovim 的 treesitter 就壞掉了](https://blog.wei-lee.me/posts/tech/2026/01/neovim-treesitter-was-broken) (Published: 1 day ago)
-* [2025/12/15 - 01/04 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2025-12-15-2026-01-04-open-source-report) (Published: 4 days ago)
+* [CE&#39; &amp; LIB-RARY 天母店](https://blog.wei-lee.me/posts/tech/2026/01/CE-and-LIB-RARY-tian-mu) (Published: 2 days ago)
+* [一覺醒來 Neovim 的 treesitter 就壞掉了](https://blog.wei-lee.me/posts/tech/2026/01/neovim-treesitter-was-broken) (Published: 2 days ago)
+* [2025/12/15 - 01/04 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2025-12-15-2026-01-04-open-source-report) (Published: 5 days ago)
 * [2025 Git Wrapped](https://blog.wei-lee.me/posts/tech/2026/01/2025-git-wrapped) (Published: 1 week ago)
 * [2025/12/08 - 12/14 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2025/12/2025-12-08-12-14-open-source-report) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 3 days ago)
- * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 6 days ago)
- * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 6 days ago)
- * [青春之箱](https://travlog.wei-lee.me/posts/review/2026/01/aonobako) (Published: 6 days ago)
- * [BanG Dream! Ave Mujica](https://travlog.wei-lee.me/posts/review/2026/01/bang-dream-ave-mujica) (Published: 6 days ago)
+ * [2025 Spotify 年度回顧](https://travlog.wei-lee.me/posts/review/2026/01/2025-spotify-wrapped) (Published: 4 days ago)
+ * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 4 days ago)
+ * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 1 week ago)
+ * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 1 week ago)
+ * [青春之箱](https://travlog.wei-lee.me/posts/review/2026/01/aonobako) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
