@@ -56,16 +56,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58381](https://github.com/apache/airflow/issues/58381#issuecomment-3736579327) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#59264](https://github.com/apache/airflow/pull/59264#issuecomment-3727703690) in [apache/airflow](https://github.com/apache/airflow)
-3. ❌ Closed PR [#59264](https://github.com/apache/airflow/pull/59264) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#51564](https://github.com/apache/airflow/pull/51564#issuecomment-3727697293) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#51564](https://github.com/apache/airflow/pull/51564#issuecomment-3727695211) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#22459](https://github.com/astral-sh/ruff/issues/22459#issuecomment-3727690244) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-7. 🗣 Commented on [#1183](https://github.com/folke/noice.nvim/issues/1183#issuecomment-3726840869) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
-8. 🗣 Commented on [#1705](https://github.com/commitizen-tools/commitizen/pull/1705#issuecomment-3726784033) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. ℹ️ Unlabeled issue [#1779](https://github.com/commitizen-tools/commitizen/issues/1779) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. ℹ️ Labeled issue [#1779](https://github.com/commitizen-tools/commitizen/issues/1779) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. ℹ️ Labeled issue [#1790](https://github.com/commitizen-tools/commitizen/issues/1790) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. ❗ Opened issue [#1790](https://github.com/commitizen-tools/commitizen/issues/1790) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ℹ️ Labeled issue [#1789](https://github.com/commitizen-tools/commitizen/issues/1789) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. ℹ️ Unlabeled issue [#1789](https://github.com/commitizen-tools/commitizen/issues/1789) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. ℹ️ Labeled issue [#1789](https://github.com/commitizen-tools/commitizen/issues/1789) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. ❗ Opened issue [#1789](https://github.com/commitizen-tools/commitizen/issues/1789) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#1787](https://github.com/commitizen-tools/commitizen/issues/1787#issuecomment-3738913808) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ℹ️ Unlabeled issue [#1787](https://github.com/commitizen-tools/commitizen/issues/1787) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. ℹ️ Labeled issue [#1785](https://github.com/commitizen-tools/commitizen/issues/1785) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. ℹ️ Unlabeled issue [#1785](https://github.com/commitizen-tools/commitizen/issues/1785) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
