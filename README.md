@@ -48,15 +48,15 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 1 day ago)
-* [報導者十週年](https://blog.wei-lee.me/posts/gossiping/2026/01/the-reporter-10th) (Published: 1 day ago)
+* [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 2 days ago)
+* [報導者十週年](https://blog.wei-lee.me/posts/gossiping/2026/01/the-reporter-10th) (Published: 2 days ago)
 * [2026/01/12 - 01/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-12-01-18-open-source-report) (Published: 1 week ago)
 * [2026/01/05 - 01/11 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-05-01-11-open-source-report) (Published: 2 weeks ago)
 * [CE&#39; &amp; LIB-RARY 天母店](https://blog.wei-lee.me/posts/gossiping/2026/01/CE-and-LIB-RARY-tian-mu) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [冒險者公會 The A.G&#39;s Bar](https://travlog.wei-lee.me/posts/review/2026/01/the-a-g-s-bar) (Published: 5 days ago)
+ * [冒險者公會 The A.G&#39;s Bar](https://travlog.wei-lee.me/posts/review/2026/01/the-a-g-s-bar) (Published: 6 days ago)
  * [2025 Spotify 年度回顧](https://travlog.wei-lee.me/posts/review/2026/01/2025-spotify-wrapped) (Published: 2 weeks ago)
  * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 2 weeks ago)
  * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 3 weeks ago)
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#61053](https://github.com/apache/airflow/pull/61053) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#61030](https://github.com/apache/airflow/pull/61030) in [apache/airflow](https://github.com/apache/airflow)
-3. ❌ Closed PR [#61029](https://github.com/apache/airflow/pull/61029) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#61030](https://github.com/apache/airflow/pull/61030) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#61029](https://github.com/apache/airflow/pull/61029) in [apache/airflow](https://github.com/apache/airflow)
-6. ❗ Opened issue [#220](https://github.com/pickles4evaaaa/mybibliotheca/issues/220) in [pickles4evaaaa/mybibliotheca](https://github.com/pickles4evaaaa/mybibliotheca)
-7. 💪 Opened PR [#3](https://github.com/Lee-W/mybibliotheca/pull/3) in [Lee-W/mybibliotheca](https://github.com/Lee-W/mybibliotheca)
-8. 🎉 Merged PR [#2](https://github.com/Lee-W/mybibliotheca/pull/2) in [Lee-W/mybibliotheca](https://github.com/Lee-W/mybibliotheca)
-9. 💪 Opened PR [#2](https://github.com/Lee-W/mybibliotheca/pull/2) in [Lee-W/mybibliotheca](https://github.com/Lee-W/mybibliotheca)
-10. 🎉 Merged PR [#1](https://github.com/Lee-W/mybibliotheca/pull/1) in [Lee-W/mybibliotheca](https://github.com/Lee-W/mybibliotheca)
+1. 🎉 Merged PR [#61053](https://github.com/apache/airflow/pull/61053) in [apache/airflow](https://github.com/apache/airflow)
+2. ℹ️ Labeled PR [#60022](https://github.com/apache/airflow/pull/60022) in [apache/airflow](https://github.com/apache/airflow)
+3. ℹ️ Labeled PR [#60022](https://github.com/apache/airflow/pull/60022) in [apache/airflow](https://github.com/apache/airflow)
+4. ❌ Closed PR [#67](https://github.com/Lee-W/pelican-stat/pull/67) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+5. ❌ Closed PR [#66](https://github.com/Lee-W/pelican-stat/pull/66) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+6. ❌ Closed PR [#65](https://github.com/Lee-W/pelican-stat/pull/65) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+7. ❌ Closed PR [#63](https://github.com/Lee-W/pelican-stat/pull/63) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+8. ❌ Closed PR [#64](https://github.com/Lee-W/pelican-stat/pull/64) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+9. ❌ Closed PR [#62](https://github.com/Lee-W/pelican-stat/pull/62) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+10. ❌ Closed PR [#439](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/439) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 
 
 ## ⭐ GitHub Stat
