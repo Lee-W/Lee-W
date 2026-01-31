@@ -48,8 +48,8 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 5 days ago)
-* [報導者十週年](https://blog.wei-lee.me/posts/gossiping/2026/01/the-reporter-10th) (Published: 5 days ago)
+* [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 6 days ago)
+* [報導者十週年](https://blog.wei-lee.me/posts/gossiping/2026/01/the-reporter-10th) (Published: 6 days ago)
 * [2026/01/12 - 01/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-12-01-18-open-source-report) (Published: 1 week ago)
 * [2026/01/05 - 01/11 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-05-01-11-open-source-report) (Published: 2 weeks ago)
 * [CE&#39; &amp; LIB-RARY 天母店](https://blog.wei-lee.me/posts/gossiping/2026/01/CE-and-LIB-RARY-tian-mu) (Published: 3 weeks ago)
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#61196](https://github.com/apache/airflow/pull/61196) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#61196](https://github.com/apache/airflow/pull/61196) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#61106](https://github.com/apache/airflow/pull/61106) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#44144](https://github.com/apache/airflow/issues/44144#issuecomment-3808655697) in [apache/airflow](https://github.com/apache/airflow)
-5. ℹ️ Unassigned issue [#44144](https://github.com/apache/airflow/issues/44144) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#61126](https://github.com/apache/airflow/pull/61126) in [apache/airflow](https://github.com/apache/airflow)
-7. ℹ️ Unlabeled PR [#61106](https://github.com/apache/airflow/pull/61106) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#61126](https://github.com/apache/airflow/pull/61126) in [apache/airflow](https://github.com/apache/airflow)
-9. 🔒 Closed issue [#59293](https://github.com/apache/airflow/issues/59293) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#60577](https://github.com/apache/airflow/pull/60577) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#61247](https://github.com/apache/airflow/pull/61247) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#57692](https://github.com/apache/airflow/issues/57692) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#57692](https://github.com/apache/airflow/issues/57692#issuecomment-3822748949) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#61247](https://github.com/apache/airflow/pull/61247) in [apache/airflow](https://github.com/apache/airflow)
+5. ℹ️ Assigned issue [#61241](https://github.com/apache/airflow/issues/61241) in [apache/airflow](https://github.com/apache/airflow)
+6. ℹ️ Labeled issue [#61241](https://github.com/apache/airflow/issues/61241) in [apache/airflow](https://github.com/apache/airflow)
+7. ❗ Opened issue [#61241](https://github.com/apache/airflow/issues/61241) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#61086](https://github.com/apache/airflow/issues/61086#issuecomment-3821688281) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#57694](https://github.com/apache/airflow/issues/57694#issuecomment-3821669139) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#59115](https://github.com/apache/airflow/pull/59115#issuecomment-3821666914) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
