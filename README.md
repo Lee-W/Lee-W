@@ -48,10 +48,10 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 6 days ago)
-* [報導者十週年](https://blog.wei-lee.me/posts/gossiping/2026/01/the-reporter-10th) (Published: 6 days ago)
-* [2026/01/12 - 01/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-12-01-18-open-source-report) (Published: 1 week ago)
-* [2026/01/05 - 01/11 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-05-01-11-open-source-report) (Published: 2 weeks ago)
+* [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 1 week ago)
+* [報導者十週年](https://blog.wei-lee.me/posts/gossiping/2026/01/the-reporter-10th) (Published: 1 week ago)
+* [2026/01/12 - 01/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-12-01-18-open-source-report) (Published: 2 weeks ago)
+* [2026/01/05 - 01/11 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-05-01-11-open-source-report) (Published: 3 weeks ago)
 * [CE&#39; &amp; LIB-RARY 天母店](https://blog.wei-lee.me/posts/gossiping/2026/01/CE-and-LIB-RARY-tian-mu) (Published: 3 weeks ago)
 
 ### Those things no one cares about
@@ -59,21 +59,21 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  * [冒險者公會 The A.G&#39;s Bar](https://travlog.wei-lee.me/posts/review/2026/01/the-a-g-s-bar) (Published: 1 week ago)
  * [2025 Spotify 年度回顧](https://travlog.wei-lee.me/posts/review/2026/01/2025-spotify-wrapped) (Published: 3 weeks ago)
  * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 3 weeks ago)
- * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 3 weeks ago)
- * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 3 weeks ago)
+ * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 4 weeks ago)
+ * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 4 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#61247](https://github.com/apache/airflow/pull/61247) in [apache/airflow](https://github.com/apache/airflow)
-2. 🔒 Closed issue [#57692](https://github.com/apache/airflow/issues/57692) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#57692](https://github.com/apache/airflow/issues/57692#issuecomment-3822748949) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#61247](https://github.com/apache/airflow/pull/61247) in [apache/airflow](https://github.com/apache/airflow)
-5. ℹ️ Assigned issue [#61241](https://github.com/apache/airflow/issues/61241) in [apache/airflow](https://github.com/apache/airflow)
-6. ℹ️ Labeled issue [#61241](https://github.com/apache/airflow/issues/61241) in [apache/airflow](https://github.com/apache/airflow)
-7. ❗ Opened issue [#61241](https://github.com/apache/airflow/issues/61241) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#61086](https://github.com/apache/airflow/issues/61086#issuecomment-3821688281) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#57694](https://github.com/apache/airflow/issues/57694#issuecomment-3821669139) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#59115](https://github.com/apache/airflow/pull/59115#issuecomment-3821666914) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#1795](https://github.com/commitizen-tools/commitizen/pull/1795#issuecomment-3828447214) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. ℹ️ Assigned PR [#1795](https://github.com/commitizen-tools/commitizen/pull/1795) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ℹ️ Labeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. ℹ️ Labeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. ℹ️ Unlabeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. ℹ️ Labeled PR [#1829](https://github.com/commitizen-tools/commitizen/pull/1829) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. ℹ️ Unlabeled PR [#1829](https://github.com/commitizen-tools/commitizen/pull/1829) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ℹ️ Unlabeled PR [#1830](https://github.com/commitizen-tools/commitizen/pull/1830) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1831](https://github.com/commitizen-tools/commitizen/issues/1831#issuecomment-3828434332) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🗣 Commented on [#1827](https://github.com/commitizen-tools/commitizen/pull/1827#issuecomment-3828396999) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
