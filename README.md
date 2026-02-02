@@ -48,11 +48,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
+* [scisprint Taipei 2026 January](https://blog.wei-lee.me/posts/tech/2026/02/scisprint-taipei-2026-january) (Published: 1 day ago)
 * [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 1 week ago)
 * [報導者十週年](https://blog.wei-lee.me/posts/gossiping/2026/01/the-reporter-10th) (Published: 1 week ago)
 * [2026/01/12 - 01/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-12-01-18-open-source-report) (Published: 2 weeks ago)
 * [2026/01/05 - 01/11 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-05-01-11-open-source-report) (Published: 3 weeks ago)
-* [CE&#39; &amp; LIB-RARY 天母店](https://blog.wei-lee.me/posts/gossiping/2026/01/CE-and-LIB-RARY-tian-mu) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#1795](https://github.com/commitizen-tools/commitizen/pull/1795#issuecomment-3828447214) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. ℹ️ Assigned PR [#1795](https://github.com/commitizen-tools/commitizen/pull/1795) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. ℹ️ Labeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. ℹ️ Labeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. ℹ️ Unlabeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. ℹ️ Labeled PR [#1829](https://github.com/commitizen-tools/commitizen/pull/1829) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. ℹ️ Unlabeled PR [#1829](https://github.com/commitizen-tools/commitizen/pull/1829) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. ℹ️ Unlabeled PR [#1830](https://github.com/commitizen-tools/commitizen/pull/1830) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#1831](https://github.com/commitizen-tools/commitizen/issues/1831#issuecomment-3828434332) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#1827](https://github.com/commitizen-tools/commitizen/pull/1827#issuecomment-3828396999) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#193](https://github.com/pycontw/pycon-etl/pull/193#issuecomment-3832471945) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+2. 🗣 Commented on [#1832](https://github.com/commitizen-tools/commitizen/pull/1832#issuecomment-3832469938) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ℹ️ Unlabeled PR [#1832](https://github.com/commitizen-tools/commitizen/pull/1832) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🎉 Merged PR [#1827](https://github.com/commitizen-tools/commitizen/pull/1827) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#1795](https://github.com/commitizen-tools/commitizen/pull/1795#issuecomment-3828447214) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. ℹ️ Assigned PR [#1795](https://github.com/commitizen-tools/commitizen/pull/1795) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. ℹ️ Labeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ℹ️ Labeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. ℹ️ Unlabeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. ℹ️ Labeled PR [#1829](https://github.com/commitizen-tools/commitizen/pull/1829) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
