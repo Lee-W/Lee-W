@@ -48,7 +48,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [scisprint Taipei 2026 January](https://blog.wei-lee.me/posts/tech/2026/02/scisprint-taipei-2026-january) (Published: 1 day ago)
+* [scisprint Taipei 2026 January](https://blog.wei-lee.me/posts/tech/2026/02/scisprint-taipei-2026-january) (Published: 2 days ago)
 * [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 1 week ago)
 * [報導者十週年](https://blog.wei-lee.me/posts/gossiping/2026/01/the-reporter-10th) (Published: 1 week ago)
 * [2026/01/12 - 01/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-12-01-18-open-source-report) (Published: 2 weeks ago)
@@ -59,8 +59,8 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
  * [冒險者公會 The A.G&#39;s Bar](https://travlog.wei-lee.me/posts/review/2026/01/the-a-g-s-bar) (Published: 1 week ago)
  * [2025 Spotify 年度回顧](https://travlog.wei-lee.me/posts/review/2026/01/2025-spotify-wrapped) (Published: 3 weeks ago)
  * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 3 weeks ago)
- * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 4 weeks ago)
- * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 4 weeks ago)
+ * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 1 month ago)
+ * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
