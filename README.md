@@ -48,7 +48,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [scisprint Taipei 2026 January](https://blog.wei-lee.me/posts/tech/2026/02/scisprint-taipei-2026-january) (Published: 2 days ago)
+* [scisprint Taipei 2026 January](https://blog.wei-lee.me/posts/tech/2026/02/scisprint-taipei-2026-january) (Published: 3 days ago)
 * [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 1 week ago)
 * [報導者十週年](https://blog.wei-lee.me/posts/gossiping/2026/01/the-reporter-10th) (Published: 1 week ago)
 * [2026/01/12 - 01/18 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-12-01-18-open-source-report) (Published: 2 weeks ago)
@@ -56,24 +56,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [冒險者公會 The A.G&#39;s Bar](https://travlog.wei-lee.me/posts/review/2026/01/the-a-g-s-bar) (Published: 1 week ago)
- * [2025 Spotify 年度回顧](https://travlog.wei-lee.me/posts/review/2026/01/2025-spotify-wrapped) (Published: 3 weeks ago)
- * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 3 weeks ago)
+ * [冒險者公會 The A.G&#39;s Bar](https://travlog.wei-lee.me/posts/review/2026/01/the-a-g-s-bar) (Published: 2 weeks ago)
+ * [2025 Spotify 年度回顧](https://travlog.wei-lee.me/posts/review/2026/01/2025-spotify-wrapped) (Published: 4 weeks ago)
+ * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 4 weeks ago)
  * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 1 month ago)
  * [少女樂團 吶喊吧](https://travlog.wei-lee.me/posts/review/2026/01/girls-band-cry) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#193](https://github.com/pycontw/pycon-etl/pull/193#issuecomment-3832471945) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. 🗣 Commented on [#1832](https://github.com/commitizen-tools/commitizen/pull/1832#issuecomment-3832469938) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. ℹ️ Unlabeled PR [#1832](https://github.com/commitizen-tools/commitizen/pull/1832) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🎉 Merged PR [#1827](https://github.com/commitizen-tools/commitizen/pull/1827) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-5. 🗣 Commented on [#1795](https://github.com/commitizen-tools/commitizen/pull/1795#issuecomment-3828447214) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. ℹ️ Assigned PR [#1795](https://github.com/commitizen-tools/commitizen/pull/1795) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. ℹ️ Labeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. ℹ️ Labeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. ℹ️ Unlabeled PR [#1802](https://github.com/commitizen-tools/commitizen/pull/1802) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. ℹ️ Labeled PR [#1829](https://github.com/commitizen-tools/commitizen/pull/1829) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+1. 🗣 Commented on [#58676](https://github.com/apache/airflow/issues/58676#issuecomment-3844726680) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#194](https://github.com/pycontw/pycon-etl/pull/194#issuecomment-3841934286) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+3. 💪 Opened PR [#194](https://github.com/pycontw/pycon-etl/pull/194) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+4. 🗣 Commented on [#193](https://github.com/pycontw/pycon-etl/pull/193#issuecomment-3841802262) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 🗣 Commented on [#60248](https://github.com/apache/airflow/issues/60248#issuecomment-3841718612) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#59001](https://github.com/apache/airflow/issues/59001#issuecomment-3839243859) in [apache/airflow](https://github.com/apache/airflow)
+7. ℹ️ Assigned issue [#59001](https://github.com/apache/airflow/issues/59001) in [apache/airflow](https://github.com/apache/airflow)
+8. ℹ️ Assigned issue [#59051](https://github.com/apache/airflow/issues/59051) in [apache/airflow](https://github.com/apache/airflow)
+9. ℹ️ Assigned issue [#61219](https://github.com/apache/airflow/issues/61219) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#193](https://github.com/pycontw/pycon-etl/pull/193#issuecomment-3832471945) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
 
 
 ## ⭐ GitHub Stat
