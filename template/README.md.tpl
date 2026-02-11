@@ -56,16 +56,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#1772](https://github.com/commitizen-tools/commitizen/issues/1772) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#61433](https://github.com/apache/airflow/pull/61433#issuecomment-3870671000) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#23138](https://github.com/astral-sh/ruff/pull/23138#issuecomment-3868766128) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-3868760559) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#55200](https://github.com/apache/airflow/issues/55200#issuecomment-3868759243) in [apache/airflow](https://github.com/apache/airflow)
-6. ℹ️ Assigned PR [#61522](https://github.com/apache/airflow/pull/61522) in [apache/airflow](https://github.com/apache/airflow)
-7. ℹ️ Assigned PR [#61433](https://github.com/apache/airflow/pull/61433) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#23138](https://github.com/astral-sh/ruff/pull/23138#issuecomment-3865975754) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-9. 🗣 Commented on [#1816](https://github.com/commitizen-tools/commitizen/pull/1816#issuecomment-3863480230) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-3863408327) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#61725](https://github.com/apache/airflow/pull/61725) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#54714](https://github.com/apache/airflow/issues/54714) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3877222334) in [apache/airflow](https://github.com/apache/airflow)
+4. 🔓 Reopened issue [#41641](https://github.com/apache/airflow/issues/41641) in [apache/airflow](https://github.com/apache/airflow)
+5. 🔒 Closed issue [#41641](https://github.com/apache/airflow/issues/41641) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-3877216501) in [apache/airflow](https://github.com/apache/airflow)
+7. ℹ️ Assigned issue [#41641](https://github.com/apache/airflow/issues/41641) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#1862](https://github.com/commitizen-tools/commitizen/pull/1862#issuecomment-3875106406) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1772](https://github.com/commitizen-tools/commitizen/issues/1772#issuecomment-3875102957) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🔓 Reopened issue [#1772](https://github.com/commitizen-tools/commitizen/issues/1772) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
