@@ -48,7 +48,7 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [2026/02/02 - 02/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/02/2026-02-02-02-08-open-source-report) (Published: 2 days ago)
+* [2026/02/02 - 02/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/02/2026-02-02-02-08-open-source-report) (Published: 3 days ago)
 * [scisprint Taipei 2026 January](https://blog.wei-lee.me/posts/tech/2026/02/scisprint-taipei-2026-january) (Published: 1 week ago)
 * [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 2 weeks ago)
 * [報導者十週年](https://blog.wei-lee.me/posts/gossiping/2026/01/the-reporter-10th) (Published: 2 weeks ago)
@@ -56,24 +56,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
- * [FF 46 Day 2](https://travlog.wei-lee.me/posts/review/2026/02/ff-46) (Published: 1 day ago)
- * [冒險者公會 The A.G&#39;s Bar](https://travlog.wei-lee.me/posts/review/2026/01/the-a-g-s-bar) (Published: 2 weeks ago)
+ * [FF 46 Day 2](https://travlog.wei-lee.me/posts/review/2026/02/ff-46) (Published: 2 days ago)
+ * [冒險者公會 The A.G&#39;s Bar](https://travlog.wei-lee.me/posts/review/2026/01/the-a-g-s-bar) (Published: 3 weeks ago)
  * [2025 Spotify 年度回顧](https://travlog.wei-lee.me/posts/review/2026/01/2025-spotify-wrapped) (Published: 1 month ago)
  * [小市民系列 第二季](https://travlog.wei-lee.me/posts/review/2026/01/shoshimin-series-s2) (Published: 1 month ago)
  * [2025 冬季看什麼](https://travlog.wei-lee.me/posts/review/2026/01/what-i-watched-in-2025-winter) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🔓 Reopened issue [#1772](https://github.com/commitizen-tools/commitizen/issues/1772) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#61433](https://github.com/apache/airflow/pull/61433#issuecomment-3870671000) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#23138](https://github.com/astral-sh/ruff/pull/23138#issuecomment-3868766128) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-3868760559) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#55200](https://github.com/apache/airflow/issues/55200#issuecomment-3868759243) in [apache/airflow](https://github.com/apache/airflow)
-6. ℹ️ Assigned PR [#61522](https://github.com/apache/airflow/pull/61522) in [apache/airflow](https://github.com/apache/airflow)
-7. ℹ️ Assigned PR [#61433](https://github.com/apache/airflow/pull/61433) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#23138](https://github.com/astral-sh/ruff/pull/23138#issuecomment-3865975754) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-9. 🗣 Commented on [#1816](https://github.com/commitizen-tools/commitizen/pull/1816#issuecomment-3863480230) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-3863408327) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#61725](https://github.com/apache/airflow/pull/61725) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#54714](https://github.com/apache/airflow/issues/54714) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#54714](https://github.com/apache/airflow/issues/54714#issuecomment-3877222334) in [apache/airflow](https://github.com/apache/airflow)
+4. 🔓 Reopened issue [#41641](https://github.com/apache/airflow/issues/41641) in [apache/airflow](https://github.com/apache/airflow)
+5. 🔒 Closed issue [#41641](https://github.com/apache/airflow/issues/41641) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#41641](https://github.com/apache/airflow/issues/41641#issuecomment-3877216501) in [apache/airflow](https://github.com/apache/airflow)
+7. ℹ️ Assigned issue [#41641](https://github.com/apache/airflow/issues/41641) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#1862](https://github.com/commitizen-tools/commitizen/pull/1862#issuecomment-3875106406) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🗣 Commented on [#1772](https://github.com/commitizen-tools/commitizen/issues/1772#issuecomment-3875102957) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+10. 🔓 Reopened issue [#1772](https://github.com/commitizen-tools/commitizen/issues/1772) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
