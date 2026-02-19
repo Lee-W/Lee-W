@@ -48,17 +48,17 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [回顧「「推坑」──2026 年 1 月 BlogBlog 同樂會回顧」](https://blog.wei-lee.me/posts/random-thoughts/2026/02/review-blogblog-jan-review) (Published: 1 day ago)
-* [大家都什麼時候看書呢？](https://blog.wei-lee.me/posts/random-thoughts/2026/02/when-do-you-read) (Published: 3 days ago)
+* [回顧「「推坑」──2026 年 1 月 BlogBlog 同樂會回顧」](https://blog.wei-lee.me/posts/random-thoughts/2026/02/review-blogblog-jan-review) (Published: 2 days ago)
+* [大家都什麼時候看書呢？](https://blog.wei-lee.me/posts/random-thoughts/2026/02/when-do-you-read) (Published: 4 days ago)
 * [2026/02/02 - 02/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/02/2026-02-02-02-08-open-source-report) (Published: 1 week ago)
 * [scisprint Taipei 2026 January](https://blog.wei-lee.me/posts/tech/2026/02/scisprint-taipei-2026-january) (Published: 2 weeks ago)
 * [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [r/anime awards 2025 現正投票中](https://travlog.wei-lee.me/posts/review/2026/02/r-anime-awards-2025) (Published: 1 day ago)
- * [有情出包所](https://travlog.wei-lee.me/posts/review/2026/02/true-bao-maker) (Published: 1 day ago)
- * [不是每個英雄都披著披風](https://travlog.wei-lee.me/posts/review/2026/02/thanks-my-otaku-friend) (Published: 3 days ago)
+ * [r/anime awards 2025 現正投票中](https://travlog.wei-lee.me/posts/review/2026/02/r-anime-awards-2025) (Published: 2 days ago)
+ * [有情出包所](https://travlog.wei-lee.me/posts/review/2026/02/true-bao-maker) (Published: 2 days ago)
+ * [不是每個英雄都披著披風](https://travlog.wei-lee.me/posts/review/2026/02/thanks-my-otaku-friend) (Published: 4 days ago)
  * [FF 46 Day 2](https://travlog.wei-lee.me/posts/review/2026/02/ff-46) (Published: 1 week ago)
  * [冒險者公會 The A.G&#39;s Bar](https://travlog.wei-lee.me/posts/review/2026/01/the-a-g-s-bar) (Published: 4 weeks ago)
 
