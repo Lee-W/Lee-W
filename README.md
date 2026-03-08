@@ -48,18 +48,18 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
+* [理想的料理用油](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-oil) (Published: 1 day ago)
+* [NEKTON FUJISAWA コワーキングスペース&amp;シェアキッチン](https://blog.wei-lee.me/posts/random-thoughts/2026/03/nekton-fujisawa) (Published: 4 days ago)
 * [回顧「「推坑」──2026 年 1 月 BlogBlog 同樂會回顧」](https://blog.wei-lee.me/posts/random-thoughts/2026/02/review-blogblog-jan-review) (Published: 2 weeks ago)
-* [大家都什麼時候看書呢？](https://blog.wei-lee.me/posts/random-thoughts/2026/02/when-do-you-read) (Published: 2 weeks ago)
-* [2026/02/02 - 02/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/02/2026-02-02-02-08-open-source-report) (Published: 3 weeks ago)
-* [scisprint Taipei 2026 January](https://blog.wei-lee.me/posts/tech/2026/02/scisprint-taipei-2026-january) (Published: 1 month ago)
-* [2026/01/19 - 01/25 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/01/2026-01-19-01-25-open-source-report) (Published: 1 month ago)
+* [大家都什麼時候看書呢？](https://blog.wei-lee.me/posts/random-thoughts/2026/02/when-do-you-read) (Published: 3 weeks ago)
+* [2026/02/02 - 02/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/02/2026-02-02-02-08-open-source-report) (Published: 4 weeks ago)
 
 ### Those things no one cares about
  
  * [純潔龐克 發條少女](https://travlog.wei-lee.me/posts/review/2026/02/virgin-punk) (Published: 2 weeks ago)
  * [r/anime awards 2025 現正投票中](https://travlog.wei-lee.me/posts/review/2026/02/r-anime-awards-2025) (Published: 2 weeks ago)
  * [有情出包所](https://travlog.wei-lee.me/posts/review/2026/02/true-bao-maker) (Published: 2 weeks ago)
- * [不是每個英雄都披著披風](https://travlog.wei-lee.me/posts/review/2026/02/thanks-my-otaku-friend) (Published: 2 weeks ago)
+ * [不是每個英雄都披著披風](https://travlog.wei-lee.me/posts/review/2026/02/thanks-my-otaku-friend) (Published: 3 weeks ago)
  * [FF 46 Day 2](https://travlog.wei-lee.me/posts/review/2026/02/ff-46) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
