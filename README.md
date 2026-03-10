@@ -48,32 +48,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [理想的料理用油](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-oil) (Published: 2 days ago)
-* [NEKTON FUJISAWA コワーキングスペース&amp;シェアキッチン](https://blog.wei-lee.me/posts/random-thoughts/2026/03/nekton-fujisawa) (Published: 5 days ago)
-* [回顧「「推坑」──2026 年 1 月 BlogBlog 同樂會回顧」](https://blog.wei-lee.me/posts/random-thoughts/2026/02/review-blogblog-jan-review) (Published: 2 weeks ago)
+* [理想的料理用油](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-oil) (Published: 3 days ago)
+* [NEKTON FUJISAWA コワーキングスペース&amp;シェアキッチン](https://blog.wei-lee.me/posts/random-thoughts/2026/03/nekton-fujisawa) (Published: 6 days ago)
+* [回顧「「推坑」──2026 年 1 月 BlogBlog 同樂會回顧」](https://blog.wei-lee.me/posts/random-thoughts/2026/02/review-blogblog-jan-review) (Published: 3 weeks ago)
 * [大家都什麼時候看書呢？](https://blog.wei-lee.me/posts/random-thoughts/2026/02/when-do-you-read) (Published: 3 weeks ago)
-* [2026/02/02 - 02/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/02/2026-02-02-02-08-open-source-report) (Published: 4 weeks ago)
+* [2026/02/02 - 02/08 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/02/2026-02-02-02-08-open-source-report) (Published: 1 month ago)
 
 ### Those things no one cares about
  
  * [純潔龐克 發條少女](https://travlog.wei-lee.me/posts/review/2026/02/virgin-punk) (Published: 2 weeks ago)
- * [r/anime awards 2025 現正投票中](https://travlog.wei-lee.me/posts/review/2026/02/r-anime-awards-2025) (Published: 2 weeks ago)
- * [有情出包所](https://travlog.wei-lee.me/posts/review/2026/02/true-bao-maker) (Published: 2 weeks ago)
+ * [r/anime awards 2025 現正投票中](https://travlog.wei-lee.me/posts/review/2026/02/r-anime-awards-2025) (Published: 3 weeks ago)
+ * [有情出包所](https://travlog.wei-lee.me/posts/review/2026/02/true-bao-maker) (Published: 3 weeks ago)
  * [不是每個英雄都披著披風](https://travlog.wei-lee.me/posts/review/2026/02/thanks-my-otaku-friend) (Published: 3 weeks ago)
  * [FF 46 Day 2](https://travlog.wei-lee.me/posts/review/2026/02/ff-46) (Published: 4 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. ℹ️ Assigned PR [#62927](https://github.com/apache/airflow/pull/62927) in [apache/airflow](https://github.com/apache/airflow)
-2. ℹ️ Assigned PR [#62866](https://github.com/apache/airflow/pull/62866) in [apache/airflow](https://github.com/apache/airflow)
-3. ℹ️ Assigned PR [#62864](https://github.com/apache/airflow/pull/62864) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#62981](https://github.com/apache/airflow/pull/62981) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#62768](https://github.com/apache/airflow/issues/62768) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#62981](https://github.com/apache/airflow/pull/62981) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#62976](https://github.com/apache/airflow/pull/62976) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#62976](https://github.com/apache/airflow/pull/62976) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#62971](https://github.com/apache/airflow/pull/62971) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#62971](https://github.com/apache/airflow/pull/62971) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#63190](https://github.com/apache/airflow/pull/63190) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#1560](https://github.com/astronomer/airflow/pull/1560) in [astronomer/airflow](https://github.com/astronomer/airflow)
+3. 🎉 Merged PR [#62864](https://github.com/apache/airflow/pull/62864) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#62709](https://github.com/apache/airflow/pull/62709#issuecomment-4022451662) in [apache/airflow](https://github.com/apache/airflow)
+5. 🔒 Closed issue [#62392](https://github.com/apache/airflow/issues/62392) in [apache/airflow](https://github.com/apache/airflow)
+6. ❌ Closed PR [#78](https://github.com/Lee-W/pelican-stat/pull/78) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+7. ❌ Closed PR [#77](https://github.com/Lee-W/pelican-stat/pull/77) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+8. ❌ Closed PR [#79](https://github.com/Lee-W/pelican-stat/pull/79) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+9. ❌ Closed PR [#76](https://github.com/Lee-W/pelican-stat/pull/76) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+10. ❌ Closed PR [#75](https://github.com/Lee-W/pelican-stat/pull/75) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
 
 
 ## ⭐ GitHub Stat
