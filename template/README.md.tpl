@@ -56,16 +56,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63190](https://github.com/apache/airflow/pull/63190) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#1560](https://github.com/astronomer/airflow/pull/1560) in [astronomer/airflow](https://github.com/astronomer/airflow)
-3. 🎉 Merged PR [#62864](https://github.com/apache/airflow/pull/62864) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#62709](https://github.com/apache/airflow/pull/62709#issuecomment-4022451662) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#62392](https://github.com/apache/airflow/issues/62392) in [apache/airflow](https://github.com/apache/airflow)
-6. ❌ Closed PR [#78](https://github.com/Lee-W/pelican-stat/pull/78) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-7. ❌ Closed PR [#77](https://github.com/Lee-W/pelican-stat/pull/77) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-8. ❌ Closed PR [#79](https://github.com/Lee-W/pelican-stat/pull/79) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-9. ❌ Closed PR [#76](https://github.com/Lee-W/pelican-stat/pull/76) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
-10. ❌ Closed PR [#75](https://github.com/Lee-W/pelican-stat/pull/75) in [Lee-W/pelican-stat](https://github.com/Lee-W/pelican-stat)
+1. ℹ️ Assigned issue [#62564](https://github.com/apache/airflow/issues/62564) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#63272](https://github.com/apache/airflow/pull/63272) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#63272](https://github.com/apache/airflow/pull/63272) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#63256](https://github.com/apache/airflow/pull/63256) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#63262](https://github.com/apache/airflow/pull/63262) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#63108](https://github.com/apache/airflow/pull/63108#issuecomment-4031156003) in [apache/airflow](https://github.com/apache/airflow)
+7. ❌ Closed PR [#1559](https://github.com/astronomer/airflow/pull/1559) in [astronomer/airflow](https://github.com/astronomer/airflow)
+8. 🗣 Commented on [#63256](https://github.com/apache/airflow/pull/63256#issuecomment-4031032392) in [apache/airflow](https://github.com/apache/airflow)
+9. ℹ️ Labeled PR [#63256](https://github.com/apache/airflow/pull/63256) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#63256](https://github.com/apache/airflow/pull/63256) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
