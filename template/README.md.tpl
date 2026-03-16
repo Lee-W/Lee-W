@@ -56,16 +56,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Lee-W/attila/pull/5) in [Lee-W/attila](https://github.com/Lee-W/attila)
-2. 🎉 Merged PR [#2](https://github.com/Lee-W/pelican-osm/pull/2) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-3. 💪 Opened PR [#2](https://github.com/Lee-W/pelican-osm/pull/2) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-4. 💪 Opened PR [#5](https://github.com/Lee-W/attila/pull/5) in [Lee-W/attila](https://github.com/Lee-W/attila)
-5. ❌ Closed PR [#112](https://github.com/arulrajnet/attila/pull/112) in [arulrajnet/attila](https://github.com/arulrajnet/attila)
-6. 💪 Opened PR [#112](https://github.com/arulrajnet/attila/pull/112) in [arulrajnet/attila](https://github.com/arulrajnet/attila)
-7. 🎉 Merged PR [#3](https://github.com/Lee-W/pelican-heatmap/pull/3) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
-8. 💪 Opened PR [#3](https://github.com/Lee-W/pelican-heatmap/pull/3) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
-9. ❌ Closed PR [#1](https://github.com/Lee-W/pelican-heatmap/pull/1) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
-10. 🎉 Merged PR [#2](https://github.com/Lee-W/pelican-heatmap/pull/2) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
+1. ℹ️ Labeled issue [#63689](https://github.com/apache/airflow/issues/63689) in [apache/airflow](https://github.com/apache/airflow)
+2. ❗ Opened issue [#63689](https://github.com/apache/airflow/issues/63689) in [apache/airflow](https://github.com/apache/airflow)
+3. ℹ️ Assigned issue [#63689](https://github.com/apache/airflow/issues/63689) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#63631](https://github.com/apache/airflow/pull/63631#issuecomment-4064485449) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#1397](https://github.com/commitizen-tools/commitizen/issues/1397#issuecomment-4064482660) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+6. ℹ️ Assigned issue [#63442](https://github.com/apache/airflow/issues/63442) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#63190](https://github.com/apache/airflow/pull/63190) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#112](https://github.com/arulrajnet/attila/pull/112#issuecomment-4062623350) in [arulrajnet/attila](https://github.com/arulrajnet/attila)
+9. 🗣 Commented on [#112](https://github.com/arulrajnet/attila/pull/112#issuecomment-4062217929) in [arulrajnet/attila](https://github.com/arulrajnet/attila)
+10. 🎉 Merged PR [#5](https://github.com/Lee-W/attila/pull/5) in [Lee-W/attila](https://github.com/Lee-W/attila)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
