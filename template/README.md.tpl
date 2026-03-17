@@ -56,16 +56,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#63689](https://github.com/apache/airflow/issues/63689) in [apache/airflow](https://github.com/apache/airflow)
-2. ❗ Opened issue [#63689](https://github.com/apache/airflow/issues/63689) in [apache/airflow](https://github.com/apache/airflow)
-3. ℹ️ Assigned issue [#63689](https://github.com/apache/airflow/issues/63689) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#63631](https://github.com/apache/airflow/pull/63631#issuecomment-4064485449) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#1397](https://github.com/commitizen-tools/commitizen/issues/1397#issuecomment-4064482660) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. ℹ️ Assigned issue [#63442](https://github.com/apache/airflow/issues/63442) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#63190](https://github.com/apache/airflow/pull/63190) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#112](https://github.com/arulrajnet/attila/pull/112#issuecomment-4062623350) in [arulrajnet/attila](https://github.com/arulrajnet/attila)
-9. 🗣 Commented on [#112](https://github.com/arulrajnet/attila/pull/112#issuecomment-4062217929) in [arulrajnet/attila](https://github.com/arulrajnet/attila)
-10. 🎉 Merged PR [#5](https://github.com/Lee-W/attila/pull/5) in [Lee-W/attila](https://github.com/Lee-W/attila)
+1. ℹ️ Assigned issue [#63707](https://github.com/apache/airflow/issues/63707) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4065241589) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. ℹ️ Labeled issue [#63689](https://github.com/apache/airflow/issues/63689) in [apache/airflow](https://github.com/apache/airflow)
+4. ❗ Opened issue [#63689](https://github.com/apache/airflow/issues/63689) in [apache/airflow](https://github.com/apache/airflow)
+5. ℹ️ Assigned issue [#63689](https://github.com/apache/airflow/issues/63689) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#63631](https://github.com/apache/airflow/pull/63631#issuecomment-4064485449) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#1397](https://github.com/commitizen-tools/commitizen/issues/1397#issuecomment-4064482660) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. ℹ️ Assigned issue [#63442](https://github.com/apache/airflow/issues/63442) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#63190](https://github.com/apache/airflow/pull/63190) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#112](https://github.com/arulrajnet/attila/pull/112#issuecomment-4062623350) in [arulrajnet/attila](https://github.com/arulrajnet/attila)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
