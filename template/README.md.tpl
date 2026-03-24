@@ -56,16 +56,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63419](https://github.com/apache/airflow/pull/63419#issuecomment-4096983213) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#63848](https://github.com/apache/airflow/pull/63848#issuecomment-4096510131) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#1907](https://github.com/commitizen-tools/commitizen/pull/1907) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#63972](https://github.com/apache/airflow/pull/63972#issuecomment-4096274136) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#63972](https://github.com/apache/airflow/pull/63972#issuecomment-4096273229) in [apache/airflow](https://github.com/apache/airflow)
-6. ❌ Closed PR [#63972](https://github.com/apache/airflow/pull/63972) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#63972](https://github.com/apache/airflow/pull/63972) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#63436](https://github.com/apache/airflow/issues/63436#issuecomment-4095422464) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#1907](https://github.com/commitizen-tools/commitizen/pull/1907) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 🎉 Merged PR [#63783](https://github.com/apache/airflow/pull/63783) in [apache/airflow](https://github.com/apache/airflow)
+1. 🔒 Closed issue [#55866](https://github.com/apache/airflow/issues/55866) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#64094](https://github.com/apache/airflow/pull/64094) in [apache/airflow](https://github.com/apache/airflow)
+3. ❌ Closed PR [#1564](https://github.com/astronomer/airflow/pull/1564) in [astronomer/airflow](https://github.com/astronomer/airflow)
+4. 🗣 Commented on [#64094](https://github.com/apache/airflow/pull/64094#issuecomment-4108983733) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#64094](https://github.com/apache/airflow/pull/64094#issuecomment-4108946299) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#64094](https://github.com/apache/airflow/pull/64094#issuecomment-4108852401) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#1565](https://github.com/astronomer/airflow/pull/1565) in [astronomer/airflow](https://github.com/astronomer/airflow)
+8. 💪 Opened PR [#64094](https://github.com/apache/airflow/pull/64094) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#1564](https://github.com/astronomer/airflow/pull/1564) in [astronomer/airflow](https://github.com/astronomer/airflow)
+10. 🗣 Commented on [#63848](https://github.com/apache/airflow/pull/63848#issuecomment-4108572763) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
