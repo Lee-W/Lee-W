@@ -48,32 +48,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [理想的衣著](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-clothing) (Published: 2 days ago)
-* [2026/03/16 - 03/22 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/03/2026-03-16-03-22-open-source-report) (Published: 2 days ago)
+* [理想的出門娃娃](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-doll) (Published: 1 day ago)
+* [理想的桌子](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-desk) (Published: 2 days ago)
+* [理想的衣著](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-clothing) (Published: 3 days ago)
+* [2026/03/16 - 03/22 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/03/2026-03-16-03-22-open-source-report) (Published: 3 days ago)
 * [理想的 A3 海報運送](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-poster-transportation) (Published: 1 week ago)
-* [如何把 Airflow 規則貢獻進 Ruff？](https://blog.wei-lee.me/posts/tech/2026/03/how-we-submit-airflow-specific-rules-to-ruff) (Published: 1 week ago)
-* [Apache Airflow 3.1.8 發佈！](https://blog.wei-lee.me/posts/tech/2026/03/apache-airflow-3-1-8-release) (Published: 1 week ago)
 
 ### Those things no one cares about
  
+ * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 1 day ago)
  * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 1 week ago)
- * [Megaport Festival 大港開唱 2026](https://travlog.wei-lee.me/posts/review/2026/03/megaport-festival-plan) (Published: 1 week ago)
+ * [Megaport Festival 大港開唱 2026 計劃篇](https://travlog.wei-lee.me/posts/review/2026/03/megaport-festival-plan) (Published: 1 week ago)
  * [純潔龐克 發條少女](https://travlog.wei-lee.me/posts/review/2026/02/virgin-punk) (Published: 1 month ago)
  * [r/anime awards 2025 現正投票中](https://travlog.wei-lee.me/posts/review/2026/02/r-anime-awards-2025) (Published: 1 month ago)
- * [有情出包所](https://travlog.wei-lee.me/posts/review/2026/02/true-bao-maker) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#64160](https://github.com/apache/airflow/pull/64160#issuecomment-4127270095) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#3](https://github.com/Lee-W/pelican-osm/pull/3) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-3. 💪 Opened PR [#3](https://github.com/Lee-W/pelican-osm/pull/3) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-4. ❌ Closed PR [#1565](https://github.com/astronomer/airflow/pull/1565) in [astronomer/airflow](https://github.com/astronomer/airflow)
-5. 💪 Opened PR [#64211](https://github.com/apache/airflow/pull/64211) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#62866](https://github.com/apache/airflow/pull/62866) in [apache/airflow](https://github.com/apache/airflow)
-7. ℹ️ Assigned PR [#64160](https://github.com/apache/airflow/pull/64160) in [apache/airflow](https://github.com/apache/airflow)
-8. 🔒 Closed issue [#61838](https://github.com/apache/airflow/issues/61838) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#64160](https://github.com/apache/airflow/pull/64160) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#63262](https://github.com/apache/airflow/pull/63262) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#5](https://github.com/Lee-W/pelican-osm/pull/5) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+2. 💪 Opened PR [#5](https://github.com/Lee-W/pelican-osm/pull/5) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+3. 💪 Opened PR [#1566](https://github.com/astronomer/airflow/pull/1566) in [astronomer/airflow](https://github.com/astronomer/airflow)
+4. 🗣 Commented on [#63949](https://github.com/apache/airflow/pull/63949#issuecomment-4133288006) in [apache/airflow](https://github.com/apache/airflow)
+5. 🔒 Closed issue [#59551](https://github.com/apache/airflow/issues/59551) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#64239](https://github.com/apache/airflow/pull/64239) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#22459](https://github.com/astral-sh/ruff/issues/22459#issuecomment-4132287815) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+8. 💪 Opened PR [#64239](https://github.com/apache/airflow/pull/64239) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#4](https://github.com/Lee-W/pelican-osm/pull/4) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+10. 💪 Opened PR [#4](https://github.com/Lee-W/pelican-osm/pull/4) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
 
 
 ## ⭐ GitHub Stat
