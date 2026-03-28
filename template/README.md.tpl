@@ -56,16 +56,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Lee-W/pelican-osm/pull/5) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-2. 💪 Opened PR [#5](https://github.com/Lee-W/pelican-osm/pull/5) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-3. 💪 Opened PR [#1566](https://github.com/astronomer/airflow/pull/1566) in [astronomer/airflow](https://github.com/astronomer/airflow)
-4. 🗣 Commented on [#63949](https://github.com/apache/airflow/pull/63949#issuecomment-4133288006) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#59551](https://github.com/apache/airflow/issues/59551) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#64239](https://github.com/apache/airflow/pull/64239) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#22459](https://github.com/astral-sh/ruff/issues/22459#issuecomment-4132287815) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-8. 💪 Opened PR [#64239](https://github.com/apache/airflow/pull/64239) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#4](https://github.com/Lee-W/pelican-osm/pull/4) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-10. 💪 Opened PR [#4](https://github.com/Lee-W/pelican-osm/pull/4) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+1. ❌ Closed PR [#1566](https://github.com/astronomer/airflow/pull/1566) in [astronomer/airflow](https://github.com/astronomer/airflow)
+2. 🎉 Merged PR [#64160](https://github.com/apache/airflow/pull/64160) in [apache/airflow](https://github.com/apache/airflow)
+3. ℹ️ Labeled issue [#49571](https://github.com/apache/airflow/issues/49571) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#5](https://github.com/Lee-W/pelican-osm/pull/5) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+5. 💪 Opened PR [#5](https://github.com/Lee-W/pelican-osm/pull/5) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+6. 💪 Opened PR [#1566](https://github.com/astronomer/airflow/pull/1566) in [astronomer/airflow](https://github.com/astronomer/airflow)
+7. 🗣 Commented on [#63949](https://github.com/apache/airflow/pull/63949#issuecomment-4133288006) in [apache/airflow](https://github.com/apache/airflow)
+8. 🔒 Closed issue [#59551](https://github.com/apache/airflow/issues/59551) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#64239](https://github.com/apache/airflow/pull/64239) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#22459](https://github.com/astral-sh/ruff/issues/22459#issuecomment-4132287815) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
