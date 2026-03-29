@@ -48,17 +48,17 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [理想的鞋子](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-shoes) (Published: 1 day ago)
-* [理想的出門娃娃](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-doll) (Published: 2 days ago)
-* [理想的桌子](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-desk) (Published: 3 days ago)
-* [理想的衣著](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-clothing) (Published: 4 days ago)
-* [2026/03/16 - 03/22 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/03/2026-03-16-03-22-open-source-report) (Published: 4 days ago)
+* [理想的運動理由](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-reason-to-exercise) (Published: 1 day ago)
+* [理想的鞋子](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-shoes) (Published: 2 days ago)
+* [理想的出門娃娃](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-doll) (Published: 3 days ago)
+* [理想的桌子](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-desk) (Published: 4 days ago)
+* [理想的衣著](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-clothing) (Published: 5 days ago)
 
 ### Those things no one cares about
  
- * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 2 days ago)
+ * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 3 days ago)
  * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 1 week ago)
- * [Megaport Festival 大港開唱 2026 計劃篇](https://travlog.wei-lee.me/posts/review/2026/03/megaport-festival-plan) (Published: 1 week ago)
+ * [Megaport Festival 大港開唱 2026 計劃篇](https://travlog.wei-lee.me/posts/review/2026/03/megaport-festival-plan) (Published: 2 weeks ago)
  * [純潔龐克 發條少女](https://travlog.wei-lee.me/posts/review/2026/02/virgin-punk) (Published: 1 month ago)
  * [r/anime awards 2025 現正投票中](https://travlog.wei-lee.me/posts/review/2026/02/r-anime-awards-2025) (Published: 1 month ago)
 
