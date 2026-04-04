@@ -48,11 +48,11 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 1 day ago)
-* [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 2 days ago)
-* [理想的日常](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou) (Published: 3 days ago)
-* [理想的日常都吃些什麼](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou-meal) (Published: 4 days ago)
-* [理想的調味料](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-seasoning) (Published: 5 days ago)
+* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 2 days ago)
+* [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 3 days ago)
+* [理想的日常](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou) (Published: 4 days ago)
+* [理想的日常都吃些什麼](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou-meal) (Published: 5 days ago)
+* [理想的調味料](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-seasoning) (Published: 6 days ago)
 
 ### Those things no one cares about
  
