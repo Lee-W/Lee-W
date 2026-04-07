@@ -56,16 +56,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64744](https://github.com/apache/airflow/pull/64744) in [apache/airflow](https://github.com/apache/airflow)
-2. ℹ️ Unlabeled PR [#55416](https://github.com/apache/airflow/pull/55416) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#62929](https://github.com/apache/airflow/issues/62929#issuecomment-4176572415) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Unlabeled issue [#62929](https://github.com/apache/airflow/issues/62929) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#61375](https://github.com/apache/airflow/issues/61375) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#43176](https://github.com/apache/airflow/issues/43176#issuecomment-4175176071) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#64571](https://github.com/apache/airflow/pull/64571) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#63949](https://github.com/apache/airflow/pull/63949#issuecomment-4161463830) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#23583](https://github.com/astral-sh/ruff/pull/23583#issuecomment-4160797841) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 🎉 Merged PR [#64211](https://github.com/apache/airflow/pull/64211) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#64821](https://github.com/apache/airflow/pull/64821) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#64762](https://github.com/apache/airflow/pull/64762) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#64744](https://github.com/apache/airflow/pull/64744) in [apache/airflow](https://github.com/apache/airflow)
+4. ❌ Closed PR [#452](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/452) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+5. ❌ Closed PR [#451](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/451) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. ❌ Closed PR [#449](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/449) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. ❌ Closed PR [#450](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/450) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. ❌ Closed PR [#447](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/447) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. ❌ Closed PR [#448](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/448) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. ❌ Closed PR [#443](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/443) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
