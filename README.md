@@ -48,32 +48,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 4 days ago)
-* [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 5 days ago)
-* [理想的日常](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou) (Published: 6 days ago)
+* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 5 days ago)
+* [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 6 days ago)
+* [理想的日常](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou) (Published: 1 week ago)
 * [理想的日常都吃些什麼](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou-meal) (Published: 1 week ago)
 * [理想的調味料](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-seasoning) (Published: 1 week ago)
 
 ### Those things no one cares about
  
  * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 1 week ago)
- * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 2 weeks ago)
+ * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 3 weeks ago)
  * [Megaport Festival 大港開唱 2026 計劃篇](https://travlog.wei-lee.me/posts/review/2026/03/megaport-festival-plan) (Published: 3 weeks ago)
  * [純潔龐克 發條少女](https://travlog.wei-lee.me/posts/review/2026/02/virgin-punk) (Published: 1 month ago)
  * [r/anime awards 2025 現正投票中](https://travlog.wei-lee.me/posts/review/2026/02/r-anime-awards-2025) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#64744](https://github.com/apache/airflow/pull/64744) in [apache/airflow](https://github.com/apache/airflow)
-2. ℹ️ Unlabeled PR [#55416](https://github.com/apache/airflow/pull/55416) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#62929](https://github.com/apache/airflow/issues/62929#issuecomment-4176572415) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Unlabeled issue [#62929](https://github.com/apache/airflow/issues/62929) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#61375](https://github.com/apache/airflow/issues/61375) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#43176](https://github.com/apache/airflow/issues/43176#issuecomment-4175176071) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#64571](https://github.com/apache/airflow/pull/64571) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#63949](https://github.com/apache/airflow/pull/63949#issuecomment-4161463830) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#23583](https://github.com/astral-sh/ruff/pull/23583#issuecomment-4160797841) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 🎉 Merged PR [#64211](https://github.com/apache/airflow/pull/64211) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#64821](https://github.com/apache/airflow/pull/64821) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#64762](https://github.com/apache/airflow/pull/64762) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#64744](https://github.com/apache/airflow/pull/64744) in [apache/airflow](https://github.com/apache/airflow)
+4. ❌ Closed PR [#452](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/452) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+5. ❌ Closed PR [#451](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/451) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+6. ❌ Closed PR [#449](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/449) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+7. ❌ Closed PR [#450](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/450) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+8. ❌ Closed PR [#447](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/447) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+9. ❌ Closed PR [#448](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/448) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+10. ❌ Closed PR [#443](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/443) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 
 
 ## ⭐ GitHub Stat
