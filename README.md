@@ -48,8 +48,8 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 5 days ago)
-* [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 6 days ago)
+* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 6 days ago)
+* [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 1 week ago)
 * [理想的日常](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou) (Published: 1 week ago)
 * [理想的日常都吃些什麼](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou-meal) (Published: 1 week ago)
 * [理想的調味料](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-seasoning) (Published: 1 week ago)
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#64821](https://github.com/apache/airflow/pull/64821) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#64762](https://github.com/apache/airflow/pull/64762) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#64744](https://github.com/apache/airflow/pull/64744) in [apache/airflow](https://github.com/apache/airflow)
-4. ❌ Closed PR [#452](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/452) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-5. ❌ Closed PR [#451](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/451) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-6. ❌ Closed PR [#449](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/449) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-7. ❌ Closed PR [#450](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/450) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-8. ❌ Closed PR [#447](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/447) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-9. ❌ Closed PR [#448](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/448) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
-10. ❌ Closed PR [#443](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/443) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
+1. 🗣 Commented on [#1926](https://github.com/commitizen-tools/commitizen/pull/1926#issuecomment-4203205380) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 💪 Opened PR [#196](https://github.com/pycontw/pycon-etl/pull/196) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+3. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4198819573) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#64832](https://github.com/apache/airflow/pull/64832) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4198266143) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#64832](https://github.com/apache/airflow/pull/64832#issuecomment-4198121875) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#64832](https://github.com/apache/airflow/pull/64832) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#64821](https://github.com/apache/airflow/pull/64821#issuecomment-4197558500) in [apache/airflow](https://github.com/apache/airflow)
+9. ❌ Closed PR [#64821](https://github.com/apache/airflow/pull/64821) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#55416](https://github.com/apache/airflow/pull/55416#issuecomment-4197496108) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
