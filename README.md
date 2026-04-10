@@ -56,24 +56,24 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those things no one cares about
  
+ * [劇場版「暗殺教室」：我們的時光](https://travlog.wei-lee.me/posts/review/2026/04/Ansatsu-Kyoushitsu-Minna-no-Jikan) (Published: 1 day ago)
  * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 2 weeks ago)
  * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 3 weeks ago)
  * [Megaport Festival 大港開唱 2026 計劃篇](https://travlog.wei-lee.me/posts/review/2026/03/megaport-festival-plan) (Published: 3 weeks ago)
  * [純潔龐克 發條少女](https://travlog.wei-lee.me/posts/review/2026/02/virgin-punk) (Published: 1 month ago)
- * [r/anime awards 2025 現正投票中](https://travlog.wei-lee.me/posts/review/2026/02/r-anime-awards-2025) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. ℹ️ Unassigned issue [#64880](https://github.com/apache/airflow/issues/64880) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#64880](https://github.com/apache/airflow/issues/64880#issuecomment-4204085623) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#64880](https://github.com/apache/airflow/issues/64880#issuecomment-4204082600) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Assigned issue [#44146](https://github.com/apache/airflow/issues/44146) in [apache/airflow](https://github.com/apache/airflow)
-5. ℹ️ Labeled issue [#64880](https://github.com/apache/airflow/issues/64880) in [apache/airflow](https://github.com/apache/airflow)
-6. ℹ️ Assigned issue [#64880](https://github.com/apache/airflow/issues/64880) in [apache/airflow](https://github.com/apache/airflow)
-7. ℹ️ Labeled issue [#64880](https://github.com/apache/airflow/issues/64880) in [apache/airflow](https://github.com/apache/airflow)
-8. ❗ Opened issue [#64880](https://github.com/apache/airflow/issues/64880) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#196](https://github.com/pycontw/pycon-etl/pull/196#issuecomment-4203642249) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-10. ℹ️ Labeled PR [#64876](https://github.com/apache/airflow/pull/64876) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#55416](https://github.com/apache/airflow/pull/55416) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#64876](https://github.com/apache/airflow/pull/64876) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#64876](https://github.com/apache/airflow/pull/64876#issuecomment-4211224132) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#64876](https://github.com/apache/airflow/pull/64876#issuecomment-4211222919) in [apache/airflow](https://github.com/apache/airflow)
+5. ℹ️ Unassigned issue [#64880](https://github.com/apache/airflow/issues/64880) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#64880](https://github.com/apache/airflow/issues/64880#issuecomment-4204085623) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#64880](https://github.com/apache/airflow/issues/64880#issuecomment-4204082600) in [apache/airflow](https://github.com/apache/airflow)
+8. ℹ️ Assigned issue [#44146](https://github.com/apache/airflow/issues/44146) in [apache/airflow](https://github.com/apache/airflow)
+9. ℹ️ Labeled issue [#64880](https://github.com/apache/airflow/issues/64880) in [apache/airflow](https://github.com/apache/airflow)
+10. ℹ️ Assigned issue [#64880](https://github.com/apache/airflow/issues/64880) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
