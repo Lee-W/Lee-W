@@ -52,14 +52,14 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 * [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 1 week ago)
 * [理想的日常](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou) (Published: 1 week ago)
 * [理想的日常都吃些什麼](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou-meal) (Published: 1 week ago)
-* [理想的調味料](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-seasoning) (Published: 1 week ago)
+* [理想的調味料](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-seasoning) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [劇場版「暗殺教室」：我們的時光](https://travlog.wei-lee.me/posts/review/2026/04/Ansatsu-Kyoushitsu-Minna-no-Jikan) (Published: 2 days ago)
+ * [劇場版「暗殺教室」：我們的時光](https://travlog.wei-lee.me/posts/review/2026/04/Ansatsu-Kyoushitsu-Minna-no-Jikan) (Published: 3 days ago)
  * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 2 weeks ago)
  * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 3 weeks ago)
- * [Megaport Festival 大港開唱 2026 計劃篇](https://travlog.wei-lee.me/posts/review/2026/03/megaport-festival-plan) (Published: 3 weeks ago)
+ * [Megaport Festival 大港開唱 2026 計劃篇](https://travlog.wei-lee.me/posts/review/2026/03/megaport-festival-plan) (Published: 4 weeks ago)
  * [純潔龐克 發條少女](https://travlog.wei-lee.me/posts/review/2026/02/virgin-punk) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
