@@ -48,32 +48,32 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [總統接見我，真的假的](https://blog.wei-lee.me/posts/random-thoughts/2026/04/tomorin-goes-to-presidential-office) (Published: 1 day ago)
-* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 1 week ago)
+* [Apache Airflow 3.2.0 發佈！](https://blog.wei-lee.me/posts/tech/2026/04/apache-airflow-3-2-0-release) (Published: 1 day ago)
+* [總統接見我，真的假的](https://blog.wei-lee.me/posts/random-thoughts/2026/04/tomorin-goes-to-presidential-office) (Published: 2 days ago)
+* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 2 weeks ago)
 * [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 2 weeks ago)
 * [理想的日常](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou) (Published: 2 weeks ago)
-* [理想的日常都吃些什麼](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou-meal) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [劇場版「暗殺教室」：我們的時光](https://travlog.wei-lee.me/posts/review/2026/04/Ansatsu-Kyoushitsu-Minna-no-Jikan) (Published: 6 days ago)
- * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 2 weeks ago)
- * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 4 weeks ago)
+ * [劇場版「暗殺教室」：我們的時光](https://travlog.wei-lee.me/posts/review/2026/04/Ansatsu-Kyoushitsu-Minna-no-Jikan) (Published: 1 week ago)
+ * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 3 weeks ago)
+ * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 1 month ago)
  * [Megaport Festival 大港開唱 2026 計劃篇](https://travlog.wei-lee.me/posts/review/2026/03/megaport-festival-plan) (Published: 1 month ago)
  * [純潔龐克 發條少女](https://travlog.wei-lee.me/posts/review/2026/02/virgin-punk) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. ❌ Closed PR [#214](https://github.com/pycontw/pycontw-blog/pull/214) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. ❌ Closed PR [#212](https://github.com/pycontw/pycontw-blog/pull/212) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-3. ❌ Closed PR [#211](https://github.com/pycontw/pycontw-blog/pull/211) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. ❌ Closed PR [#213](https://github.com/pycontw/pycontw-blog/pull/213) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-5. ❌ Closed PR [#210](https://github.com/pycontw/pycontw-blog/pull/210) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 🗣 Commented on [#44146](https://github.com/apache/airflow/issues/44146#issuecomment-4222503296) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#64992](https://github.com/apache/airflow/pull/64992) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#64992](https://github.com/apache/airflow/pull/64992) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#55416](https://github.com/apache/airflow/pull/55416) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#64876](https://github.com/apache/airflow/pull/64876) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#6](https://github.com/Lee-W/attila/pull/6) in [Lee-W/attila](https://github.com/Lee-W/attila)
+2. 💪 Opened PR [#6](https://github.com/Lee-W/attila/pull/6) in [Lee-W/attila](https://github.com/Lee-W/attila)
+3. 💪 Opened PR [#65300](https://github.com/apache/airflow/pull/65300) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#44146](https://github.com/apache/airflow/issues/44146#issuecomment-4251226858) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#65288](https://github.com/apache/airflow/pull/65288) in [apache/airflow](https://github.com/apache/airflow)
+6. ℹ️ Labeled PR [#65288](https://github.com/apache/airflow/pull/65288) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#65288](https://github.com/apache/airflow/pull/65288) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#44146](https://github.com/apache/airflow/issues/44146#issuecomment-4249087851) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#196](https://github.com/pycontw/pycon-etl/pull/196) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+10. ❌ Closed PR [#16](https://github.com/Lee-W/travlog/pull/16) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 
 
 ## ⭐ GitHub Stat
