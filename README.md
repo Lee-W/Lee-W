@@ -48,8 +48,8 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ### Those aren't written down are meant to be forgotten
 
-* [Apache Airflow 3.2.0 發佈！](https://blog.wei-lee.me/posts/tech/2026/04/apache-airflow-3-2-0-release) (Published: 1 day ago)
-* [總統接見我，真的假的](https://blog.wei-lee.me/posts/random-thoughts/2026/04/tomorin-goes-to-presidential-office) (Published: 2 days ago)
+* [Apache Airflow 3.2.0 發佈！](https://blog.wei-lee.me/posts/tech/2026/04/apache-airflow-3-2-0-release) (Published: 2 days ago)
+* [總統接見我，真的假的](https://blog.wei-lee.me/posts/random-thoughts/2026/04/tomorin-goes-to-presidential-office) (Published: 3 days ago)
 * [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 2 weeks ago)
 * [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 2 weeks ago)
 * [理想的日常](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou) (Published: 2 weeks ago)
@@ -64,16 +64,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#6](https://github.com/Lee-W/attila/pull/6) in [Lee-W/attila](https://github.com/Lee-W/attila)
-2. 💪 Opened PR [#6](https://github.com/Lee-W/attila/pull/6) in [Lee-W/attila](https://github.com/Lee-W/attila)
-3. 💪 Opened PR [#65300](https://github.com/apache/airflow/pull/65300) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#44146](https://github.com/apache/airflow/issues/44146#issuecomment-4251226858) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#65288](https://github.com/apache/airflow/pull/65288) in [apache/airflow](https://github.com/apache/airflow)
-6. ℹ️ Labeled PR [#65288](https://github.com/apache/airflow/pull/65288) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#65288](https://github.com/apache/airflow/pull/65288) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#44146](https://github.com/apache/airflow/issues/44146#issuecomment-4249087851) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#196](https://github.com/pycontw/pycon-etl/pull/196) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-10. ❌ Closed PR [#16](https://github.com/Lee-W/travlog/pull/16) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🎉 Merged PR [#9](https://github.com/Lee-W/attila/pull/9) in [Lee-W/attila](https://github.com/Lee-W/attila)
+2. 💪 Opened PR [#9](https://github.com/Lee-W/attila/pull/9) in [Lee-W/attila](https://github.com/Lee-W/attila)
+3. 🎉 Merged PR [#8](https://github.com/Lee-W/attila/pull/8) in [Lee-W/attila](https://github.com/Lee-W/attila)
+4. 💪 Opened PR [#8](https://github.com/Lee-W/attila/pull/8) in [Lee-W/attila](https://github.com/Lee-W/attila)
+5. 🎉 Merged PR [#7](https://github.com/Lee-W/attila/pull/7) in [Lee-W/attila](https://github.com/Lee-W/attila)
+6. 💪 Opened PR [#7](https://github.com/Lee-W/attila/pull/7) in [Lee-W/attila](https://github.com/Lee-W/attila)
+7. 🗣 Commented on [#23579](https://github.com/astral-sh/ruff/pull/23579#issuecomment-4258970251) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+8. 🗣 Commented on [#65359](https://github.com/apache/airflow/pull/65359#issuecomment-4258562720) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#54](https://github.com/Lee-W/main-blog/issues/54#issuecomment-4257837771) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+10. 🎉 Merged PR [#6](https://github.com/Lee-W/attila/pull/6) in [Lee-W/attila](https://github.com/Lee-W/attila)
 
 
 ## ⭐ GitHub Stat
