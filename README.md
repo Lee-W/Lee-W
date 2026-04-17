@@ -1,29 +1,30 @@
-## Hi 👋 Wei Lee here
+## Hi 👋 Wei Lee / 李唯 here
 
-I'm a
+Open source contributor, Pythonista, and automation enthusiast based in Taiwan. 🇹🇼
 
 * 🐍 [Pythonista](https://pycon-note.wei-lee.me/)
-* 🐍 [PyCon Taiwan](https://tw.pycon.org/) organizer
+* 📢 [PyCon Taiwan](https://tw.pycon.org/) organizer
+* [Apache Airflow](https://github.com/apache/airflow/) PMC member, Taiwanese Mandarin Code Owner and Translation Owner
 * [commitizen-tools](https://github.com/commitizen-tools) maintainer
-* [Apache Airflow](https://github.com/apache/airflow/) PMC member
-* `#apache-airflow` Mentor and Memebot Bot @ [OpenSource4You](https://github.com/opensource4you/)
-* [📷 Traveler](https://travlog.wei-lee.me/)
-* ⛺ Member of [台湾野クル▲](https://twitter.com/Taiwannokuru)
-* 📺 Anime Lover
-* 📖 Reader
+* `#apache-airflow`, `#commitizen` Mentor and Memebot Bot @ [OpenSource4You](https://github.com/opensource4you/)
+* [📷 Traveler](https://travlog.wei-lee.me/category/travel)
+* ⛺ [台湾野クル▲](https://twitter.com/Taiwannokuru) (部員)
+* 📺 [Anime Lover](https://travlog.wei-lee.me/category/review)
+* 📖 [Reader](https://blog.wei-lee.me/category/book)
 * 🎵 Ukulele Player
 * 🔒 Locker
 
-I enjoy automating tedious tasks and creating high-quality code. Enjoy participating in open-source communities and contributing to open-source projects. Traveling is also a passion of mine, and I often use PyCon as an opportunity to explore new places. I have attended PyCon conferences in Taiwan 🇹🇼, the United States 🇺🇸, Japan 🇯🇵, Canada 🇨🇦, Remote Python Pizza 🍕, and Euro Python (remotely) 🇪🇺.
+I enjoy automating tedious tasks and contributing to open-source communities. I share my technical notes, book digests, and occasional thoughts on my main blog [Those aren't written down are meant to be forgotten](https://blog.wei-lee.me/). If you're interested in cooking, anime, and travel, check out [Those things no one cares about](https://travlog.wei-lee.me/).
 
-I share my technical notes, book digests, and occasional thoughts on my main blog [Those aren't written down are meant to be forgotten](https://blog.wei-lee.me/). If you're interested in topics such as cooking, anime, and travel, I chat about those things on [Those things no one cares about](https://travlog.wei-lee.me/).
+### 🌏 Attended PyCons
 
+PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, Remote Python Pizza 🍕, EuroPython 🇨🇿, PyCon APAC 🇵🇭, DurianPy 🇵🇭
 
 ---
 
 <p align="left">
 You can find me through
-  <a href="https://in.linkedin.com/in/clleew" target="blank">
+  <a href="https://tw.linkedin.com/in/clleew" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/clleew" target="blank">
@@ -32,14 +33,10 @@ You can find me through
   <a href="https://github.com/Lee-W/" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://mtd.pythonasia.org/@weilee" target="blank">
-    <img src="https://img.shields.io/mastodon/follow/109323826846876448?domain=mtd.pythonasia.org" />
+  <a href="https://g0v.social/@weilee" target="blank">
+    <img src="https://img.shields.io/mastodon/follow/109323826846876448?domain=g0v.social" />
   </a>
 </p>
-
----
-
-I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
 ---
 
@@ -64,16 +61,16 @@ I use ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#9](https://github.com/Lee-W/attila/pull/9) in [Lee-W/attila](https://github.com/Lee-W/attila)
-2. 💪 Opened PR [#9](https://github.com/Lee-W/attila/pull/9) in [Lee-W/attila](https://github.com/Lee-W/attila)
-3. 🎉 Merged PR [#8](https://github.com/Lee-W/attila/pull/8) in [Lee-W/attila](https://github.com/Lee-W/attila)
-4. 💪 Opened PR [#8](https://github.com/Lee-W/attila/pull/8) in [Lee-W/attila](https://github.com/Lee-W/attila)
-5. 🎉 Merged PR [#7](https://github.com/Lee-W/attila/pull/7) in [Lee-W/attila](https://github.com/Lee-W/attila)
-6. 💪 Opened PR [#7](https://github.com/Lee-W/attila/pull/7) in [Lee-W/attila](https://github.com/Lee-W/attila)
-7. 🗣 Commented on [#23579](https://github.com/astral-sh/ruff/pull/23579#issuecomment-4258970251) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-8. 🗣 Commented on [#65359](https://github.com/apache/airflow/pull/65359#issuecomment-4258562720) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#54](https://github.com/Lee-W/main-blog/issues/54#issuecomment-4257837771) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-10. 🎉 Merged PR [#6](https://github.com/Lee-W/attila/pull/6) in [Lee-W/attila](https://github.com/Lee-W/attila)
+1. 🎉 Merged PR [#11](https://github.com/Lee-W/attila/pull/11) in [Lee-W/attila](https://github.com/Lee-W/attila)
+2. 🎉 Merged PR [#5](https://github.com/Lee-W/pelican-heatmap/pull/5) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
+3. 💪 Opened PR [#11](https://github.com/Lee-W/attila/pull/11) in [Lee-W/attila](https://github.com/Lee-W/attila)
+4. 💪 Opened PR [#5](https://github.com/Lee-W/pelican-heatmap/pull/5) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
+5. ℹ️ Labeled issue [#65415](https://github.com/apache/airflow/issues/65415) in [apache/airflow](https://github.com/apache/airflow)
+6. ❗ Opened issue [#65415](https://github.com/apache/airflow/issues/65415) in [apache/airflow](https://github.com/apache/airflow)
+7. ℹ️ Assigned issue [#65415](https://github.com/apache/airflow/issues/65415) in [apache/airflow](https://github.com/apache/airflow)
+8. ℹ️ Assigned issue [#65414](https://github.com/apache/airflow/issues/65414) in [apache/airflow](https://github.com/apache/airflow)
+9. ℹ️ Labeled issue [#65414](https://github.com/apache/airflow/issues/65414) in [apache/airflow](https://github.com/apache/airflow)
+10. ❗ Opened issue [#65414](https://github.com/apache/airflow/issues/65414) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
