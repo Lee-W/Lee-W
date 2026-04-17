@@ -34,7 +34,7 @@ You can find me through
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://g0v.social/@weilee" target="blank">
-    <img src="https://img.shields.io/mastodon/follow/109323826846876448?domain=g0v.social" />
+    <img src="https://img.shields.io/mastodon/follow/116316863906618481?domain=g0v.social" />
   </a>
 </p>
 
