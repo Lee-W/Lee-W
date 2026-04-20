@@ -53,16 +53,16 @@ You can find me through
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Lee-W/pelican-osm/pull/7) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-2. 💪 Opened PR [#7](https://github.com/Lee-W/pelican-osm/pull/7) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-3. 🎉 Merged PR [#13](https://github.com/Lee-W/attila/pull/13) in [Lee-W/attila](https://github.com/Lee-W/attila)
-4. 💪 Opened PR [#13](https://github.com/Lee-W/attila/pull/13) in [Lee-W/attila](https://github.com/Lee-W/attila)
-5. 🎉 Merged PR [#6](https://github.com/Lee-W/pelican-osm/pull/6) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-6. 💪 Opened PR [#6](https://github.com/Lee-W/pelican-osm/pull/6) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-7. 🎉 Merged PR [#12](https://github.com/Lee-W/attila/pull/12) in [Lee-W/attila](https://github.com/Lee-W/attila)
-8. 💪 Opened PR [#12](https://github.com/Lee-W/attila/pull/12) in [Lee-W/attila](https://github.com/Lee-W/attila)
-9. 🎉 Merged PR [#6](https://github.com/Lee-W/pelican-heatmap/pull/6) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
-10. 💪 Opened PR [#6](https://github.com/Lee-W/pelican-heatmap/pull/6) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
+1. 🎉 Merged PR [#8](https://github.com/Lee-W/pelican-osm/pull/8) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+2. 💪 Opened PR [#8](https://github.com/Lee-W/pelican-osm/pull/8) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+3. 🎉 Merged PR [#7](https://github.com/Lee-W/pelican-osm/pull/7) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+4. 💪 Opened PR [#7](https://github.com/Lee-W/pelican-osm/pull/7) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+5. 🎉 Merged PR [#13](https://github.com/Lee-W/attila/pull/13) in [Lee-W/attila](https://github.com/Lee-W/attila)
+6. 💪 Opened PR [#13](https://github.com/Lee-W/attila/pull/13) in [Lee-W/attila](https://github.com/Lee-W/attila)
+7. 🎉 Merged PR [#6](https://github.com/Lee-W/pelican-osm/pull/6) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+8. 💪 Opened PR [#6](https://github.com/Lee-W/pelican-osm/pull/6) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+9. 🎉 Merged PR [#12](https://github.com/Lee-W/attila/pull/12) in [Lee-W/attila](https://github.com/Lee-W/attila)
+10. 💪 Opened PR [#12](https://github.com/Lee-W/attila/pull/12) in [Lee-W/attila](https://github.com/Lee-W/attila)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
