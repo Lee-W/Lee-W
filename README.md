@@ -47,30 +47,30 @@ You can find me through
 
 * [Apache Airflow 3.2.0 發佈！](https://blog.wei-lee.me/posts/tech/2026/04/apache-airflow-3-2-0-release) (Published: 1 week ago)
 * [總統接見我，真的假的](https://blog.wei-lee.me/posts/random-thoughts/2026/04/tomorin-goes-to-presidential-office) (Published: 1 week ago)
-* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 2 weeks ago)
+* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 3 weeks ago)
 * [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 3 weeks ago)
 * [理想的日常](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [Vüg Ka 餐酒食](https://travlog.wei-lee.me/posts/review/2026/04/vugka2025) (Published: 1 day ago)
- * [劇場版「暗殺教室」：我們的時光](https://travlog.wei-lee.me/posts/review/2026/04/Ansatsu-Kyoushitsu-Minna-no-Jikan) (Published: 1 week ago)
- * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 3 weeks ago)
+ * [隱家拉麵 赤峰店](https://travlog.wei-lee.me/posts/review/2026/04/kakuregaramen) (Published: 1 day ago)
+ * [Vüg Ka 餐酒食](https://travlog.wei-lee.me/posts/review/2026/04/vugka2025) (Published: 2 days ago)
+ * [劇場版「暗殺教室」：我們的時光](https://travlog.wei-lee.me/posts/review/2026/04/Ansatsu-Kyoushitsu-Minna-no-Jikan) (Published: 2 weeks ago)
+ * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 4 weeks ago)
  * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 1 month ago)
- * [Megaport Festival 大港開唱 2026 計劃篇](https://travlog.wei-lee.me/posts/review/2026/03/megaport-festival-plan) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#64972](https://github.com/apache/airflow/pull/64972#issuecomment-4286530389) in [apache/airflow](https://github.com/apache/airflow)
-2. 🔒 Closed issue [#56311](https://github.com/apache/airflow/issues/56311) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#65545](https://github.com/apache/airflow/pull/65545) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#65540](https://github.com/apache/airflow/pull/65540) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#65547](https://github.com/apache/airflow/pull/65547) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#65336](https://github.com/apache/airflow/issues/65336#issuecomment-4281744149) in [apache/airflow](https://github.com/apache/airflow)
-7. ℹ️ Assigned issue [#58474](https://github.com/apache/airflow/issues/58474) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#8](https://github.com/Lee-W/pelican-osm/pull/8) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-9. 💪 Opened PR [#8](https://github.com/Lee-W/pelican-osm/pull/8) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-10. 🎉 Merged PR [#7](https://github.com/Lee-W/pelican-osm/pull/7) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+1. ℹ️ Assigned issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
+2. ℹ️ Labeled issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
+3. ❗ Opened issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#64972](https://github.com/apache/airflow/pull/64972#issuecomment-4286530389) in [apache/airflow](https://github.com/apache/airflow)
+5. 🔒 Closed issue [#56311](https://github.com/apache/airflow/issues/56311) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#65545](https://github.com/apache/airflow/pull/65545) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#65540](https://github.com/apache/airflow/pull/65540) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#65547](https://github.com/apache/airflow/pull/65547) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#65336](https://github.com/apache/airflow/issues/65336#issuecomment-4281744149) in [apache/airflow](https://github.com/apache/airflow)
+10. ℹ️ Assigned issue [#58474](https://github.com/apache/airflow/issues/58474) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
