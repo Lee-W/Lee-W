@@ -53,24 +53,24 @@ You can find me through
 
 ### Those things no one cares about
  
- * [隱家拉麵 赤峰店](https://travlog.wei-lee.me/posts/review/2026/04/kakuregaramen) (Published: 1 day ago)
- * [Vüg Ka 餐酒食](https://travlog.wei-lee.me/posts/review/2026/04/vugka2025) (Published: 2 days ago)
+ * [隱家拉麵 赤峰店](https://travlog.wei-lee.me/posts/review/2026/04/kakuregaramen) (Published: 2 days ago)
+ * [Vüg Ka 餐酒食](https://travlog.wei-lee.me/posts/review/2026/04/vugka2025) (Published: 3 days ago)
  * [劇場版「暗殺教室」：我們的時光](https://travlog.wei-lee.me/posts/review/2026/04/Ansatsu-Kyoushitsu-Minna-no-Jikan) (Published: 2 weeks ago)
  * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 4 weeks ago)
  * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. ℹ️ Assigned issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
-2. ℹ️ Labeled issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
-3. ❗ Opened issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#64972](https://github.com/apache/airflow/pull/64972#issuecomment-4286530389) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#56311](https://github.com/apache/airflow/issues/56311) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#65545](https://github.com/apache/airflow/pull/65545) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#65540](https://github.com/apache/airflow/pull/65540) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#65547](https://github.com/apache/airflow/pull/65547) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#65336](https://github.com/apache/airflow/issues/65336#issuecomment-4281744149) in [apache/airflow](https://github.com/apache/airflow)
-10. ℹ️ Assigned issue [#58474](https://github.com/apache/airflow/issues/58474) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#197](https://github.com/pycontw/pycon-etl/pull/197#issuecomment-4309711589) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+2. 🗣 Commented on [#65702](https://github.com/apache/airflow/issues/65702#issuecomment-4309709888) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#197](https://github.com/pycontw/pycon-etl/pull/197) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+4. 🔒 Closed issue [#65414](https://github.com/apache/airflow/issues/65414) in [apache/airflow](https://github.com/apache/airflow)
+5. 🔒 Closed issue [#62464](https://github.com/apache/airflow/issues/62464) in [apache/airflow](https://github.com/apache/airflow)
+6. ℹ️ Assigned issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
+7. ℹ️ Labeled issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
+8. ❗ Opened issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#64972](https://github.com/apache/airflow/pull/64972#issuecomment-4286530389) in [apache/airflow](https://github.com/apache/airflow)
+10. 🔒 Closed issue [#56311](https://github.com/apache/airflow/issues/56311) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
