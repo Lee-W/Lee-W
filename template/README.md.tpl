@@ -2,11 +2,26 @@
 
 Open source contributor, Pythonista, and automation enthusiast based in Taiwan. 🇹🇼
 
+<p align="left">
+  <a href="https://tw.linkedin.com/in/clleew" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/clleew" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lee-W/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://g0v.social/@weilee" target="_blank">
+    <img src="https://img.shields.io/mastodon/follow/116316863906618481?domain=g0v.social" />
+  </a>
+</p>
+
 * 🐍 [Pythonista](https://pycon-note.wei-lee.me/)
 * 📢 [PyCon Taiwan](https://tw.pycon.org/) organizer
 * [Apache Airflow](https://github.com/apache/airflow/) PMC member, Taiwanese Mandarin Code Owner and Translation Owner
 * [commitizen-tools](https://github.com/commitizen-tools) maintainer
-* `#apache-airflow`, `#commitizen` Mentor and Memebot Bot @ [OpenSource4You](https://github.com/opensource4you/)
+* `#apache-airflow`, `#commitizen` Mentor and Memebot @ [OpenSource4You](https://github.com/opensource4you/)
 * [📷 Traveler](https://travlog.wei-lee.me/category/travel)
 * ⛺ [台湾野クル▲](https://twitter.com/Taiwannokuru) (部員)
 * 📺 [Anime Lover](https://travlog.wei-lee.me/category/review)
@@ -19,24 +34,6 @@ I enjoy automating tedious tasks and contributing to open-source communities. I 
 ### 🌏 Attended PyCons
 
 PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, Remote Python Pizza 🍕, EuroPython 🇨🇿, PyCon APAC 🇵🇭, DurianPy 🇵🇭
-
----
-
-<p align="left">
-You can find me through
-  <a href="https://tw.linkedin.com/in/clleew" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/clleew" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lee-W/" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://g0v.social/@weilee" target="blank">
-    <img src="https://img.shields.io/mastodon/follow/116316863906618481?domain=g0v.social" />
-  </a>
-</p>
 
 ---
 
