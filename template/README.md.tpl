@@ -53,16 +53,16 @@ You can find me through
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#197](https://github.com/pycontw/pycon-etl/pull/197#issuecomment-4309711589) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. 🗣 Commented on [#65702](https://github.com/apache/airflow/issues/65702#issuecomment-4309709888) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#197](https://github.com/pycontw/pycon-etl/pull/197) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 🔒 Closed issue [#65414](https://github.com/apache/airflow/issues/65414) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#62464](https://github.com/apache/airflow/issues/62464) in [apache/airflow](https://github.com/apache/airflow)
-6. ℹ️ Assigned issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
-7. ℹ️ Labeled issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
-8. ❗ Opened issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#64972](https://github.com/apache/airflow/pull/64972#issuecomment-4286530389) in [apache/airflow](https://github.com/apache/airflow)
-10. 🔒 Closed issue [#56311](https://github.com/apache/airflow/issues/56311) in [apache/airflow](https://github.com/apache/airflow)
+1. ℹ️ Labeled issue [#65768](https://github.com/apache/airflow/issues/65768) in [apache/airflow](https://github.com/apache/airflow)
+2. ❗ Opened issue [#65768](https://github.com/apache/airflow/issues/65768) in [apache/airflow](https://github.com/apache/airflow)
+3. ℹ️ Labeled issue [#65767](https://github.com/apache/airflow/issues/65767) in [apache/airflow](https://github.com/apache/airflow)
+4. ❗ Opened issue [#65767](https://github.com/apache/airflow/issues/65767) in [apache/airflow](https://github.com/apache/airflow)
+5. ℹ️ Labeled issue [#65766](https://github.com/apache/airflow/issues/65766) in [apache/airflow](https://github.com/apache/airflow)
+6. ❗ Opened issue [#65766](https://github.com/apache/airflow/issues/65766) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#57695](https://github.com/apache/airflow/issues/57695#issuecomment-4312322143) in [apache/airflow](https://github.com/apache/airflow)
+8. ℹ️ Labeled issue [#65763](https://github.com/apache/airflow/issues/65763) in [apache/airflow](https://github.com/apache/airflow)
+9. ❗ Opened issue [#65763](https://github.com/apache/airflow/issues/65763) in [apache/airflow](https://github.com/apache/airflow)
+10. ℹ️ Labeled issue [#65762](https://github.com/apache/airflow/issues/65762) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
