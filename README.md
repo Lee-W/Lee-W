@@ -2,11 +2,26 @@
 
 Open source contributor, Pythonista, and automation enthusiast based in Taiwan. 🇹🇼
 
+<p align="left">
+  <a href="https://tw.linkedin.com/in/clleew" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/clleew" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lee-W/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://g0v.social/@weilee" target="_blank">
+    <img src="https://img.shields.io/mastodon/follow/116316863906618481?domain=g0v.social" />
+  </a>
+</p>
+
 * 🐍 [Pythonista](https://pycon-note.wei-lee.me/)
 * 📢 [PyCon Taiwan](https://tw.pycon.org/) organizer
 * [Apache Airflow](https://github.com/apache/airflow/) PMC member, Taiwanese Mandarin Code Owner and Translation Owner
 * [commitizen-tools](https://github.com/commitizen-tools) maintainer
-* `#apache-airflow`, `#commitizen` Mentor and Memebot Bot @ [OpenSource4You](https://github.com/opensource4you/)
+* `#apache-airflow`, `#commitizen` Mentor and Memebot @ [OpenSource4You](https://github.com/opensource4you/)
 * [📷 Traveler](https://travlog.wei-lee.me/category/travel)
 * ⛺ [台湾野クル▲](https://twitter.com/Taiwannokuru) (部員)
 * 📺 [Anime Lover](https://travlog.wei-lee.me/category/review)
@@ -22,55 +37,37 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ---
 
-<p align="left">
-You can find me through
-  <a href="https://tw.linkedin.com/in/clleew" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/clleew" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lee-W/" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://g0v.social/@weilee" target="blank">
-    <img src="https://img.shields.io/mastodon/follow/116316863906618481?domain=g0v.social" />
-  </a>
-</p>
-
----
-
 
 ## 🖊️ Blogs
 
 ### Those aren't written down are meant to be forgotten
 
+* [生產力](https://blog.wei-lee.me/posts/random-thoughts/2026/04/productivity) (Published: 1 day ago)
+* [春秋書店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/AthenaBooks) (Published: 1 day ago)
 * [Apache Airflow 3.2.0 發佈！](https://blog.wei-lee.me/posts/tech/2026/04/apache-airflow-3-2-0-release) (Published: 1 week ago)
 * [總統接見我，真的假的](https://blog.wei-lee.me/posts/random-thoughts/2026/04/tomorin-goes-to-presidential-office) (Published: 1 week ago)
 * [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 3 weeks ago)
-* [CURISTA COFFEE 遠百信義A13店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/a13-CURISTA-COFFEE) (Published: 3 weeks ago)
-* [理想的日常](https://blog.wei-lee.me/posts/random-thoughts/2026/03/ideal-nichijou) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [隱家拉麵 赤峰店](https://travlog.wei-lee.me/posts/review/2026/04/kakuregaramen) (Published: 3 days ago)
- * [Vüg Ka 餐酒食](https://travlog.wei-lee.me/posts/review/2026/04/vugka2025) (Published: 4 days ago)
+ * [A KITE 風箏](https://travlog.wei-lee.me/posts/review/2026/04/a-kite) (Published: 1 day ago)
+ * [隱家拉麵 赤峰店](https://travlog.wei-lee.me/posts/review/2026/04/kakuregaramen) (Published: 4 days ago)
+ * [Vüg Ka 餐酒食](https://travlog.wei-lee.me/posts/review/2026/04/vugka2025) (Published: 5 days ago)
  * [劇場版「暗殺教室」：我們的時光](https://travlog.wei-lee.me/posts/review/2026/04/Ansatsu-Kyoushitsu-Minna-no-Jikan) (Published: 2 weeks ago)
  * [身延自然之里停業](https://travlog.wei-lee.me/posts/travel/2026/03/Minobu-Shizen-no-Sato-close) (Published: 1 month ago)
- * [特製的雙重奶油夾心餅乾](https://travlog.wei-lee.me/posts/cook/2026/03/double-layer-oreo) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
-1. ℹ️ Labeled issue [#65768](https://github.com/apache/airflow/issues/65768) in [apache/airflow](https://github.com/apache/airflow)
-2. ❗ Opened issue [#65768](https://github.com/apache/airflow/issues/65768) in [apache/airflow](https://github.com/apache/airflow)
-3. ℹ️ Labeled issue [#65767](https://github.com/apache/airflow/issues/65767) in [apache/airflow](https://github.com/apache/airflow)
-4. ❗ Opened issue [#65767](https://github.com/apache/airflow/issues/65767) in [apache/airflow](https://github.com/apache/airflow)
-5. ℹ️ Labeled issue [#65766](https://github.com/apache/airflow/issues/65766) in [apache/airflow](https://github.com/apache/airflow)
-6. ❗ Opened issue [#65766](https://github.com/apache/airflow/issues/65766) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#57695](https://github.com/apache/airflow/issues/57695#issuecomment-4312322143) in [apache/airflow](https://github.com/apache/airflow)
-8. ℹ️ Labeled issue [#65763](https://github.com/apache/airflow/issues/65763) in [apache/airflow](https://github.com/apache/airflow)
-9. ❗ Opened issue [#65763](https://github.com/apache/airflow/issues/65763) in [apache/airflow](https://github.com/apache/airflow)
-10. ℹ️ Labeled issue [#65762](https://github.com/apache/airflow/issues/65762) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#15](https://github.com/Lee-W/attila/pull/15) in [Lee-W/attila](https://github.com/Lee-W/attila)
+2. 💪 Opened PR [#15](https://github.com/Lee-W/attila/pull/15) in [Lee-W/attila](https://github.com/Lee-W/attila)
+3. 🎉 Merged PR [#9](https://github.com/Lee-W/pelican-osm/pull/9) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+4. 💪 Opened PR [#9](https://github.com/Lee-W/pelican-osm/pull/9) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+5. 🎉 Merged PR [#8](https://github.com/Lee-W/pelican-heatmap/pull/8) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
+6. 💪 Opened PR [#8](https://github.com/Lee-W/pelican-heatmap/pull/8) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
+7. 🎉 Merged PR [#7](https://github.com/Lee-W/pelican-heatmap/pull/7) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
+8. 💪 Opened PR [#7](https://github.com/Lee-W/pelican-heatmap/pull/7) in [Lee-W/pelican-heatmap](https://github.com/Lee-W/pelican-heatmap)
+9. 🗣 Commented on [#54](https://github.com/Lee-W/main-blog/issues/54#issuecomment-4318125161) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+10. 🗣 Commented on [#24673](https://github.com/astral-sh/ruff/pull/24673#issuecomment-4318113160) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 
 ## ⭐ GitHub Stat
