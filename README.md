@@ -42,32 +42,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [生產力](https://blog.wei-lee.me/posts/random-thoughts/2026/04/productivity) (Published: 6 days ago)
-* [春秋書店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/AthenaBooks) (Published: 6 days ago)
+* [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 1 day ago)
+* [生產力](https://blog.wei-lee.me/posts/random-thoughts/2026/04/productivity) (Published: 1 week ago)
+* [春秋書店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/AthenaBooks) (Published: 1 week ago)
 * [Apache Airflow 3.2.0 發佈！](https://blog.wei-lee.me/posts/tech/2026/04/apache-airflow-3-2-0-release) (Published: 2 weeks ago)
 * [總統接見我，真的假的](https://blog.wei-lee.me/posts/random-thoughts/2026/04/tomorin-goes-to-presidential-office) (Published: 2 weeks ago)
-* [4F劇場咖啡 Le Promenoir Coffee](https://blog.wei-lee.me/posts/random-thoughts/2026/04/Le-Promenoir-Coffee) (Published: 4 weeks ago)
 
 ### Those things no one cares about
  
- * [麥可傑克森（Michael）](https://travlog.wei-lee.me/posts/review/2026/04/michael) (Published: 4 days ago)
- * [A KITE 風箏](https://travlog.wei-lee.me/posts/review/2026/04/a-kite) (Published: 6 days ago)
+ * [更新「電影院座位個人喜好」！](https://travlog.wei-lee.me/posts/review/2026/05/update-my-theatre-preference-page) (Published: 1 day ago)
+ * [麥可傑克森（Michael）](https://travlog.wei-lee.me/posts/review/2026/04/michael) (Published: 5 days ago)
+ * [A KITE 風箏](https://travlog.wei-lee.me/posts/review/2026/04/a-kite) (Published: 1 week ago)
  * [隱家拉麵 赤峰店](https://travlog.wei-lee.me/posts/review/2026/04/kakuregaramen) (Published: 1 week ago)
  * [Vüg Ka 餐酒食](https://travlog.wei-lee.me/posts/review/2026/04/vugka2025) (Published: 1 week ago)
- * [劇場版「暗殺教室」：我們的時光](https://travlog.wei-lee.me/posts/review/2026/04/Ansatsu-Kyoushitsu-Minna-no-Jikan) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#13](https://github.com/Lee-W/pelican-osm/pull/13) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-2. 💪 Opened PR [#13](https://github.com/Lee-W/pelican-osm/pull/13) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-3. 🗣 Commented on [#58543](https://github.com/apache/airflow/pull/58543#issuecomment-4351446809) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#65856](https://github.com/apache/airflow/pull/65856#issuecomment-4351165336) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#66004](https://github.com/apache/airflow/pull/66004#issuecomment-4351024118) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#66142](https://github.com/apache/airflow/pull/66142#issuecomment-4350375707) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#65194](https://github.com/apache/airflow/pull/65194#issuecomment-4349562677) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#1385](https://github.com/commitizen-tools/commitizen/issues/1385#issuecomment-4344064829) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#12](https://github.com/Lee-W/pelican-osm/pull/12) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-10. 💪 Opened PR [#12](https://github.com/Lee-W/pelican-osm/pull/12) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+1. 🗣 Commented on [#65194](https://github.com/apache/airflow/pull/65194#issuecomment-4358369604) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#14](https://github.com/Lee-W/pelican-osm/pull/14) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+3. 💪 Opened PR [#14](https://github.com/Lee-W/pelican-osm/pull/14) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+4. 🎉 Merged PR [#13](https://github.com/Lee-W/pelican-osm/pull/13) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+5. 💪 Opened PR [#13](https://github.com/Lee-W/pelican-osm/pull/13) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+6. 🗣 Commented on [#58543](https://github.com/apache/airflow/pull/58543#issuecomment-4351446809) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#65856](https://github.com/apache/airflow/pull/65856#issuecomment-4351165336) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#66004](https://github.com/apache/airflow/pull/66004#issuecomment-4351024118) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#66142](https://github.com/apache/airflow/pull/66142#issuecomment-4350375707) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#65194](https://github.com/apache/airflow/pull/65194#issuecomment-4349562677) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
