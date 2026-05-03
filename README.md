@@ -42,7 +42,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 1 day ago)
+* [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 2 days ago)
 * [生產力](https://blog.wei-lee.me/posts/random-thoughts/2026/04/productivity) (Published: 1 week ago)
 * [春秋書店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/AthenaBooks) (Published: 1 week ago)
 * [Apache Airflow 3.2.0 發佈！](https://blog.wei-lee.me/posts/tech/2026/04/apache-airflow-3-2-0-release) (Published: 2 weeks ago)
@@ -50,11 +50,11 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those things no one cares about
  
- * [更新「電影院座位個人喜好」！](https://travlog.wei-lee.me/posts/review/2026/05/update-my-theatre-preference-page) (Published: 1 day ago)
- * [麥可傑克森（Michael）](https://travlog.wei-lee.me/posts/review/2026/04/michael) (Published: 5 days ago)
+ * [已嚴肅探班豐川家大小姐](https://travlog.wei-lee.me/posts/travel/2026/05/togawa-construction-site) (Published: 1 day ago)
+ * [更新「電影院座位個人喜好」！](https://travlog.wei-lee.me/posts/review/2026/05/update-my-theatre-preference-page) (Published: 2 days ago)
+ * [麥可傑克森（Michael）](https://travlog.wei-lee.me/posts/review/2026/04/michael) (Published: 6 days ago)
  * [A KITE 風箏](https://travlog.wei-lee.me/posts/review/2026/04/a-kite) (Published: 1 week ago)
  * [隱家拉麵 赤峰店](https://travlog.wei-lee.me/posts/review/2026/04/kakuregaramen) (Published: 1 week ago)
- * [Vüg Ka 餐酒食](https://travlog.wei-lee.me/posts/review/2026/04/vugka2025) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
