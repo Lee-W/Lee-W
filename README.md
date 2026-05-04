@@ -42,32 +42,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 2 days ago)
+* [2026/3/23 - 5/3 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-03-23-2026-05-03-open-source-report) (Published: 1 day ago)
+* [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 3 days ago)
 * [生產力](https://blog.wei-lee.me/posts/random-thoughts/2026/04/productivity) (Published: 1 week ago)
 * [春秋書店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/AthenaBooks) (Published: 1 week ago)
 * [Apache Airflow 3.2.0 發佈！](https://blog.wei-lee.me/posts/tech/2026/04/apache-airflow-3-2-0-release) (Published: 2 weeks ago)
-* [總統接見我，真的假的](https://blog.wei-lee.me/posts/random-thoughts/2026/04/tomorin-goes-to-presidential-office) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [已嚴肅探班豐川家大小姐](https://travlog.wei-lee.me/posts/travel/2026/05/togawa-construction-site) (Published: 1 day ago)
- * [更新「電影院座位個人喜好」！](https://travlog.wei-lee.me/posts/review/2026/05/update-my-theatre-preference-page) (Published: 2 days ago)
- * [麥可傑克森（Michael）](https://travlog.wei-lee.me/posts/review/2026/04/michael) (Published: 6 days ago)
+ * [一幻拉麵 台北信義店](https://travlog.wei-lee.me/posts/review/2026/05/ebisobaichigen) (Published: 1 day ago)
+ * [已嚴肅探班豐川家大小姐](https://travlog.wei-lee.me/posts/travel/2026/05/togawa-construction-site) (Published: 2 days ago)
+ * [更新「電影院座位個人喜好」！](https://travlog.wei-lee.me/posts/review/2026/05/update-my-theatre-preference-page) (Published: 3 days ago)
+ * [麥可傑克森（Michael）](https://travlog.wei-lee.me/posts/review/2026/04/michael) (Published: 1 week ago)
  * [A KITE 風箏](https://travlog.wei-lee.me/posts/review/2026/04/a-kite) (Published: 1 week ago)
- * [隱家拉麵 赤峰店](https://travlog.wei-lee.me/posts/review/2026/04/kakuregaramen) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#65194](https://github.com/apache/airflow/pull/65194#issuecomment-4358369604) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#14](https://github.com/Lee-W/pelican-osm/pull/14) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-3. 💪 Opened PR [#14](https://github.com/Lee-W/pelican-osm/pull/14) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-4. 🎉 Merged PR [#13](https://github.com/Lee-W/pelican-osm/pull/13) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-5. 💪 Opened PR [#13](https://github.com/Lee-W/pelican-osm/pull/13) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-6. 🗣 Commented on [#58543](https://github.com/apache/airflow/pull/58543#issuecomment-4351446809) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#65856](https://github.com/apache/airflow/pull/65856#issuecomment-4351165336) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#66004](https://github.com/apache/airflow/pull/66004#issuecomment-4351024118) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#66142](https://github.com/apache/airflow/pull/66142#issuecomment-4350375707) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#65194](https://github.com/apache/airflow/pull/65194#issuecomment-4349562677) in [apache/airflow](https://github.com/apache/airflow)
+1. ℹ️ Assigned issue [#65760](https://github.com/apache/airflow/issues/65760) in [apache/airflow](https://github.com/apache/airflow)
+2. ℹ️ Assigned issue [#65755](https://github.com/apache/airflow/issues/65755) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#18](https://github.com/Lee-W/travlog/issues/18#issuecomment-4365710154) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 🎉 Merged PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#24673](https://github.com/astral-sh/ruff/pull/24673#issuecomment-4365566882) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+6. 🗣 Commented on [#64972](https://github.com/apache/airflow/pull/64972#issuecomment-4365349972) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#24673](https://github.com/astral-sh/ruff/pull/24673#issuecomment-4365349532) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+8. 🗣 Commented on [#19](https://github.com/Lee-W/travlog/issues/19#issuecomment-4365263773) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+9. 🗣 Commented on [#65194](https://github.com/apache/airflow/pull/65194#issuecomment-4358369604) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#14](https://github.com/Lee-W/pelican-osm/pull/14) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
 
 
 ## ⭐ GitHub Stat
