@@ -50,16 +50,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65194](https://github.com/apache/airflow/pull/65194#issuecomment-4358369604) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#14](https://github.com/Lee-W/pelican-osm/pull/14) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-3. 💪 Opened PR [#14](https://github.com/Lee-W/pelican-osm/pull/14) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-4. 🎉 Merged PR [#13](https://github.com/Lee-W/pelican-osm/pull/13) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-5. 💪 Opened PR [#13](https://github.com/Lee-W/pelican-osm/pull/13) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-6. 🗣 Commented on [#58543](https://github.com/apache/airflow/pull/58543#issuecomment-4351446809) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#65856](https://github.com/apache/airflow/pull/65856#issuecomment-4351165336) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#66004](https://github.com/apache/airflow/pull/66004#issuecomment-4351024118) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#66142](https://github.com/apache/airflow/pull/66142#issuecomment-4350375707) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#65194](https://github.com/apache/airflow/pull/65194#issuecomment-4349562677) in [apache/airflow](https://github.com/apache/airflow)
+1. ℹ️ Assigned issue [#65760](https://github.com/apache/airflow/issues/65760) in [apache/airflow](https://github.com/apache/airflow)
+2. ℹ️ Assigned issue [#65755](https://github.com/apache/airflow/issues/65755) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#18](https://github.com/Lee-W/travlog/issues/18#issuecomment-4365710154) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 🎉 Merged PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#24673](https://github.com/astral-sh/ruff/pull/24673#issuecomment-4365566882) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+6. 🗣 Commented on [#64972](https://github.com/apache/airflow/pull/64972#issuecomment-4365349972) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#24673](https://github.com/astral-sh/ruff/pull/24673#issuecomment-4365349532) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+8. 🗣 Commented on [#19](https://github.com/Lee-W/travlog/issues/19#issuecomment-4365263773) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+9. 🗣 Commented on [#65194](https://github.com/apache/airflow/pull/65194#issuecomment-4358369604) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#14](https://github.com/Lee-W/pelican-osm/pull/14) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
