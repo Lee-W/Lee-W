@@ -42,32 +42,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [2026/3/23 - 5/3 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-03-23-2026-05-03-open-source-report) (Published: 2 days ago)
-* [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 4 days ago)
+* [NowNowNow 然後就忘了](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nownownow-now-forget) (Published: 1 day ago)
+* [2026/3/23 - 5/3 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-03-23-2026-05-03-open-source-report) (Published: 3 days ago)
+* [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 5 days ago)
 * [生產力](https://blog.wei-lee.me/posts/random-thoughts/2026/04/productivity) (Published: 1 week ago)
 * [春秋書店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/AthenaBooks) (Published: 1 week ago)
-* [Apache Airflow 3.2.0 發佈！](https://blog.wei-lee.me/posts/tech/2026/04/apache-airflow-3-2-0-release) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [Andor、Rogue One 倫敦聖地巡禮](https://travlog.wei-lee.me/posts/travel/2026/05/andor-rogue-one-london-pilgrimage) (Published: 1 day ago)
- * [一幻拉麵 台北信義店](https://travlog.wei-lee.me/posts/review/2026/05/ebisobaichigen) (Published: 2 days ago)
- * [已嚴肅探班豐川家大小姐](https://travlog.wei-lee.me/posts/travel/2026/05/togawa-construction-site) (Published: 3 days ago)
- * [更新「電影院座位個人喜好」！](https://travlog.wei-lee.me/posts/review/2026/05/update-my-theatre-preference-page) (Published: 4 days ago)
+ * [Andor、Rogue One 倫敦聖地巡禮](https://travlog.wei-lee.me/posts/travel/2026/05/andor-rogue-one-london-pilgrimage) (Published: 2 days ago)
+ * [一幻拉麵 台北信義店](https://travlog.wei-lee.me/posts/review/2026/05/ebisobaichigen) (Published: 3 days ago)
+ * [已嚴肅探班豐川家大小姐](https://travlog.wei-lee.me/posts/travel/2026/05/togawa-construction-site) (Published: 4 days ago)
+ * [更新「電影院座位個人喜好」！](https://travlog.wei-lee.me/posts/review/2026/05/update-my-theatre-preference-page) (Published: 5 days ago)
  * [麥可傑克森（Michael）](https://travlog.wei-lee.me/posts/review/2026/04/michael) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#65547](https://github.com/apache/airflow/pull/65547#issuecomment-4371253277) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#24673](https://github.com/astral-sh/ruff/pull/24673#issuecomment-4371164821) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. ℹ️ Assigned issue [#65760](https://github.com/apache/airflow/issues/65760) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Assigned issue [#65755](https://github.com/apache/airflow/issues/65755) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#18](https://github.com/Lee-W/travlog/issues/18#issuecomment-4365710154) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 🎉 Merged PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#24673](https://github.com/astral-sh/ruff/pull/24673#issuecomment-4365566882) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-8. 🗣 Commented on [#64972](https://github.com/apache/airflow/pull/64972#issuecomment-4365349972) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#24673](https://github.com/astral-sh/ruff/pull/24673#issuecomment-4365349532) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 🗣 Commented on [#19](https://github.com/Lee-W/travlog/issues/19#issuecomment-4365263773) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🚀 Published release [0.2.1](https://github.com/Lee-W/pelican-tabular/releases/tag/0.2.1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+2. 🎉 Merged PR [#66403](https://github.com/apache/airflow/pull/66403) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#66401](https://github.com/apache/airflow/pull/66401) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#66390](https://github.com/apache/airflow/pull/66390) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#66409](https://github.com/apache/airflow/pull/66409) in [apache/airflow](https://github.com/apache/airflow)
+6. ℹ️ Labeled PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#66407](https://github.com/apache/airflow/pull/66407#issuecomment-4378191626) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#66407](https://github.com/apache/airflow/pull/66407) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#66393](https://github.com/apache/airflow/pull/66393) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#66403](https://github.com/apache/airflow/pull/66403) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
