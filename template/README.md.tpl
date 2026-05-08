@@ -50,13 +50,13 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66452](https://github.com/apache/airflow/pull/66452#issuecomment-4386494690) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#55](https://github.com/Lee-W/main-blog/issues/55#issuecomment-4385075720) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-3. 🎉 Merged PR [#66409](https://github.com/apache/airflow/pull/66409) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#66407](https://github.com/apache/airflow/pull/66407) in [apache/airflow](https://github.com/apache/airflow)
-5. 🚀 Published release [0.2.1](https://github.com/Lee-W/pelican-tabular/releases/tag/0.2.1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
-6. 🎉 Merged PR [#66403](https://github.com/apache/airflow/pull/66403) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#66401](https://github.com/apache/airflow/pull/66401) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#66452](https://github.com/apache/airflow/pull/66452#issuecomment-4386494690) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#55](https://github.com/Lee-W/main-blog/issues/55#issuecomment-4385075720) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 🎉 Merged PR [#66409](https://github.com/apache/airflow/pull/66409) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#66407](https://github.com/apache/airflow/pull/66407) in [apache/airflow](https://github.com/apache/airflow)
+6. 🚀 Published release [0.2.1](https://github.com/Lee-W/pelican-tabular/releases/tag/0.2.1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+7. 🎉 Merged PR [#66403](https://github.com/apache/airflow/pull/66403) in [apache/airflow](https://github.com/apache/airflow)
 8. 🎉 Merged PR [#66390](https://github.com/apache/airflow/pull/66390) in [apache/airflow](https://github.com/apache/airflow)
 9. 💪 Opened PR [#66409](https://github.com/apache/airflow/pull/66409) in [apache/airflow](https://github.com/apache/airflow)
 10. ℹ️ Labeled PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
