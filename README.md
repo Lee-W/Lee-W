@@ -42,29 +42,29 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [NowNowNow 然後就忘了](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nownownow-now-forget) (Published: 2 days ago)
-* [2026/3/23 - 5/3 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-03-23-2026-05-03-open-source-report) (Published: 4 days ago)
-* [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 6 days ago)
+* [Sky Cofi 咖啡館](https://blog.wei-lee.me/posts/random-thoughts/2026/05/sky-cofi) (Published: today)
+* [NowNowNow 然後就忘了](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nownownow-now-forget) (Published: 3 days ago)
+* [2026/3/23 - 5/3 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-03-23-2026-05-03-open-source-report) (Published: 5 days ago)
+* [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 1 week ago)
 * [生產力](https://blog.wei-lee.me/posts/random-thoughts/2026/04/productivity) (Published: 1 week ago)
-* [春秋書店](https://blog.wei-lee.me/posts/random-thoughts/2026/04/AthenaBooks) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [Andor、Rogue One 倫敦聖地巡禮](https://travlog.wei-lee.me/posts/travel/2026/05/andor-rogue-one-london-pilgrimage) (Published: 3 days ago)
- * [一幻拉麵 台北信義店](https://travlog.wei-lee.me/posts/review/2026/05/ebisobaichigen) (Published: 4 days ago)
- * [已嚴肅探班豐川家大小姐](https://travlog.wei-lee.me/posts/travel/2026/05/togawa-construction-site) (Published: 5 days ago)
- * [更新「電影院座位個人喜好」！](https://travlog.wei-lee.me/posts/review/2026/05/update-my-theatre-preference-page) (Published: 6 days ago)
+ * [Andor、Rogue One 倫敦聖地巡禮](https://travlog.wei-lee.me/posts/travel/2026/05/andor-rogue-one-london-pilgrimage) (Published: 4 days ago)
+ * [一幻拉麵 台北信義店](https://travlog.wei-lee.me/posts/review/2026/05/ebisobaichigen) (Published: 5 days ago)
+ * [已嚴肅探班豐川家大小姐](https://travlog.wei-lee.me/posts/travel/2026/05/togawa-construction-site) (Published: 6 days ago)
+ * [更新「電影院座位個人喜好」！](https://travlog.wei-lee.me/posts/review/2026/05/update-my-theatre-preference-page) (Published: 1 week ago)
  * [麥可傑克森（Michael）](https://travlog.wei-lee.me/posts/review/2026/04/michael) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#66452](https://github.com/apache/airflow/pull/66452#issuecomment-4386494690) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#55](https://github.com/Lee-W/main-blog/issues/55#issuecomment-4385075720) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-3. 🎉 Merged PR [#66409](https://github.com/apache/airflow/pull/66409) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#66407](https://github.com/apache/airflow/pull/66407) in [apache/airflow](https://github.com/apache/airflow)
-5. 🚀 Published release [0.2.1](https://github.com/Lee-W/pelican-tabular/releases/tag/0.2.1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
-6. 🎉 Merged PR [#66403](https://github.com/apache/airflow/pull/66403) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#66401](https://github.com/apache/airflow/pull/66401) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#66452](https://github.com/apache/airflow/pull/66452#issuecomment-4386494690) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#55](https://github.com/Lee-W/main-blog/issues/55#issuecomment-4385075720) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 🎉 Merged PR [#66409](https://github.com/apache/airflow/pull/66409) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#66407](https://github.com/apache/airflow/pull/66407) in [apache/airflow](https://github.com/apache/airflow)
+6. 🚀 Published release [0.2.1](https://github.com/Lee-W/pelican-tabular/releases/tag/0.2.1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+7. 🎉 Merged PR [#66403](https://github.com/apache/airflow/pull/66403) in [apache/airflow](https://github.com/apache/airflow)
 8. 🎉 Merged PR [#66390](https://github.com/apache/airflow/pull/66390) in [apache/airflow](https://github.com/apache/airflow)
 9. 💪 Opened PR [#66409](https://github.com/apache/airflow/pull/66409) in [apache/airflow](https://github.com/apache/airflow)
 10. ℹ️ Labeled PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
