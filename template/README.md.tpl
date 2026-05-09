@@ -50,15 +50,15 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#66452](https://github.com/apache/airflow/pull/66452#issuecomment-4386494690) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#55](https://github.com/Lee-W/main-blog/issues/55#issuecomment-4385075720) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 🎉 Merged PR [#66409](https://github.com/apache/airflow/pull/66409) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#66407](https://github.com/apache/airflow/pull/66407) in [apache/airflow](https://github.com/apache/airflow)
-6. 🚀 Published release [0.2.1](https://github.com/Lee-W/pelican-tabular/releases/tag/0.2.1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
-7. 🎉 Merged PR [#66403](https://github.com/apache/airflow/pull/66403) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#66390](https://github.com/apache/airflow/pull/66390) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#66409](https://github.com/apache/airflow/pull/66409) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+2. 🗣 Commented on [#198](https://github.com/pycontw/pycon-etl/pull/198#issuecomment-4411108735) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+3. 🗣 Commented on [#1367](https://github.com/commitizen-tools/commitizen/issues/1367#issuecomment-4411084730) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 💪 Opened PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 💪 Opened PR [#66584](https://github.com/apache/airflow/pull/66584) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#1927](https://github.com/commitizen-tools/commitizen/issues/1927#issuecomment-4404263073) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#66550](https://github.com/apache/airflow/pull/66550#issuecomment-4403912359) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Closed PR [#66550](https://github.com/apache/airflow/pull/66550) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
 10. ℹ️ Labeled PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
