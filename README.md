@@ -42,17 +42,17 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [Sky Cofi 咖啡館](https://blog.wei-lee.me/posts/random-thoughts/2026/05/sky-cofi) (Published: 2 days ago)
-* [NowNowNow 然後就忘了](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nownownow-now-forget) (Published: 5 days ago)
+* [2026/5/4 - 5/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-04-2026-05-10-open-source-report) (Published: 1 day ago)
+* [Sky Cofi 咖啡館](https://blog.wei-lee.me/posts/random-thoughts/2026/05/sky-cofi) (Published: 3 days ago)
+* [NowNowNow 然後就忘了](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nownownow-now-forget) (Published: 6 days ago)
 * [2026/3/23 - 5/3 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-03-23-2026-05-03-open-source-report) (Published: 1 week ago)
 * [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 1 week ago)
-* [生產力](https://blog.wei-lee.me/posts/random-thoughts/2026/04/productivity) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [《BanG Dream! Special LIVE in TAIPEI》Day -11](https://travlog.wei-lee.me/posts/travel/2026/05/bang-dream-special-LIVE-in-TAIPE-day-minus-11) (Published: 1 day ago)
- * [宇宙神遊 9 週年抽抽](https://travlog.wei-lee.me/posts/review/2026/05/fgo-9-th-aniversary-lottery) (Published: 2 days ago)
- * [Andor、Rogue One 倫敦聖地巡禮](https://travlog.wei-lee.me/posts/travel/2026/05/andor-rogue-one-london-pilgrimage) (Published: 6 days ago)
+ * [《BanG Dream! Special LIVE in TAIPEI》Day -11](https://travlog.wei-lee.me/posts/travel/2026/05/bang-dream-special-LIVE-in-TAIPE-day-minus-11) (Published: 2 days ago)
+ * [宇宙神遊 9 週年抽抽](https://travlog.wei-lee.me/posts/review/2026/05/fgo-9-th-aniversary-lottery) (Published: 3 days ago)
+ * [Andor、Rogue One 倫敦聖地巡禮](https://travlog.wei-lee.me/posts/travel/2026/05/andor-rogue-one-london-pilgrimage) (Published: 1 week ago)
  * [一幻拉麵 台北信義店](https://travlog.wei-lee.me/posts/review/2026/05/ebisobaichigen) (Published: 1 week ago)
  * [已嚴肅探班豐川家大小姐](https://travlog.wei-lee.me/posts/travel/2026/05/togawa-construction-site) (Published: 1 week ago)
 
