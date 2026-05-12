@@ -50,14 +50,14 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. 🗣 Commented on [#198](https://github.com/pycontw/pycon-etl/pull/198#issuecomment-4411108735) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-3. 🗣 Commented on [#1367](https://github.com/commitizen-tools/commitizen/issues/1367#issuecomment-4411084730) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 💪 Opened PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 💪 Opened PR [#66584](https://github.com/apache/airflow/pull/66584) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#1927](https://github.com/commitizen-tools/commitizen/issues/1927#issuecomment-4404263073) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#66550](https://github.com/apache/airflow/pull/66550#issuecomment-4403912359) in [apache/airflow](https://github.com/apache/airflow)
-8. ❌ Closed PR [#66550](https://github.com/apache/airflow/pull/66550) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#15](https://github.com/Lee-W/pelican-osm/pull/15) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+2. 💪 Opened PR [#15](https://github.com/Lee-W/pelican-osm/pull/15) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+3. 🗣 Commented on [#20](https://github.com/Lee-W/travlog/issues/20#issuecomment-4421224481) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 💪 Opened PR [#199](https://github.com/pycontw/pycon-etl/pull/199) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 🎉 Merged PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🗣 Commented on [#198](https://github.com/pycontw/pycon-etl/pull/198#issuecomment-4411108735) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+7. 🗣 Commented on [#1367](https://github.com/commitizen-tools/commitizen/issues/1367#issuecomment-4411084730) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 💪 Opened PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
 9. 💪 Opened PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
 10. ℹ️ Labeled PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
