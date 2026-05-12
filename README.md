@@ -42,30 +42,30 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [2026/5/4 - 5/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-04-2026-05-10-open-source-report) (Published: 1 day ago)
-* [Sky Cofi 咖啡館](https://blog.wei-lee.me/posts/random-thoughts/2026/05/sky-cofi) (Published: 3 days ago)
-* [NowNowNow 然後就忘了](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nownownow-now-forget) (Published: 6 days ago)
+* [寫部落格的人之間該怎麼互稱？](https://blog.wei-lee.me/posts/random-thoughts/2026/05/how-should-i-call-a-blog-friend) (Published: 1 day ago)
+* [2026/5/4 - 5/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-04-2026-05-10-open-source-report) (Published: 2 days ago)
+* [Sky Cofi 咖啡館](https://blog.wei-lee.me/posts/random-thoughts/2026/05/sky-cofi) (Published: 4 days ago)
+* [NowNowNow 然後就忘了](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nownownow-now-forget) (Published: 1 week ago)
 * [2026/3/23 - 5/3 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-03-23-2026-05-03-open-source-report) (Published: 1 week ago)
-* [現在我也有近況頁面了！](https://blog.wei-lee.me/posts/random-thoughts/2026/05/now-i-also-have-a-now-page) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [《BanG Dream! Special LIVE in TAIPEI》Day -11](https://travlog.wei-lee.me/posts/travel/2026/05/bang-dream-special-LIVE-in-TAIPE-day-minus-11) (Published: 2 days ago)
- * [宇宙神遊 9 週年抽抽](https://travlog.wei-lee.me/posts/review/2026/05/fgo-9-th-aniversary-lottery) (Published: 3 days ago)
+ * [ANISAMA in TAIPEI 2026 -DOSHA！](https://travlog.wei-lee.me/posts/review/2026/05/anisama-in-taipei-2026-dosha) (Published: 1 day ago)
+ * [《BanG Dream! Special LIVE in TAIPEI》Day -11](https://travlog.wei-lee.me/posts/travel/2026/05/bang-dream-special-LIVE-in-TAIPE-day-minus-11) (Published: 3 days ago)
+ * [宇宙神遊 9 週年抽抽](https://travlog.wei-lee.me/posts/review/2026/05/fgo-9-th-aniversary-lottery) (Published: 4 days ago)
  * [Andor、Rogue One 倫敦聖地巡禮](https://travlog.wei-lee.me/posts/travel/2026/05/andor-rogue-one-london-pilgrimage) (Published: 1 week ago)
  * [一幻拉麵 台北信義店](https://travlog.wei-lee.me/posts/review/2026/05/ebisobaichigen) (Published: 1 week ago)
- * [已嚴肅探班豐川家大小姐](https://travlog.wei-lee.me/posts/travel/2026/05/togawa-construction-site) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. 🗣 Commented on [#198](https://github.com/pycontw/pycon-etl/pull/198#issuecomment-4411108735) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-3. 🗣 Commented on [#1367](https://github.com/commitizen-tools/commitizen/issues/1367#issuecomment-4411084730) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 💪 Opened PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 💪 Opened PR [#66584](https://github.com/apache/airflow/pull/66584) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#1927](https://github.com/commitizen-tools/commitizen/issues/1927#issuecomment-4404263073) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#66550](https://github.com/apache/airflow/pull/66550#issuecomment-4403912359) in [apache/airflow](https://github.com/apache/airflow)
-8. ❌ Closed PR [#66550](https://github.com/apache/airflow/pull/66550) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#15](https://github.com/Lee-W/pelican-osm/pull/15) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+2. 💪 Opened PR [#15](https://github.com/Lee-W/pelican-osm/pull/15) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+3. 🗣 Commented on [#20](https://github.com/Lee-W/travlog/issues/20#issuecomment-4421224481) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 💪 Opened PR [#199](https://github.com/pycontw/pycon-etl/pull/199) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 🎉 Merged PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🗣 Commented on [#198](https://github.com/pycontw/pycon-etl/pull/198#issuecomment-4411108735) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+7. 🗣 Commented on [#1367](https://github.com/commitizen-tools/commitizen/issues/1367#issuecomment-4411084730) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+8. 💪 Opened PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
 9. 💪 Opened PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
 10. ℹ️ Labeled PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
 
