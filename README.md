@@ -42,32 +42,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [寫部落格的人之間該怎麼互稱？](https://blog.wei-lee.me/posts/random-thoughts/2026/05/how-should-i-call-a-blog-friend) (Published: 1 day ago)
-* [2026/5/4 - 5/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-04-2026-05-10-open-source-report) (Published: 2 days ago)
-* [Sky Cofi 咖啡館](https://blog.wei-lee.me/posts/random-thoughts/2026/05/sky-cofi) (Published: 4 days ago)
+* [將 Apache 討論串變成電子書的魔法](https://blog.wei-lee.me/posts/tech/2026/05/apache-thread-to-ebook) (Published: 1 day ago)
+* [寫部落格的人之間該怎麼互稱？](https://blog.wei-lee.me/posts/random-thoughts/2026/05/how-should-i-call-a-blog-friend) (Published: 2 days ago)
+* [2026/5/4 - 5/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-04-2026-05-10-open-source-report) (Published: 3 days ago)
+* [Sky Cofi 咖啡館](https://blog.wei-lee.me/posts/random-thoughts/2026/05/sky-cofi) (Published: 5 days ago)
 * [NowNowNow 然後就忘了](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nownownow-now-forget) (Published: 1 week ago)
-* [2026/3/23 - 5/3 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-03-23-2026-05-03-open-source-report) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [ANISAMA in TAIPEI 2026 -DOSHA！](https://travlog.wei-lee.me/posts/review/2026/05/anisama-in-taipei-2026-dosha) (Published: 1 day ago)
- * [《BanG Dream! Special LIVE in TAIPEI》Day -11](https://travlog.wei-lee.me/posts/travel/2026/05/bang-dream-special-LIVE-in-TAIPE-day-minus-11) (Published: 3 days ago)
- * [宇宙神遊 9 週年抽抽](https://travlog.wei-lee.me/posts/review/2026/05/fgo-9-th-aniversary-lottery) (Published: 4 days ago)
+ * [Anisama 的心得文被看見了，好耶～](https://travlog.wei-lee.me/posts/review/2026/05/anisama-review-seen) (Published: 1 day ago)
+ * [ANISAMA in TAIPEI 2026 -DOSHA！](https://travlog.wei-lee.me/posts/review/2026/05/anisama-in-taipei-2026-dosha) (Published: 2 days ago)
+ * [《BanG Dream! Special LIVE in TAIPEI》Day -11](https://travlog.wei-lee.me/posts/travel/2026/05/bang-dream-special-LIVE-in-TAIPE-day-minus-11) (Published: 4 days ago)
+ * [宇宙神遊 9 週年抽抽](https://travlog.wei-lee.me/posts/review/2026/05/fgo-9-th-aniversary-lottery) (Published: 5 days ago)
  * [Andor、Rogue One 倫敦聖地巡禮](https://travlog.wei-lee.me/posts/travel/2026/05/andor-rogue-one-london-pilgrimage) (Published: 1 week ago)
- * [一幻拉麵 台北信義店](https://travlog.wei-lee.me/posts/review/2026/05/ebisobaichigen) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#15](https://github.com/Lee-W/pelican-osm/pull/15) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-2. 💪 Opened PR [#15](https://github.com/Lee-W/pelican-osm/pull/15) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-3. 🗣 Commented on [#20](https://github.com/Lee-W/travlog/issues/20#issuecomment-4421224481) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-4. 💪 Opened PR [#199](https://github.com/pycontw/pycon-etl/pull/199) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 🎉 Merged PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-6. 🗣 Commented on [#198](https://github.com/pycontw/pycon-etl/pull/198#issuecomment-4411108735) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-7. 🗣 Commented on [#1367](https://github.com/commitizen-tools/commitizen/issues/1367#issuecomment-4411084730) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 💪 Opened PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-9. 💪 Opened PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
-10. ℹ️ Labeled PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#175](https://github.com/Lee-W/bahamut_ani_stat/pull/175) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+2. 💪 Opened PR [#175](https://github.com/Lee-W/bahamut_ani_stat/pull/175) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+3. 🎉 Merged PR [#174](https://github.com/Lee-W/bahamut_ani_stat/pull/174) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+4. 💪 Opened PR [#174](https://github.com/Lee-W/bahamut_ani_stat/pull/174) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+5. 🎉 Merged PR [#173](https://github.com/Lee-W/bahamut_ani_stat/pull/173) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+6. ❌ Closed PR [#171](https://github.com/Lee-W/bahamut_ani_stat/pull/171) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+7. ❌ Closed PR [#170](https://github.com/Lee-W/bahamut_ani_stat/pull/170) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+8. ❌ Closed PR [#168](https://github.com/Lee-W/bahamut_ani_stat/pull/168) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+9. ❌ Closed PR [#166](https://github.com/Lee-W/bahamut_ani_stat/pull/166) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+10. 💪 Opened PR [#173](https://github.com/Lee-W/bahamut_ani_stat/pull/173) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 
 
 ## ⭐ GitHub Stat
