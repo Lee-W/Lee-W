@@ -50,16 +50,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Lee-W/pelican-osm/pull/15) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-2. 💪 Opened PR [#15](https://github.com/Lee-W/pelican-osm/pull/15) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-3. 🗣 Commented on [#20](https://github.com/Lee-W/travlog/issues/20#issuecomment-4421224481) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-4. 💪 Opened PR [#199](https://github.com/pycontw/pycon-etl/pull/199) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 🎉 Merged PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-6. 🗣 Commented on [#198](https://github.com/pycontw/pycon-etl/pull/198#issuecomment-4411108735) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-7. 🗣 Commented on [#1367](https://github.com/commitizen-tools/commitizen/issues/1367#issuecomment-4411084730) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-8. 💪 Opened PR [#198](https://github.com/pycontw/pycon-etl/pull/198) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-9. 💪 Opened PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
-10. ℹ️ Labeled PR [#65998](https://github.com/apache/airflow/pull/65998) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#175](https://github.com/Lee-W/bahamut_ani_stat/pull/175) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+2. 💪 Opened PR [#175](https://github.com/Lee-W/bahamut_ani_stat/pull/175) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+3. 🎉 Merged PR [#174](https://github.com/Lee-W/bahamut_ani_stat/pull/174) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+4. 💪 Opened PR [#174](https://github.com/Lee-W/bahamut_ani_stat/pull/174) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+5. 🎉 Merged PR [#173](https://github.com/Lee-W/bahamut_ani_stat/pull/173) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+6. ❌ Closed PR [#171](https://github.com/Lee-W/bahamut_ani_stat/pull/171) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+7. ❌ Closed PR [#170](https://github.com/Lee-W/bahamut_ani_stat/pull/170) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+8. ❌ Closed PR [#168](https://github.com/Lee-W/bahamut_ani_stat/pull/168) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+9. ❌ Closed PR [#166](https://github.com/Lee-W/bahamut_ani_stat/pull/166) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+10. 💪 Opened PR [#173](https://github.com/Lee-W/bahamut_ani_stat/pull/173) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
