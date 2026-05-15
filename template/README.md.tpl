@@ -50,14 +50,14 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#167](https://github.com/pycontw/pycon-etl/pull/167#issuecomment-4441143268) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. 💪 Opened PR [#66848](https://github.com/apache/airflow/pull/66848) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#199](https://github.com/pycontw/pycon-etl/pull/199) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 🗣 Commented on [#65447](https://github.com/apache/airflow/pull/65447#issuecomment-4436940913) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#175](https://github.com/Lee-W/bahamut_ani_stat/pull/175) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-6. 💪 Opened PR [#175](https://github.com/Lee-W/bahamut_ani_stat/pull/175) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-7. 🎉 Merged PR [#174](https://github.com/Lee-W/bahamut_ani_stat/pull/174) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
-8. 💪 Opened PR [#174](https://github.com/Lee-W/bahamut_ani_stat/pull/174) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+1. ℹ️ Labeled PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#167](https://github.com/pycontw/pycon-etl/pull/167#issuecomment-4441143268) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+4. 💪 Opened PR [#66848](https://github.com/apache/airflow/pull/66848) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#199](https://github.com/pycontw/pycon-etl/pull/199) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🗣 Commented on [#65447](https://github.com/apache/airflow/pull/65447#issuecomment-4436940913) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#175](https://github.com/Lee-W/bahamut_ani_stat/pull/175) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
+8. 💪 Opened PR [#175](https://github.com/Lee-W/bahamut_ani_stat/pull/175) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 9. 🎉 Merged PR [#173](https://github.com/Lee-W/bahamut_ani_stat/pull/173) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 10. ❌ Closed PR [#171](https://github.com/Lee-W/bahamut_ani_stat/pull/171) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
 <!--END_SECTION:activity-->
