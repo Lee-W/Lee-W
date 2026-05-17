@@ -42,17 +42,17 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [Apache Airflow 3.2.2 還沒翻譯完的注意了](https://blog.wei-lee.me/posts/tech/2026/05/i18n-reminder-for-airflow-3-2-2) (Published: 2 days ago)
-* [星際大戰的時序是不是一個 DAG](https://blog.wei-lee.me/posts/tech/2026/05/is-this-a-dag-star-wars-watch-order) (Published: 3 days ago)
-* [將 Apache 討論串變成電子書的魔法](https://blog.wei-lee.me/posts/tech/2026/05/apache-thread-to-ebook) (Published: 4 days ago)
-* [寫部落格的人之間該怎麼互稱？](https://blog.wei-lee.me/posts/random-thoughts/2026/05/how-should-i-call-a-blog-friend) (Published: 5 days ago)
-* [2026/5/4 - 5/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-04-2026-05-10-open-source-report) (Published: 6 days ago)
+* [Apache Airflow 3.2.2 還沒翻譯完的注意了](https://blog.wei-lee.me/posts/tech/2026/05/i18n-reminder-for-airflow-3-2-2) (Published: 3 days ago)
+* [星際大戰的時序是不是一個 DAG](https://blog.wei-lee.me/posts/tech/2026/05/is-this-a-dag-star-wars-watch-order) (Published: 4 days ago)
+* [將 Apache 討論串變成電子書的魔法](https://blog.wei-lee.me/posts/tech/2026/05/apache-thread-to-ebook) (Published: 5 days ago)
+* [寫部落格的人之間該怎麼互稱？](https://blog.wei-lee.me/posts/random-thoughts/2026/05/how-should-i-call-a-blog-friend) (Published: 6 days ago)
+* [2026/5/4 - 5/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-04-2026-05-10-open-source-report) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [星際大戰：暗影之王 | Star Wars: Maul – Shadow Lord](https://travlog.wei-lee.me/posts/review/2026/05/maul-shadow-lord) (Published: 3 days ago)
- * [Anisama 的心得文被看見了，好耶～](https://travlog.wei-lee.me/posts/review/2026/05/anisama-review-seen) (Published: 4 days ago)
- * [ANISAMA in TAIPEI 2026 -DOSHA！](https://travlog.wei-lee.me/posts/review/2026/05/anisama-in-taipei-2026-dosha) (Published: 5 days ago)
+ * [星際大戰：暗影之王 | Star Wars: Maul – Shadow Lord](https://travlog.wei-lee.me/posts/review/2026/05/maul-shadow-lord) (Published: 4 days ago)
+ * [Anisama 的心得文被看見了，好耶～](https://travlog.wei-lee.me/posts/review/2026/05/anisama-review-seen) (Published: 5 days ago)
+ * [ANISAMA in TAIPEI 2026 -DOSHA！](https://travlog.wei-lee.me/posts/review/2026/05/anisama-in-taipei-2026-dosha) (Published: 6 days ago)
  * [《BanG Dream! Special LIVE in TAIPEI》Day -11](https://travlog.wei-lee.me/posts/travel/2026/05/bang-dream-special-LIVE-in-TAIPE-day-minus-11) (Published: 1 week ago)
  * [宇宙神遊 9 週年抽抽](https://travlog.wei-lee.me/posts/review/2026/05/fgo-9-th-aniversary-lottery) (Published: 1 week ago)
 
