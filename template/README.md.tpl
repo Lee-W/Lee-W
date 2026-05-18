@@ -50,10 +50,10 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#167](https://github.com/pycontw/pycon-etl/pull/167#issuecomment-4441143268) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 💪 Opened PR [#66848](https://github.com/apache/airflow/pull/66848) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#25152](https://github.com/astral-sh/ruff/pull/25152#issuecomment-4473693347) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#65358](https://github.com/apache/airflow/pull/65358#issuecomment-4469353823) in [apache/airflow](https://github.com/apache/airflow)
+3. ℹ️ Labeled PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
 5. 🎉 Merged PR [#199](https://github.com/pycontw/pycon-etl/pull/199) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
 6. 🗣 Commented on [#65447](https://github.com/apache/airflow/pull/65447#issuecomment-4436940913) in [apache/airflow](https://github.com/apache/airflow)
 7. 🎉 Merged PR [#175](https://github.com/Lee-W/bahamut_ani_stat/pull/175) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
