@@ -42,26 +42,26 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [Apache Airflow 3.2.2 還沒翻譯完的注意了](https://blog.wei-lee.me/posts/tech/2026/05/i18n-reminder-for-airflow-3-2-2) (Published: 3 days ago)
-* [星際大戰的時序是不是一個 DAG](https://blog.wei-lee.me/posts/tech/2026/05/is-this-a-dag-star-wars-watch-order) (Published: 4 days ago)
-* [將 Apache 討論串變成電子書的魔法](https://blog.wei-lee.me/posts/tech/2026/05/apache-thread-to-ebook) (Published: 5 days ago)
-* [寫部落格的人之間該怎麼互稱？](https://blog.wei-lee.me/posts/random-thoughts/2026/05/how-should-i-call-a-blog-friend) (Published: 6 days ago)
-* [2026/5/4 - 5/10 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-04-2026-05-10-open-source-report) (Published: 1 week ago)
+* [2026/05/11 - 05/17 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-11-2026-05-17-open-source-report) (Published: 1 day ago)
+* [Apache Airflow 3.2.2 還沒翻譯完的注意了](https://blog.wei-lee.me/posts/tech/2026/05/i18n-reminder-for-airflow-3-2-2) (Published: 4 days ago)
+* [星際大戰的時序是不是一個 DAG](https://blog.wei-lee.me/posts/tech/2026/05/is-this-a-dag-star-wars-watch-order) (Published: 5 days ago)
+* [將 Apache 討論串變成電子書的魔法](https://blog.wei-lee.me/posts/tech/2026/05/apache-thread-to-ebook) (Published: 6 days ago)
+* [寫部落格的人之間該怎麼互稱？](https://blog.wei-lee.me/posts/random-thoughts/2026/05/how-should-i-call-a-blog-friend) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [星際大戰：暗影之王 | Star Wars: Maul – Shadow Lord](https://travlog.wei-lee.me/posts/review/2026/05/maul-shadow-lord) (Published: 4 days ago)
- * [Anisama 的心得文被看見了，好耶～](https://travlog.wei-lee.me/posts/review/2026/05/anisama-review-seen) (Published: 5 days ago)
- * [ANISAMA in TAIPEI 2026 -DOSHA！](https://travlog.wei-lee.me/posts/review/2026/05/anisama-in-taipei-2026-dosha) (Published: 6 days ago)
+ * [星際大戰：暗影之王 | Star Wars: Maul – Shadow Lord](https://travlog.wei-lee.me/posts/review/2026/05/maul-shadow-lord) (Published: 5 days ago)
+ * [Anisama 的心得文被看見了，好耶～](https://travlog.wei-lee.me/posts/review/2026/05/anisama-review-seen) (Published: 6 days ago)
+ * [ANISAMA in TAIPEI 2026 -DOSHA！](https://travlog.wei-lee.me/posts/review/2026/05/anisama-in-taipei-2026-dosha) (Published: 1 week ago)
  * [《BanG Dream! Special LIVE in TAIPEI》Day -11](https://travlog.wei-lee.me/posts/travel/2026/05/bang-dream-special-LIVE-in-TAIPE-day-minus-11) (Published: 1 week ago)
  * [宇宙神遊 9 週年抽抽](https://travlog.wei-lee.me/posts/review/2026/05/fgo-9-th-aniversary-lottery) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. ℹ️ Labeled PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#167](https://github.com/pycontw/pycon-etl/pull/167#issuecomment-4441143268) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 💪 Opened PR [#66848](https://github.com/apache/airflow/pull/66848) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#25152](https://github.com/astral-sh/ruff/pull/25152#issuecomment-4473693347) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 🗣 Commented on [#65358](https://github.com/apache/airflow/pull/65358#issuecomment-4469353823) in [apache/airflow](https://github.com/apache/airflow)
+3. ℹ️ Labeled PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
 5. 🎉 Merged PR [#199](https://github.com/pycontw/pycon-etl/pull/199) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
 6. 🗣 Commented on [#65447](https://github.com/apache/airflow/pull/65447#issuecomment-4436940913) in [apache/airflow](https://github.com/apache/airflow)
 7. 🎉 Merged PR [#175](https://github.com/Lee-W/bahamut_ani_stat/pull/175) in [Lee-W/bahamut_ani_stat](https://github.com/Lee-W/bahamut_ani_stat)
