@@ -42,15 +42,15 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [我不想日更啦](https://blog.wei-lee.me/posts/random-thoughts/2026/05/i-dont-want-to-do-daily-update) (Published: 1 day ago)
-* [2026/05/11 - 05/17 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-11-2026-05-17-open-source-report) (Published: 2 days ago)
-* [Apache Airflow 3.2.2 還沒翻譯完的注意了](https://blog.wei-lee.me/posts/tech/2026/05/i18n-reminder-for-airflow-3-2-2) (Published: 5 days ago)
-* [星際大戰的時序是不是一個 DAG](https://blog.wei-lee.me/posts/tech/2026/05/is-this-a-dag-star-wars-watch-order) (Published: 6 days ago)
-* [將 Apache 討論串變成電子書的魔法](https://blog.wei-lee.me/posts/tech/2026/05/apache-thread-to-ebook) (Published: 1 week ago)
+* [你何不問問你自己](https://blog.wei-lee.me/posts/random-thoughts/2026/05/why-not-ask-yourself) (Published: 1 day ago)
+* [我不想日更啦](https://blog.wei-lee.me/posts/random-thoughts/2026/05/i-dont-want-to-do-daily-update) (Published: 2 days ago)
+* [2026/05/11 - 05/17 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-11-2026-05-17-open-source-report) (Published: 3 days ago)
+* [Apache Airflow 3.2.2 還沒翻譯完的注意了](https://blog.wei-lee.me/posts/tech/2026/05/i18n-reminder-for-airflow-3-2-2) (Published: 6 days ago)
+* [星際大戰的時序是不是一個 DAG](https://blog.wei-lee.me/posts/tech/2026/05/is-this-a-dag-star-wars-watch-order) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [星際大戰：暗影之王 | Star Wars: Maul – Shadow Lord](https://travlog.wei-lee.me/posts/review/2026/05/maul-shadow-lord) (Published: 6 days ago)
+ * [星際大戰：暗影之王 | Star Wars: Maul – Shadow Lord](https://travlog.wei-lee.me/posts/review/2026/05/maul-shadow-lord) (Published: 1 week ago)
  * [Anisama 的心得文被看見了，好耶～](https://travlog.wei-lee.me/posts/review/2026/05/anisama-review-seen) (Published: 1 week ago)
  * [ANISAMA in TAIPEI 2026 -DOSHA！](https://travlog.wei-lee.me/posts/review/2026/05/anisama-in-taipei-2026-dosha) (Published: 1 week ago)
  * [《BanG Dream! Special LIVE in TAIPEI》Day -11](https://travlog.wei-lee.me/posts/travel/2026/05/bang-dream-special-LIVE-in-TAIPE-day-minus-11) (Published: 1 week ago)
@@ -58,16 +58,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 
-1. 🔒 Closed issue [#1790](https://github.com/commitizen-tools/commitizen/issues/1790) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#67101](https://github.com/apache/airflow/pull/67101) in [apache/airflow](https://github.com/apache/airflow)
-3. ℹ️ Labeled PR [#67101](https://github.com/apache/airflow/pull/67101) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#57](https://github.com/Lee-W/main-blog/issues/57#issuecomment-4478258140) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-5. 🗣 Commented on [#67101](https://github.com/apache/airflow/pull/67101#issuecomment-4476668203) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#67101](https://github.com/apache/airflow/pull/67101) in [apache/airflow](https://github.com/apache/airflow)
-7. ℹ️ Assigned issue [#65922](https://github.com/apache/airflow/issues/65922) in [apache/airflow](https://github.com/apache/airflow)
-8. ℹ️ Assigned issue [#65761](https://github.com/apache/airflow/issues/65761) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#25152](https://github.com/astral-sh/ruff/pull/25152#issuecomment-4473693347) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 🗣 Commented on [#65358](https://github.com/apache/airflow/pull/65358#issuecomment-4469353823) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#58](https://github.com/Lee-W/main-blog/issues/58#issuecomment-4493452034) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 💪 Opened PR [#67184](https://github.com/apache/airflow/pull/67184) in [apache/airflow](https://github.com/apache/airflow)
+3. ℹ️ Assigned issue [#67179](https://github.com/apache/airflow/issues/67179) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Labeled issue [#67179](https://github.com/apache/airflow/issues/67179) in [apache/airflow](https://github.com/apache/airflow)
+5. ❗ Opened issue [#67179](https://github.com/apache/airflow/issues/67179) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#67164](https://github.com/apache/airflow/pull/67164) in [apache/airflow](https://github.com/apache/airflow)
+8. 🔒 Closed issue [#1790](https://github.com/commitizen-tools/commitizen/issues/1790) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#67101](https://github.com/apache/airflow/pull/67101) in [apache/airflow](https://github.com/apache/airflow)
+10. ℹ️ Labeled PR [#67101](https://github.com/apache/airflow/pull/67101) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
