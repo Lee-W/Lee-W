@@ -50,16 +50,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1790](https://github.com/commitizen-tools/commitizen/issues/1790) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🎉 Merged PR [#67101](https://github.com/apache/airflow/pull/67101) in [apache/airflow](https://github.com/apache/airflow)
-3. ℹ️ Labeled PR [#67101](https://github.com/apache/airflow/pull/67101) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#57](https://github.com/Lee-W/main-blog/issues/57#issuecomment-4478258140) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-5. 🗣 Commented on [#67101](https://github.com/apache/airflow/pull/67101#issuecomment-4476668203) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#67101](https://github.com/apache/airflow/pull/67101) in [apache/airflow](https://github.com/apache/airflow)
-7. ℹ️ Assigned issue [#65922](https://github.com/apache/airflow/issues/65922) in [apache/airflow](https://github.com/apache/airflow)
-8. ℹ️ Assigned issue [#65761](https://github.com/apache/airflow/issues/65761) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#25152](https://github.com/astral-sh/ruff/pull/25152#issuecomment-4473693347) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-10. 🗣 Commented on [#65358](https://github.com/apache/airflow/pull/65358#issuecomment-4469353823) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#58](https://github.com/Lee-W/main-blog/issues/58#issuecomment-4493452034) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 💪 Opened PR [#67184](https://github.com/apache/airflow/pull/67184) in [apache/airflow](https://github.com/apache/airflow)
+3. ℹ️ Assigned issue [#67179](https://github.com/apache/airflow/issues/67179) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Labeled issue [#67179](https://github.com/apache/airflow/issues/67179) in [apache/airflow](https://github.com/apache/airflow)
+5. ❗ Opened issue [#67179](https://github.com/apache/airflow/issues/67179) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#66923](https://github.com/apache/airflow/pull/66923) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#67164](https://github.com/apache/airflow/pull/67164) in [apache/airflow](https://github.com/apache/airflow)
+8. 🔒 Closed issue [#1790](https://github.com/commitizen-tools/commitizen/issues/1790) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+9. 🎉 Merged PR [#67101](https://github.com/apache/airflow/pull/67101) in [apache/airflow](https://github.com/apache/airflow)
+10. ℹ️ Labeled PR [#67101](https://github.com/apache/airflow/pull/67101) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
