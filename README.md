@@ -42,19 +42,19 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [構成我的九部動畫](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nine-anime-that-builds-me) (Published: 1 day ago)
-* [CNCF 是哪個團體 🤔](https://blog.wei-lee.me/posts/tech/2026/05/what-is-cncf) (Published: 4 days ago)
-* [你何不問問你自己](https://blog.wei-lee.me/posts/random-thoughts/2026/05/why-not-ask-yourself) (Published: 5 days ago)
-* [我不想日更啦](https://blog.wei-lee.me/posts/random-thoughts/2026/05/i-dont-want-to-do-daily-update) (Published: 6 days ago)
+* [構成我的九部動畫](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nine-anime-that-builds-me) (Published: 2 days ago)
+* [CNCF 是哪個團體 🤔](https://blog.wei-lee.me/posts/tech/2026/05/what-is-cncf) (Published: 5 days ago)
+* [你何不問問你自己](https://blog.wei-lee.me/posts/random-thoughts/2026/05/why-not-ask-yourself) (Published: 6 days ago)
+* [我不想日更啦](https://blog.wei-lee.me/posts/random-thoughts/2026/05/i-dont-want-to-do-daily-update) (Published: 1 week ago)
 * [2026/05/11 - 05/17 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-11-2026-05-17-open-source-report) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [不到一層樓的距離](https://travlog.wei-lee.me/posts/travel/2026/05/passing-by-rin-aoki-hina-tateishi) (Published: 1 day ago)
- * [小林家的龍女僕：害怕寂寞的龍 BD 開箱](https://travlog.wei-lee.me/posts/review/2026/05/kobayashino-maid-dragon-lonely-dragon-unboxing) (Published: 4 days ago)
+ * [不到一層樓的距離](https://travlog.wei-lee.me/posts/travel/2026/05/passing-by-rin-aoki-hina-tateishi) (Published: 2 days ago)
+ * [小林家的龍女僕：害怕寂寞的龍 BD 開箱](https://travlog.wei-lee.me/posts/review/2026/05/kobayashino-maid-dragon-lonely-dragon-unboxing) (Published: 5 days ago)
  * [星際大戰：暗影之王 | Star Wars: Maul – Shadow Lord](https://travlog.wei-lee.me/posts/review/2026/05/maul-shadow-lord) (Published: 1 week ago)
  * [Anisama 的心得文被看見了，好耶～](https://travlog.wei-lee.me/posts/review/2026/05/anisama-review-seen) (Published: 1 week ago)
- * [ANISAMA in TAIPEI 2026 -DOSHA！](https://travlog.wei-lee.me/posts/review/2026/05/anisama-in-taipei-2026-dosha) (Published: 1 week ago)
+ * [ANISAMA in TAIPEI 2026 -DOSHA！](https://travlog.wei-lee.me/posts/review/2026/05/anisama-in-taipei-2026-dosha) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
