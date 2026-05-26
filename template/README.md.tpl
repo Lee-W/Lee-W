@@ -50,16 +50,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/Lee-W/main-blog/issues/59#issuecomment-4527033406) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 🗣 Commented on [#67368](https://github.com/apache/airflow/issues/67368#issuecomment-4524686742) in [apache/airflow](https://github.com/apache/airflow)
-3. ℹ️ Labeled issue [#67368](https://github.com/apache/airflow/issues/67368) in [apache/airflow](https://github.com/apache/airflow)
-4. ❗ Opened issue [#67368](https://github.com/apache/airflow/issues/67368) in [apache/airflow](https://github.com/apache/airflow)
-5. ℹ️ Assigned issue [#67368](https://github.com/apache/airflow/issues/67368) in [apache/airflow](https://github.com/apache/airflow)
-6. 🔒 Closed issue [#44146](https://github.com/apache/airflow/issues/44146) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#44146](https://github.com/apache/airflow/issues/44146#issuecomment-4524364811) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#1](https://github.com/Lee-W/maigo/pull/1) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-9. 💪 Opened PR [#1](https://github.com/Lee-W/maigo/pull/1) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-10. 🎉 Merged PR [#67164](https://github.com/apache/airflow/pull/67164) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#67368](https://github.com/apache/airflow/issues/67368#issuecomment-4535488911) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#65921](https://github.com/apache/airflow/issues/65921) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#66004](https://github.com/apache/airflow/pull/66004) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Labeled issue [#67484](https://github.com/apache/airflow/issues/67484) in [apache/airflow](https://github.com/apache/airflow)
+5. ❗ Opened issue [#67484](https://github.com/apache/airflow/issues/67484) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#58543](https://github.com/apache/airflow/pull/58543#issuecomment-4535003385) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#67475](https://github.com/apache/airflow/pull/67475) in [apache/airflow](https://github.com/apache/airflow)
+8. 🔒 Closed issue [#66476](https://github.com/apache/airflow/issues/66476) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#66584](https://github.com/apache/airflow/pull/66584) in [apache/airflow](https://github.com/apache/airflow)
+10. ❌ Closed PR [#463](https://github.com/Lee-W/discord_reaction_to_role_bot/pull/463) in [Lee-W/discord_reaction_to_role_bot](https://github.com/Lee-W/discord_reaction_to_role_bot)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
