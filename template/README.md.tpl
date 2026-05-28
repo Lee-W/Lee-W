@@ -50,13 +50,13 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67544](https://github.com/apache/airflow/pull/67544) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#67544](https://github.com/apache/airflow/pull/67544) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#67537](https://github.com/apache/airflow/pull/67537) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4541887184) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#67523](https://github.com/apache/airflow/pull/67523) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#67368](https://github.com/apache/airflow/issues/67368#issuecomment-4535488911) in [apache/airflow](https://github.com/apache/airflow)
-7. 🔒 Closed issue [#65921](https://github.com/apache/airflow/issues/65921) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#67544](https://github.com/apache/airflow/pull/67544) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#67544](https://github.com/apache/airflow/pull/67544) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#67537](https://github.com/apache/airflow/pull/67537) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4541887184) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#67523](https://github.com/apache/airflow/pull/67523) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#67368](https://github.com/apache/airflow/issues/67368#issuecomment-4535488911) in [apache/airflow](https://github.com/apache/airflow)
 8. 🎉 Merged PR [#66004](https://github.com/apache/airflow/pull/66004) in [apache/airflow](https://github.com/apache/airflow)
 9. ℹ️ Labeled issue [#67484](https://github.com/apache/airflow/issues/67484) in [apache/airflow](https://github.com/apache/airflow)
 10. ❗ Opened issue [#67484](https://github.com/apache/airflow/issues/67484) in [apache/airflow](https://github.com/apache/airflow)
