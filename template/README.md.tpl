@@ -50,10 +50,10 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#67544](https://github.com/apache/airflow/pull/67544) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#67544](https://github.com/apache/airflow/pull/67544) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#67537](https://github.com/apache/airflow/pull/67537) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#222](https://github.com/pycontw/pycontw-blog/pull/222#issuecomment-4560619981) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 🎉 Merged PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#67544](https://github.com/apache/airflow/pull/67544) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#67544](https://github.com/apache/airflow/pull/67544) in [apache/airflow](https://github.com/apache/airflow)
 5. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4541887184) in [apache/airflow](https://github.com/apache/airflow)
 6. 💪 Opened PR [#67523](https://github.com/apache/airflow/pull/67523) in [apache/airflow](https://github.com/apache/airflow)
 7. 🗣 Commented on [#67368](https://github.com/apache/airflow/issues/67368#issuecomment-4535488911) in [apache/airflow](https://github.com/apache/airflow)
