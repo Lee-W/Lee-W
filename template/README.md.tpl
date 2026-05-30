@@ -50,15 +50,15 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/pycontw/pycontw-blog/pull/222#issuecomment-4560619981) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-2. 🎉 Merged PR [#66520](https://github.com/apache/airflow/pull/66520) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#67544](https://github.com/apache/airflow/pull/67544) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#67544](https://github.com/apache/airflow/pull/67544) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4541887184) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#67523](https://github.com/apache/airflow/pull/67523) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#67368](https://github.com/apache/airflow/issues/67368#issuecomment-4535488911) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#66004](https://github.com/apache/airflow/pull/66004) in [apache/airflow](https://github.com/apache/airflow)
-9. ℹ️ Labeled issue [#67484](https://github.com/apache/airflow/issues/67484) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4581243998) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#21](https://github.com/Lee-W/travlog/issues/21#issuecomment-4577688232) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+3. 💪 Opened PR [#67718](https://github.com/apache/airflow/pull/67718) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#67717](https://github.com/apache/airflow/pull/67717) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#67716](https://github.com/apache/airflow/pull/67716) in [apache/airflow](https://github.com/apache/airflow)
+6. 🚀 Published release [0.3.1](https://github.com/Lee-W/pelican-tabular/releases/tag/0.3.1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+7. ℹ️ Labeled issue [#67692](https://github.com/apache/airflow/issues/67692) in [apache/airflow](https://github.com/apache/airflow)
+8. ❗ Opened issue [#67692](https://github.com/apache/airflow/issues/67692) in [apache/airflow](https://github.com/apache/airflow)
+9. 🚀 Published release [0.3.0](https://github.com/Lee-W/pelican-tabular/releases/tag/0.3.0) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
 10. ❗ Opened issue [#67484](https://github.com/apache/airflow/issues/67484) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
