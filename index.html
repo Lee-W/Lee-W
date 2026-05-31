@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wei Lee / 李唯</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐍</text></svg>">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <style>
+    :root {
+      --bg: #f7f7f5;
+      --surface: #ffffff;
+      --text: #1a1a2e;
+      --muted: #666;
+      --border: #e2e2de;
+      --accent: #3776ab;
+      --radius: 12px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #141414;
+        --surface: #1e1e1e;
+        --text: #ebebeb;
+        --muted: #888;
+        --border: #2e2e2e;
+      }
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2.5rem 1.25rem;
+    }
+
+    main {
+      width: 100%;
+      max-width: 680px;
+    }
+
+    /* ── Top bar ── */
+    .topbar {
+      display: flex;
+      justify-content: flex-end;
+      margin-bottom: 2rem;
+    }
+
+    .lang-switcher {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 3px 3px 3px 8px;
+    }
+
+    .lang-switcher .fa-language {
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+
+    .lang-option {
+      background: none;
+      border: none;
+      border-radius: 5px;
+      color: var(--muted);
+      cursor: pointer;
+      font-family: inherit;
+      font-size: 0.78rem;
+      padding: 0.28rem 0.65rem;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .lang-option:hover:not(.active) { color: var(--text); }
+
+    .lang-option.active {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    /* ── Header ── */
+    .header { margin-bottom: 1.5rem; }
+
+    h1 {
+      font-size: 1.9rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+    }
+
+    h1 .alt {
+      font-weight: 400;
+      color: var(--muted);
+    }
+
+    .bio {
+      margin-top: 0.4rem;
+      color: var(--muted);
+      font-size: 0.88rem;
+    }
+
+    /* ── Profile list ── */
+    .profile-list {
+      list-style: none;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.55rem 1.25rem;
+      margin-bottom: 1.75rem;
+      font-size: 0.88rem;
+      opacity: 0.85;
+    }
+
+    .profile-list li {
+      display: flex;
+      align-items: baseline;
+      gap: 0.45rem;
+    }
+
+    .profile-list i {
+      color: var(--accent);
+      font-size: 0.78rem;
+      width: 1rem;
+      text-align: center;
+      flex-shrink: 0;
+    }
+
+    /* ── Now ── */
+    .now-link {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1rem 1.4rem;
+      text-decoration: none;
+      color: inherit;
+      margin-bottom: 1.75rem;
+      transition: transform 0.12s ease, box-shadow 0.12s ease;
+    }
+
+    .now-link:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.07);
+    }
+
+    .now-icon {
+      font-size: 1.4rem;
+      color: var(--accent);
+      flex-shrink: 0;
+    }
+
+    .now-text strong {
+      display: block;
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 0.15rem;
+    }
+
+    .now-text span {
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+
+    /* ── Blog cards ── */
+    .blogs {
+      display: grid;
+      gap: 0.85rem;
+      margin-bottom: 2rem;
+    }
+
+    .card {
+      display: block;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.2rem 1.4rem;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.12s ease, box-shadow 0.12s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.07);
+    }
+
+    .card-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.45rem;
+    }
+
+    .card-tag {
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+
+    .card-arrow {
+      font-size: 0.75rem;
+      color: var(--muted);
+      opacity: 0.35;
+      transition: opacity 0.12s, transform 0.12s;
+    }
+
+    .card:hover .card-arrow {
+      opacity: 1;
+      transform: translate(2px, -2px);
+    }
+
+    .card-title {
+      font-size: 0.975rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    .card-desc {
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+
+    /* ── Extra pages ── */
+    .extras {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 2rem;
+    }
+
+    .extras a {
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      font-size: 0.8rem;
+      color: var(--muted);
+      text-decoration: none;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.25rem 0.6rem;
+      transition: color 0.12s, border-color 0.12s;
+    }
+
+    .extras a:hover {
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+
+    .extras i { font-size: 0.75rem; }
+
+    /* ── Social links ── */
+    .social {
+      display: flex;
+      gap: 1.25rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .social a {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+      font-size: 0.82rem;
+      color: var(--muted);
+      text-decoration: none;
+      transition: color 0.12s;
+    }
+
+    .social a:hover { color: var(--accent); }
+
+    .social i { font-size: 0.875rem; }
+
+    /* ── Mobile ── */
+    @media (max-width: 520px) {
+      body {
+        align-items: flex-start;
+        padding: 1.5rem 1rem;
+      }
+
+      h1 { font-size: 1.55rem; }
+
+      .topbar { margin-bottom: 1.5rem; }
+
+      .profile-list {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+      }
+
+      .card, .now-link {
+        padding: 1rem 1.1rem;
+      }
+
+      .extras {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .social {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0.75rem;
+      }
+    }
+
+    /* ── i18n visibility ── */
+    [data-lang] { display: none; }
+    .lang-en [data-lang="en"],
+    .lang-zh [data-lang="zh"] { display: revert; }
+  </style>
+</head>
+<body class="lang-en">
+  <main>
+    <div class="topbar">
+      <div class="lang-switcher" role="group" aria-label="Language">
+        <i class="fa-solid fa-language" aria-hidden="true"></i>
+        <button class="lang-option active" data-value="en">EN</button>
+        <button class="lang-option" data-value="zh">漢語</button>
+      </div>
+    </div>
+
+    <header class="header">
+      <h1>
+        <span data-lang="en">Wei Lee <span class="alt">/ 李唯</span></span>
+        <span data-lang="zh">李唯 <span class="alt">/ Wei Lee</span></span>
+      </h1>
+      <p class="bio">
+        <span data-lang="en">Open source contributor &middot; Pythonista &middot; Taiwanese 🇹🇼</span>
+        <span data-lang="zh">開源貢獻者 &middot; Python 愛好者 &middot; 台灣人 🇹🇼</span>
+      </p>
+    </header>
+
+    <ul class="profile-list">
+      <li>
+        <i class="fa-brands fa-python" aria-hidden="true"></i>
+        <span data-lang="en">Pythonista</span>
+        <span data-lang="zh">Python 愛好者</span>
+      </li>
+      <li>
+        <i class="fa-solid fa-bullhorn" aria-hidden="true"></i>
+        <span data-lang="en">PyCon Taiwan organizer</span>
+        <span data-lang="zh">PyCon Taiwan 志工</span>
+      </li>
+      <li>
+        <i class="fa-solid fa-wind" aria-hidden="true"></i>
+        <a href="https://github.com/apache/airflow" style="color:inherit" rel="noopener noreferrer">
+          <span data-lang="en">Apache Airflow PMC</span>
+          <span data-lang="zh">Apache Airflow PMC 成員</span>
+        </a>
+      </li>
+      <li>
+        <i class="fa-solid fa-code-branch" aria-hidden="true"></i>
+        <a href="https://github.com/commitizen-tools" style="color:inherit" rel="noopener noreferrer">
+          <span data-lang="en">commitizen-tools maintainer</span>
+          <span data-lang="zh">commitizen-tools 維護者</span>
+        </a>
+      </li>
+      <li>
+        <i class="fa-solid fa-camera" aria-hidden="true"></i>
+        <span data-lang="en">Traveler</span>
+        <span data-lang="zh">旅人</span>
+      </li>
+      <li>
+        <i class="fa-solid fa-campground" aria-hidden="true"></i>
+        <a href="https://twitter.com/Taiwannokuru" style="color:inherit" rel="noopener noreferrer">台湾野クル▲</a>
+      </li>
+      <li>
+        <i class="fa-solid fa-tv" aria-hidden="true"></i>
+        <a href="https://travlog.wei-lee.me/pages/story-ranking" style="color:inherit" rel="noopener noreferrer">
+          <span data-lang="en">Anime lover</span>
+          <span data-lang="zh">動漫愛好者</span>
+        </a>
+      </li>
+      <li>
+        <i class="fa-solid fa-book" aria-hidden="true"></i>
+        <a href="https://blog.wei-lee.me/category/book" style="color:inherit" rel="noopener noreferrer">
+          <span data-lang="en">Reader</span>
+          <span data-lang="zh">喜歡看點書</span>
+        </a>
+      </li>
+      <li>
+        <i class="fa-solid fa-guitar" aria-hidden="true"></i>
+        <span data-lang="en">Ukulele player</span>
+        <span data-lang="zh">烏克麗麗玩家</span>
+      </li>
+      <li>
+        <i class="fa-solid fa-lock" aria-hidden="true"></i>
+        Locker
+      </li>
+    </ul>
+
+    <a id="nowLink" class="now-link" href="https://blog.wei-lee.me/en/pages/now" rel="noopener noreferrer">
+      <i class="fa-solid fa-clock now-icon" aria-hidden="true"></i>
+      <div class="now-text">
+        <strong>
+          <span data-lang="en">Now</span>
+          <span data-lang="zh">近況</span>
+        </strong>
+        <span>
+          <span data-lang="en">What I'm currently working on, watching, and thinking about</span>
+          <span data-lang="zh">記錄我目前在做什麼、在看什麼、在想什麼</span>
+        </span>
+      </div>
+    </a>
+
+    <section class="blogs" aria-label="Blogs">
+      <a class="card" href="https://blog.wei-lee.me/" rel="noopener noreferrer">
+        <div class="card-head">
+          <div class="card-tag">
+            <span data-lang="en">Tech &amp; Thoughts</span>
+            <span data-lang="zh">技術 &amp; 隨想</span>
+          </div>
+          <i class="fa-solid fa-up-right-from-square card-arrow" aria-hidden="true"></i>
+        </div>
+        <div class="card-title">
+          <span data-lang="en">Those aren't written down are meant to be forgotten</span>
+          <span data-lang="zh">不寫下來的東西都會被遺忘</span>
+        </div>
+        <div class="card-desc">
+          <span data-lang="en">Technical notes, book digests, and occasional thoughts</span>
+          <span data-lang="zh">技術筆記、書摘，還有偶爾冒出來的碎念</span>
+        </div>
+      </a>
+
+      <a class="card" href="https://travlog.wei-lee.me/" rel="noopener noreferrer">
+        <div class="card-head">
+          <div class="card-tag">
+            <span data-lang="en">Life &amp; Travel</span>
+            <span data-lang="zh">生活 &amp; 旅遊</span>
+          </div>
+          <i class="fa-solid fa-up-right-from-square card-arrow" aria-hidden="true"></i>
+        </div>
+        <div class="card-title">
+          <span data-lang="en">Those things no one cares about</span>
+          <span data-lang="zh">那些沒人在乎的事</span>
+        </div>
+        <div class="card-desc">
+          <span data-lang="en">Cooking, anime, travel, and things that bring joy</span>
+          <span data-lang="zh">料理、動漫、旅行，還有那些讓人開心的小事</span>
+        </div>
+      </a>
+    </section>
+
+    <nav class="extras" aria-label="More pages">
+      <a href="https://travlog.wei-lee.me/pages/pilgrimage" rel="noopener noreferrer">
+        <i class="fa-solid fa-map-location-dot" aria-hidden="true"></i>
+        <span data-lang="en">Pilgrimage</span>
+        <span data-lang="zh">聖地巡禮</span>
+      </a>
+      <a href="https://travlog.wei-lee.me/pages/concerts" rel="noopener noreferrer">
+        <i class="fa-solid fa-music" aria-hidden="true"></i>
+        <span data-lang="en">Concerts</span>
+        <span data-lang="zh">演唱會</span>
+      </a>
+      <a href="https://travlog.wei-lee.me/pages/stage-performances" rel="noopener noreferrer">
+        <i class="fa-solid fa-masks-theater" aria-hidden="true"></i>
+        <span data-lang="en">Stage</span>
+        <span data-lang="zh">舞台表演</span>
+      </a>
+    </nav>
+
+    <nav class="social" aria-label="Social links">
+      <a href="https://github.com/Lee-W/" rel="noopener noreferrer">
+        <i class="fa-brands fa-github" aria-hidden="true"></i>
+        GitHub
+      </a>
+      <a href="https://tw.linkedin.com/in/clleew" rel="noopener noreferrer">
+        <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+        LinkedIn
+      </a>
+      <a href="https://twitter.com/clleew" rel="noopener noreferrer">
+        <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+        Twitter
+      </a>
+      <a href="https://g0v.social/@weilee" rel="noopener noreferrer">
+        <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
+        Mastodon
+      </a>
+    </nav>
+  </main>
+
+  <script>
+    const options = document.querySelectorAll('.lang-option');
+
+    const nowUrls = {
+      en: 'https://blog.wei-lee.me/en/pages/now',
+      zh: 'https://blog.wei-lee.me/pages/now'
+    };
+
+    function setLang(lang) {
+      document.body.className = 'lang-' + lang;
+      options.forEach(o => o.classList.toggle('active', o.dataset.value === lang));
+      document.getElementById('nowLink').href = nowUrls[lang];
+      localStorage.setItem('lang', lang);
+    }
+
+    setLang(localStorage.getItem('lang') || 'en');
+
+    options.forEach(btn => {
+      btn.addEventListener('click', () => setLang(btn.dataset.value));
+    });
+  </script>
+</body>
+</html>
