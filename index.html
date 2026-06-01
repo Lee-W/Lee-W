@@ -174,17 +174,45 @@
     /* ── Blog cards ── */
     .blogs {
       display: grid;
-      gap: 0.85rem;
+      gap: 1.1rem;
       margin-bottom: 2rem;
     }
 
+    .card-link {
+      position: absolute;
+      inset: 0;
+      border-radius: var(--radius);
+    }
+
+    .card-footer {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 0.75rem;
+      padding-top: 0.6rem;
+      border-top: 1px solid var(--border);
+      position: relative;
+      z-index: 1;
+    }
+
+    .rss-link {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      font-size: 0.74rem;
+      color: var(--muted);
+      text-decoration: none;
+      transition: color 0.12s;
+    }
+
+    .rss-link:hover { color: #ee7733; }
+    .rss-link i { font-size: 0.68rem; }
+
     .card {
-      display: block;
+      position: relative;
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
       padding: 1.2rem 1.4rem;
-      text-decoration: none;
       color: inherit;
       transition: transform 0.12s ease, box-shadow 0.12s ease;
     }
@@ -415,7 +443,8 @@
     </a>
 
     <section class="blogs" aria-label="Blogs">
-      <a class="card" href="https://blog.wei-lee.me/" rel="noopener noreferrer">
+      <div class="card">
+        <a class="card-link" href="https://blog.wei-lee.me/" rel="noopener noreferrer" aria-label="Those aren't written down are meant to be forgotten"></a>
         <div class="card-head">
           <div class="card-tag">
             <span data-lang="en">Tech &amp; Thoughts</span>
@@ -431,9 +460,17 @@
           <span data-lang="en">Technical notes, book digests, and occasional thoughts</span>
           <span data-lang="zh">技術筆記、書摘，還有偶爾冒出來的碎念</span>
         </div>
-      </a>
+        <div class="card-footer">
+          <a class="rss-link" href="https://blog.wei-lee.me/feeds/all.atom.xml" rel="noopener noreferrer">
+            <i class="fa-solid fa-rss" aria-hidden="true"></i>
+            <span data-lang="en">Subscribe</span>
+            <span data-lang="zh">訂閱</span>
+          </a>
+        </div>
+      </div>
 
-      <a class="card" href="https://travlog.wei-lee.me/" rel="noopener noreferrer">
+      <div class="card">
+        <a class="card-link" href="https://travlog.wei-lee.me/" rel="noopener noreferrer" aria-label="Those things no one cares about"></a>
         <div class="card-head">
           <div class="card-tag">
             <span data-lang="en">Life &amp; Travel</span>
@@ -449,7 +486,14 @@
           <span data-lang="en">Cooking, anime, travel, and things that bring joy</span>
           <span data-lang="zh">料理、動漫、旅行，還有那些讓人開心的小事</span>
         </div>
-      </a>
+        <div class="card-footer">
+          <a class="rss-link" href="https://travlog.wei-lee.me/feeds/all.atom.xml" rel="noopener noreferrer">
+            <i class="fa-solid fa-rss" aria-hidden="true"></i>
+            <span data-lang="en">Subscribe</span>
+            <span data-lang="zh">訂閱</span>
+          </a>
+        </div>
+      </div>
     </section>
 
     <nav class="extras" aria-label="More pages">
