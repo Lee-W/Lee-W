@@ -50,16 +50,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2012](https://github.com/commitizen-tools/commitizen/issues/2012) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#2012](https://github.com/commitizen-tools/commitizen/issues/2012#issuecomment-4589235951) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4581243998) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#21](https://github.com/Lee-W/travlog/issues/21#issuecomment-4577688232) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 💪 Opened PR [#67718](https://github.com/apache/airflow/pull/67718) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#67717](https://github.com/apache/airflow/pull/67717) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#67716](https://github.com/apache/airflow/pull/67716) in [apache/airflow](https://github.com/apache/airflow)
-8. 🚀 Published release [0.3.1](https://github.com/Lee-W/pelican-tabular/releases/tag/0.3.1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
-9. ℹ️ Labeled issue [#67692](https://github.com/apache/airflow/issues/67692) in [apache/airflow](https://github.com/apache/airflow)
-10. ❗ Opened issue [#67692](https://github.com/apache/airflow/issues/67692) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#60](https://github.com/Lee-W/main-blog/issues/60#issuecomment-4598155316) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 🗣 Commented on [#22](https://github.com/Lee-W/travlog/issues/22#issuecomment-4598147431) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+3. 🔒 Closed issue [#2012](https://github.com/commitizen-tools/commitizen/issues/2012) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#2012](https://github.com/commitizen-tools/commitizen/issues/2012#issuecomment-4589235951) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+5. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4581243998) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#21](https://github.com/Lee-W/travlog/issues/21#issuecomment-4577688232) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+7. 💪 Opened PR [#67718](https://github.com/apache/airflow/pull/67718) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#67717](https://github.com/apache/airflow/pull/67717) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#67716](https://github.com/apache/airflow/pull/67716) in [apache/airflow](https://github.com/apache/airflow)
+10. 🚀 Published release [0.3.1](https://github.com/Lee-W/pelican-tabular/releases/tag/0.3.1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
