@@ -42,17 +42,17 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [捷運站在哪裡，絕對難不倒你](https://blog.wei-lee.me/posts/random-thoughts/2026/06/where-is-the-mrt-station) (Published: 2 days ago)
-* [NOTCH咖啡 本町店](https://blog.wei-lee.me/posts/random-thoughts/2026/05/notch-coffee-honten) (Published: 6 days ago)
+* [2026/5/25 - 5/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-05-25-2026-05-31-open-source-report) (Published: 1 day ago)
+* [捷運站在哪裡，絕對難不倒你](https://blog.wei-lee.me/posts/random-thoughts/2026/06/where-is-the-mrt-station) (Published: 3 days ago)
+* [NOTCH咖啡 本町店](https://blog.wei-lee.me/posts/random-thoughts/2026/05/notch-coffee-honten) (Published: 1 week ago)
 * [改變人生觀的一句話](https://blog.wei-lee.me/posts/random-thoughts/2026/05/life-changing-sentence) (Published: 1 week ago)
 * [2026/5/18 - 5/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-18-2026-05-24-open-source-report) (Published: 1 week ago)
-* [構成我的九部動畫](https://blog.wei-lee.me/posts/random-thoughts/2026/05/nine-anime-that-builds-me) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [從📚頁面到🗝️私藏](https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash) (Published: 2 days ago)
- * [2025 春季看什麼](https://travlog.wei-lee.me/posts/review/2026/05/what-i-watched-in-2025-spring) (Published: 5 days ago)
- * [曼達洛人與古古 | The Mandalorian &amp; Grogu](https://travlog.wei-lee.me/posts/review/2026/05/the-mandalorian-grogu) (Published: 6 days ago)
+ * [從📚頁面到🗝️私藏](https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash) (Published: 3 days ago)
+ * [2025 春季看什麼](https://travlog.wei-lee.me/posts/review/2026/05/what-i-watched-in-2025-spring) (Published: 6 days ago)
+ * [曼達洛人與古古 | The Mandalorian &amp; Grogu](https://travlog.wei-lee.me/posts/review/2026/05/the-mandalorian-grogu) (Published: 1 week ago)
  * [不到一層樓的距離](https://travlog.wei-lee.me/posts/travel/2026/05/passing-by-rin-aoki-hina-tateishi) (Published: 1 week ago)
  * [小林家的龍女僕：害怕寂寞的龍 BD 開箱](https://travlog.wei-lee.me/posts/review/2026/05/kobayashino-maid-dragon-lonely-dragon-unboxing) (Published: 2 weeks ago)
 
