@@ -42,32 +42,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [2026/5/25 - 5/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-05-25-2026-05-31-open-source-report) (Published: 1 day ago)
-* [捷運站在哪裡，絕對難不倒你](https://blog.wei-lee.me/posts/random-thoughts/2026/06/where-is-the-mrt-station) (Published: 3 days ago)
+* [2026/5/25 - 5/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-05-25-2026-05-31-open-source-report) (Published: 2 days ago)
+* [捷運站在哪裡，絕對難不倒你](https://blog.wei-lee.me/posts/random-thoughts/2026/06/where-is-the-mrt-station) (Published: 4 days ago)
 * [NOTCH咖啡 本町店](https://blog.wei-lee.me/posts/random-thoughts/2026/05/notch-coffee-honten) (Published: 1 week ago)
 * [改變人生觀的一句話](https://blog.wei-lee.me/posts/random-thoughts/2026/05/life-changing-sentence) (Published: 1 week ago)
 * [2026/5/18 - 5/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-18-2026-05-24-open-source-report) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [從📚頁面到🗝️私藏](https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash) (Published: 3 days ago)
- * [2025 春季看什麼](https://travlog.wei-lee.me/posts/review/2026/05/what-i-watched-in-2025-spring) (Published: 6 days ago)
+ * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 1 day ago)
+ * [從📚頁面到🗝️私藏](https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash) (Published: 4 days ago)
+ * [2025 春季看什麼](https://travlog.wei-lee.me/posts/review/2026/05/what-i-watched-in-2025-spring) (Published: 1 week ago)
  * [曼達洛人與古古 | The Mandalorian &amp; Grogu](https://travlog.wei-lee.me/posts/review/2026/05/the-mandalorian-grogu) (Published: 1 week ago)
  * [不到一層樓的距離](https://travlog.wei-lee.me/posts/travel/2026/05/passing-by-rin-aoki-hina-tateishi) (Published: 1 week ago)
- * [小林家的龍女僕：害怕寂寞的龍 BD 開箱](https://travlog.wei-lee.me/posts/review/2026/05/kobayashino-maid-dragon-lonely-dragon-unboxing) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#2011](https://github.com/commitizen-tools/commitizen/issues/2011#issuecomment-4608631373) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#60](https://github.com/Lee-W/main-blog/issues/60#issuecomment-4608549878) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-3. 🗣 Commented on [#60](https://github.com/Lee-W/main-blog/issues/60#issuecomment-4598155316) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 🗣 Commented on [#22](https://github.com/Lee-W/travlog/issues/22#issuecomment-4598147431) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 🔒 Closed issue [#2012](https://github.com/commitizen-tools/commitizen/issues/2012) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#2012](https://github.com/commitizen-tools/commitizen/issues/2012#issuecomment-4589235951) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4581243998) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#21](https://github.com/Lee-W/travlog/issues/21#issuecomment-4577688232) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-9. 💪 Opened PR [#67718](https://github.com/apache/airflow/pull/67718) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#67717](https://github.com/apache/airflow/pull/67717) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#64571](https://github.com/apache/airflow/pull/64571) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#59294](https://github.com/apache/airflow/issues/59294) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4620369749) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Labeled issue [#68004](https://github.com/apache/airflow/issues/68004) in [apache/airflow](https://github.com/apache/airflow)
+5. ❗ Opened issue [#68004](https://github.com/apache/airflow/issues/68004) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#2011](https://github.com/commitizen-tools/commitizen/issues/2011#issuecomment-4608631373) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#60](https://github.com/Lee-W/main-blog/issues/60#issuecomment-4608549878) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+8. 🗣 Commented on [#60](https://github.com/Lee-W/main-blog/issues/60#issuecomment-4598155316) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+9. 🗣 Commented on [#22](https://github.com/Lee-W/travlog/issues/22#issuecomment-4598147431) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+10. 🔒 Closed issue [#2012](https://github.com/commitizen-tools/commitizen/issues/2012) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 
 
 ## ⭐ GitHub Stat
