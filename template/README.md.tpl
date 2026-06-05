@@ -50,16 +50,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2011](https://github.com/commitizen-tools/commitizen/issues/2011#issuecomment-4608631373) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#60](https://github.com/Lee-W/main-blog/issues/60#issuecomment-4608549878) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-3. 🗣 Commented on [#60](https://github.com/Lee-W/main-blog/issues/60#issuecomment-4598155316) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 🗣 Commented on [#22](https://github.com/Lee-W/travlog/issues/22#issuecomment-4598147431) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 🔒 Closed issue [#2012](https://github.com/commitizen-tools/commitizen/issues/2012) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-6. 🗣 Commented on [#2012](https://github.com/commitizen-tools/commitizen/issues/2012#issuecomment-4589235951) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-7. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4581243998) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#21](https://github.com/Lee-W/travlog/issues/21#issuecomment-4577688232) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-9. 💪 Opened PR [#67718](https://github.com/apache/airflow/pull/67718) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#67717](https://github.com/apache/airflow/pull/67717) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#64571](https://github.com/apache/airflow/pull/64571) in [apache/airflow](https://github.com/apache/airflow)
+2. 🔒 Closed issue [#59294](https://github.com/apache/airflow/issues/59294) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#64571](https://github.com/apache/airflow/pull/64571#issuecomment-4620369749) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Labeled issue [#68004](https://github.com/apache/airflow/issues/68004) in [apache/airflow](https://github.com/apache/airflow)
+5. ❗ Opened issue [#68004](https://github.com/apache/airflow/issues/68004) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#2011](https://github.com/commitizen-tools/commitizen/issues/2011#issuecomment-4608631373) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#60](https://github.com/Lee-W/main-blog/issues/60#issuecomment-4608549878) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+8. 🗣 Commented on [#60](https://github.com/Lee-W/main-blog/issues/60#issuecomment-4598155316) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+9. 🗣 Commented on [#22](https://github.com/Lee-W/travlog/issues/22#issuecomment-4598147431) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+10. 🔒 Closed issue [#2012](https://github.com/commitizen-tools/commitizen/issues/2012) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
