@@ -42,32 +42,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [2026/5/25 - 5/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-05-25-2026-05-31-open-source-report) (Published: 4 days ago)
-* [捷運站在哪裡，絕對難不倒你](https://blog.wei-lee.me/posts/random-thoughts/2026/06/where-is-the-mrt-station) (Published: 6 days ago)
+* [Open Source Team Taiwan](https://blog.wei-lee.me/posts/tech/2026/06/open-source-team-taiwan) (Published: today)
+* [2026/5/25 - 5/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-05-25-2026-05-31-open-source-report) (Published: 5 days ago)
+* [捷運站在哪裡，絕對難不倒你](https://blog.wei-lee.me/posts/random-thoughts/2026/06/where-is-the-mrt-station) (Published: 1 week ago)
 * [NOTCH咖啡 本町店](https://blog.wei-lee.me/posts/random-thoughts/2026/05/notch-coffee-honten) (Published: 1 week ago)
 * [改變人生觀的一句話](https://blog.wei-lee.me/posts/random-thoughts/2026/05/life-changing-sentence) (Published: 1 week ago)
-* [2026/5/18 - 5/24 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/05/2026-05-18-2026-05-24-open-source-report) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 3 days ago)
- * [從📚頁面到🗝️私藏](https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash) (Published: 6 days ago)
+ * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 4 days ago)
+ * [從📚頁面到🗝️私藏](https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash) (Published: 1 week ago)
  * [2025 春季看什麼](https://travlog.wei-lee.me/posts/review/2026/05/what-i-watched-in-2025-spring) (Published: 1 week ago)
  * [曼達洛人與古古 | The Mandalorian &amp; Grogu](https://travlog.wei-lee.me/posts/review/2026/05/the-mandalorian-grogu) (Published: 1 week ago)
  * [不到一層樓的距離](https://travlog.wei-lee.me/posts/travel/2026/05/passing-by-rin-aoki-hina-tateishi) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#67717](https://github.com/apache/airflow/pull/67717) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#2](https://github.com/Lee-W/maigo/pull/2) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-3. 💪 Opened PR [#2](https://github.com/Lee-W/maigo/pull/2) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-4. 🗣 Commented on [#67430](https://github.com/apache/airflow/pull/67430#issuecomment-4630347438) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Closed PR [#67430](https://github.com/apache/airflow/pull/67430) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#67718](https://github.com/apache/airflow/pull/67718) in [apache/airflow](https://github.com/apache/airflow)
-7. 🔒 Closed issue [#67368](https://github.com/apache/airflow/issues/67368) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#64571](https://github.com/apache/airflow/pull/64571) in [apache/airflow](https://github.com/apache/airflow)
-9. 🔒 Closed issue [#59294](https://github.com/apache/airflow/issues/59294) in [apache/airflow](https://github.com/apache/airflow)
-10. ❗ Opened issue [#68004](https://github.com/apache/airflow/issues/68004) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#2006](https://github.com/commitizen-tools/commitizen/pull/2006#issuecomment-4642828838) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+2. 🗣 Commented on [#1896](https://github.com/commitizen-tools/commitizen/pull/1896#issuecomment-4642790345) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+3. 💪 Opened PR [#68167](https://github.com/apache/airflow/pull/68167) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#67717](https://github.com/apache/airflow/pull/67717) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#2](https://github.com/Lee-W/maigo/pull/2) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+6. 💪 Opened PR [#2](https://github.com/Lee-W/maigo/pull/2) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+7. 🗣 Commented on [#67430](https://github.com/apache/airflow/pull/67430#issuecomment-4630347438) in [apache/airflow](https://github.com/apache/airflow)
+8. ❌ Closed PR [#67430](https://github.com/apache/airflow/pull/67430) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#67718](https://github.com/apache/airflow/pull/67718) in [apache/airflow](https://github.com/apache/airflow)
+10. 🔒 Closed issue [#67368](https://github.com/apache/airflow/issues/67368) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
