@@ -42,15 +42,15 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [Open Source Team Taiwan](https://blog.wei-lee.me/posts/tech/2026/06/open-source-team-taiwan) (Published: 1 day ago)
-* [2026/5/25 - 5/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-05-25-2026-05-31-open-source-report) (Published: 6 days ago)
+* [Open Source Team Taiwan](https://blog.wei-lee.me/posts/tech/2026/06/open-source-team-taiwan) (Published: 2 days ago)
+* [2026/5/25 - 5/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-05-25-2026-05-31-open-source-report) (Published: 1 week ago)
 * [捷運站在哪裡，絕對難不倒你](https://blog.wei-lee.me/posts/random-thoughts/2026/06/where-is-the-mrt-station) (Published: 1 week ago)
 * [NOTCH咖啡 本町店](https://blog.wei-lee.me/posts/random-thoughts/2026/05/notch-coffee-honten) (Published: 1 week ago)
-* [改變人生觀的一句話](https://blog.wei-lee.me/posts/random-thoughts/2026/05/life-changing-sentence) (Published: 1 week ago)
+* [改變人生觀的一句話](https://blog.wei-lee.me/posts/random-thoughts/2026/05/life-changing-sentence) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 5 days ago)
+ * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 6 days ago)
  * [從📚頁面到🗝️私藏](https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash) (Published: 1 week ago)
  * [2025 春季看什麼](https://travlog.wei-lee.me/posts/review/2026/05/what-i-watched-in-2025-spring) (Published: 1 week ago)
  * [曼達洛人與古古 | The Mandalorian &amp; Grogu](https://travlog.wei-lee.me/posts/review/2026/05/the-mandalorian-grogu) (Published: 1 week ago)
@@ -58,13 +58,13 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 
-1. ℹ️ Labeled issue [#68238](https://github.com/apache/airflow/issues/68238) in [apache/airflow](https://github.com/apache/airflow)
-2. ❗ Opened issue [#68238](https://github.com/apache/airflow/issues/68238) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#67285](https://github.com/apache/airflow/pull/67285#issuecomment-4649472550) in [apache/airflow](https://github.com/apache/airflow)
-4. 🚀 Published release [0.4.0](https://github.com/Lee-W/pelican-tabular/releases/tag/0.4.0) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
-5. 🎉 Merged PR [#66030](https://github.com/apache/airflow/pull/66030) in [apache/airflow](https://github.com/apache/airflow)
-6. 🔒 Closed issue [#65654](https://github.com/apache/airflow/issues/65654) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#68167](https://github.com/apache/airflow/pull/68167) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#3](https://github.com/Lee-W/maigo/pull/3) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+2. 🗣 Commented on [#68290](https://github.com/apache/airflow/pull/68290#issuecomment-4665278845) in [apache/airflow](https://github.com/apache/airflow)
+3. ❌ Closed PR [#68290](https://github.com/apache/airflow/pull/68290) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#68289](https://github.com/apache/airflow/pull/68289#issuecomment-4660954628) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#68289](https://github.com/apache/airflow/pull/68289#issuecomment-4660941828) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#3](https://github.com/Lee-W/maigo/pull/3) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+7. 💪 Opened PR [#68290](https://github.com/apache/airflow/pull/68290) in [apache/airflow](https://github.com/apache/airflow)
 8. 🗣 Commented on [#2006](https://github.com/commitizen-tools/commitizen/pull/2006#issuecomment-4642828838) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 9. 🗣 Commented on [#1896](https://github.com/commitizen-tools/commitizen/pull/1896#issuecomment-4642790345) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
 10. 💪 Opened PR [#68167](https://github.com/apache/airflow/pull/68167) in [apache/airflow](https://github.com/apache/airflow)
