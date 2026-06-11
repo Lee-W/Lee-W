@@ -1,10 +1,56 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="lang-en">
 <head>
   <meta charset="UTF-8">
+  <script>
+    (function () {
+      var lang = localStorage.getItem('lang');
+      if (lang === 'zh' || lang === 'en') {
+        document.documentElement.className = 'lang-' + lang;
+        document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : 'en';
+      }
+    })();
+  </script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Wei Lee / 李唯</title>
+  <meta name="description" content="Open source contributor, Pythonista, and automation enthusiast based in Taiwan. Apache Airflow PMC member, commitizen-tools maintainer, and PyCon Taiwan organizer.">
+  <link rel="canonical" href="https://wei-lee.me/">
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Wei Lee / 李唯">
+  <meta property="og:description" content="Open source contributor, Pythonista, and automation enthusiast based in Taiwan. Apache Airflow PMC member, commitizen-tools maintainer, and PyCon Taiwan organizer.">
+  <meta property="og:url" content="https://wei-lee.me/">
+  <meta property="og:image" content="https://wei-lee.me/images/avatar.jpg">
+  <meta property="og:image:width" content="460">
+  <meta property="og:image:height" content="460">
+  <meta property="og:image:alt" content="Wei Lee's avatar">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Wei Lee / 李唯">
+  <meta name="twitter:description" content="Open source contributor, Pythonista, and automation enthusiast based in Taiwan. Apache Airflow PMC member, commitizen-tools maintainer, and PyCon Taiwan organizer.">
+  <meta name="twitter:image" content="https://wei-lee.me/images/avatar.jpg">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Wei Lee",
+    "alternateName": "李唯",
+    "url": "https://wei-lee.me/",
+    "image": "https://wei-lee.me/images/avatar.jpg",
+    "jobTitle": "Open source contributor",
+    "nationality": "Taiwan",
+    "sameAs": [
+      "https://github.com/Lee-W/",
+      "https://tw.linkedin.com/in/clleew",
+      "https://twitter.com/clleew",
+      "https://g0v.social/@weilee",
+      "https://blog.wei-lee.me/",
+      "https://travlog.wei-lee.me/"
+    ]
+  }
+  </script>
+  <meta name="theme-color" content="#f7f7f5" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#141414" media="(prefers-color-scheme: dark)">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐍</text></svg>">
+  <link rel="apple-touch-icon" href="/images/avatar.jpg">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
   <style>
     :root {
@@ -348,7 +394,7 @@
     .lang-zh [data-lang="zh"] { display: revert; }
   </style>
 </head>
-<body class="lang-en">
+<body>
   <main>
     <div class="topbar">
       <div class="lang-switcher" role="group" aria-label="Language">
@@ -497,6 +543,11 @@
     </section>
 
     <nav class="extras" aria-label="More pages">
+      <a id="aboutLink" href="https://blog.wei-lee.me/en/pages/about-me" rel="noopener noreferrer">
+        <i class="fa-solid fa-user" aria-hidden="true"></i>
+        <span data-lang="en">About</span>
+        <span data-lang="zh">關於我</span>
+      </a>
       <a href="https://travlog.wei-lee.me/pages/pilgrimage" rel="noopener noreferrer">
         <i class="fa-solid fa-map-location-dot" aria-hidden="true"></i>
         <span data-lang="en">Pilgrimage</span>
@@ -542,10 +593,17 @@
       zh: 'https://blog.wei-lee.me/pages/now'
     };
 
+    const aboutUrls = {
+      en: 'https://blog.wei-lee.me/en/pages/about-me',
+      zh: 'https://blog.wei-lee.me/pages/about-me'
+    };
+
     function setLang(lang) {
-      document.body.className = 'lang-' + lang;
+      document.documentElement.className = 'lang-' + lang;
+      document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : 'en';
       options.forEach(o => o.classList.toggle('active', o.dataset.value === lang));
       document.getElementById('nowLink').href = nowUrls[lang];
+      document.getElementById('aboutLink').href = aboutUrls[lang];
       localStorage.setItem('lang', lang);
     }
 
