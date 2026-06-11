@@ -552,10 +552,8 @@
           <span data-lang="en">Technical notes, book digests, and occasional thoughts</span>
           <span data-lang="zh">技術筆記、書摘，還有偶爾冒出來的碎念</span>
         </div>
-        <ul class="card-posts">
-          <li><a href="https://blog.wei-lee.me/posts/tech/2026/06/2026-06-01-2026-06-07-open-source-report">2026/6/1 - 6/7 開源貢獻週報<time>2026-06-10</time></a></li>
-          <li><a href="https://blog.wei-lee.me/posts/tech/2026/06/open-source-team-taiwan">Open Source Team Taiwan<time>2026-06-08</time></a></li>
-          <li><a href="https://blog.wei-lee.me/posts/tech/2026/06/2026-05-25-2026-05-31-open-source-report">2026/5/25 - 5/31 開源貢獻週報<time>2026-06-03</time></a></li>
+        <ul class="card-posts">{{ range rss "https://blog.wei-lee.me/feeds/all.atom.xml" 3 }}
+          <li><a href="{{ .URL }}">{{ .Title }}<time>{{ .PublishedAt.Format "2006-01-02" }}</time></a></li>{{ end }}
         </ul>
         <div class="card-footer">
           <a class="rss-link" href="https://blog.wei-lee.me/feeds/all.atom.xml" rel="noopener noreferrer">
@@ -583,10 +581,8 @@
           <span data-lang="en">Cooking, anime, travel, and things that bring joy</span>
           <span data-lang="zh">料理、動漫、旅行，還有那些讓人開心的小事</span>
         </div>
-        <ul class="card-posts">
-          <li><a href="https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe">貓妝自家烘焙咖啡館<time>2026-06-04</time></a></li>
-          <li><a href="https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash">從📚頁面到🗝️私藏<time>2026-06-01</time></a></li>
-          <li><a href="https://travlog.wei-lee.me/posts/review/2026/05/what-i-watched-in-2025-spring">2025 春季看什麼<time>2026-05-29</time></a></li>
+        <ul class="card-posts">{{ range rss "https://travlog.wei-lee.me/feeds/all.atom.xml" 3 }}
+          <li><a href="{{ .URL }}">{{ .Title }}<time>{{ .PublishedAt.Format "2006-01-02" }}</time></a></li>{{ end }}
         </ul>
         <div class="card-footer">
           <a class="rss-link" href="https://travlog.wei-lee.me/feeds/all.atom.xml" rel="noopener noreferrer">
