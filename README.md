@@ -42,32 +42,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [Open Source Team Taiwan](https://blog.wei-lee.me/posts/tech/2026/06/open-source-team-taiwan) (Published: 2 days ago)
+* [2026/6/1 - 6/7 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-06-01-2026-06-07-open-source-report) (Published: 1 day ago)
+* [Open Source Team Taiwan](https://blog.wei-lee.me/posts/tech/2026/06/open-source-team-taiwan) (Published: 3 days ago)
 * [2026/5/25 - 5/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-05-25-2026-05-31-open-source-report) (Published: 1 week ago)
 * [捷運站在哪裡，絕對難不倒你](https://blog.wei-lee.me/posts/random-thoughts/2026/06/where-is-the-mrt-station) (Published: 1 week ago)
-* [NOTCH咖啡 本町店](https://blog.wei-lee.me/posts/random-thoughts/2026/05/notch-coffee-honten) (Published: 1 week ago)
-* [改變人生觀的一句話](https://blog.wei-lee.me/posts/random-thoughts/2026/05/life-changing-sentence) (Published: 2 weeks ago)
+* [NOTCH咖啡 本町店](https://blog.wei-lee.me/posts/random-thoughts/2026/05/notch-coffee-honten) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 6 days ago)
+ * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 1 week ago)
  * [從📚頁面到🗝️私藏](https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash) (Published: 1 week ago)
  * [2025 春季看什麼](https://travlog.wei-lee.me/posts/review/2026/05/what-i-watched-in-2025-spring) (Published: 1 week ago)
- * [曼達洛人與古古 | The Mandalorian &amp; Grogu](https://travlog.wei-lee.me/posts/review/2026/05/the-mandalorian-grogu) (Published: 1 week ago)
+ * [曼達洛人與古古 | The Mandalorian &amp; Grogu](https://travlog.wei-lee.me/posts/review/2026/05/the-mandalorian-grogu) (Published: 2 weeks ago)
  * [不到一層樓的距離](https://travlog.wei-lee.me/posts/travel/2026/05/passing-by-rin-aoki-hina-tateishi) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#3](https://github.com/Lee-W/maigo/pull/3) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-2. 🗣 Commented on [#68290](https://github.com/apache/airflow/pull/68290#issuecomment-4665278845) in [apache/airflow](https://github.com/apache/airflow)
-3. ❌ Closed PR [#68290](https://github.com/apache/airflow/pull/68290) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#68289](https://github.com/apache/airflow/pull/68289#issuecomment-4660954628) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#68289](https://github.com/apache/airflow/pull/68289#issuecomment-4660941828) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#3](https://github.com/Lee-W/maigo/pull/3) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-7. 💪 Opened PR [#68290](https://github.com/apache/airflow/pull/68290) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#2006](https://github.com/commitizen-tools/commitizen/pull/2006#issuecomment-4642828838) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🗣 Commented on [#1896](https://github.com/commitizen-tools/commitizen/pull/1896#issuecomment-4642790345) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-10. 💪 Opened PR [#68167](https://github.com/apache/airflow/pull/68167) in [apache/airflow](https://github.com/apache/airflow)
+1. 🔒 Closed issue [#57695](https://github.com/apache/airflow/issues/57695) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#57695](https://github.com/apache/airflow/issues/57695#issuecomment-4676638249) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#67184](https://github.com/apache/airflow/pull/67184) in [apache/airflow](https://github.com/apache/airflow)
+4. 🔒 Closed issue [#65760](https://github.com/apache/airflow/issues/65760) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#67285](https://github.com/apache/airflow/pull/67285#issuecomment-4671436201) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#68335](https://github.com/apache/airflow/pull/68335) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#68266](https://github.com/apache/airflow/pull/68266) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#68335](https://github.com/apache/airflow/pull/68335) in [apache/airflow](https://github.com/apache/airflow)
+9. ℹ️ Unlabeled PR [#66848](https://github.com/apache/airflow/pull/66848) in [apache/airflow](https://github.com/apache/airflow)
+10. ℹ️ Unlabeled PR [#67184](https://github.com/apache/airflow/pull/67184) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
