@@ -42,15 +42,15 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [現在我有部落卷](https://blog.wei-lee.me/posts/random-thoughts/2026/06/now-i-also-have-blogroll) (Published: 1 day ago)
-* [2026/6/1 - 6/7 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-06-01-2026-06-07-open-source-report) (Published: 2 days ago)
-* [Open Source Team Taiwan](https://blog.wei-lee.me/posts/tech/2026/06/open-source-team-taiwan) (Published: 4 days ago)
+* [現在我有部落卷](https://blog.wei-lee.me/posts/random-thoughts/2026/06/now-i-also-have-blogroll) (Published: 2 days ago)
+* [2026/6/1 - 6/7 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-06-01-2026-06-07-open-source-report) (Published: 3 days ago)
+* [Open Source Team Taiwan](https://blog.wei-lee.me/posts/tech/2026/06/open-source-team-taiwan) (Published: 5 days ago)
 * [2026/5/25 - 5/31 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-05-25-2026-05-31-open-source-report) (Published: 1 week ago)
 * [捷運站在哪裡，絕對難不倒你](https://blog.wei-lee.me/posts/random-thoughts/2026/06/where-is-the-mrt-station) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [張景嵐曾待過的宜蘭](https://travlog.wei-lee.me/posts/travel/2026/06/chang-chin-lan) (Published: 1 day ago)
+ * [張景嵐曾待過的宜蘭](https://travlog.wei-lee.me/posts/travel/2026/06/chang-chin-lan) (Published: 2 days ago)
  * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 1 week ago)
  * [從📚頁面到🗝️私藏](https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash) (Published: 1 week ago)
  * [2025 春季看什麼](https://travlog.wei-lee.me/posts/review/2026/05/what-i-watched-in-2025-spring) (Published: 2 weeks ago)
@@ -58,16 +58,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#67285](https://github.com/apache/airflow/pull/67285#issuecomment-4678851298) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#67285](https://github.com/apache/airflow/pull/67285#issuecomment-4678545078) in [apache/airflow](https://github.com/apache/airflow)
-3. 🔒 Closed issue [#57695](https://github.com/apache/airflow/issues/57695) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#57695](https://github.com/apache/airflow/issues/57695#issuecomment-4676638249) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#67184](https://github.com/apache/airflow/pull/67184) in [apache/airflow](https://github.com/apache/airflow)
-6. 🔒 Closed issue [#65760](https://github.com/apache/airflow/issues/65760) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#67285](https://github.com/apache/airflow/pull/67285#issuecomment-4671436201) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#68335](https://github.com/apache/airflow/pull/68335) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#68266](https://github.com/apache/airflow/pull/68266) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#68335](https://github.com/apache/airflow/pull/68335) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#68460](https://github.com/apache/airflow/pull/68460) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#68459](https://github.com/apache/airflow/pull/68459) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#68458](https://github.com/apache/airflow/pull/68458) in [apache/airflow](https://github.com/apache/airflow)
+4. 🔒 Closed issue [#67484](https://github.com/apache/airflow/issues/67484) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#68443](https://github.com/apache/airflow/pull/68443) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#68442](https://github.com/apache/airflow/pull/68442) in [apache/airflow](https://github.com/apache/airflow)
+7. 🔒 Closed issue [#68315](https://github.com/apache/airflow/issues/68315) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#68432](https://github.com/apache/airflow/pull/68432) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#66848](https://github.com/apache/airflow/pull/66848) in [apache/airflow](https://github.com/apache/airflow)
+10. 🔒 Closed issue [#65755](https://github.com/apache/airflow/issues/65755) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
