@@ -42,19 +42,19 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [音樂與記憶](https://blog.wei-lee.me/posts/random-thoughts/2026/06/music-and-memory) (Published: 2 days ago)
-* [17 → 16](https://blog.wei-lee.me/posts/tech/2026/06/airflow-17-to-16) (Published: 4 days ago)
+* [音樂與記憶](https://blog.wei-lee.me/posts/random-thoughts/2026/06/music-and-memory) (Published: 3 days ago)
+* [17 → 16](https://blog.wei-lee.me/posts/tech/2026/06/airflow-17-to-16) (Published: 5 days ago)
 * [現在我有部落卷](https://blog.wei-lee.me/posts/random-thoughts/2026/06/now-i-also-have-blogroll) (Published: 1 week ago)
 * [2026/6/1 - 6/7 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-06-01-2026-06-07-open-source-report) (Published: 1 week ago)
 * [Open Source Team Taiwan](https://blog.wei-lee.me/posts/tech/2026/06/open-source-team-taiwan) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [愛麗絲夢遊仙境特展](https://travlog.wei-lee.me/posts/review/2026/06/alice-in-wonderland-exhibition) (Published: 1 day ago)
+ * [2025 夏季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-summer) (Published: 1 day ago)
+ * [愛麗絲夢遊仙境特展](https://travlog.wei-lee.me/posts/review/2026/06/alice-in-wonderland-exhibition) (Published: 2 days ago)
  * [張景嵐曾待過的宜蘭](https://travlog.wei-lee.me/posts/travel/2026/06/chang-chin-lan) (Published: 1 week ago)
  * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 2 weeks ago)
  * [從📚頁面到🗝️私藏](https://travlog.wei-lee.me/posts/review/2026/06/from-pages-to-private-stash) (Published: 2 weeks ago)
- * [2025 春季看什麼](https://travlog.wei-lee.me/posts/review/2026/05/what-i-watched-in-2025-spring) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
