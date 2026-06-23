@@ -52,10 +52,10 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68714](https://github.com/apache/airflow/pull/68714) in [apache/airflow](https://github.com/apache/airflow)
-2. 🔒 Closed issue [#68676](https://github.com/apache/airflow/issues/68676) in [apache/airflow](https://github.com/apache/airflow)
-3. ❌ Closed PR [#227](https://github.com/pycontw/pycontw-blog/pull/227) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-4. ❌ Closed PR [#229](https://github.com/pycontw/pycontw-blog/pull/229) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+1. 💪 Opened PR [#68870](https://github.com/apache/airflow/pull/68870) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#68866](https://github.com/apache/airflow/pull/68866) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#68866](https://github.com/apache/airflow/pull/68866) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Assigned PR [#68702](https://github.com/apache/airflow/pull/68702) in [apache/airflow](https://github.com/apache/airflow)
 5. ❌ Closed PR [#226](https://github.com/pycontw/pycontw-blog/pull/226) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
 6. 💪 Opened PR [#68722](https://github.com/apache/airflow/pull/68722) in [apache/airflow](https://github.com/apache/airflow)
 7. 💪 Opened PR [#68719](https://github.com/apache/airflow/pull/68719) in [apache/airflow](https://github.com/apache/airflow)
