@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wei-lee.me/sitemap.xml

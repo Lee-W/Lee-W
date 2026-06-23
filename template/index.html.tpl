@@ -133,6 +133,12 @@
       color: #fff;
     }
 
+    :focus-visible {
+      outline: 3px solid var(--accent);
+      outline-color: color-mix(in srgb, var(--accent) 65%, transparent);
+      outline-offset: 3px;
+    }
+
     /* ── Header ── */
     .header {
       display: flex;
@@ -192,6 +198,44 @@
       flex-shrink: 0;
     }
 
+    /* ── Primary paths ── */
+    .primary-paths {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.7rem;
+      margin-bottom: 1.75rem;
+    }
+
+    .path-link {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      min-height: 2.6rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 0.65rem 0.8rem;
+      transition: border-color 0.12s, color 0.12s, transform 0.12s;
+    }
+
+    .path-link:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      transform: translateY(-1px);
+    }
+
+    .path-link i {
+      color: var(--accent);
+      font-size: 0.8rem;
+      width: 1rem;
+      text-align: center;
+      flex-shrink: 0;
+    }
+
     /* ── Now ── */
     .now-link {
       display: flex;
@@ -235,12 +279,6 @@
       display: grid;
       gap: 1.1rem;
       margin-bottom: 2rem;
-    }
-
-    .card-link {
-      position: absolute;
-      inset: 0;
-      border-radius: var(--radius);
     }
 
     .card-footer {
@@ -313,6 +351,13 @@
       font-weight: 600;
       margin-bottom: 0.25rem;
     }
+
+    .card-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .card-title a:hover { color: var(--accent); }
 
     .card-desc {
       font-size: 0.82rem;
@@ -415,6 +460,10 @@
         gap: 0.5rem;
       }
 
+      .primary-paths {
+        grid-template-columns: 1fr;
+      }
+
       .card, .now-link {
         padding: 1rem 1.1rem;
       }
@@ -442,8 +491,8 @@
     <div class="topbar">
       <div class="lang-switcher" role="group" aria-label="Language">
         <i class="fa-solid fa-language" aria-hidden="true"></i>
-        <button class="lang-option active" data-value="en">EN</button>
-        <button class="lang-option" data-value="zh">漢語</button>
+        <button class="lang-option active" data-value="en" aria-pressed="true">EN</button>
+        <button class="lang-option" data-value="zh" aria-pressed="false">漢語</button>
       </div>
     </div>
 
@@ -520,6 +569,24 @@
       </li>
     </ul>
 
+    <nav class="primary-paths" aria-label="Primary paths">
+      <a id="primaryNowLink" class="path-link" href="https://blog.wei-lee.me/en/pages/now" rel="noopener noreferrer">
+        <i class="fa-solid fa-clock" aria-hidden="true"></i>
+        <span data-lang="en">Now</span>
+        <span data-lang="zh">近況</span>
+      </a>
+      <a class="path-link" href="https://blog.wei-lee.me/" rel="noopener noreferrer">
+        <i class="fa-solid fa-pen-nib" aria-hidden="true"></i>
+        <span data-lang="en">Tech notes</span>
+        <span data-lang="zh">技術筆記</span>
+      </a>
+      <a class="path-link" href="https://travlog.wei-lee.me/" rel="noopener noreferrer">
+        <i class="fa-solid fa-map" aria-hidden="true"></i>
+        <span data-lang="en">Life &amp; travel</span>
+        <span data-lang="zh">生活旅行</span>
+      </a>
+    </nav>
+
     <a id="nowLink" class="now-link" href="https://blog.wei-lee.me/en/pages/now" rel="noopener noreferrer">
       <i class="fa-solid fa-clock now-icon" aria-hidden="true"></i>
       <div class="now-text">
@@ -536,7 +603,6 @@
 
     <section class="blogs" aria-label="Blogs">
       <div class="card">
-        <a class="card-link" href="https://blog.wei-lee.me/" rel="noopener noreferrer" aria-label="Those aren't written down are meant to be forgotten"></a>
         <div class="card-head">
           <div class="card-tag">
             <span data-lang="en">Tech &amp; Thoughts</span>
@@ -545,8 +611,10 @@
           <i class="fa-solid fa-up-right-from-square card-arrow" aria-hidden="true"></i>
         </div>
         <div class="card-title">
-          <span data-lang="en">Those aren't written down are meant to be forgotten</span>
-          <span data-lang="zh">不寫下來的東西都會被遺忘</span>
+          <a href="https://blog.wei-lee.me/" rel="noopener noreferrer">
+            <span data-lang="en">Those aren't written down are meant to be forgotten</span>
+            <span data-lang="zh">不寫下來的東西都會被遺忘</span>
+          </a>
         </div>
         <div class="card-desc">
           <span data-lang="en">Technical notes, book digests, and occasional thoughts</span>
@@ -565,7 +633,6 @@
       </div>
 
       <div class="card">
-        <a class="card-link" href="https://travlog.wei-lee.me/" rel="noopener noreferrer" aria-label="Those things no one cares about"></a>
         <div class="card-head">
           <div class="card-tag">
             <span data-lang="en">Life &amp; Travel</span>
@@ -574,8 +641,10 @@
           <i class="fa-solid fa-up-right-from-square card-arrow" aria-hidden="true"></i>
         </div>
         <div class="card-title">
-          <span data-lang="en">Those things no one cares about</span>
-          <span data-lang="zh">那些沒人在乎的事</span>
+          <a href="https://travlog.wei-lee.me/" rel="noopener noreferrer">
+            <span data-lang="en">Those things no one cares about</span>
+            <span data-lang="zh">那些沒人在乎的事</span>
+          </a>
         </div>
         <div class="card-desc">
           <span data-lang="en">Cooking, anime, travel, and things that bring joy</span>
@@ -653,7 +722,12 @@
     function setLang(lang) {
       document.documentElement.className = 'lang-' + lang;
       document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : 'en';
-      options.forEach(o => o.classList.toggle('active', o.dataset.value === lang));
+      options.forEach(o => {
+        const isActive = o.dataset.value === lang;
+        o.classList.toggle('active', isActive);
+        o.setAttribute('aria-pressed', String(isActive));
+      });
+      document.getElementById('primaryNowLink').href = nowUrls[lang];
       document.getElementById('nowLink').href = nowUrls[lang];
       document.getElementById('aboutLink').href = aboutUrls[lang];
       localStorage.setItem('lang', lang);
