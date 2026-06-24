@@ -52,16 +52,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68870](https://github.com/apache/airflow/pull/68870) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#68866](https://github.com/apache/airflow/pull/68866) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#68866](https://github.com/apache/airflow/pull/68866) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Assigned PR [#68702](https://github.com/apache/airflow/pull/68702) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Closed PR [#226](https://github.com/pycontw/pycontw-blog/pull/226) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 💪 Opened PR [#68722](https://github.com/apache/airflow/pull/68722) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#68719](https://github.com/apache/airflow/pull/68719) in [apache/airflow](https://github.com/apache/airflow)
-8. ℹ️ Labeled PR [#68718](https://github.com/apache/airflow/pull/68718) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#68718](https://github.com/apache/airflow/pull/68718) in [apache/airflow](https://github.com/apache/airflow)
-10. ℹ️ Labeled PR [#67285](https://github.com/apache/airflow/pull/67285) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#68888](https://github.com/apache/airflow/pull/68888#issuecomment-4778376165) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#68702](https://github.com/apache/airflow/pull/68702) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#68892](https://github.com/apache/airflow/pull/68892) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Labeled PR [#68888](https://github.com/apache/airflow/pull/68888) in [apache/airflow](https://github.com/apache/airflow)
+5. ℹ️ Labeled PR [#68870](https://github.com/apache/airflow/pull/68870) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#68892](https://github.com/apache/airflow/pull/68892) in [apache/airflow](https://github.com/apache/airflow)
+7. ℹ️ Labeled PR [#68550](https://github.com/apache/airflow/pull/68550) in [apache/airflow](https://github.com/apache/airflow)
+8. 🔒 Closed issue [#67239](https://github.com/apache/airflow/issues/67239) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#68717](https://github.com/apache/airflow/pull/68717#issuecomment-4767254523) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#68889](https://github.com/apache/airflow/pull/68889) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
