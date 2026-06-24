@@ -44,32 +44,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [Daychill Specialty Coffee Co.](https://blog.wei-lee.me/posts/random-thoughts/2026/06/daychill-specialty-coffee) (Published: 1 day ago)
-* [音樂與記憶](https://blog.wei-lee.me/posts/random-thoughts/2026/06/music-and-memory) (Published: 5 days ago)
+* [Daychill Specialty Coffee Co.](https://blog.wei-lee.me/posts/random-thoughts/2026/06/daychill-specialty-coffee) (Published: 2 days ago)
+* [音樂與記憶](https://blog.wei-lee.me/posts/random-thoughts/2026/06/music-and-memory) (Published: 6 days ago)
 * [17 → 16](https://blog.wei-lee.me/posts/tech/2026/06/airflow-17-to-16) (Published: 1 week ago)
 * [現在我有部落卷](https://blog.wei-lee.me/posts/random-thoughts/2026/06/now-i-also-have-blogroll) (Published: 1 week ago)
-* [2026/6/1 - 6/7 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-06-01-2026-06-07-open-source-report) (Published: 1 week ago)
+* [2026/6/1 - 6/7 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-06-01-2026-06-07-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [河內河粉](https://travlog.wei-lee.me/posts/review/2026/06/hanoi-pho) (Published: 2 days ago)
- * [2025 夏季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-summer) (Published: 3 days ago)
- * [愛麗絲夢遊仙境特展](https://travlog.wei-lee.me/posts/review/2026/06/alice-in-wonderland-exhibition) (Published: 4 days ago)
+ * [河內河粉](https://travlog.wei-lee.me/posts/review/2026/06/hanoi-pho) (Published: 3 days ago)
+ * [2025 夏季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-summer) (Published: 4 days ago)
+ * [愛麗絲夢遊仙境特展](https://travlog.wei-lee.me/posts/review/2026/06/alice-in-wonderland-exhibition) (Published: 5 days ago)
  * [張景嵐曾待過的宜蘭](https://travlog.wei-lee.me/posts/travel/2026/06/chang-chin-lan) (Published: 1 week ago)
  * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#68870](https://github.com/apache/airflow/pull/68870) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#68866](https://github.com/apache/airflow/pull/68866) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#68866](https://github.com/apache/airflow/pull/68866) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Assigned PR [#68702](https://github.com/apache/airflow/pull/68702) in [apache/airflow](https://github.com/apache/airflow)
-5. ❌ Closed PR [#226](https://github.com/pycontw/pycontw-blog/pull/226) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-6. 💪 Opened PR [#68722](https://github.com/apache/airflow/pull/68722) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#68719](https://github.com/apache/airflow/pull/68719) in [apache/airflow](https://github.com/apache/airflow)
-8. ℹ️ Labeled PR [#68718](https://github.com/apache/airflow/pull/68718) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#68718](https://github.com/apache/airflow/pull/68718) in [apache/airflow](https://github.com/apache/airflow)
-10. ℹ️ Labeled PR [#67285](https://github.com/apache/airflow/pull/67285) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#68888](https://github.com/apache/airflow/pull/68888#issuecomment-4778376165) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#68702](https://github.com/apache/airflow/pull/68702) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#68892](https://github.com/apache/airflow/pull/68892) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Labeled PR [#68888](https://github.com/apache/airflow/pull/68888) in [apache/airflow](https://github.com/apache/airflow)
+5. ℹ️ Labeled PR [#68870](https://github.com/apache/airflow/pull/68870) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#68892](https://github.com/apache/airflow/pull/68892) in [apache/airflow](https://github.com/apache/airflow)
+7. ℹ️ Labeled PR [#68550](https://github.com/apache/airflow/pull/68550) in [apache/airflow](https://github.com/apache/airflow)
+8. 🔒 Closed issue [#67239](https://github.com/apache/airflow/issues/67239) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#68717](https://github.com/apache/airflow/pull/68717#issuecomment-4767254523) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#68889](https://github.com/apache/airflow/pull/68889) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
