@@ -44,19 +44,19 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [Daychill Specialty Coffee Co.](https://blog.wei-lee.me/posts/random-thoughts/2026/06/daychill-specialty-coffee) (Published: 2 days ago)
-* [音樂與記憶](https://blog.wei-lee.me/posts/random-thoughts/2026/06/music-and-memory) (Published: 6 days ago)
+* [Daychill Specialty Coffee Co.](https://blog.wei-lee.me/posts/random-thoughts/2026/06/daychill-specialty-coffee) (Published: 3 days ago)
+* [音樂與記憶](https://blog.wei-lee.me/posts/random-thoughts/2026/06/music-and-memory) (Published: 1 week ago)
 * [17 → 16](https://blog.wei-lee.me/posts/tech/2026/06/airflow-17-to-16) (Published: 1 week ago)
-* [現在我有部落卷](https://blog.wei-lee.me/posts/random-thoughts/2026/06/now-i-also-have-blogroll) (Published: 1 week ago)
+* [現在我有部落卷](https://blog.wei-lee.me/posts/random-thoughts/2026/06/now-i-also-have-blogroll) (Published: 2 weeks ago)
 * [2026/6/1 - 6/7 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-06-01-2026-06-07-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [河內河粉](https://travlog.wei-lee.me/posts/review/2026/06/hanoi-pho) (Published: 3 days ago)
- * [2025 夏季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-summer) (Published: 4 days ago)
- * [愛麗絲夢遊仙境特展](https://travlog.wei-lee.me/posts/review/2026/06/alice-in-wonderland-exhibition) (Published: 5 days ago)
- * [張景嵐曾待過的宜蘭](https://travlog.wei-lee.me/posts/travel/2026/06/chang-chin-lan) (Published: 1 week ago)
- * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 2 weeks ago)
+ * [河內河粉](https://travlog.wei-lee.me/posts/review/2026/06/hanoi-pho) (Published: 4 days ago)
+ * [2025 夏季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-summer) (Published: 5 days ago)
+ * [愛麗絲夢遊仙境特展](https://travlog.wei-lee.me/posts/review/2026/06/alice-in-wonderland-exhibition) (Published: 6 days ago)
+ * [張景嵐曾待過的宜蘭](https://travlog.wei-lee.me/posts/travel/2026/06/chang-chin-lan) (Published: 2 weeks ago)
+ * [貓妝自家烘焙咖啡館](https://travlog.wei-lee.me/posts/review/2026/06/maskcatcafe) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
