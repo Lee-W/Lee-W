@@ -571,10 +571,10 @@
     </ul>
 
     <nav class="primary-paths" aria-label="Primary paths">
-      <a id="primaryNowLink" class="path-link" href="https://blog.wei-lee.me/en/pages/now" rel="noopener noreferrer">
-        <i class="fa-solid fa-clock" aria-hidden="true"></i>
-        <span data-lang="en">Now</span>
-        <span data-lang="zh">近況</span>
+      <a id="aboutLink" class="path-link" href="https://blog.wei-lee.me/en/pages/about-me" rel="noopener noreferrer">
+        <i class="fa-solid fa-user" aria-hidden="true"></i>
+        <span data-lang="en">About</span>
+        <span data-lang="zh">關於我</span>
       </a>
       <a class="path-link" href="https://blog.wei-lee.me/" rel="noopener noreferrer">
         <i class="fa-solid fa-pen-nib" aria-hidden="true"></i>
@@ -669,11 +669,6 @@
     </section>
 
     <nav class="extras" aria-label="More pages">
-      <a id="aboutLink" href="https://blog.wei-lee.me/en/pages/about-me" rel="noopener noreferrer">
-        <i class="fa-solid fa-user" aria-hidden="true"></i>
-        <span data-lang="en">About</span>
-        <span data-lang="zh">關於我</span>
-      </a>
       <a href="https://travlog.wei-lee.me/pages/pilgrimage" rel="noopener noreferrer">
         <i class="fa-solid fa-map-location-dot" aria-hidden="true"></i>
         <span data-lang="en">Pilgrimage</span>
@@ -736,7 +731,6 @@
         o.classList.toggle('active', isActive);
         o.setAttribute('aria-pressed', String(isActive));
       });
-      document.getElementById('primaryNowLink').href = nowUrls[lang];
       document.getElementById('nowLink').href = nowUrls[lang];
       document.getElementById('aboutLink').href = aboutUrls[lang];
       localStorage.setItem('lang', lang);
