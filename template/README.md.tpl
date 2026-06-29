@@ -52,16 +52,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖥️ Recently working on
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#202](https://github.com/pycontw/pycon-etl/pull/202) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. 💪 Opened PR [#201](https://github.com/pycontw/pycon-etl/pull/201) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-3. 🎉 Merged PR [#167](https://github.com/pycontw/pycon-etl/pull/167) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 🎉 Merged PR [#200](https://github.com/pycontw/pycon-etl/pull/200) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 💪 Opened PR [#200](https://github.com/pycontw/pycon-etl/pull/200) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-6. 💪 Opened PR [#234](https://github.com/pycontw/pycontw-blog/pull/234) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🎉 Merged PR [#69026](https://github.com/apache/airflow/pull/69026) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#69026](https://github.com/apache/airflow/pull/69026) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#69020](https://github.com/apache/airflow/pull/69020#issuecomment-4808115464) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#68889](https://github.com/apache/airflow/pull/68889) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#61](https://github.com/Lee-W/main-blog/issues/61#issuecomment-4826529547) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 💪 Opened PR [#202](https://github.com/pycontw/pycon-etl/pull/202) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+3. 💪 Opened PR [#201](https://github.com/pycontw/pycon-etl/pull/201) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+4. 🎉 Merged PR [#167](https://github.com/pycontw/pycon-etl/pull/167) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 🎉 Merged PR [#200](https://github.com/pycontw/pycon-etl/pull/200) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 💪 Opened PR [#200](https://github.com/pycontw/pycon-etl/pull/200) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+7. 💪 Opened PR [#234](https://github.com/pycontw/pycontw-blog/pull/234) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+8. 🎉 Merged PR [#69026](https://github.com/apache/airflow/pull/69026) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#69026](https://github.com/apache/airflow/pull/69026) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#69020](https://github.com/apache/airflow/pull/69020#issuecomment-4808115464) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
