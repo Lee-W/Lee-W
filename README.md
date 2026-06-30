@@ -44,32 +44,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
+* [Taipei | Claude and AI Ethics](https://blog.wei-lee.me/posts/tech/2026/06/taipei-claude-and-ai-ethics) (Published: 1 day ago)
 * [Daychill Specialty Coffee Co.](https://blog.wei-lee.me/posts/random-thoughts/2026/06/daychill-specialty-coffee) (Published: 1 week ago)
 * [音樂與記憶](https://blog.wei-lee.me/posts/random-thoughts/2026/06/music-and-memory) (Published: 1 week ago)
-* [17 → 16](https://blog.wei-lee.me/posts/tech/2026/06/airflow-17-to-16) (Published: 1 week ago)
+* [17 → 16](https://blog.wei-lee.me/posts/tech/2026/06/airflow-17-to-16) (Published: 2 weeks ago)
 * [現在我有部落卷](https://blog.wei-lee.me/posts/random-thoughts/2026/06/now-i-also-have-blogroll) (Published: 2 weeks ago)
-* [2026/6/1 - 6/7 開源貢獻週報](https://blog.wei-lee.me/posts/tech/2026/06/2026-06-01-2026-06-07-open-source-report) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [2025 秋季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-fall) (Published: 1 day ago)
- * [104歲哲代奶奶：一個人生活](https://travlog.wei-lee.me/posts/review/2026/06/104-sai-tetsuyo-obasan) (Published: 2 days ago)
+ * [2025 秋季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-fall) (Published: 2 days ago)
+ * [104歲哲代奶奶：一個人生活](https://travlog.wei-lee.me/posts/review/2026/06/104-sai-tetsuyo-obasan) (Published: 3 days ago)
  * [河內河粉](https://travlog.wei-lee.me/posts/review/2026/06/hanoi-pho) (Published: 1 week ago)
  * [2025 夏季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-summer) (Published: 1 week ago)
  * [愛麗絲夢遊仙境特展](https://travlog.wei-lee.me/posts/review/2026/06/alice-in-wonderland-exhibition) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🗣 Commented on [#61](https://github.com/Lee-W/main-blog/issues/61#issuecomment-4826529547) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 💪 Opened PR [#202](https://github.com/pycontw/pycon-etl/pull/202) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-3. 💪 Opened PR [#201](https://github.com/pycontw/pycon-etl/pull/201) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 🎉 Merged PR [#167](https://github.com/pycontw/pycon-etl/pull/167) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-5. 🎉 Merged PR [#200](https://github.com/pycontw/pycon-etl/pull/200) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-6. 💪 Opened PR [#200](https://github.com/pycontw/pycon-etl/pull/200) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-7. 💪 Opened PR [#234](https://github.com/pycontw/pycontw-blog/pull/234) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-8. 🎉 Merged PR [#69026](https://github.com/apache/airflow/pull/69026) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#69026](https://github.com/apache/airflow/pull/69026) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#69020](https://github.com/apache/airflow/pull/69020#issuecomment-4808115464) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#68958](https://github.com/apache/airflow/pull/68958#issuecomment-4832494814) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#68958](https://github.com/apache/airflow/pull/68958#issuecomment-4832493657) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#69115](https://github.com/apache/airflow/pull/69115) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Labeled PR [#69115](https://github.com/apache/airflow/pull/69115) in [apache/airflow](https://github.com/apache/airflow)
+5. ℹ️ Assigned PR [#69115](https://github.com/apache/airflow/pull/69115) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#69115](https://github.com/apache/airflow/pull/69115) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#61](https://github.com/Lee-W/main-blog/issues/61#issuecomment-4826529547) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+8. 💪 Opened PR [#202](https://github.com/pycontw/pycon-etl/pull/202) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+9. 💪 Opened PR [#201](https://github.com/pycontw/pycon-etl/pull/201) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+10. 🎉 Merged PR [#167](https://github.com/pycontw/pycon-etl/pull/167) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
 
 
 ## ⭐ GitHub Stat
