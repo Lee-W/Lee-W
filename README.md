@@ -44,32 +44,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [CURISTA COFFEE 奎士咖啡 市府旗艦店](https://blog.wei-lee.me/posts/random-thoughts/2026/07/curista-coffee-city-hall) (Published: 1 day ago)
-* [Taipei | Claude and AI Ethics](https://blog.wei-lee.me/posts/tech/2026/06/taipei-claude-and-ai-ethics) (Published: 3 days ago)
+* [第一次公布 Apache Airflow 新任 committer ⭐](https://blog.wei-lee.me/posts/tech/2026/07/my-first-committer-announcement) (Published: today)
+* [CURISTA COFFEE 奎士咖啡 市府旗艦店](https://blog.wei-lee.me/posts/random-thoughts/2026/07/curista-coffee-city-hall) (Published: 2 days ago)
+* [Taipei | Claude and AI Ethics](https://blog.wei-lee.me/posts/tech/2026/06/taipei-claude-and-ai-ethics) (Published: 4 days ago)
 * [Daychill Specialty Coffee Co.](https://blog.wei-lee.me/posts/random-thoughts/2026/06/daychill-specialty-coffee) (Published: 1 week ago)
 * [音樂與記憶](https://blog.wei-lee.me/posts/random-thoughts/2026/06/music-and-memory) (Published: 2 weeks ago)
-* [17 → 16](https://blog.wei-lee.me/posts/tech/2026/06/airflow-17-to-16) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [Star Wars: Brotherhood](https://travlog.wei-lee.me/posts/review/2026/07/brotherhood) (Published: today)
- * [你看的是「作者的真心與手藝」](https://travlog.wei-lee.me/posts/review/2026/06/my-viewing-taste) (Published: 2 days ago)
- * [2025 秋季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-fall) (Published: 4 days ago)
- * [104歲哲代奶奶：一個人生活](https://travlog.wei-lee.me/posts/review/2026/06/104-sai-tetsuyo-obasan) (Published: 5 days ago)
+ * [Star Wars: Brotherhood](https://travlog.wei-lee.me/posts/review/2026/07/brotherhood) (Published: 1 day ago)
+ * [你看的是「作者的真心與手藝」](https://travlog.wei-lee.me/posts/review/2026/06/my-viewing-taste) (Published: 3 days ago)
+ * [2025 秋季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-fall) (Published: 5 days ago)
+ * [104歲哲代奶奶：一個人生活](https://travlog.wei-lee.me/posts/review/2026/06/104-sai-tetsuyo-obasan) (Published: 6 days ago)
  * [河內河粉](https://travlog.wei-lee.me/posts/review/2026/06/hanoi-pho) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 🎉 Merged PR [#65](https://github.com/Lee-W/main-blog/pull/65) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 💪 Opened PR [#65](https://github.com/Lee-W/main-blog/pull/65) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-3. 🎉 Merged PR [#64](https://github.com/Lee-W/main-blog/pull/64) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 💪 Opened PR [#64](https://github.com/Lee-W/main-blog/pull/64) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-5. 🎉 Merged PR [#38](https://github.com/Lee-W/travlog/pull/38) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 💪 Opened PR [#38](https://github.com/Lee-W/travlog/pull/38) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-7. 🎉 Merged PR [#37](https://github.com/Lee-W/travlog/pull/37) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-8. 💪 Opened PR [#37](https://github.com/Lee-W/travlog/pull/37) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-9. ❌ Closed PR [#36](https://github.com/Lee-W/travlog/pull/36) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-10. 🗣 Commented on [#36](https://github.com/Lee-W/travlog/pull/36#issuecomment-4861225270) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🎉 Merged PR [#39](https://github.com/Lee-W/travlog/pull/39) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. 🎉 Merged PR [#67](https://github.com/Lee-W/main-blog/pull/67) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+3. 💪 Opened PR [#39](https://github.com/Lee-W/travlog/pull/39) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 💪 Opened PR [#67](https://github.com/Lee-W/main-blog/pull/67) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+5. 🎉 Merged PR [#66](https://github.com/Lee-W/main-blog/pull/66) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+6. 💪 Opened PR [#66](https://github.com/Lee-W/main-blog/pull/66) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+7. 🎉 Merged PR [#65](https://github.com/Lee-W/main-blog/pull/65) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+8. 💪 Opened PR [#65](https://github.com/Lee-W/main-blog/pull/65) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+9. 🎉 Merged PR [#64](https://github.com/Lee-W/main-blog/pull/64) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+10. 💪 Opened PR [#64](https://github.com/Lee-W/main-blog/pull/64) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 
 
 ## ⭐ GitHub Stat
