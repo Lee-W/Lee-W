@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html lang="en" class="lang-en">
+<!doctype html>
+<html lang="zh-Hant" class="lang-zh">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <script>
     (function () {
       var lang = localStorage.getItem('lang');
@@ -11,22 +11,25 @@
       }
     })();
   </script>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Wei Lee / 李唯</title>
-  <meta name="description" content="Open source contributor, Pythonista, and automation enthusiast based in Taiwan. Apache Airflow PMC member, commitizen-tools maintainer, and PyCon Taiwan organizer.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>李唯 / Wei Lee</title>
+  <meta name="description" content="Open source contributor, Python enthusiast, and automation enthusiast based in Taiwan. Apache Airflow PMC member, commitizen-tools maintainer, and PyCon Taiwan volunteer.">
   <link rel="canonical" href="https://wei-lee.me/">
   <meta property="og:type" content="profile">
-  <meta property="og:title" content="Wei Lee / 李唯">
-  <meta property="og:description" content="Open source contributor, Pythonista, and automation enthusiast based in Taiwan. Apache Airflow PMC member, commitizen-tools maintainer, and PyCon Taiwan organizer.">
+  <meta property="og:title" content="李唯 / Wei Lee">
+  <meta property="og:description" content="Open source contributor, Python enthusiast, and automation enthusiast based in Taiwan.">
   <meta property="og:url" content="https://wei-lee.me/">
   <meta property="og:image" content="https://wei-lee.me/images/avatar.jpg">
-  <meta property="og:image:width" content="460">
-  <meta property="og:image:height" content="460">
   <meta property="og:image:alt" content="Wei Lee's avatar">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Wei Lee / 李唯">
-  <meta name="twitter:description" content="Open source contributor, Pythonista, and automation enthusiast based in Taiwan. Apache Airflow PMC member, commitizen-tools maintainer, and PyCon Taiwan organizer.">
-  <meta name="twitter:image" content="https://wei-lee.me/images/avatar.jpg">
+  <meta name="theme-color" content="#f4f2ec">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐍</text></svg>">
+  <link rel="apple-touch-icon" href="/images/avatar.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=Noto+Sans+TC:wght@400;500;700&amp;family=Noto+Serif+TC:wght@700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <link rel="stylesheet" href="css/home.css">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -48,699 +51,113 @@
     ]
   }
   </script>
-  <meta name="theme-color" content="#f7f7f5" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#141414" media="(prefers-color-scheme: dark)">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐍</text></svg>">
-  <link rel="apple-touch-icon" href="/images/avatar.jpg">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
-  <style>
-    :root {
-      --bg: #f7f7f5;
-      --surface: #ffffff;
-      --text: #1a1a2e;
-      --muted: #666;
-      --border: #e2e2de;
-      --accent: #3776ab;
-      --radius: 12px;
-    }
-
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg: #141414;
-        --surface: #1e1e1e;
-        --text: #ebebeb;
-        --muted: #888;
-        --border: #2e2e2e;
-      }
-    }
-
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 2.5rem 1.25rem;
-    }
-
-    main {
-      width: 100%;
-      max-width: 680px;
-    }
-
-     
-    .topbar {
-      display: flex;
-      justify-content: flex-end;
-      margin-bottom: 2rem;
-    }
-
-    .lang-switcher {
-      display: flex;
-      align-items: center;
-      gap: 4px;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 3px 3px 3px 8px;
-    }
-
-    .lang-switcher .fa-language {
-      font-size: 0.85rem;
-      color: var(--muted);
-    }
-
-    .lang-option {
-      background: none;
-      border: none;
-      border-radius: 5px;
-      color: var(--muted);
-      cursor: pointer;
-      font-family: inherit;
-      font-size: 0.78rem;
-      padding: 0.28rem 0.65rem;
-      transition: background 0.15s, color 0.15s;
-    }
-
-    .lang-option:hover:not(.active) { color: var(--text); }
-
-    .lang-option.active {
-      background: var(--accent);
-      color: #fff;
-    }
-
-    :focus-visible {
-      outline: 3px solid var(--accent);
-      outline-color: color-mix(in srgb, var(--accent) 65%, transparent);
-      outline-offset: 3px;
-    }
-
-     
-    .header {
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-      margin-bottom: 1.5rem;
-    }
-
-    .avatar {
-      width: 64px;
-      height: 64px;
-      border-radius: 50%;
-      border: 1px solid var(--border);
-      flex-shrink: 0;
-    }
-
-    h1 {
-      font-size: 1.9rem;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      line-height: 1.2;
-    }
-
-    h1 .alt {
-      font-weight: 400;
-      color: var(--muted);
-    }
-
-    .bio {
-      margin-top: 0.4rem;
-      color: var(--muted);
-      font-size: 0.88rem;
-    }
-
-     
-    .profile-list {
-      list-style: none;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 0.55rem 1.25rem;
-      margin-bottom: 1.75rem;
-      font-size: 0.88rem;
-      opacity: 0.85;
-    }
-
-    .profile-list li {
-      display: flex;
-      align-items: baseline;
-      gap: 0.45rem;
-    }
-
-    .profile-list i {
-      color: var(--accent);
-      font-size: 0.78rem;
-      width: 1rem;
-      text-align: center;
-      flex-shrink: 0;
-    }
-
-     
-    .primary-paths {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 0.7rem;
-      margin-bottom: 1.75rem;
-    }
-
-    .path-link {
-      display: flex;
-      align-items: center;
-      gap: 0.45rem;
-      min-height: 2.6rem;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      color: var(--text);
-      font-size: 0.82rem;
-      font-weight: 600;
-      text-decoration: none;
-      padding: 0.65rem 0.8rem;
-      transition: border-color 0.12s, color 0.12s, transform 0.12s;
-    }
-
-    .path-link:hover {
-      border-color: var(--accent);
-      color: var(--accent);
-      transform: translateY(-1px);
-    }
-
-    .path-link i {
-      color: var(--accent);
-      font-size: 0.8rem;
-      width: 1rem;
-      text-align: center;
-      flex-shrink: 0;
-    }
-
-     
-    .now-link {
-      display: flex;
-      align-items: center;
-      gap: 1rem;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 1rem 1.4rem;
-      text-decoration: none;
-      color: inherit;
-      margin-bottom: 1.75rem;
-      transition: transform 0.12s ease, box-shadow 0.12s ease;
-    }
-
-    .now-link:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.07);
-    }
-
-    .now-icon {
-      font-size: 1.4rem;
-      color: var(--accent);
-      flex-shrink: 0;
-    }
-
-    .now-text strong {
-      display: block;
-      font-size: 0.9rem;
-      font-weight: 600;
-      margin-bottom: 0.15rem;
-    }
-
-    .now-text span {
-      font-size: 0.82rem;
-      color: var(--muted);
-    }
-
-     
-    .blogs {
-      display: grid;
-      gap: 1.1rem;
-      margin-bottom: 2rem;
-    }
-
-    .card-footer {
-      display: flex;
-      justify-content: flex-end;
-      margin-top: 0.75rem;
-      padding-top: 0.6rem;
-      border-top: 1px solid var(--border);
-      position: relative;
-      z-index: 1;
-    }
-
-    .rss-link {
-      display: flex;
-      align-items: center;
-      gap: 0.25rem;
-      font-size: 0.74rem;
-      color: var(--muted);
-      text-decoration: none;
-      transition: color 0.12s;
-    }
-
-    .rss-link:hover { color: #ee7733; }
-    .rss-link i { font-size: 0.68rem; }
-
-    .card {
-      position: relative;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 1.2rem 1.4rem;
-      color: inherit;
-      transition: transform 0.12s ease, box-shadow 0.12s ease;
-    }
-
-    .card:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.07);
-    }
-
-    .card-head {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-bottom: 0.45rem;
-    }
-
-    .card-tag {
-      font-size: 0.7rem;
-      font-weight: 700;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--accent);
-    }
-
-    .card-arrow {
-      font-size: 0.75rem;
-      color: var(--muted);
-      opacity: 0.35;
-      transition: opacity 0.12s, transform 0.12s;
-    }
-
-    .card:hover .card-arrow {
-      opacity: 1;
-      transform: translate(2px, -2px);
-    }
-
-    .card-title {
-      font-size: 0.975rem;
-      font-weight: 600;
-      margin-bottom: 0.25rem;
-    }
-
-    .card-title a {
-      color: inherit;
-      text-decoration: none;
-    }
-
-    .card-title a:hover { color: var(--accent); }
-
-    .card-desc {
-      font-size: 0.82rem;
-      color: var(--muted);
-    }
-
-    .card-posts {
-      list-style: none;
-      display: grid;
-      gap: 0.4rem;
-      margin-top: 0.85rem;
-      padding-top: 0.75rem;
-      border-top: 1px solid var(--border);
-      position: relative;
-      z-index: 1;
-    }
-
-    .card-posts a {
-      display: flex;
-      justify-content: space-between;
-      align-items: baseline;
-      gap: 1rem;
-      font-size: 0.8rem;
-      color: var(--text);
-      text-decoration: none;
-      transition: color 0.12s;
-    }
-
-    .card-posts a:hover { color: var(--accent); }
-
-    .card-posts time {
-      color: var(--muted);
-      font-size: 0.72rem;
-      flex-shrink: 0;
-    }
-
-     
-    .extras {
-      display: flex;
-      gap: 1rem;
-      flex-wrap: wrap;
-      margin-bottom: 2rem;
-    }
-
-    .extras a {
-      display: flex;
-      align-items: center;
-      gap: 0.3rem;
-      font-size: 0.8rem;
-      color: var(--muted);
-      text-decoration: none;
-      border: 1px solid var(--border);
-      border-radius: 6px;
-      padding: 0.25rem 0.6rem;
-      transition: color 0.12s, border-color 0.12s;
-    }
-
-    .extras a:hover {
-      color: var(--accent);
-      border-color: var(--accent);
-    }
-
-    .extras i { font-size: 0.75rem; }
-
-     
-    .social {
-      display: flex;
-      gap: 1.25rem;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-
-    .social a {
-      display: flex;
-      align-items: center;
-      gap: 0.35rem;
-      font-size: 0.82rem;
-      color: var(--muted);
-      text-decoration: none;
-      transition: color 0.12s;
-    }
-
-    .social a:hover { color: var(--accent); }
-
-    .social i { font-size: 0.875rem; }
-
-     
-    @media (max-width: 520px) {
-      body {
-        align-items: flex-start;
-        padding: 1.5rem 1rem;
-      }
-
-      h1 { font-size: 1.55rem; }
-
-      .topbar { margin-bottom: 1.5rem; }
-
-      .profile-list {
-        grid-template-columns: 1fr;
-        gap: 0.5rem;
-      }
-
-      .primary-paths {
-        grid-template-columns: 1fr;
-      }
-
-      .card, .now-link {
-        padding: 1rem 1.1rem;
-      }
-
-      .extras {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-      }
-
-      .social {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 0.75rem;
-      }
-    }
-
-     
-    [data-lang] { display: none; }
-    .lang-en [data-lang="en"],
-    .lang-zh [data-lang="zh"] { display: revert; }
-  </style>
 </head>
 <body>
-  <main>
+  <main class="page">
     <div class="topbar">
       <div class="lang-switcher" role="group" aria-label="Language">
-        <i class="fa-solid fa-language" aria-hidden="true"></i>
-        <button class="lang-option active" data-value="en" aria-pressed="true">EN</button>
-        <button class="lang-option" data-value="zh" aria-pressed="false">漢語</button>
+        <button class="lang-option" data-value="en" aria-pressed="false">EN</button>
+        <button class="lang-option active" data-value="zh" aria-pressed="true">漢語</button>
       </div>
     </div>
 
-    <header class="header">
-      <img class="avatar" src="images/avatar.jpg" alt="" width="64" height="64">
-      <div>
-      <h1>
-        <span data-lang="en">Wei Lee <span class="alt">/ 李唯</span></span>
-        <span data-lang="zh">李唯 <span class="alt">/ Wei Lee</span></span>
-      </h1>
-      <p class="bio">
-        <span data-lang="en">Open source contributor &middot; Pythonista &middot; Taiwanese 🇹🇼</span>
-        <span data-lang="zh">開源貢獻者 &middot; Python 愛好者 &middot; 台灣人 🇹🇼</span>
-      </p>
+    <header class="identity">
+      <img class="avatar" src="images/avatar.jpg" alt="" width="82" height="82">
+      <div class="identity-copy">
+        <h1>
+          <span data-lang="zh">李唯 <span class="name-alt">/ Wei Lee</span></span>
+          <span data-lang="en">Wei Lee <span class="name-alt">/ 李唯</span></span>
+        </h1>
+        <p class="bio">
+          <span data-lang="zh">開源貢獻者 · Python 愛好者 · 台灣人 🇹🇼</span>
+          <span data-lang="en">Open source contributor · Python enthusiast · Taiwanese 🇹🇼</span>
+        </p>
       </div>
     </header>
 
-    <ul class="profile-list">
-      <li>
-        <i class="fa-brands fa-python" aria-hidden="true"></i>
-        <span data-lang="en">Pythonista</span>
-        <span data-lang="zh">Python 愛好者</span>
-      </li>
-      <li>
-        <i class="fa-solid fa-bullhorn" aria-hidden="true"></i>
-        <span data-lang="en">PyCon Taiwan organizer</span>
-        <span data-lang="zh">PyCon Taiwan 志工</span>
-      </li>
-      <li>
-        <i class="fa-solid fa-wind" aria-hidden="true"></i>
-        <a href="https://github.com/apache/airflow" style="color:inherit" rel="noopener noreferrer">
-          <span data-lang="en">Apache Airflow PMC</span>
-          <span data-lang="zh">Apache Airflow PMC 成員</span>
-        </a>
-      </li>
-      <li>
-        <i class="fa-solid fa-code-branch" aria-hidden="true"></i>
-        <a href="https://github.com/commitizen-tools" style="color:inherit" rel="noopener noreferrer">
-          <span data-lang="en">commitizen-tools maintainer</span>
-          <span data-lang="zh">commitizen-tools 維護者</span>
-        </a>
-      </li>
-      <li>
-        <i class="fa-solid fa-camera" aria-hidden="true"></i>
-        <span data-lang="en">Traveler</span>
-        <span data-lang="zh">旅人</span>
-      </li>
-      <li>
-        <i class="fa-solid fa-campground" aria-hidden="true"></i>
-        <a href="https://twitter.com/Taiwannokuru" style="color:inherit" rel="noopener noreferrer">台湾野クル▲</a>
-      </li>
-      <li>
-        <i class="fa-solid fa-tv" aria-hidden="true"></i>
-        <a href="https://travlog.wei-lee.me/pages/story-ranking" style="color:inherit" rel="noopener noreferrer">
-          <span data-lang="en">Anime lover</span>
-          <span data-lang="zh">動漫愛好者</span>
-        </a>
-      </li>
-      <li>
-        <i class="fa-solid fa-book" aria-hidden="true"></i>
-        <a href="https://blog.wei-lee.me/category/book" style="color:inherit" rel="noopener noreferrer">
-          <span data-lang="en">Reader</span>
-          <span data-lang="zh">喜歡看點書</span>
-        </a>
-      </li>
-      <li>
-        <i class="fa-solid fa-guitar" aria-hidden="true"></i>
-        <span data-lang="en">Ukulele player</span>
-        <span data-lang="zh">烏克麗麗玩家</span>
-      </li>
-      <li>
-        <i class="fa-solid fa-lock" aria-hidden="true"></i>
-        Locker
-      </li>
+    <ul class="roles" aria-label="Identity and interests">
+      <li><span class="role-icon"><img src="images/python.svg" alt=""></span><span data-lang="zh">Python 愛好者</span><span data-lang="en">Python enthusiast</span></li>
+      <li><a href="https://tw.pycon.org/" rel="noopener noreferrer"><span class="role-icon pycon"><img src="images/pycontw.svg" alt=""></span><span data-lang="zh">PyCon Taiwan 志工</span><span data-lang="en">PyCon Taiwan volunteer</span></a></li>
+      <li><a href="https://airflow.apache.org/" rel="noopener noreferrer"><span class="role-icon"><img src="images/airflow.svg" alt=""></span><span data-lang="zh">Apache Airflow PMC 成員</span><span data-lang="en">Apache Airflow PMC</span></a></li>
+      <li><a href="https://github.com/commitizen-tools" rel="noopener noreferrer"><img class="role-icon" src="images/commitizen.svg" alt=""><span data-lang="zh">commitizen-tools 維護者</span><span data-lang="en">commitizen-tools maintainer</span></a></li>
+      <li><a href="https://travlog.wei-lee.me/pages/pilgrimage" rel="noopener noreferrer"><img class="role-icon" src="images/traveler.svg" alt=""><span data-lang="zh">旅人</span><span data-lang="en">Traveler</span></a></li>
+      <li><a href="https://twitter.com/Taiwannokuru" rel="noopener noreferrer"><span class="role-icon glyph" aria-hidden="true">⛺</span><span>台湾野クル▲</span></a></li>
+      <li><a href="https://travlog.wei-lee.me/pages/story-ranking" rel="noopener noreferrer"><img class="role-icon" src="images/anime.svg" alt=""><span data-lang="zh">動漫愛好者</span><span data-lang="en">Anime fan</span></a></li>
+      <li><a href="https://blog.wei-lee.me/category/book" rel="noopener noreferrer"><span class="role-icon glyph" aria-hidden="true">📖</span><span data-lang="zh">喜歡看點書</span><span data-lang="en">Book lover</span></a></li>
+      <li><span class="role-icon glyph" aria-hidden="true">♪</span><span data-lang="zh">烏克麗麗玩家</span><span data-lang="en">Ukulele player</span></li>
+      <li><span class="role-icon glyph" aria-hidden="true">🔒</span><span>Locker</span></li>
     </ul>
 
-    <nav class="primary-paths" aria-label="Primary paths">
-      <a id="aboutLink" class="path-link" href="https://blog.wei-lee.me/en/pages/about-me" rel="noopener noreferrer">
-        <i class="fa-solid fa-user" aria-hidden="true"></i>
-        <span data-lang="en">About</span>
-        <span data-lang="zh">關於我</span>
+    <nav class="paths" aria-label="Primary paths">
+      <a id="aboutLink" class="path path-about" href="https://blog.wei-lee.me/pages/about-me" rel="noopener noreferrer">
+        <span class="role-icon glyph path-icon" aria-hidden="true">◔</span>
+        <span class="path-title"><span data-lang="zh">關於我</span><span data-lang="en">About me</span></span>
+        <span class="path-subtitle"><span data-lang="zh">更多關於李唯</span><span data-lang="en">More about Wei Lee</span></span>
+        <span class="path-arrow" aria-hidden="true">›</span>
       </a>
-      <a class="path-link" href="https://blog.wei-lee.me/" rel="noopener noreferrer">
-        <i class="fa-solid fa-pen-nib" aria-hidden="true"></i>
-        <span data-lang="en">Tech notes</span>
-        <span data-lang="zh">技術筆記</span>
+      <a class="path path-tech" href="https://blog.wei-lee.me/" rel="noopener noreferrer">
+        <span class="role-icon glyph path-icon" aria-hidden="true">✎</span>
+        <span class="path-title"><span data-lang="zh">技術・雜談・書摘</span><span data-lang="en">Tech · Chat · Excerpts</span></span>
+        <span class="path-subtitle"><span data-lang="zh">不寫下來的東西都會被遺忘</span><span data-lang="en">If it isn't written down, it will be forgotten</span></span>
+        <span class="path-arrow" aria-hidden="true">›</span>
       </a>
-      <a class="path-link" href="https://travlog.wei-lee.me/" rel="noopener noreferrer">
-        <i class="fa-solid fa-map" aria-hidden="true"></i>
-        <span data-lang="en">Life &amp; travel</span>
-        <span data-lang="zh">生活旅行</span>
+      <a class="path path-life" href="https://travlog.wei-lee.me/" rel="noopener noreferrer">
+        <span class="role-icon glyph path-icon" aria-hidden="true">🧭</span>
+        <span class="path-title"><span data-lang="zh">旅行・食譜・評論</span><span data-lang="en">Travel · Recipes · Reviews</span></span>
+        <span class="path-subtitle"><span data-lang="zh">那些沒人在乎的事</span><span data-lang="en">The things nobody cares about</span></span>
+        <span class="path-arrow" aria-hidden="true">›</span>
       </a>
     </nav>
 
-    <a id="nowLink" class="now-link" href="https://blog.wei-lee.me/en/pages/now" rel="noopener noreferrer">
-      <i class="fa-solid fa-clock now-icon" aria-hidden="true"></i>
-      <div class="now-text">
-        <strong>
-          <span data-lang="en">Now</span>
-          <span data-lang="zh">近況</span>
-        </strong>
-        <span>
-          <span data-lang="en">What I'm currently working on, watching, and thinking about</span>
-          <span data-lang="zh">記錄我目前在做什麼、在看什麼、在想什麼</span>
-        </span>
-      </div>
+    <a id="nowLink" class="now" href="https://blog.wei-lee.me/pages/now" rel="noopener noreferrer">
+      <span class="role-icon glyph now-icon" aria-hidden="true">◷</span>
+      <span>
+        <strong><span data-lang="zh">近況</span><span data-lang="en">Now</span></strong>
+        <span class="now-detail"><span data-lang="zh">最近在做什麼、看什麼、想什麼</span><span data-lang="en">What I'm doing, watching, and thinking about lately</span></span>
+      </span>
+      <span class="now-arrow" aria-hidden="true">→</span>
     </a>
 
-    <section class="blogs" aria-label="Blogs">
-      <div class="card">
-        <div class="card-head">
-          <div class="card-tag">
-            <span data-lang="en">Tech &amp; Thoughts</span>
-            <span data-lang="zh">技術 &amp; 隨想</span>
+    <section class="blogs" aria-label="Latest blog posts">
+      <article class="blog-card tech">
+        <div class="blog-head">
+          <div>
+            <p class="blog-kind"><span data-lang="zh">技術站</span><span data-lang="en">TECH STATION</span></p>
+            <h2><a href="https://blog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="zh">不寫下來的東西都會被遺忘</span><span data-lang="en">Those aren't written down are meant to be forgotten</span></a></h2>
           </div>
-          <i class="fa-solid fa-up-right-from-square card-arrow" aria-hidden="true"></i>
+          <a class="rss" href="https://blog.wei-lee.me/feeds/all.atom.xml" aria-label="Subscribe to tech blog"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
-        <div class="card-title">
-          <a href="https://blog.wei-lee.me/" rel="noopener noreferrer">
-            <span data-lang="en">Those aren't written down are meant to be forgotten</span>
-            <span data-lang="zh">不寫下來的東西都會被遺忘</span>
-          </a>
-        </div>
-        <div class="card-desc">
-          <span data-lang="en">Technical notes, book digests, and occasional thoughts</span>
-          <span data-lang="zh">技術筆記、書摘，還有偶爾冒出來的碎念</span>
-        </div>
-        <ul class="card-posts">
-          <li><a href="https://blog.wei-lee.me/posts/tech/2026/07/my-first-committer-announcement">第一次公布 Apache Airflow 新任 committer ⭐<time>2026-07-03</time></a></li>
-          <li><a href="https://blog.wei-lee.me/posts/random-thoughts/2026/07/curista-coffee-city-hall">CURISTA COFFEE 奎士咖啡 市府旗艦店<time>2026-07-01</time></a></li>
-          <li><a href="https://blog.wei-lee.me/posts/tech/2026/06/taipei-claude-and-ai-ethics">Taipei | Claude and AI Ethics<time>2026-06-29</time></a></li>
+        <ul class="posts">
+          <li><a href="https://blog.wei-lee.me/posts/tech/2026/07/my-first-committer-announcement"><span>第一次公布 Apache Airflow 新任 committer ⭐</span><time datetime="2026-07-03">2026-07-03</time></a></li>
+          <li><a href="https://blog.wei-lee.me/posts/random-thoughts/2026/07/curista-coffee-city-hall"><span>CURISTA COFFEE 奎士咖啡 市府旗艦店</span><time datetime="2026-07-01">2026-07-01</time></a></li>
+          <li><a href="https://blog.wei-lee.me/posts/tech/2026/06/taipei-claude-and-ai-ethics"><span>Taipei | Claude and AI Ethics</span><time datetime="2026-06-29">2026-06-29</time></a></li>
         </ul>
-        <div class="card-footer">
-          <a class="rss-link" href="https://blog.wei-lee.me/feeds/all.atom.xml" rel="noopener noreferrer">
-            <i class="fa-solid fa-rss" aria-hidden="true"></i>
-            <span data-lang="en">Subscribe</span>
-            <span data-lang="zh">訂閱</span>
-          </a>
-        </div>
-      </div>
+      </article>
 
-      <div class="card">
-        <div class="card-head">
-          <div class="card-tag">
-            <span data-lang="en">Life &amp; Travel</span>
-            <span data-lang="zh">生活 &amp; 旅遊</span>
+      <article class="blog-card life">
+        <div class="blog-head">
+          <div>
+            <p class="blog-kind"><span data-lang="zh">生活站</span><span data-lang="en">LIFE STATION</span></p>
+            <h2><a href="https://travlog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="zh">那些沒人在乎的事</span><span data-lang="en">Those things no one cares about</span></a></h2>
           </div>
-          <i class="fa-solid fa-up-right-from-square card-arrow" aria-hidden="true"></i>
+          <a class="rss" href="https://travlog.wei-lee.me/feeds/all.atom.xml" aria-label="Subscribe to life blog"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
-        <div class="card-title">
-          <a href="https://travlog.wei-lee.me/" rel="noopener noreferrer">
-            <span data-lang="en">Those things no one cares about</span>
-            <span data-lang="zh">那些沒人在乎的事</span>
-          </a>
-        </div>
-        <div class="card-desc">
-          <span data-lang="en">Cooking, anime, travel, and things that bring joy</span>
-          <span data-lang="zh">料理、動漫、旅行，還有那些讓人開心的小事</span>
-        </div>
-        <ul class="card-posts">
-          <li><a href="https://travlog.wei-lee.me/posts/review/2026/07/brotherhood">Star Wars: Brotherhood<time>2026-07-02</time></a></li>
-          <li><a href="https://travlog.wei-lee.me/posts/review/2026/06/my-viewing-taste">你看的是「作者的真心與手藝」<time>2026-06-30</time></a></li>
-          <li><a href="https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-fall">2025 秋季看什麼<time>2026-06-28</time></a></li>
+        <ul class="posts">
+          <li><a href="https://travlog.wei-lee.me/posts/review/2026/07/brotherhood"><span>Star Wars: Brotherhood</span><time datetime="2026-07-02">2026-07-02</time></a></li>
+          <li><a href="https://travlog.wei-lee.me/posts/review/2026/06/my-viewing-taste"><span>你看的是「作者的真心與手藝」</span><time datetime="2026-06-30">2026-06-30</time></a></li>
+          <li><a href="https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-fall"><span>2025 秋季看什麼</span><time datetime="2026-06-28">2026-06-28</time></a></li>
         </ul>
-        <div class="card-footer">
-          <a class="rss-link" href="https://travlog.wei-lee.me/feeds/all.atom.xml" rel="noopener noreferrer">
-            <i class="fa-solid fa-rss" aria-hidden="true"></i>
-            <span data-lang="en">Subscribe</span>
-            <span data-lang="zh">訂閱</span>
-          </a>
-        </div>
-      </div>
+      </article>
     </section>
 
-    <nav class="extras" aria-label="More pages">
-      <a href="https://travlog.wei-lee.me/pages/pilgrimage" rel="noopener noreferrer">
-        <i class="fa-solid fa-map-location-dot" aria-hidden="true"></i>
-        <span data-lang="en">Pilgrimage</span>
-        <span data-lang="zh">聖地巡禮</span>
-      </a>
-      <a href="https://travlog.wei-lee.me/pages/concerts" rel="noopener noreferrer">
-        <i class="fa-solid fa-music" aria-hidden="true"></i>
-        <span data-lang="en">Concerts</span>
-        <span data-lang="zh">演唱會</span>
-      </a>
-      <a href="https://travlog.wei-lee.me/pages/stage-performances" rel="noopener noreferrer">
-        <i class="fa-solid fa-masks-theater" aria-hidden="true"></i>
-        <span data-lang="en">Stage</span>
-        <span data-lang="zh">舞台表演</span>
-      </a>
-    </nav>
-
     <nav class="social" aria-label="Social links">
-      <a href="mailto:hello@wei-lee.me">
-        <i class="fa-solid fa-envelope" aria-hidden="true"></i>
-        Email
-      </a>
-      <a href="https://github.com/Lee-W/" rel="noopener noreferrer">
-        <i class="fa-brands fa-github" aria-hidden="true"></i>
-        GitHub
-      </a>
-      <a href="https://tw.linkedin.com/in/clleew" rel="noopener noreferrer">
-        <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
-        LinkedIn
-      </a>
-      <a href="https://twitter.com/clleew" rel="noopener noreferrer">
-        <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
-        Twitter
-      </a>
-      <a href="https://g0v.social/@weilee" rel="noopener noreferrer">
-        <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
-        Mastodon
-      </a>
+      <a href="mailto:hello@wei-lee.me"><i class="fa-regular fa-envelope" aria-hidden="true"></i><span>Email</span></a>
+      <a href="https://github.com/Lee-W/" rel="noopener noreferrer"><i class="fa-brands fa-github" aria-hidden="true"></i><span>GitHub</span></a>
+      <a href="https://tw.linkedin.com/in/clleew" rel="noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
+      <a href="https://twitter.com/clleew" rel="noopener noreferrer"><i class="fa-brands fa-twitter" aria-hidden="true"></i><span>Twitter</span></a>
+      <a href="https://g0v.social/@weilee" rel="noopener noreferrer"><i class="fa-brands fa-mastodon" aria-hidden="true"></i><span>Mastodon</span></a>
     </nav>
   </main>
-
-  <script>
-    const options = document.querySelectorAll('.lang-option');
-
-    const nowUrls = {
-      en: 'https://blog.wei-lee.me/en/pages/now',
-      zh: 'https://blog.wei-lee.me/pages/now'
-    };
-
-    const aboutUrls = {
-      en: 'https://blog.wei-lee.me/en/pages/about-me',
-      zh: 'https://blog.wei-lee.me/pages/about-me'
-    };
-
-    function setLang(lang) {
-      document.documentElement.className = 'lang-' + lang;
-      document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : 'en';
-      options.forEach(o => {
-        const isActive = o.dataset.value === lang;
-        o.classList.toggle('active', isActive);
-        o.setAttribute('aria-pressed', String(isActive));
-      });
-      document.getElementById('nowLink').href = nowUrls[lang];
-      document.getElementById('aboutLink').href = aboutUrls[lang];
-      localStorage.setItem('lang', lang);
-    }
-
-    setLang(localStorage.getItem('lang') || 'en');
-
-    options.forEach(btn => {
-      btn.addEventListener('click', () => setLang(btn.dataset.value));
-    });
-  </script>
+  <script src="js/home.js"></script>
 </body>
 </html>
