@@ -44,17 +44,17 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [第一次公布 Apache Airflow 新任 committer ⭐](https://blog.wei-lee.me/posts/tech/2026/07/my-first-committer-announcement) (Published: 2 days ago)
-* [CURISTA COFFEE 奎士咖啡 市府旗艦店](https://blog.wei-lee.me/posts/random-thoughts/2026/07/curista-coffee-city-hall) (Published: 4 days ago)
-* [Taipei | Claude and AI Ethics](https://blog.wei-lee.me/posts/tech/2026/06/taipei-claude-and-ai-ethics) (Published: 6 days ago)
-* [Daychill Specialty Coffee Co.](https://blog.wei-lee.me/posts/random-thoughts/2026/06/daychill-specialty-coffee) (Published: 1 week ago)
+* [第一次公布 Apache Airflow 新任 committer ⭐](https://blog.wei-lee.me/posts/tech/2026/07/my-first-committer-announcement) (Published: 3 days ago)
+* [CURISTA COFFEE 奎士咖啡 市府旗艦店](https://blog.wei-lee.me/posts/random-thoughts/2026/07/curista-coffee-city-hall) (Published: 5 days ago)
+* [Taipei | Claude and AI Ethics](https://blog.wei-lee.me/posts/tech/2026/06/taipei-claude-and-ai-ethics) (Published: 1 week ago)
+* [Daychill Specialty Coffee Co.](https://blog.wei-lee.me/posts/random-thoughts/2026/06/daychill-specialty-coffee) (Published: 2 weeks ago)
 * [音樂與記憶](https://blog.wei-lee.me/posts/random-thoughts/2026/06/music-and-memory) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [佐賀偶像是傳奇 夢幻銀河樂園](https://travlog.wei-lee.me/posts/review/2026/07/zombie-land-saga-yumeginga-paradise) (Published: 1 day ago)
- * [Star Wars: Brotherhood](https://travlog.wei-lee.me/posts/review/2026/07/brotherhood) (Published: 3 days ago)
- * [你看的是「作者的真心與手藝」](https://travlog.wei-lee.me/posts/review/2026/06/my-viewing-taste) (Published: 5 days ago)
+ * [佐賀偶像是傳奇 夢幻銀河樂園](https://travlog.wei-lee.me/posts/review/2026/07/zombie-land-saga-yumeginga-paradise) (Published: 2 days ago)
+ * [Star Wars: Brotherhood](https://travlog.wei-lee.me/posts/review/2026/07/brotherhood) (Published: 4 days ago)
+ * [你看的是「作者的真心與手藝」](https://travlog.wei-lee.me/posts/review/2026/06/my-viewing-taste) (Published: 6 days ago)
  * [2025 秋季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-fall) (Published: 1 week ago)
  * [104歲哲代奶奶：一個人生活](https://travlog.wei-lee.me/posts/review/2026/06/104-sai-tetsuyo-obasan) (Published: 1 week ago)
 
