@@ -44,32 +44,32 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [第一次公布 Apache Airflow 新任 committer ⭐](https://blog.wei-lee.me/posts/tech/2026/07/my-first-committer-announcement) (Published: 3 days ago)
-* [CURISTA COFFEE 奎士咖啡 市府旗艦店](https://blog.wei-lee.me/posts/random-thoughts/2026/07/curista-coffee-city-hall) (Published: 5 days ago)
+* [第一次公布 Apache Airflow 新任 committer ⭐](https://blog.wei-lee.me/posts/tech/2026/07/my-first-committer-announcement) (Published: 4 days ago)
+* [CURISTA COFFEE 奎士咖啡 市府旗艦店](https://blog.wei-lee.me/posts/random-thoughts/2026/07/curista-coffee-city-hall) (Published: 6 days ago)
 * [Taipei | Claude and AI Ethics](https://blog.wei-lee.me/posts/tech/2026/06/taipei-claude-and-ai-ethics) (Published: 1 week ago)
 * [Daychill Specialty Coffee Co.](https://blog.wei-lee.me/posts/random-thoughts/2026/06/daychill-specialty-coffee) (Published: 2 weeks ago)
 * [音樂與記憶](https://blog.wei-lee.me/posts/random-thoughts/2026/06/music-and-memory) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [佐賀偶像是傳奇 夢幻銀河樂園](https://travlog.wei-lee.me/posts/review/2026/07/zombie-land-saga-yumeginga-paradise) (Published: 2 days ago)
- * [Star Wars: Brotherhood](https://travlog.wei-lee.me/posts/review/2026/07/brotherhood) (Published: 4 days ago)
- * [你看的是「作者的真心與手藝」](https://travlog.wei-lee.me/posts/review/2026/06/my-viewing-taste) (Published: 6 days ago)
+ * [Star Wars: Queen&#39;s Peril](https://travlog.wei-lee.me/posts/review/2026/07/queen-s-peril) (Published: 1 day ago)
+ * [佐賀偶像是傳奇 夢幻銀河樂園](https://travlog.wei-lee.me/posts/review/2026/07/zombie-land-saga-yumeginga-paradise) (Published: 3 days ago)
+ * [Star Wars: Brotherhood](https://travlog.wei-lee.me/posts/review/2026/07/brotherhood) (Published: 5 days ago)
+ * [你看的是「作者的真心與手藝」](https://travlog.wei-lee.me/posts/review/2026/06/my-viewing-taste) (Published: 1 week ago)
  * [2025 秋季看什麼](https://travlog.wei-lee.me/posts/review/2026/06/what-i-watched-in-2025-fall) (Published: 1 week ago)
- * [104歲哲代奶奶：一個人生活](https://travlog.wei-lee.me/posts/review/2026/06/104-sai-tetsuyo-obasan) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
-1. 💪 Opened PR [#42](https://github.com/Lee-W/travlog/pull/42) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-2. 🎉 Merged PR [#69367](https://github.com/apache/airflow/pull/69367) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#69367](https://github.com/apache/airflow/pull/69367#issuecomment-4881604557) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#41](https://github.com/Lee-W/travlog/pull/41) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 🎉 Merged PR [#40](https://github.com/Lee-W/travlog/pull/40) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 💪 Opened PR [#40](https://github.com/Lee-W/travlog/pull/40) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-7. 🎉 Merged PR [#68](https://github.com/Lee-W/main-blog/pull/68) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-8. 💪 Opened PR [#68](https://github.com/Lee-W/main-blog/pull/68) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-9. 🎉 Merged PR [#34](https://github.com/Lee-W/travlog/pull/34) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-10. 💪 Opened PR [#69367](https://github.com/apache/airflow/pull/69367) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#69505](https://github.com/apache/airflow/pull/69505) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#41](https://github.com/Lee-W/travlog/pull/41) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+3. 🔒 Closed issue [#33](https://github.com/Lee-W/travlog/issues/33) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 🎉 Merged PR [#43](https://github.com/Lee-W/travlog/pull/43) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+5. 💪 Opened PR [#43](https://github.com/Lee-W/travlog/pull/43) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+6. 🎉 Merged PR [#69455](https://github.com/apache/airflow/pull/69455) in [apache/airflow](https://github.com/apache/airflow)
+7. ℹ️ Labeled PR [#69456](https://github.com/apache/airflow/pull/69456) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#69456](https://github.com/apache/airflow/pull/69456) in [apache/airflow](https://github.com/apache/airflow)
+9. ℹ️ Assigned PR [#69455](https://github.com/apache/airflow/pull/69455) in [apache/airflow](https://github.com/apache/airflow)
+10. ℹ️ Assigned PR [#69454](https://github.com/apache/airflow/pull/69454) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
