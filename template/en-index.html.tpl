@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-Hant" class="lang-zh">
+<html lang="en" class="lang-en">
 <head>
   <meta charset="utf-8">
   <script>
@@ -14,18 +14,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>李唯 / Wei Lee</title>
   <meta name="description" content="Open source contributor, Python enthusiast, and automation enthusiast based in Taiwan. Apache Airflow PMC member, commitizen-tools maintainer, and PyCon Taiwan volunteer.">
-  <link rel="canonical" href="https://wei-lee.me/">
+  <link rel="canonical" href="https://wei-lee.me/en/">
   <link rel="alternate" hreflang="zh-Hant" href="https://wei-lee.me/">
   <link rel="alternate" hreflang="en" href="https://wei-lee.me/en/">
   <link rel="alternate" hreflang="x-default" href="https://wei-lee.me/">
   <meta property="og:type" content="profile">
   <meta property="og:title" content="李唯 / Wei Lee">
   <meta property="og:description" content="Open source contributor, Python enthusiast, and automation enthusiast based in Taiwan.">
-  <meta property="og:url" content="https://wei-lee.me/">
+  <meta property="og:url" content="https://wei-lee.me/en/">
   <meta property="og:image" content="https://wei-lee.me/images/avatar.jpg">
   <meta property="og:image:alt" content="Wei Lee's avatar">
-  <meta property="og:locale" content="zh_TW">
-  <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="zh_TW">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="李唯 / Wei Lee">
   <meta name="twitter:image" content="https://wei-lee.me/images/avatar.jpg">
@@ -63,8 +63,8 @@
   <main class="page">
     <div class="topbar">
       <div class="lang-switcher" role="group" aria-label="Language">
-        <a class="lang-option" href="/en/" data-value="en" aria-pressed="false">EN</a>
-        <a class="lang-option active" href="/" data-value="zh" aria-pressed="true">漢語</a>
+        <a class="lang-option active" href="/en/" data-value="en" aria-pressed="true">EN</a>
+        <a class="lang-option" href="/" data-value="zh" aria-pressed="false">漢語</a>
       </div>
     </div>
 
@@ -133,10 +133,8 @@
           </div>
           <a class="rss" href="https://blog.wei-lee.me/feeds/all.atom.xml" aria-label="Subscribe to tech blog"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
-        <ul class="posts">
-          <li><a href="https://blog.wei-lee.me/posts/random-thoughts/2026/07/cherish-this-feeling"><span>我想珍惜，我還能感受到很喜歡的這種心情</span><time datetime="2026-07-07">2026-07-07</time></a></li>
-          <li><a href="https://blog.wei-lee.me/posts/tech/2026/07/my-first-committer-announcement"><span>第一次公布 Apache Airflow 新任 committer ⭐</span><time datetime="2026-07-03">2026-07-03</time></a></li>
-          <li><a href="https://blog.wei-lee.me/posts/random-thoughts/2026/07/curista-coffee-city-hall"><span>CURISTA COFFEE 奎士咖啡 市府旗艦店</span><time datetime="2026-07-01">2026-07-01</time></a></li>
+        <ul class="posts">{{ range rss "https://blog.wei-lee.me/feeds/all.atom.xml" 3 }}
+          <li><a href="{{ .URL }}"><span>{{ .Title }}</span><time datetime="{{ .PublishedAt.Format "2006-01-02" }}">{{ .PublishedAt.Format "2006-01-02" }}</time></a></li>{{ end }}
         </ul>
       </article>
 
@@ -147,10 +145,8 @@
           </div>
           <a class="rss" href="https://travlog.wei-lee.me/feeds/all.atom.xml" aria-label="Subscribe to life blog"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
-        <ul class="posts">
-          <li><a href="https://travlog.wei-lee.me/posts/review/2026/07/queen-s-peril"><span>Star Wars: Queen&#39;s Peril</span><time datetime="2026-07-06">2026-07-06</time></a></li>
-          <li><a href="https://travlog.wei-lee.me/posts/review/2026/07/zombie-land-saga-yumeginga-paradise"><span>佐賀偶像是傳奇 夢幻銀河樂園</span><time datetime="2026-07-04">2026-07-04</time></a></li>
-          <li><a href="https://travlog.wei-lee.me/posts/review/2026/07/brotherhood"><span>Star Wars: Brotherhood</span><time datetime="2026-07-02">2026-07-02</time></a></li>
+        <ul class="posts">{{ range rss "https://travlog.wei-lee.me/feeds/all.atom.xml" 3 }}
+          <li><a href="{{ .URL }}"><span>{{ .Title }}</span><time datetime="{{ .PublishedAt.Format "2006-01-02" }}">{{ .PublishedAt.Format "2006-01-02" }}</time></a></li>{{ end }}
         </ul>
       </article>
     </section>

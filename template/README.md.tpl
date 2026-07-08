@@ -20,7 +20,7 @@ Open source contributor, Pythonista, and automation enthusiast based in Taiwan. 
 </p>
 
 * 🐍 [Pythonista](https://pycon-note.wei-lee.me/)
-* 📢 [PyCon Taiwan](https://tw.pycon.org/) organizer
+* 📢 [PyCon Taiwan](https://tw.pycon.org/) volunteer
 * [Apache Airflow](https://github.com/apache/airflow/) PMC member, Taiwanese Mandarin Code Owner and Translation Owner
 * [commitizen-tools](https://github.com/commitizen-tools) maintainer
 * `#apache-airflow`, `#commitizen` Mentor and Memebot @ [OpenSource4You](https://github.com/opensource4you/)
@@ -51,6 +51,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
  * [{{ .Title }}]({{ .URL }}) (Published: {{ humanize .PublishedAt }}){{ end }}
 
 ## 🖥️ Recently working on
+<!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#69453](https://github.com/apache/airflow/pull/69453) in [apache/airflow](https://github.com/apache/airflow)
 2. 🎉 Merged PR [#69549](https://github.com/apache/airflow/pull/69549) in [apache/airflow](https://github.com/apache/airflow)

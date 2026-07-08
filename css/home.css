@@ -1,6 +1,7 @@
 :root {
   --bg: #f4f2ec;
   --surface: #fff;
+  --surface-quiet: #fff;
   --border: #e6e2d7;
   --text: #1a1a1a;
   --muted: #6b6a63;
@@ -16,6 +17,23 @@
   --latin-serif: Georgia, "Times New Roman", serif;
   --latin-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --radius: 13px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #181816;
+    --surface: #22221f;
+    --surface-quiet: #2a2a26;
+    --border: #3a3933;
+    --text: #f0eee7;
+    --muted: #c5c0b4;
+    --quiet: #a5a094;
+    --faint: #827d73;
+    --name-alt: #888274;
+    --accent: #8fc59d;
+    --accent-soft: #223327;
+    --life: #d6b56f;
+  }
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -66,6 +84,9 @@ svg { display: block; }
 }
 
 .lang-option {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   min-width: 42px;
   padding: 5px 9px;
   border: 0;
@@ -75,6 +96,7 @@ svg { display: block; }
   cursor: pointer;
   font-size: 0.75rem;
   font-weight: 700;
+  text-decoration: none;
 }
 
 .lang-option:hover { color: var(--accent); }
@@ -218,7 +240,7 @@ img.role-icon {
   height: 32px;
   place-items: center;
   border-radius: 50%;
-  background: #fff;
+  background: var(--surface-quiet);
   color: var(--accent);
   font-size: 13px;
 }
@@ -252,16 +274,6 @@ img.role-icon {
   gap: 12px;
   padding-bottom: 13px;
 }
-
-.blog-kind {
-  margin: 0 0 4px;
-  color: var(--accent);
-  font-size: 0.67rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-}
-
-.life .blog-kind { color: var(--life); }
 
 .blog-card h2 {
   margin: 0;
@@ -355,7 +367,6 @@ img.role-icon {
 .lang-zh .path-subtitle [data-lang="zh"],
 .lang-zh .bio [data-lang="zh"],
 .lang-zh .now-detail [data-lang="zh"],
-.lang-zh .blog-kind [data-lang="zh"],
 .lang-zh .posts span,
 .lang-zh .posts time {
   font-size: 1.02em;
@@ -382,14 +393,13 @@ img.role-icon {
 .lang-en .bio [data-lang="en"],
 .lang-en .roles [data-lang="en"],
 .lang-en .path-subtitle [data-lang="en"],
-.lang-en .blog-kind [data-lang="en"],
 .lang-en .posts span,
 .lang-en .posts time,
 .lang-en .social span:last-child {
   font-family: var(--latin-sans);
 }
 
-@media (max-width: 430px) {
+@media (max-width: 600px) {
   .page { width: min(100% - 28px, 402px); padding: 16px 0 34px; }
   .topbar { margin-bottom: 18px; }
   .lang-option { min-width: 40px; padding: 4px 8px; }

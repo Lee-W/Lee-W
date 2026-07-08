@@ -1,5 +1,6 @@
 (function () {
   const options = document.querySelectorAll('.lang-option');
+  const pathLang = window.location.pathname.replace(/\/+$/, '') === '/en' ? 'en' : 'zh';
   const localizedLinks = {
     aboutLink: {
       en: 'https://blog.wei-lee.me/en/pages/about-me',
@@ -13,7 +14,8 @@
 
   function setLang(lang) {
     const nextLang = lang === 'zh' ? 'zh' : 'en';
-    document.documentElement.className = 'lang-' + nextLang;
+    document.documentElement.classList.remove('lang-zh', 'lang-en');
+    document.documentElement.classList.add('lang-' + nextLang);
     document.documentElement.lang = nextLang === 'zh' ? 'zh-Hant' : 'en';
 
     options.forEach((option) => {
@@ -30,6 +32,10 @@
     localStorage.setItem('lang', nextLang);
   }
 
-  setLang(localStorage.getItem('lang') || 'zh');
-  options.forEach((option) => option.addEventListener('click', () => setLang(option.dataset.value)));
+  setLang(pathLang);
+  options.forEach((option) => {
+    option.addEventListener('click', () => {
+      localStorage.setItem('lang', option.dataset.value);
+    });
+  });
 })();
