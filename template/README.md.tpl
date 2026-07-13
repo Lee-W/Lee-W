@@ -2,7 +2,7 @@
 
 Open source contributor, Pythonista, and automation enthusiast based in Taiwan. 🇹🇼
 
-> This README and the website homepage are generated from `template/README.md.tpl` and `template/index.html.tpl` by GitHub Actions. Update the templates first, then let the workflow refresh the generated files.
+<!-- This README and the website homepage are generated from template/README.md.tpl and template/index.html.tpl by GitHub Actions. Update the templates first, then let the workflow refresh the generated files. -->
 
 <p align="left">
   <a href="https://tw.linkedin.com/in/clleew" target="_blank">
