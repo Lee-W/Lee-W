@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [參加 BlogBlog 同樂會的一些變化](https://blog.wei-lee.me/posts/random-thoughts/2026/07/blogblog-meetup-changes/) (Published: 1 day ago)
-* [JLPT N2](https://blog.wei-lee.me/posts/random-thoughts/2026/07/jlpt-n2/) (Published: 3 days ago)
-* [LARGE Café 樂居咖啡](https://blog.wei-lee.me/posts/random-thoughts/2026/07/large-cafe/) (Published: 5 days ago)
+* [參加 BlogBlog 同樂會的一些變化](https://blog.wei-lee.me/posts/random-thoughts/2026/07/blogblog-meetup-changes/) (Published: 2 days ago)
+* [JLPT N2](https://blog.wei-lee.me/posts/random-thoughts/2026/07/jlpt-n2/) (Published: 4 days ago)
+* [LARGE Café 樂居咖啡](https://blog.wei-lee.me/posts/random-thoughts/2026/07/large-cafe/) (Published: 6 days ago)
 * [我想珍惜，我還能感受到很喜歡的這種心情](https://blog.wei-lee.me/posts/random-thoughts/2026/07/cherish-this-feeling/) (Published: 1 week ago)
 * [第一次公布 Apache Airflow 新任 committer ⭐](https://blog.wei-lee.me/posts/tech/2026/07/my-first-committer-announcement/) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [力量拉麵（信義店）](https://travlog.wei-lee.me/posts/review/2026/07/chikara-ramen-xinyi) (Published: 4 days ago)
- * [八越河粉 Pho Tam](https://travlog.wei-lee.me/posts/review/2026/07/pho-tam) (Published: 6 days ago)
+ * [惑？不惑？](https://travlog.wei-lee.me/posts/review/2026/07/forty-and-fearless) (Published: 1 day ago)
+ * [力量拉麵（信義店）](https://travlog.wei-lee.me/posts/review/2026/07/chikara-ramen-xinyi) (Published: 5 days ago)
+ * [八越河粉 Pho Tam](https://travlog.wei-lee.me/posts/review/2026/07/pho-tam) (Published: 1 week ago)
  * [Star Wars: Queen&#39;s Peril](https://travlog.wei-lee.me/posts/review/2026/07/queen-s-peril) (Published: 1 week ago)
  * [佐賀偶像是傳奇 夢幻銀河樂園](https://travlog.wei-lee.me/posts/review/2026/07/zombie-land-saga-yumeginga-paradise) (Published: 1 week ago)
- * [Star Wars: Brotherhood](https://travlog.wei-lee.me/posts/review/2026/07/brotherhood) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
 
-1. ℹ️ Labeled PR [#69702](https://github.com/apache/airflow/pull/69702) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#69844](https://github.com/apache/airflow/pull/69844) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#84](https://github.com/Lee-W/main-blog/issues/84#issuecomment-4964528805) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 🗣 Commented on [#69795](https://github.com/apache/airflow/pull/69795#issuecomment-4964489835) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#69709](https://github.com/apache/airflow/pull/69709) in [apache/airflow](https://github.com/apache/airflow)
-6. 🚀 Published release [0.5.0](https://github.com/Lee-W/pelican-tabular/releases/tag/0.5.0) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
-7. 🎉 Merged PR [#69700](https://github.com/apache/airflow/pull/69700) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#72](https://github.com/Lee-W/main-blog/pull/72) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-9. 🎉 Merged PR [#83](https://github.com/Lee-W/main-blog/pull/83) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-10. 💪 Opened PR [#83](https://github.com/Lee-W/main-blog/pull/83) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+1. ℹ️ Labeled PR [#69802](https://github.com/apache/airflow/pull/69802) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#69802](https://github.com/apache/airflow/pull/69802#issuecomment-4976057163) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#69711](https://github.com/apache/airflow/pull/69711) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#69844](https://github.com/apache/airflow/pull/69844) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#4](https://github.com/Lee-W/ring/pull/4) in [Lee-W/ring](https://github.com/Lee-W/ring)
+6. 🎉 Merged PR [#8](https://github.com/Lee-W/maigo/pull/8) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+7. 💪 Opened PR [#8](https://github.com/Lee-W/maigo/pull/8) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+8. 💪 Opened PR [#4](https://github.com/Lee-W/ring/pull/4) in [Lee-W/ring](https://github.com/Lee-W/ring)
+9. 💪 Opened PR [#69867](https://github.com/apache/airflow/pull/69867) in [apache/airflow](https://github.com/apache/airflow)
+10. 🗣 Commented on [#69800](https://github.com/apache/airflow/pull/69800#issuecomment-4967727859) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
