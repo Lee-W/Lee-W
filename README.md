@@ -44,16 +44,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [參加 BlogBlog 同樂會的一些變化](https://blog.wei-lee.me/posts/random-thoughts/2026/07/blogblog-meetup-changes/) (Published: 4 days ago)
-* [JLPT N2](https://blog.wei-lee.me/posts/random-thoughts/2026/07/jlpt-n2/) (Published: 6 days ago)
+* [參加 BlogBlog 同樂會的一些變化](https://blog.wei-lee.me/posts/random-thoughts/2026/07/blogblog-meetup-changes/) (Published: 5 days ago)
+* [JLPT N2](https://blog.wei-lee.me/posts/random-thoughts/2026/07/jlpt-n2/) (Published: 1 week ago)
 * [LARGE Café 樂居咖啡](https://blog.wei-lee.me/posts/random-thoughts/2026/07/large-cafe/) (Published: 1 week ago)
 * [我想珍惜，我還能感受到很喜歡的這種心情](https://blog.wei-lee.me/posts/random-thoughts/2026/07/cherish-this-feeling/) (Published: 1 week ago)
 * [第一次公布 Apache Airflow 新任 committer ⭐](https://blog.wei-lee.me/posts/tech/2026/07/my-first-committer-announcement/) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [羽都麵屋](https://travlog.wei-lee.me/posts/review/2026/07/yodo-ramen) (Published: 1 day ago)
- * [惑？不惑？](https://travlog.wei-lee.me/posts/review/2026/07/forty-and-fearless) (Published: 3 days ago)
+ * [羽都麵屋](https://travlog.wei-lee.me/posts/review/2026/07/yodo-ramen) (Published: 2 days ago)
+ * [惑？不惑？](https://travlog.wei-lee.me/posts/review/2026/07/forty-and-fearless) (Published: 4 days ago)
  * [力量拉麵（信義店）](https://travlog.wei-lee.me/posts/review/2026/07/chikara-ramen-xinyi) (Published: 1 week ago)
  * [八越河粉 Pho Tam](https://travlog.wei-lee.me/posts/review/2026/07/pho-tam) (Published: 1 week ago)
  * [Star Wars: Queen&#39;s Peril](https://travlog.wei-lee.me/posts/review/2026/07/queen-s-peril) (Published: 1 week ago)
@@ -61,16 +61,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 
 
-1. 💪 Opened PR [#7](https://github.com/Lee-W/ring/pull/7) in [Lee-W/ring](https://github.com/Lee-W/ring)
-2. 💪 Opened PR [#203](https://github.com/pycontw/pycon-etl/pull/203) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-3. 💪 Opened PR [#6](https://github.com/Lee-W/ring/pull/6) in [Lee-W/ring](https://github.com/Lee-W/ring)
-4. 🎉 Merged PR [#69702](https://github.com/apache/airflow/pull/69702) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#69867](https://github.com/apache/airflow/pull/69867) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#67343](https://github.com/apache/airflow/pull/67343#issuecomment-4990937131) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#69578](https://github.com/apache/airflow/pull/69578#issuecomment-4990919333) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#69867](https://github.com/apache/airflow/pull/69867#issuecomment-4990524030) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#60](https://github.com/Lee-W/travlog/pull/60) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-10. 🎉 Merged PR [#9](https://github.com/Lee-W/maigo/pull/9) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+1. 🎉 Merged PR [#8](https://github.com/Lee-W/ring/pull/8) in [Lee-W/ring](https://github.com/Lee-W/ring)
+2. 🎉 Merged PR [#10](https://github.com/Lee-W/maigo/pull/10) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+3. 💪 Opened PR [#10](https://github.com/Lee-W/maigo/pull/10) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+4. 💪 Opened PR [#205](https://github.com/pycontw/pycon-etl/pull/205) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 🎉 Merged PR [#234](https://github.com/pycontw/pycontw-blog/pull/234) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+6. 🗣 Commented on [#69702](https://github.com/apache/airflow/pull/69702#issuecomment-4998752165) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#204](https://github.com/pycontw/pycon-etl/pull/204) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+8. 🎉 Merged PR [#6](https://github.com/Lee-W/ring/pull/6) in [Lee-W/ring](https://github.com/Lee-W/ring)
+9. ❌ Closed PR [#7](https://github.com/Lee-W/ring/pull/7) in [Lee-W/ring](https://github.com/Lee-W/ring)
+10. 💪 Opened PR [#8](https://github.com/Lee-W/ring/pull/8) in [Lee-W/ring](https://github.com/Lee-W/ring)
 
 
 ## ⭐ GitHub Stat
