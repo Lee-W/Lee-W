@@ -44,7 +44,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [參加 BlogBlog 同樂會的一些變化](https://blog.wei-lee.me/posts/random-thoughts/2026/07/blogblog-meetup-changes/) (Published: 6 days ago)
+* [參加 BlogBlog 同樂會的一些變化](https://blog.wei-lee.me/posts/random-thoughts/2026/07/blogblog-meetup-changes/) (Published: 1 week ago)
 * [JLPT N2](https://blog.wei-lee.me/posts/random-thoughts/2026/07/jlpt-n2/) (Published: 1 week ago)
 * [LARGE Café 樂居咖啡](https://blog.wei-lee.me/posts/random-thoughts/2026/07/large-cafe/) (Published: 1 week ago)
 * [我想珍惜，我還能感受到很喜歡的這種心情](https://blog.wei-lee.me/posts/random-thoughts/2026/07/cherish-this-feeling/) (Published: 1 week ago)
@@ -52,25 +52,25 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those things no one cares about
  
- * [米澤茜 Ubike 站](https://travlog.wei-lee.me/posts/travel/2026/07/yonezawa-akane-ubike-station) (Published: 1 day ago)
- * [羽都麵屋](https://travlog.wei-lee.me/posts/review/2026/07/yodo-ramen) (Published: 3 days ago)
- * [惑？不惑？](https://travlog.wei-lee.me/posts/review/2026/07/forty-and-fearless) (Published: 5 days ago)
+ * [醉好的時光](https://travlog.wei-lee.me/posts/review/2026/07/another-round) (Published: 1 day ago)
+ * [米澤茜 Ubike 站](https://travlog.wei-lee.me/posts/travel/2026/07/yonezawa-akane-ubike-station) (Published: 2 days ago)
+ * [羽都麵屋](https://travlog.wei-lee.me/posts/review/2026/07/yodo-ramen) (Published: 4 days ago)
+ * [惑？不惑？](https://travlog.wei-lee.me/posts/review/2026/07/forty-and-fearless) (Published: 6 days ago)
  * [力量拉麵（信義店）](https://travlog.wei-lee.me/posts/review/2026/07/chikara-ramen-xinyi) (Published: 1 week ago)
- * [八越河粉 Pho Tam](https://travlog.wei-lee.me/posts/review/2026/07/pho-tam) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#62](https://github.com/Lee-W/travlog/pull/62) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-2. 🎉 Merged PR [#8](https://github.com/Lee-W/ring/pull/8) in [Lee-W/ring](https://github.com/Lee-W/ring)
-3. 🎉 Merged PR [#10](https://github.com/Lee-W/maigo/pull/10) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-4. 💪 Opened PR [#10](https://github.com/Lee-W/maigo/pull/10) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-5. 💪 Opened PR [#205](https://github.com/pycontw/pycon-etl/pull/205) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-6. 🎉 Merged PR [#234](https://github.com/pycontw/pycontw-blog/pull/234) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
-7. 🗣 Commented on [#69702](https://github.com/apache/airflow/pull/69702#issuecomment-4998752165) in [apache/airflow](https://github.com/apache/airflow)
-8. 💪 Opened PR [#204](https://github.com/pycontw/pycon-etl/pull/204) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-9. 🎉 Merged PR [#6](https://github.com/Lee-W/ring/pull/6) in [Lee-W/ring](https://github.com/Lee-W/ring)
-10. ❌ Closed PR [#7](https://github.com/Lee-W/ring/pull/7) in [Lee-W/ring](https://github.com/Lee-W/ring)
+1. 🗣 Commented on [#67343](https://github.com/apache/airflow/pull/67343#issuecomment-5018144547) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#66](https://github.com/Lee-W/travlog/pull/66) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+3. 💪 Opened PR [#66](https://github.com/Lee-W/travlog/pull/66) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 🎉 Merged PR [#62](https://github.com/Lee-W/travlog/pull/62) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+5. 🎉 Merged PR [#8](https://github.com/Lee-W/ring/pull/8) in [Lee-W/ring](https://github.com/Lee-W/ring)
+6. 🎉 Merged PR [#10](https://github.com/Lee-W/maigo/pull/10) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+7. 💪 Opened PR [#10](https://github.com/Lee-W/maigo/pull/10) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+8. 💪 Opened PR [#205](https://github.com/pycontw/pycon-etl/pull/205) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+9. 🎉 Merged PR [#234](https://github.com/pycontw/pycontw-blog/pull/234) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+10. 🗣 Commented on [#69702](https://github.com/apache/airflow/pull/69702#issuecomment-4998752165) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
