@@ -44,7 +44,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [有趣的小知識或冷門概念](https://blog.wei-lee.me/posts/random-thoughts/2026/07/fun-trivia-and-obscure-concepts/) (Published: 1 day ago)
+* [有趣的小知識或冷門概念](https://blog.wei-lee.me/posts/random-thoughts/2026/07/fun-trivia-and-obscure-concepts/) (Published: 2 days ago)
 * [參加 BlogBlog 同樂會的一些變化](https://blog.wei-lee.me/posts/random-thoughts/2026/07/blogblog-meetup-changes/) (Published: 1 week ago)
 * [JLPT N2](https://blog.wei-lee.me/posts/random-thoughts/2026/07/jlpt-n2/) (Published: 1 week ago)
 * [LARGE Café 樂居咖啡](https://blog.wei-lee.me/posts/random-thoughts/2026/07/large-cafe/) (Published: 1 week ago)
@@ -52,25 +52,25 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those things no one cares about
  
- * [醉好的時光](https://travlog.wei-lee.me/posts/review/2026/07/another-round) (Published: 2 days ago)
- * [米澤茜 Ubike 站](https://travlog.wei-lee.me/posts/travel/2026/07/yonezawa-akane-ubike-station) (Published: 3 days ago)
- * [羽都麵屋](https://travlog.wei-lee.me/posts/review/2026/07/yodo-ramen) (Published: 5 days ago)
+ * [五之神製作所 台灣](https://travlog.wei-lee.me/posts/review/2026/07/gonokami) (Published: 1 day ago)
+ * [醉好的時光](https://travlog.wei-lee.me/posts/review/2026/07/another-round) (Published: 3 days ago)
+ * [米澤茜 Ubike 站](https://travlog.wei-lee.me/posts/travel/2026/07/yonezawa-akane-ubike-station) (Published: 4 days ago)
+ * [羽都麵屋](https://travlog.wei-lee.me/posts/review/2026/07/yodo-ramen) (Published: 6 days ago)
  * [惑？不惑？](https://travlog.wei-lee.me/posts/review/2026/07/forty-and-fearless) (Published: 1 week ago)
- * [力量拉麵（信義店）](https://travlog.wei-lee.me/posts/review/2026/07/chikara-ramen-xinyi) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🗣 Commented on [#2033](https://github.com/commitizen-tools/commitizen/issues/2033#issuecomment-5028749589) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🔒 Closed issue [#2033](https://github.com/commitizen-tools/commitizen/issues/2033) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-3. 🎉 Merged PR [#9](https://github.com/Lee-W/ring/pull/9) in [Lee-W/ring](https://github.com/Lee-W/ring)
-4. 💪 Opened PR [#9](https://github.com/Lee-W/ring/pull/9) in [Lee-W/ring](https://github.com/Lee-W/ring)
-5. 🗣 Commented on [#58543](https://github.com/apache/airflow/pull/58543#issuecomment-5023222373) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#70122](https://github.com/apache/airflow/pull/70122) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#70114](https://github.com/apache/airflow/pull/70114#issuecomment-5019460624) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#91](https://github.com/Lee-W/main-blog/pull/91) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-9. 💪 Opened PR [#91](https://github.com/Lee-W/main-blog/pull/91) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-10. 🎉 Merged PR [#90](https://github.com/Lee-W/main-blog/pull/90) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+1. 🎉 Merged PR [#70195](https://github.com/apache/airflow/pull/70195) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#70194](https://github.com/apache/airflow/pull/70194) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#70195](https://github.com/apache/airflow/pull/70195) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#70194](https://github.com/apache/airflow/pull/70194) in [apache/airflow](https://github.com/apache/airflow)
+5. 🔒 Closed issue [#66175](https://github.com/apache/airflow/issues/66175) in [apache/airflow](https://github.com/apache/airflow)
+6. ℹ️ Unlabeled PR [#70190](https://github.com/apache/airflow/pull/70190) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#70190](https://github.com/apache/airflow/pull/70190) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#70122](https://github.com/apache/airflow/pull/70122) in [apache/airflow](https://github.com/apache/airflow)
+9. ℹ️ Unlabeled PR [#70122](https://github.com/apache/airflow/pull/70122) in [apache/airflow](https://github.com/apache/airflow)
+10. ❌ Closed PR [#68353](https://github.com/apache/airflow/pull/68353) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
