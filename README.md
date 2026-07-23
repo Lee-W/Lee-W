@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [有趣的小知識或冷門概念](https://blog.wei-lee.me/posts/random-thoughts/2026/07/fun-trivia-and-obscure-concepts/) (Published: 2 days ago)
+* [我不用脆](https://blog.wei-lee.me/posts/random-thoughts/2026/07/i-dont-use-threads/) (Published: 1 day ago)
+* [有趣的小知識或冷門概念](https://blog.wei-lee.me/posts/random-thoughts/2026/07/fun-trivia-and-obscure-concepts/) (Published: 3 days ago)
 * [參加 BlogBlog 同樂會的一些變化](https://blog.wei-lee.me/posts/random-thoughts/2026/07/blogblog-meetup-changes/) (Published: 1 week ago)
 * [JLPT N2](https://blog.wei-lee.me/posts/random-thoughts/2026/07/jlpt-n2/) (Published: 1 week ago)
-* [LARGE Café 樂居咖啡](https://blog.wei-lee.me/posts/random-thoughts/2026/07/large-cafe/) (Published: 1 week ago)
-* [我想珍惜，我還能感受到很喜歡的這種心情](https://blog.wei-lee.me/posts/random-thoughts/2026/07/cherish-this-feeling/) (Published: 2 weeks ago)
+* [LARGE Café 樂居咖啡](https://blog.wei-lee.me/posts/random-thoughts/2026/07/large-cafe/) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [五之神製作所 台灣](https://travlog.wei-lee.me/posts/review/2026/07/gonokami) (Published: 1 day ago)
- * [醉好的時光](https://travlog.wei-lee.me/posts/review/2026/07/another-round) (Published: 3 days ago)
- * [米澤茜 Ubike 站](https://travlog.wei-lee.me/posts/travel/2026/07/yonezawa-akane-ubike-station) (Published: 4 days ago)
- * [羽都麵屋](https://travlog.wei-lee.me/posts/review/2026/07/yodo-ramen) (Published: 6 days ago)
- * [惑？不惑？](https://travlog.wei-lee.me/posts/review/2026/07/forty-and-fearless) (Published: 1 week ago)
+ * [阿文米粿](https://travlog.wei-lee.me/posts/review/2026/07/a-wen-mi-guo) (Published: today)
+ * [五之神製作所 台灣](https://travlog.wei-lee.me/posts/review/2026/07/gonokami) (Published: 2 days ago)
+ * [醉好的時光](https://travlog.wei-lee.me/posts/review/2026/07/another-round) (Published: 4 days ago)
+ * [米澤茜 Ubike 站](https://travlog.wei-lee.me/posts/travel/2026/07/yonezawa-akane-ubike-station) (Published: 5 days ago)
+ * [羽都麵屋](https://travlog.wei-lee.me/posts/review/2026/07/yodo-ramen) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#70195](https://github.com/apache/airflow/pull/70195) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#70194](https://github.com/apache/airflow/pull/70194) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#70195](https://github.com/apache/airflow/pull/70195) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#70194](https://github.com/apache/airflow/pull/70194) in [apache/airflow](https://github.com/apache/airflow)
-5. 🔒 Closed issue [#66175](https://github.com/apache/airflow/issues/66175) in [apache/airflow](https://github.com/apache/airflow)
-6. ℹ️ Unlabeled PR [#70190](https://github.com/apache/airflow/pull/70190) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#70190](https://github.com/apache/airflow/pull/70190) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#70122](https://github.com/apache/airflow/pull/70122) in [apache/airflow](https://github.com/apache/airflow)
-9. ℹ️ Unlabeled PR [#70122](https://github.com/apache/airflow/pull/70122) in [apache/airflow](https://github.com/apache/airflow)
-10. ❌ Closed PR [#68353](https://github.com/apache/airflow/pull/68353) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#72](https://github.com/Lee-W/travlog/pull/72) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. 🗣 Commented on [#69915](https://github.com/apache/airflow/pull/69915#issuecomment-5053531717) in [apache/airflow](https://github.com/apache/airflow)
+3. 🔒 Closed issue [#69496](https://github.com/apache/airflow/issues/69496) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#70178](https://github.com/apache/airflow/pull/70178#issuecomment-5053437108) in [apache/airflow](https://github.com/apache/airflow)
+5. 🗣 Commented on [#68833](https://github.com/apache/airflow/pull/68833#issuecomment-5053398468) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#70261](https://github.com/apache/airflow/pull/70261) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#70224](https://github.com/apache/airflow/pull/70224) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#70224](https://github.com/apache/airflow/pull/70224#issuecomment-5046660698) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#70224](https://github.com/apache/airflow/pull/70224#issuecomment-5045623333) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#70229](https://github.com/apache/airflow/pull/70229) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
