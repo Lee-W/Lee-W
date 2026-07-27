@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [16 → 15](https://blog.wei-lee.me/posts/tech/2026/07/airflow-16-to-15/) (Published: 2 days ago)
-* [我不用脆](https://blog.wei-lee.me/posts/random-thoughts/2026/07/i-dont-use-threads/) (Published: 4 days ago)
-* [有趣的小知識或冷門概念](https://blog.wei-lee.me/posts/random-thoughts/2026/07/fun-trivia-and-obscure-concepts/) (Published: 6 days ago)
-* [參加 BlogBlog 同樂會的一些變化](https://blog.wei-lee.me/posts/random-thoughts/2026/07/blogblog-meetup-changes/) (Published: 1 week ago)
-* [JLPT N2](https://blog.wei-lee.me/posts/random-thoughts/2026/07/jlpt-n2/) (Published: 2 weeks ago)
+* [這個月 Airflow 的最棒棒 PR 候選有三個台灣人！](https://blog.wei-lee.me/posts/tech/2026/07/three-taiwanese-in-pr-of-the-month/) (Published: today)
+* [最後一次 Daychill](https://blog.wei-lee.me/posts/random-thoughts/2026/07/daychill-the-last/) (Published: 1 day ago)
+* [16 → 15](https://blog.wei-lee.me/posts/tech/2026/07/airflow-16-to-15/) (Published: 3 days ago)
+* [我不用脆](https://blog.wei-lee.me/posts/random-thoughts/2026/07/i-dont-use-threads/) (Published: 5 days ago)
+* [有趣的小知識或冷門概念](https://blog.wei-lee.me/posts/random-thoughts/2026/07/fun-trivia-and-obscure-concepts/) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [ikuka 蛋包飯](https://travlog.wei-lee.me/posts/travel/2026/07/pomunoki-tainan) (Published: 1 day ago)
- * [阿文米粿](https://travlog.wei-lee.me/posts/review/2026/07/a-wen-mi-guo) (Published: 3 days ago)
- * [五之神製作所 台灣](https://travlog.wei-lee.me/posts/review/2026/07/gonokami) (Published: 5 days ago)
+ * [ikuka 蛋包飯](https://travlog.wei-lee.me/posts/travel/2026/07/pomunoki-tainan) (Published: 2 days ago)
+ * [阿文米粿](https://travlog.wei-lee.me/posts/review/2026/07/a-wen-mi-guo) (Published: 4 days ago)
+ * [五之神製作所 台灣](https://travlog.wei-lee.me/posts/review/2026/07/gonokami) (Published: 6 days ago)
  * [醉好的時光](https://travlog.wei-lee.me/posts/review/2026/07/another-round) (Published: 1 week ago)
  * [米澤茜 Ubike 站](https://travlog.wei-lee.me/posts/travel/2026/07/yonezawa-akane-ubike-station) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
 
-1. 💪 Opened PR [#103](https://github.com/Lee-W/main-blog/pull/103) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 🎉 Merged PR [#76](https://github.com/Lee-W/travlog/pull/76) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-3. 💪 Opened PR [#76](https://github.com/Lee-W/travlog/pull/76) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-4. 🎉 Merged PR [#75](https://github.com/Lee-W/travlog/pull/75) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 💪 Opened PR [#75](https://github.com/Lee-W/travlog/pull/75) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 🎉 Merged PR [#102](https://github.com/Lee-W/main-blog/pull/102) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-7. 🎉 Merged PR [#101](https://github.com/Lee-W/main-blog/pull/101) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-8. 💪 Opened PR [#102](https://github.com/Lee-W/main-blog/pull/102) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-9. 💪 Opened PR [#101](https://github.com/Lee-W/main-blog/pull/101) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-10. 🎉 Merged PR [#11](https://github.com/Lee-W/maigo/pull/11) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+1. 🎉 Merged PR [#110](https://github.com/Lee-W/main-blog/pull/110) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 🎉 Merged PR [#70279](https://github.com/apache/airflow/pull/70279) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#110](https://github.com/Lee-W/main-blog/pull/110) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 🎉 Merged PR [#70376](https://github.com/apache/airflow/pull/70376) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#80](https://github.com/Lee-W/travlog/pull/80) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+6. 💪 Opened PR [#79](https://github.com/Lee-W/travlog/pull/79) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+7. 💪 Opened PR [#78](https://github.com/Lee-W/travlog/pull/78) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+8. 💪 Opened PR [#77](https://github.com/Lee-W/travlog/pull/77) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+9. 💪 Opened PR [#109](https://github.com/Lee-W/main-blog/pull/109) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+10. 💪 Opened PR [#108](https://github.com/Lee-W/main-blog/pull/108) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 
 
 ## ⭐ GitHub Stat
