@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 1 day ago)
-* [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 1 day ago)
-* [我也有自己網域的電子郵件啦！](https://blog.wei-lee.me/posts/random-thoughts/2026/07/now-i-also-have-my-own-domain-email/) (Published: 3 days ago)
-* [總覺得書終究比 Blog 廢文們(?)有建設性一點](https://blog.wei-lee.me/posts/random-thoughts/2026/07/books-more-constructive-than-blog-posts/) (Published: 5 days ago)
+* [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 2 days ago)
+* [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 2 days ago)
+* [我也有自己網域的電子郵件啦！](https://blog.wei-lee.me/posts/random-thoughts/2026/07/now-i-also-have-my-own-domain-email/) (Published: 4 days ago)
+* [總覺得書終究比 Blog 廢文們(?)有建設性一點](https://blog.wei-lee.me/posts/random-thoughts/2026/07/books-more-constructive-than-blog-posts/) (Published: 6 days ago)
 * [這個月 Airflow 的最棒棒 PR 候選有三個台灣人！](https://blog.wei-lee.me/posts/tech/2026/07/three-taiwanese-in-pr-of-the-month/) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 2 days ago)
- * [人形達ノ記憶](https://travlog.wei-lee.me/posts/review/2026/07/ningyoutachi-no-kioku) (Published: 4 days ago)
- * [後來，我還是順利北上了](https://travlog.wei-lee.me/posts/travel/2026/07/tra-delay) (Published: 6 days ago)
+ * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 3 days ago)
+ * [人形達ノ記憶](https://travlog.wei-lee.me/posts/review/2026/07/ningyoutachi-no-kioku) (Published: 5 days ago)
+ * [後來，我還是順利北上了](https://travlog.wei-lee.me/posts/travel/2026/07/tra-delay) (Published: 1 week ago)
  * [ikuka 蛋包飯](https://travlog.wei-lee.me/posts/travel/2026/07/pomunoki-tainan) (Published: 1 week ago)
  * [阿文米粿](https://travlog.wei-lee.me/posts/review/2026/07/a-wen-mi-guo) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🗣 Commented on [#121](https://github.com/Lee-W/main-blog/issues/121#issuecomment-5161367226) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 💪 Opened PR [#70954](https://github.com/apache/airflow/pull/70954) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#120](https://github.com/Lee-W/main-blog/pull/120) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 💪 Opened PR [#120](https://github.com/Lee-W/main-blog/pull/120) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-5. 🎉 Merged PR [#106](https://github.com/Lee-W/main-blog/pull/106) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-6. 🎉 Merged PR [#78](https://github.com/Lee-W/travlog/pull/78) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-7. 🎉 Merged PR [#119](https://github.com/Lee-W/main-blog/pull/119) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-8. 💪 Opened PR [#119](https://github.com/Lee-W/main-blog/pull/119) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-9. 🔒 Closed issue [#68990](https://github.com/apache/airflow/issues/68990) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#70830](https://github.com/apache/airflow/pull/70830) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#70498](https://github.com/apache/airflow/pull/70498) in [apache/airflow](https://github.com/apache/airflow)
+2. ℹ️ Assigned PR [#70830](https://github.com/apache/airflow/pull/70830) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#121](https://github.com/Lee-W/main-blog/issues/121#issuecomment-5161367226) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 💪 Opened PR [#70954](https://github.com/apache/airflow/pull/70954) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#120](https://github.com/Lee-W/main-blog/pull/120) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+6. 💪 Opened PR [#120](https://github.com/Lee-W/main-blog/pull/120) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+7. 🎉 Merged PR [#106](https://github.com/Lee-W/main-blog/pull/106) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+8. 🎉 Merged PR [#78](https://github.com/Lee-W/travlog/pull/78) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+9. 🎉 Merged PR [#119](https://github.com/Lee-W/main-blog/pull/119) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+10. 💪 Opened PR [#119](https://github.com/Lee-W/main-blog/pull/119) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 
 
 ## ⭐ GitHub Stat
