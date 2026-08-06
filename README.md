@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 3 days ago)
-* [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 3 days ago)
-* [我也有自己網域的電子郵件啦！](https://blog.wei-lee.me/posts/random-thoughts/2026/07/now-i-also-have-my-own-domain-email/) (Published: 5 days ago)
+* [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 4 days ago)
+* [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 4 days ago)
+* [我也有自己網域的電子郵件啦！](https://blog.wei-lee.me/posts/random-thoughts/2026/07/now-i-also-have-my-own-domain-email/) (Published: 6 days ago)
 * [總覺得書終究比 Blog 廢文們(?)有建設性一點](https://blog.wei-lee.me/posts/random-thoughts/2026/07/books-more-constructive-than-blog-posts/) (Published: 1 week ago)
 * [這個月 Airflow 的最棒棒 PR 候選有三個台灣人！](https://blog.wei-lee.me/posts/tech/2026/07/three-taiwanese-in-pr-of-the-month/) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 4 days ago)
- * [人形達ノ記憶](https://travlog.wei-lee.me/posts/review/2026/07/ningyoutachi-no-kioku) (Published: 6 days ago)
+ * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 5 days ago)
+ * [人形達ノ記憶](https://travlog.wei-lee.me/posts/review/2026/07/ningyoutachi-no-kioku) (Published: 1 week ago)
  * [後來，我還是順利北上了](https://travlog.wei-lee.me/posts/travel/2026/07/tra-delay) (Published: 1 week ago)
  * [ikuka 蛋包飯](https://travlog.wei-lee.me/posts/travel/2026/07/pomunoki-tainan) (Published: 1 week ago)
- * [阿文米粿](https://travlog.wei-lee.me/posts/review/2026/07/a-wen-mi-guo) (Published: 1 week ago)
+ * [阿文米粿](https://travlog.wei-lee.me/posts/review/2026/07/a-wen-mi-guo) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🗣 Commented on [#71072](https://github.com/apache/airflow/pull/71072#issuecomment-5181153616) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#71104](https://github.com/apache/airflow/pull/71104) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#71097](https://github.com/apache/airflow/pull/71097) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#71096](https://github.com/apache/airflow/pull/71096) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#71095](https://github.com/apache/airflow/pull/71095) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#71094](https://github.com/apache/airflow/pull/71094) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#71074](https://github.com/apache/airflow/pull/71074#issuecomment-5178805109) in [apache/airflow](https://github.com/apache/airflow)
-8. ℹ️ Labeled PR [#71076](https://github.com/apache/airflow/pull/71076) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#71072](https://github.com/apache/airflow/pull/71072) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#71054](https://github.com/apache/airflow/pull/71054#issuecomment-5176443270) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#14](https://github.com/Lee-W/maigo/pull/14) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+2. 💪 Opened PR [#14](https://github.com/Lee-W/maigo/pull/14) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+3. 🎉 Merged PR [#71168](https://github.com/apache/airflow/pull/71168) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#71164](https://github.com/apache/airflow/pull/71164) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#71096](https://github.com/apache/airflow/pull/71096) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#71096](https://github.com/apache/airflow/pull/71096#issuecomment-5191691794) in [apache/airflow](https://github.com/apache/airflow)
+7. 💪 Opened PR [#71168](https://github.com/apache/airflow/pull/71168) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#70726](https://github.com/apache/airflow/pull/70726) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#70726](https://github.com/apache/airflow/pull/70726#issuecomment-5190156096) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#71094](https://github.com/apache/airflow/pull/71094) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
