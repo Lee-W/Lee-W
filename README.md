@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 5 days ago)
-* [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 5 days ago)
+* [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 6 days ago)
+* [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 6 days ago)
 * [我也有自己網域的電子郵件啦！](https://blog.wei-lee.me/posts/random-thoughts/2026/07/now-i-also-have-my-own-domain-email/) (Published: 1 week ago)
 * [總覺得書終究比 Blog 廢文們(?)有建設性一點](https://blog.wei-lee.me/posts/random-thoughts/2026/07/books-more-constructive-than-blog-posts/) (Published: 1 week ago)
 * [這個月 Airflow 的最棒棒 PR 候選有三個台灣人！](https://blog.wei-lee.me/posts/tech/2026/07/three-taiwanese-in-pr-of-the-month/) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 6 days ago)
+ * [性格せいかく](https://travlog.wei-lee.me/posts/review/2026/08/seikaku) (Published: 1 day ago)
+ * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 1 week ago)
  * [人形達ノ記憶](https://travlog.wei-lee.me/posts/review/2026/07/ningyoutachi-no-kioku) (Published: 1 week ago)
  * [後來，我還是順利北上了](https://travlog.wei-lee.me/posts/travel/2026/07/tra-delay) (Published: 1 week ago)
- * [ikuka 蛋包飯](https://travlog.wei-lee.me/posts/travel/2026/07/pomunoki-tainan) (Published: 1 week ago)
- * [阿文米粿](https://travlog.wei-lee.me/posts/review/2026/07/a-wen-mi-guo) (Published: 2 weeks ago)
+ * [ikuka 蛋包飯](https://travlog.wei-lee.me/posts/travel/2026/07/pomunoki-tainan) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#70725](https://github.com/apache/airflow/pull/70725) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#70497](https://github.com/apache/airflow/pull/70497) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#71224](https://github.com/apache/airflow/pull/71224) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#70190](https://github.com/apache/airflow/pull/70190) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#71020](https://github.com/apache/airflow/pull/71020#issuecomment-5202170789) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#14](https://github.com/Lee-W/maigo/pull/14) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-7. 💪 Opened PR [#14](https://github.com/Lee-W/maigo/pull/14) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-8. 🎉 Merged PR [#71168](https://github.com/apache/airflow/pull/71168) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#71164](https://github.com/apache/airflow/pull/71164) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#71096](https://github.com/apache/airflow/pull/71096) in [apache/airflow](https://github.com/apache/airflow)
+1. ❌ Closed PR [#87](https://github.com/Lee-W/travlog/pull/87) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. 🎉 Merged PR [#88](https://github.com/Lee-W/travlog/pull/88) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+3. 🎉 Merged PR [#70830](https://github.com/apache/airflow/pull/70830) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#206](https://github.com/pycontw/pycon-etl/pull/206) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+5. 🗣 Commented on [#71274](https://github.com/apache/airflow/issues/71274#issuecomment-5218402574) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#88](https://github.com/Lee-W/travlog/pull/88) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+7. 🎉 Merged PR [#17](https://github.com/Lee-W/pelican-osm/pull/17) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+8. 💪 Opened PR [#1](https://github.com/Lee-W/pelican-tabular/pull/1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+9. 💪 Opened PR [#17](https://github.com/Lee-W/pelican-osm/pull/17) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+10. 🎉 Merged PR [#15](https://github.com/Lee-W/maigo/pull/15) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
 
 
 ## ⭐ GitHub Stat
