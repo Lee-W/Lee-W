@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="zh-Hant" class="lang-zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>名片 · 李唯 / Wei Lee</title>
+  <script>
+    window.CARD_TITLES = { zh: '名片 · 李唯 / Wei Lee', en: 'Namecard · Wei Lee / 李唯' };
+    (function () {
+      var stored = null;
+      try { stored = localStorage.getItem('lang'); } catch (e) { stored = null; }
+      var lang = stored === 'en' ? 'en' : 'zh';
+      document.documentElement.className = 'lang-' + lang;
+      document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : 'en';
+      document.title = window.CARD_TITLES[lang];
+    })();
+  </script>
+  <meta name="description" content="Digital namecard of Wei Lee (李唯) — contact, social links, and a downloadable vCard.">
+  <link rel="canonical" href="https://wei-lee.me/card/">
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="名片 · 李唯 / Wei Lee">
+  <meta property="og:description" content="Digital namecard of Wei Lee (李唯) — contact, social links, and a downloadable vCard.">
+  <meta property="og:url" content="https://wei-lee.me/card/">
+  <meta property="og:image" content="https://wei-lee.me/images/avatar.jpg">
+  <meta property="og:image:alt" content="Wei Lee's avatar">
+  <meta property="og:locale" content="zh_TW">
+  <meta property="og:locale:alternate" content="en_US">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="名片 · 李唯 / Wei Lee">
+  <meta name="twitter:image" content="https://wei-lee.me/images/avatar.jpg">
+  <meta name="theme-color" content="#f4f2ec">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=Noto+Sans+TC:wght@400;500;700&amp;family=Noto+Serif+TC:wght@700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <link rel="stylesheet" href="/css/card.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Wei Lee",
+    "alternateName": "李唯",
+    "url": "https://wei-lee.me/",
+    "mainEntityOfPage": "https://wei-lee.me/card/",
+    "image": "https://wei-lee.me/images/avatar.jpg",
+    "email": "mailto:hello@wei-lee.me",
+    "jobTitle": "Open source contributor",
+    "nationality": "Taiwan",
+    "sameAs": [
+      "https://github.com/Lee-W/",
+      "https://tw.linkedin.com/in/clleew",
+      "https://twitter.com/clleew",
+      "https://g0v.social/@weilee"
+    ]
+  }
+  </script>
+</head>
+<body>
+  <main class="page">
+    <div class="topbar">
+      <div class="lang-switcher" role="group" aria-label="Language">
+        <button type="button" class="lang-option" data-value="en" aria-pressed="false">EN</button>
+        <button type="button" class="lang-option active" data-value="zh" aria-pressed="true">漢語</button>
+      </div>
+    </div>
+
+    <article class="card">
+      <header class="identity">
+        <img class="avatar" src="/images/avatar.jpg" alt="" width="76" height="76">
+        <div class="identity-copy">
+          <h1>
+            <span data-lang="zh">李唯 <span class="name-alt">/ Wei Lee</span></span>
+            <span data-lang="en">Wei Lee <span class="name-alt">/ 李唯</span></span>
+          </h1>
+          <p class="bio">
+            <span data-lang="zh">開源貢獻者 · Python 愛好者 · 台灣人 🇹🇼</span>
+            <span data-lang="en">Open source contributor · Python enthusiast · Taiwanese 🇹🇼</span>
+          </p>
+        </div>
+      </header>
+
+      <hr class="rule">
+
+      <ul class="contacts">
+        <li>
+          <a href="mailto:hello@wei-lee.me">
+            <i class="fa-regular fa-envelope" aria-hidden="true"></i>
+            <span class="contact-label">Email</span>
+            <span class="contact-value">hello@wei-lee.me</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://wei-lee.me/" rel="noopener noreferrer">
+            <i class="fa-solid fa-house" aria-hidden="true"></i>
+            <span class="contact-label">Web</span>
+            <span class="contact-value">wei-lee.me</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/Lee-W/" rel="noopener noreferrer">
+            <i class="fa-brands fa-github" aria-hidden="true"></i>
+            <span class="contact-label">GitHub</span>
+            <span class="contact-value">Lee-W</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://tw.linkedin.com/in/clleew" rel="noopener noreferrer">
+            <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+            <span class="contact-label">LinkedIn</span>
+            <span class="contact-value">in/clleew</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/clleew" rel="noopener noreferrer">
+            <i class="fa-brands fa-twitter" aria-hidden="true"></i>
+            <span class="contact-label">Twitter</span>
+            <span class="contact-value">@clleew</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://g0v.social/@weilee" rel="noopener noreferrer">
+            <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
+            <span class="contact-label">Mastodon</span>
+            <span class="contact-value">@weilee@g0v.social</span>
+          </a>
+        </li>
+      </ul>
+
+      <div class="actions">
+        <a class="action action-primary" href="/card/wei-lee.vcf" download="wei-lee.vcf">
+          <i class="fa-regular fa-address-book" aria-hidden="true"></i>
+          <span data-lang="zh">加入通訊錄</span>
+          <span data-lang="en">Save contact</span>
+        </a>
+        <button type="button" class="action" id="copyLink" data-copy="https://wei-lee.me/card">
+          <i class="fa-regular fa-copy" aria-hidden="true"></i>
+          <span class="copy-label">
+            <span data-lang="zh">複製連結</span>
+            <span data-lang="en">Copy link</span>
+          </span>
+        </button>
+      </div>
+
+      <!--
+        Traffic-source scheme for /card/ — keep these in sync if you ever change
+        them, the printed ones cannot be edited after the fact:
+          ?utm_source=home      link in the homepage social row
+          ?utm_source=qr        the QR below (regenerate the SVG if the URL changes)
+          ?utm_source=namecard  reserved for the printed physical namecard
+        No analytics is installed yet; the parameters are here so the printed
+        URLs are already tagged when one is. Note that whatever gets installed
+        has to read query strings — Cloudflare Web Analytics does not (its
+        dimensions are Country / Host / Path / Referer / Device / Browser / OS /
+        Site / Exclude Bots / Navigation type), Umami reads utm_* natively.
+      -->
+      <div class="qr">
+        <div class="qr-plate">
+          <svg class="qr-svg" viewBox="0 0 35 35" role="img" aria-label="QR code linking to https://wei-lee.me/card/?utm_source=qr" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges"><rect width="35" height="35" fill="#ffffff"/><path fill="#1a1a1a" d="M3 3h7v1h-7zM11 3h2v1h-2zM16 3h1v1h-1zM18 3h2v1h-2zM21 3h1v1h-1zM25 3h7v1h-7zM3 4h1v1h-1zM9 4h1v1h-1zM12 4h1v1h-1zM14 4h1v1h-1zM16 4h2v1h-2zM19 4h1v1h-1zM22 4h2v1h-2zM25 4h1v1h-1zM31 4h1v1h-1zM3 5h1v1h-1zM5 5h3v1h-3zM9 5h1v1h-1zM14 5h1v1h-1zM17 5h2v1h-2zM20 5h1v1h-1zM22 5h1v1h-1zM25 5h1v1h-1zM27 5h3v1h-3zM31 5h1v1h-1zM3 6h1v1h-1zM5 6h3v1h-3zM9 6h1v1h-1zM11 6h7v1h-7zM23 6h1v1h-1zM25 6h1v1h-1zM27 6h3v1h-3zM31 6h1v1h-1zM3 7h1v1h-1zM5 7h3v1h-3zM9 7h1v1h-1zM11 7h2v1h-2zM16 7h1v1h-1zM18 7h1v1h-1zM20 7h2v1h-2zM25 7h1v1h-1zM27 7h3v1h-3zM31 7h1v1h-1zM3 8h1v1h-1zM9 8h1v1h-1zM11 8h1v1h-1zM14 8h1v1h-1zM17 8h1v1h-1zM19 8h2v1h-2zM22 8h1v1h-1zM25 8h1v1h-1zM31 8h1v1h-1zM3 9h7v1h-7zM11 9h1v1h-1zM13 9h1v1h-1zM15 9h1v1h-1zM17 9h1v1h-1zM19 9h1v1h-1zM21 9h1v1h-1zM23 9h1v1h-1zM25 9h7v1h-7zM11 10h3v1h-3zM15 10h1v1h-1zM18 10h1v1h-1zM20 10h2v1h-2zM3 11h1v1h-1zM7 11h1v1h-1zM9 11h3v1h-3zM14 11h4v1h-4zM20 11h9v1h-9zM31 11h1v1h-1zM3 12h3v1h-3zM8 12h1v1h-1zM10 12h2v1h-2zM13 12h2v1h-2zM16 12h5v1h-5zM25 12h7v1h-7zM4 13h3v1h-3zM9 13h1v1h-1zM12 13h1v1h-1zM15 13h1v1h-1zM18 13h1v1h-1zM21 13h1v1h-1zM23 13h1v1h-1zM31 13h1v1h-1zM4 14h1v1h-1zM8 14h1v1h-1zM13 14h3v1h-3zM19 14h4v1h-4zM24 14h2v1h-2zM27 14h2v1h-2zM30 14h2v1h-2zM3 15h1v1h-1zM5 15h1v1h-1zM8 15h2v1h-2zM11 15h1v1h-1zM15 15h3v1h-3zM20 15h1v1h-1zM22 15h3v1h-3zM30 15h1v1h-1zM4 16h1v1h-1zM10 16h2v1h-2zM13 16h1v1h-1zM17 16h3v1h-3zM25 16h1v1h-1zM27 16h5v1h-5zM3 17h1v1h-1zM7 17h15v1h-15zM23 17h1v1h-1zM25 17h1v1h-1zM28 17h2v1h-2zM31 17h1v1h-1zM4 18h1v1h-1zM7 18h1v1h-1zM10 18h2v1h-2zM13 18h4v1h-4zM19 18h5v1h-5zM25 18h3v1h-3zM30 18h2v1h-2zM4 19h2v1h-2zM7 19h1v1h-1zM9 19h1v1h-1zM12 19h5v1h-5zM19 19h2v1h-2zM23 19h2v1h-2zM30 19h1v1h-1zM3 20h1v1h-1zM6 20h1v1h-1zM8 20h1v1h-1zM13 20h1v1h-1zM15 20h5v1h-5zM23 20h1v1h-1zM25 20h4v1h-4zM30 20h2v1h-2zM5 21h2v1h-2zM8 21h2v1h-2zM12 21h2v1h-2zM18 21h1v1h-1zM20 21h2v1h-2zM23 21h1v1h-1zM25 21h1v1h-1zM29 21h1v1h-1zM31 21h1v1h-1zM6 22h1v1h-1zM8 22h1v1h-1zM13 22h1v1h-1zM17 22h2v1h-2zM20 22h1v1h-1zM23 22h1v1h-1zM25 22h1v1h-1zM30 22h2v1h-2zM3 23h4v1h-4zM9 23h1v1h-1zM11 23h7v1h-7zM19 23h2v1h-2zM22 23h7v1h-7zM31 23h1v1h-1zM11 24h1v1h-1zM13 24h1v1h-1zM18 24h6v1h-6zM27 24h1v1h-1zM31 24h1v1h-1zM3 25h7v1h-7zM11 25h2v1h-2zM15 25h4v1h-4zM20 25h4v1h-4zM25 25h1v1h-1zM27 25h3v1h-3zM31 25h1v1h-1zM3 26h1v1h-1zM9 26h1v1h-1zM12 26h2v1h-2zM15 26h2v1h-2zM20 26h4v1h-4zM27 26h1v1h-1zM30 26h1v1h-1zM3 27h1v1h-1zM5 27h3v1h-3zM9 27h1v1h-1zM11 27h1v1h-1zM14 27h3v1h-3zM18 27h1v1h-1zM22 27h7v1h-7zM30 27h1v1h-1zM3 28h1v1h-1zM5 28h3v1h-3zM9 28h1v1h-1zM14 28h2v1h-2zM17 28h4v1h-4zM23 28h1v1h-1zM31 28h1v1h-1zM3 29h1v1h-1zM5 29h3v1h-3zM9 29h1v1h-1zM12 29h5v1h-5zM18 29h1v1h-1zM21 29h4v1h-4zM28 29h4v1h-4zM3 30h1v1h-1zM9 30h1v1h-1zM16 30h1v1h-1zM19 30h3v1h-3zM23 30h1v1h-1zM27 30h2v1h-2zM30 30h2v1h-2zM3 31h7v1h-7zM11 31h6v1h-6zM19 31h2v1h-2zM23 31h1v1h-1zM25 31h3v1h-3zM30 31h1v1h-1z"/></svg>
+        </div>
+        <div class="qr-copy">
+          <p class="qr-url">wei-lee.me/card</p>
+          <p class="qr-hint">
+            <span data-lang="zh">掃這個 QR 就會回到這張名片</span>
+            <span data-lang="en">Scan to open this card</span>
+          </p>
+        </div>
+      </div>
+    </article>
+
+    <a class="back" href="/">
+      <span data-lang="zh">← 回首頁</span>
+      <span data-lang="en">← Back to homepage</span>
+    </a>
+  </main>
+  <script src="/js/card.js"></script>
+</body>
+</html>

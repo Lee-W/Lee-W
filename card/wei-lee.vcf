@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lee;Wei;;;
+FN:Wei Lee
+NICKNAME:李唯
+EMAIL;type=INTERNET;type=PREF:hello@wei-lee.me
+URL;type=Homepage;type=PREF:https://wei-lee.me/
+URL;type=Blog:https://blog.wei-lee.me/
+URL;type=Travlog:https://travlog.wei-lee.me/
+PHOTO;VALUE=URI:https://wei-lee.me/images/avatar.jpg
+ADR;type=HOME:;;;;;;Taiwan
+X-SOCIALPROFILE;type=GitHub:https://github.com/Lee-W/
+X-SOCIALPROFILE;type=LinkedIn:https://tw.linkedin.com/in/clleew
+X-SOCIALPROFILE;type=Twitter:https://twitter.com/clleew
+X-SOCIALPROFILE;type=Mastodon:https://g0v.social/@weilee
+NOTE:Apache Airflow PMC member. commitizen-tools maintainer. PyCon Taiwan v
+ olunteer.
+SOURCE:https://wei-lee.me/card/wei-lee.vcf
+END:VCARD

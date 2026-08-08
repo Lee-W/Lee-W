@@ -160,6 +160,7 @@
       <a href="https://tw.linkedin.com/in/clleew" rel="noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
       <a href="https://twitter.com/clleew" rel="noopener noreferrer"><i class="fa-brands fa-twitter" aria-hidden="true"></i><span>Twitter</span></a>
       <a href="https://g0v.social/@weilee" rel="noopener noreferrer"><i class="fa-brands fa-mastodon" aria-hidden="true"></i><span>Mastodon</span></a>
+      <a href="/card/?utm_source=home"><i class="fa-regular fa-address-card" aria-hidden="true"></i><span data-lang="zh">名片</span><span data-lang="en">Namecard</span></a>
     </nav>
   </main>
   <script src="/js/home.js"></script>
