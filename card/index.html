@@ -132,7 +132,14 @@
       </ul>
 
       <div class="actions">
-        <a class="action action-primary" href="/card/wei-lee.vcf" download="wei-lee.vcf">
+        <!--
+          No `download` attribute on purpose: iOS Safari honours it by filing the
+          .vcf away in the Files app, so the tap looks like it did nothing. Plain
+          navigation lets Safari hand the response to Contacts instead — GitHub
+          Pages serves it as text/x-vcard, which maps to the public.vcard UTI.
+          Desktop browsers cannot render that type and download it as before.
+        -->
+        <a class="action action-primary" href="/card/wei-lee.vcf">
           <i class="fa-regular fa-address-book" aria-hidden="true"></i>
           <span data-lang="zh">加入通訊錄</span>
           <span data-lang="en">Save contact</span>
