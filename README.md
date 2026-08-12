@@ -47,12 +47,12 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 * [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 1 week ago)
 * [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 1 week ago)
 * [我也有自己網域的電子郵件啦！](https://blog.wei-lee.me/posts/random-thoughts/2026/07/now-i-also-have-my-own-domain-email/) (Published: 1 week ago)
-* [總覺得書終究比 Blog 廢文們(?)有建設性一點](https://blog.wei-lee.me/posts/random-thoughts/2026/07/books-more-constructive-than-blog-posts/) (Published: 1 week ago)
+* [總覺得書終究比 Blog 廢文們(?)有建設性一點](https://blog.wei-lee.me/posts/random-thoughts/2026/07/books-more-constructive-than-blog-posts/) (Published: 2 weeks ago)
 * [這個月 Airflow 的最棒棒 PR 候選有三個台灣人！](https://blog.wei-lee.me/posts/tech/2026/07/three-taiwanese-in-pr-of-the-month/) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [性格せいかく](https://travlog.wei-lee.me/posts/review/2026/08/seikaku) (Published: 4 days ago)
+ * [性格せいかく](https://travlog.wei-lee.me/posts/review/2026/08/seikaku) (Published: 5 days ago)
  * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 1 week ago)
  * [人形達ノ記憶](https://travlog.wei-lee.me/posts/review/2026/07/ningyoutachi-no-kioku) (Published: 1 week ago)
  * [後來，我還是順利北上了](https://travlog.wei-lee.me/posts/travel/2026/07/tra-delay) (Published: 2 weeks ago)
@@ -61,16 +61,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 
 
-1. 💪 Opened PR [#71393](https://github.com/apache/airflow/pull/71393) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#71392](https://github.com/apache/airflow/pull/71392) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#125](https://github.com/Lee-W/main-blog/pull/125) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 🎉 Merged PR [#89](https://github.com/Lee-W/travlog/pull/89) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 💪 Opened PR [#89](https://github.com/Lee-W/travlog/pull/89) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 🎉 Merged PR [#123](https://github.com/Lee-W/main-blog/pull/123) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-7. ❌ Closed PR [#112](https://github.com/Lee-W/main-blog/pull/112) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-8. 🎉 Merged PR [#124](https://github.com/Lee-W/main-blog/pull/124) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-9. 💪 Opened PR [#124](https://github.com/Lee-W/main-blog/pull/124) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-10. 💪 Opened PR [#123](https://github.com/Lee-W/main-blog/pull/123) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+1. 🗣 Commented on [#71378](https://github.com/apache/airflow/pull/71378#issuecomment-5254041231) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#67637](https://github.com/apache/airflow/pull/67637#issuecomment-5251490335) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#70501](https://github.com/apache/airflow/pull/70501#issuecomment-5251260857) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#71358](https://github.com/apache/airflow/pull/71358#issuecomment-5250971835) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#71403](https://github.com/apache/airflow/pull/71403) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#126](https://github.com/Lee-W/main-blog/pull/126) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+7. 💪 Opened PR [#126](https://github.com/Lee-W/main-blog/pull/126) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+8. 💪 Opened PR [#71393](https://github.com/apache/airflow/pull/71393) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#71392](https://github.com/apache/airflow/pull/71392) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#125](https://github.com/Lee-W/main-blog/pull/125) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 
 
 ## ⭐ GitHub Stat
