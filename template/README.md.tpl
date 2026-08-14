@@ -53,16 +53,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/Lee-W/main-blog/pull/130) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 🎉 Merged PR [#91](https://github.com/Lee-W/travlog/pull/91) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-3. 💪 Opened PR [#129](https://github.com/Lee-W/main-blog/pull/129) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 💪 Opened PR [#91](https://github.com/Lee-W/travlog/pull/91) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 🎉 Merged PR [#71097](https://github.com/apache/airflow/pull/71097) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#71097](https://github.com/apache/airflow/pull/71097#issuecomment-5267092450) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#17](https://github.com/Lee-W/maigo/pull/17) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-8. 💪 Opened PR [#17](https://github.com/Lee-W/maigo/pull/17) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-9. 💪 Opened PR [#71482](https://github.com/apache/airflow/pull/71482) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#71477](https://github.com/apache/airflow/pull/71477) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#18](https://github.com/Lee-W/ring/pull/18) in [Lee-W/ring](https://github.com/Lee-W/ring)
+2. 💪 Opened PR [#18](https://github.com/Lee-W/ring/pull/18) in [Lee-W/ring](https://github.com/Lee-W/ring)
+3. 💪 Opened PR [#130](https://github.com/Lee-W/main-blog/pull/130) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 🎉 Merged PR [#91](https://github.com/Lee-W/travlog/pull/91) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+5. 💪 Opened PR [#129](https://github.com/Lee-W/main-blog/pull/129) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+6. 💪 Opened PR [#91](https://github.com/Lee-W/travlog/pull/91) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+7. 🎉 Merged PR [#71097](https://github.com/apache/airflow/pull/71097) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#71097](https://github.com/apache/airflow/pull/71097#issuecomment-5267092450) in [apache/airflow](https://github.com/apache/airflow)
+9. 🎉 Merged PR [#17](https://github.com/Lee-W/maigo/pull/17) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+10. 💪 Opened PR [#17](https://github.com/Lee-W/maigo/pull/17) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
