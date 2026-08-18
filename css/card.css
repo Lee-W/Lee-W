@@ -34,6 +34,31 @@
 
 *, *::before, *::after { box-sizing: border-box; }
 
+/* The life face wears travlog's own brand green (--brand: #4a8a63 on that
+   site, #8fc6a4 in its dark chrome) so the card and the blog it points at
+   read as one thing. Everything else is shared with the work face. */
+body.card-life {
+  --accent: #4a8a63;
+  --accent-soft: #eef4f0;
+}
+
+/* This face labels two rows with the blogs' actual names rather than a
+   one-word category, and those are far longer than EMAIL or TWITTER. Without
+   a wider column the value column comes out ragged. */
+body.card-life .contact-label {
+  min-width: 150px;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  body.card-life {
+    --accent: #8fc6a4;
+    --accent-soft: #1b2620;
+  }
+}
+
+
 html { background: var(--bg); }
 
 body {
