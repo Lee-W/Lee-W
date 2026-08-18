@@ -130,6 +130,9 @@ h1 {
   font-weight: 700;
   letter-spacing: -0.035em;
   line-height: 1.2;
+  /* keep-all stops CJK breaking mid-word (李唯 / 台灣人); overflow-wrap still
+     lets a genuinely too-long run break rather than overflow the card. */
+  word-break: keep-all;
   overflow-wrap: anywhere;
 }
 
@@ -139,6 +142,7 @@ h1 {
   margin: 6px 0 0;
   color: var(--muted);
   font-size: 0.82rem;
+  word-break: keep-all;
   overflow-wrap: anywhere;
 }
 
@@ -256,6 +260,14 @@ h1 {
   background: #fff;
 }
 
+/* Same box as before, now a button that opens present mode. */
+button.qr-plate {
+  cursor: zoom-in;
+  font: inherit;
+}
+
+button.qr-plate:hover { border-color: var(--accent); }
+
 .qr-svg { width: 100%; height: 100%; }
 
 .qr-copy { min-width: 0; }
@@ -284,6 +296,121 @@ h1 {
 }
 
 .back:hover { color: var(--accent); }
+
+/* Visually hidden, still announced by screen readers. */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* ---- present mode: hold the screen up so someone else can scan ----
+   Deliberately light in both colour schemes. A QR needs dark modules on a
+   light field to scan reliably, and a white full-screen plate is the closest
+   the web can get to "turn the brightness up" — no API exists for that. */
+
+.qr-overlay {
+  position: fixed;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  padding: 28px;
+  inset: 0;
+  background: #fff;
+  color: #1a1a1a;
+}
+
+.qr-overlay[hidden] { display: none; }
+
+.qr-overlay .qr-plate {
+  width: min(76vw, 52vh, 400px);
+  height: auto;
+  padding: 10px;
+  border-color: #e6e2d7;
+  border-radius: 12px;
+  aspect-ratio: 1;
+  /* Opts out of double-tap-to-zoom so the double-tap reaches dblclick, and
+     stops the second tap selecting anything. */
+  touch-action: manipulation;
+  user-select: none;
+}
+
+.qr-overlay .qr-copy { text-align: center; }
+
+.qr-overlay .qr-url { font-size: 0.95rem; }
+
+.qr-overlay .qr-hint {
+  color: #6b6a63;
+  font-size: 0.78rem;
+}
+
+.qr-close {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 9px 14px;
+  border: 1px solid #e6e2d7;
+  border-radius: 10px;
+  background: #fff;
+  color: #1a1a1a;
+  cursor: pointer;
+  font-size: 0.78rem;
+  font-weight: 500;
+}
+
+.qr-close:hover { border-color: #2f5d3f; color: #2f5d3f; }
+
+.qr-campaign {
+  display: flex;
+  width: min(76vw, 400px);
+  gap: 8px;
+}
+
+.qr-campaign[hidden] { display: none; }
+
+.qr-campaign-input {
+  min-width: 0;
+  flex: 1 1 auto;
+  padding: 9px 12px;
+  border: 1px solid #e6e2d7;
+  border-radius: 10px;
+  background: #fff;
+  color: #1a1a1a;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+}
+
+.qr-campaign-input:focus { border-color: #2f5d3f; }
+
+.qr-save {
+  flex: 0 0 auto;
+  padding: 9px 12px;
+  border: 1px solid #e6e2d7;
+  border-radius: 10px;
+  background: #fff;
+  color: #1a1a1a;
+  cursor: pointer;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+}
+
+.qr-save:hover { border-color: #2f5d3f; color: #2f5d3f; }
+.qr-save[disabled] { opacity: 0.5; cursor: default; }
+
+body.is-presenting { overflow: hidden; }
 
 [data-lang] { display: none; }
 .lang-en [data-lang="en"],
@@ -322,12 +449,26 @@ h1 {
   .card { padding: 22px 18px 20px; }
   .avatar { width: 62px; height: 62px; }
   h1 { font-size: 1.4rem; }
-  .contact-label { display: none; }
+  /* Visually hidden rather than display:none — display:none also drops the
+     label from the accessibility tree, leaving a screen reader with a bare
+     "Lee-W" and an aria-hidden icon carrying the service name. */
+  .contact-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    min-width: 0;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    border: 0;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
   .qr-plate { width: 108px; height: 108px; }
 }
 
 @media print {
-  .topbar, .actions, .back { display: none; }
+  .topbar, .actions, .back, .qr-overlay { display: none; }
   html, body { background: #fff; color: #000; }
   .page { min-height: auto; padding: 0; }
   .card { border-color: #ccc; page-break-inside: avoid; }
