@@ -121,11 +121,14 @@
   const campaignInput = document.getElementById('qrCampaignInput');
   if (!openButton || !overlay || !closeButton || !overlayPlate || !urlLabel) return;
 
-  const CARD_URL = 'https://wei-lee.me/card/';
+  // Derived, not hardcoded: the same script serves every card face, and each
+  // one has to tag its own URL rather than the work card's.
+  const canonical = document.querySelector('link[rel="canonical"]');
+  const CARD_URL = (canonical && canonical.href) || 'https://wei-lee.me/card/';
   // Any QR on a screen is the same medium; the occasion lives in the
   // campaign, so present mode shares its source with the static code.
   const QR_SOURCE = 'qr';
-  const DEFAULT_LABEL = 'wei-lee.me/card';
+  const DEFAULT_LABEL = CARD_URL.replace(/^https:\/\//, '').replace(/\/$/, '');
   const DEFAULT_CAMPAIGN = 'card';
   const SVG_NS = 'http://www.w3.org/2000/svg';
 
