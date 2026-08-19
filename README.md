@@ -61,16 +61,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#135](https://github.com/Lee-W/main-blog/pull/135) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. ❌ Closed PR [#71224](https://github.com/apache/airflow/pull/71224) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#71774](https://github.com/apache/airflow/pull/71774) in [apache/airflow](https://github.com/apache/airflow)
-4. 🗣 Commented on [#71403](https://github.com/apache/airflow/pull/71403#issuecomment-5328687647) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#2](https://github.com/Lee-W/ring.nvim/pull/2) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
-6. 💪 Opened PR [#2](https://github.com/Lee-W/ring.nvim/pull/2) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
-7. 🎉 Merged PR [#20](https://github.com/Lee-W/ring/pull/20) in [Lee-W/ring](https://github.com/Lee-W/ring)
-8. 🗣 Commented on [#102](https://github.com/Lee-W/travlog/issues/102#issuecomment-5328164214) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-9. 💪 Opened PR [#20](https://github.com/Lee-W/ring/pull/20) in [Lee-W/ring](https://github.com/Lee-W/ring)
-10. 🎉 Merged PR [#99](https://github.com/Lee-W/travlog/pull/99) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🎉 Merged PR [#21](https://github.com/Lee-W/ring/pull/21) in [Lee-W/ring](https://github.com/Lee-W/ring)
+2. 💪 Opened PR [#21](https://github.com/Lee-W/ring/pull/21) in [Lee-W/ring](https://github.com/Lee-W/ring)
+3. 🎉 Merged PR [#135](https://github.com/Lee-W/main-blog/pull/135) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. ❌ Closed PR [#71224](https://github.com/apache/airflow/pull/71224) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#71774](https://github.com/apache/airflow/pull/71774) in [apache/airflow](https://github.com/apache/airflow)
+6. 🗣 Commented on [#71403](https://github.com/apache/airflow/pull/71403#issuecomment-5328687647) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#2](https://github.com/Lee-W/ring.nvim/pull/2) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
+8. 💪 Opened PR [#2](https://github.com/Lee-W/ring.nvim/pull/2) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
+9. 🎉 Merged PR [#20](https://github.com/Lee-W/ring/pull/20) in [Lee-W/ring](https://github.com/Lee-W/ring)
+10. 🗣 Commented on [#102](https://github.com/Lee-W/travlog/issues/102#issuecomment-5328164214) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 
 
 ## ⭐ GitHub Stat
