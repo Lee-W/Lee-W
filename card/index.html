@@ -61,6 +61,8 @@
     ]
   }
   </script>
+  <script data-goatcounter="https://wei-lee.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
   <main class="page">
@@ -185,11 +187,16 @@
         one path of horizontal runs — so it matches what js/card.js draws for
         the campaign codes.
 
-        No analytics is installed yet; the parameters are here so the printed
-        URLs are already tagged when one is. Whatever gets installed has to
-        read query strings: Cloudflare Web Analytics deliberately logs none at
-        all, and GoatCounter keys its Campaigns view off utm_campaign — which
-        is why even the default URL carries one.
+        These feed GoatCounter, which is loaded in the head. It keys its
+        Campaigns view off utm_campaign (falling back to utm_source for the
+        source column), which is why even the default URL carries a campaign.
+        Cloudflare Web Analytics was ruled out for logging no query string at
+        all.
+
+        Read visit counts for an event as pageviews, not unique visits: a
+        GoatCounter session is keyed on IP + User-Agent, so a room full of
+        people on one conference wifi collapses into far fewer visits than
+        there were scans.
       -->
       <div class="qr">
         <button type="button" class="qr-plate" id="showQr" aria-haspopup="dialog">
@@ -216,6 +223,11 @@
       <span data-lang="en">← Back to homepage</span>
       <span data-lang="ja">← ホームへ</span>
     </a>
+    <p class="privacy">
+      <span data-lang="zh">本頁以 <a href="https://www.goatcounter.com/help/privacy" rel="noopener">GoatCounter</a> 計算瀏覽次數，不使用 cookie，不儲存 IP。</span>
+      <span data-lang="en">Views are counted with <a href="https://www.goatcounter.com/help/privacy" rel="noopener">GoatCounter</a> — no cookies, no IP stored.</span>
+      <span data-lang="ja">このページのアクセス数は <a href="https://www.goatcounter.com/help/privacy" rel="noopener">GoatCounter</a> で計測しています。cookie は使わず、IP も保存しません。</span>
+    </p>
   </main>
   <div class="qr-overlay" id="qrOverlay" hidden role="dialog" aria-modal="true" aria-labelledby="qrOverlayUrl">
     <button type="button" class="qr-close" id="closeQr">

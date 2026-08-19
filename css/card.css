@@ -324,6 +324,23 @@ button.qr-plate:hover { border-color: var(--accent); }
 
 .back:hover { color: var(--accent); }
 
+/* Sits under the back link: says what the counter in the head collects. */
+.privacy {
+  padding-top: 8px;
+  color: var(--quiet);
+  font-size: 0.64rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.privacy a {
+  color: inherit;
+  text-decoration-color: var(--border);
+  text-underline-offset: 2px;
+}
+
+.privacy a:hover { color: var(--accent); }
+
 /* Visually hidden, still announced by screen readers. */
 .sr-only {
   position: absolute;
@@ -468,7 +485,8 @@ body.is-presenting { overflow: hidden; }
 .lang-en .bio [data-lang="en"],
 .lang-en .qr-hint [data-lang="en"],
 .lang-en .action [data-lang="en"],
-.lang-en .back [data-lang="en"] {
+.lang-en .back [data-lang="en"],
+.lang-en .privacy [data-lang="en"] {
   font-family: var(--latin-sans);
 }
 
