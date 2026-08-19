@@ -14,6 +14,8 @@
   --mono: "IBM Plex Mono", "SFMono-Regular", "Menlo", monospace;
   --latin-serif: Georgia, "Times New Roman", serif;
   --latin-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --ja-sans: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", "Meiryo",
+             "Noto Sans TC", "PingFang TC", sans-serif;
   --radius: 13px;
 }
 
@@ -439,6 +441,7 @@ body.is-presenting { overflow: hidden; }
 
 [data-lang] { display: none; }
 .lang-en [data-lang="en"],
+.lang-ja [data-lang="ja"],
 .lang-zh [data-lang="zh"] { display: revert; }
 
 .lang-zh [data-lang="zh"] {
@@ -467,6 +470,28 @@ body.is-presenting { overflow: hidden; }
 .lang-en .action [data-lang="en"],
 .lang-en .back [data-lang="en"] {
   font-family: var(--latin-sans);
+}
+
+/* Japanese needs its own face: the TC stack renders 台湾 / 貢献 / 読書 with
+   Chinese glyph forms, or drops them to a system fallback mid-sentence. */
+.lang-ja [data-lang="ja"] {
+  font-family: var(--ja-sans);
+  line-height: 1.5;
+}
+
+/* The name carries furigana (リ / ウェ over 李 / 唯). Ruby annotations are laid
+   out above the line box, so the heading needs headroom it never needed in
+   zh/en — without it the reading collides with whatever sits above. */
+.lang-ja h1 [data-lang="ja"] {
+  font-size: 1.06em;
+  line-height: 2;
+}
+
+.lang-ja h1 ruby rt {
+  font-size: 0.4em;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  color: var(--name-alt);
 }
 
 @media (max-width: 600px) {

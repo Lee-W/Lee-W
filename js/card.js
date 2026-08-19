@@ -18,13 +18,20 @@
   }
 
   function setLang(lang) {
-    const nextLang = lang === 'en' ? 'en' : 'zh';
-    document.documentElement.classList.remove('lang-zh', 'lang-en');
+    const nextLang = lang === 'en' || lang === 'ja' ? lang : 'zh';
+    document.documentElement.classList.remove('lang-zh', 'lang-en', 'lang-ja');
     document.documentElement.classList.add('lang-' + nextLang);
-    document.documentElement.lang = nextLang === 'zh' ? 'zh-Hant' : 'en';
+    document.documentElement.lang = { zh: 'zh-Hant', en: 'en', ja: 'ja' }[nextLang];
 
     const titles = window.CARD_TITLES;
     if (titles && titles[nextLang]) document.title = titles[nextLang];
+
+    // "Back to homepage" has to mean the reader's own homepage — a ja reader
+    // sent to / lands on the Chinese one and the language silently resets.
+    // There is no Japanese homepage, so the ja card sends readers to the
+    // English one rather than dropping them on the Chinese homepage.
+    const back = document.getElementById('backLink');
+    if (back) back.href = { zh: '/', en: '/en/', ja: '/en/' }[nextLang];
 
     options.forEach((option) => {
       const isActive = option.dataset.value === nextLang;
@@ -64,9 +71,11 @@
       return ok;
     }
 
-    function flash(zh, en) {
+    function flash(zh, en, ja) {
       label.innerHTML =
-        '<span data-lang="zh">' + zh + '</span><span data-lang="en">' + en + '</span>';
+        '<span data-lang="zh">' + zh + '</span>' +
+        '<span data-lang="en">' + en + '</span>' +
+        '<span data-lang="ja">' + ja + '</span>';
       clearTimeout(resetTimer);
       resetTimer = setTimeout(() => {
         label.innerHTML = original;
@@ -75,9 +84,9 @@
 
     function flashResult(ok) {
       if (ok) {
-        flash('已複製', 'Copied');
+        flash('已複製', 'Copied', 'コピーしました');
       } else {
-        flash('複製失敗', 'Copy failed');
+        flash('複製失敗', 'Copy failed', 'コピーできませんでした');
       }
     }
 
