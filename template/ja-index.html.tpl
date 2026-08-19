@@ -64,6 +64,8 @@
     ]
   }
   </script>
+  <script data-goatcounter="https://wei-lee.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
   <main class="page">
