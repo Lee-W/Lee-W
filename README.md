@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [一些 AI GitHub 帳號趣事](https://blog.wei-lee.me/posts/tech/2026/08/ai-github-account-stories/) (Published: 6 days ago)
+* [一期一會](https://blog.wei-lee.me/posts/random-thoughts/2026/08/ichigo-ichie/) (Published: today)
+* [一些 AI GitHub 帳號趣事](https://blog.wei-lee.me/posts/tech/2026/08/ai-github-account-stories/) (Published: 1 week ago)
 * [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 2 weeks ago)
 * [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 2 weeks ago)
 * [我也有自己網域的電子郵件啦！](https://blog.wei-lee.me/posts/random-thoughts/2026/07/now-i-also-have-my-own-domain-email/) (Published: 2 weeks ago)
-* [總覺得書終究比 Blog 廢文們(?)有建設性一點](https://blog.wei-lee.me/posts/random-thoughts/2026/07/books-more-constructive-than-blog-posts/) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [櫻川惠・小日向美香 Special Party in Taipei](https://travlog.wei-lee.me/posts/review/2026/08/sakuragawa-megu-kohinata-mika-special-party-in-taipei) (Published: 6 days ago)
+ * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 1 day ago)
+ * [櫻川惠・小日向美香 Special Party in Taipei](https://travlog.wei-lee.me/posts/review/2026/08/sakuragawa-megu-kohinata-mika-special-party-in-taipei) (Published: 1 week ago)
  * [性格せいかく](https://travlog.wei-lee.me/posts/review/2026/08/seikaku) (Published: 1 week ago)
  * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 2 weeks ago)
  * [人形達ノ記憶](https://travlog.wei-lee.me/posts/review/2026/07/ningyoutachi-no-kioku) (Published: 2 weeks ago)
- * [後來，我還是順利北上了](https://travlog.wei-lee.me/posts/travel/2026/07/tra-delay) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
 
-1. ℹ️ Assigned PR [#71477](https://github.com/apache/airflow/pull/71477) in [apache/airflow](https://github.com/apache/airflow)
-2. ℹ️ Assigned PR [#71393](https://github.com/apache/airflow/pull/71393) in [apache/airflow](https://github.com/apache/airflow)
-3. ℹ️ Assigned PR [#71392](https://github.com/apache/airflow/pull/71392) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Assigned PR [#71478](https://github.com/apache/airflow/pull/71478) in [apache/airflow](https://github.com/apache/airflow)
-5. ℹ️ Assigned PR [#71403](https://github.com/apache/airflow/pull/71403) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#71618](https://github.com/apache/airflow/pull/71618) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#19](https://github.com/Lee-W/ring/pull/19) in [Lee-W/ring](https://github.com/Lee-W/ring)
-8. 💪 Opened PR [#19](https://github.com/Lee-W/ring/pull/19) in [Lee-W/ring](https://github.com/Lee-W/ring)
-9. 🎉 Merged PR [#71482](https://github.com/apache/airflow/pull/71482) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#94](https://github.com/Lee-W/travlog/pull/94) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🎉 Merged PR [#135](https://github.com/Lee-W/main-blog/pull/135) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. ❌ Closed PR [#71224](https://github.com/apache/airflow/pull/71224) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#71774](https://github.com/apache/airflow/pull/71774) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#71403](https://github.com/apache/airflow/pull/71403#issuecomment-5328687647) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#2](https://github.com/Lee-W/ring.nvim/pull/2) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
+6. 💪 Opened PR [#2](https://github.com/Lee-W/ring.nvim/pull/2) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
+7. 🎉 Merged PR [#20](https://github.com/Lee-W/ring/pull/20) in [Lee-W/ring](https://github.com/Lee-W/ring)
+8. 🗣 Commented on [#102](https://github.com/Lee-W/travlog/issues/102#issuecomment-5328164214) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+9. 💪 Opened PR [#20](https://github.com/Lee-W/ring/pull/20) in [Lee-W/ring](https://github.com/Lee-W/ring)
+10. 🎉 Merged PR [#99](https://github.com/Lee-W/travlog/pull/99) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 
 
 ## ⭐ GitHub Stat
