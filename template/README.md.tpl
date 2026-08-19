@@ -2,7 +2,7 @@
 
 Open source contributor, Pythonista, and automation enthusiast based in Taiwan. 🇹🇼
 
-<!-- This README and the website homepage are generated from template/README.md.tpl and template/index.html.tpl by GitHub Actions. Update the templates first, then let the workflow refresh the generated files. -->
+<!-- This README and the localized website homepages are generated from the files in template/ by GitHub Actions. Update the templates first, then let the workflow refresh the generated files. -->
 
 <p align="left">
   <a href="https://tw.linkedin.com/in/clleew" target="_blank">
@@ -21,7 +21,7 @@ Open source contributor, Pythonista, and automation enthusiast based in Taiwan. 
 
 * 🐍 [Pythonista](https://pycon-note.wei-lee.me/)
 * 📢 [PyCon Taiwan](https://tw.pycon.org/) volunteer
-* [Apache Airflow](https://github.com/apache/airflow/) PMC member, Taiwanese Mandarin Code Owner and Translation Owner
+* [Apache Airflow](https://github.com/apache/airflow/) contributor, Taiwanese Mandarin Code Owner and Translation Owner
 * [commitizen-tools](https://github.com/commitizen-tools) maintainer
 * `#apache-airflow`, `#commitizen` Mentor and Memebot @ [OpenSource4You](https://github.com/opensource4you/)
 * [📷 Traveler](https://travlog.wei-lee.me/category/travel)

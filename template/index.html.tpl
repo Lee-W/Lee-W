@@ -4,19 +4,21 @@
   <meta charset="utf-8">
   <script>
     (function () {
-      var lang = location.pathname.replace(/\/+$/, '') === '/en' ? 'en' : 'zh';
-      if (lang === 'zh' || lang === 'en') {
+      var path = location.pathname.replace(/\/+$/, '');
+      var lang = path === '/en' ? 'en' : path === '/ja' ? 'ja' : 'zh';
+      if (lang === 'zh' || lang === 'en' || lang === 'ja') {
         document.documentElement.className = 'lang-' + lang;
-        document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : 'en';
+        document.documentElement.lang = { zh: 'zh-Hant', en: 'en', ja: 'ja' }[lang];
       }
     })();
   </script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>李唯 / Wei Lee</title>
-  <meta name="description" content="Open source contributor, Python enthusiast, and automation enthusiast based in Taiwan. Apache Airflow PMC member, commitizen-tools maintainer, and PyCon Taiwan volunteer.">
+  <meta name="description" content="Open source contributor, Python enthusiast, and automation enthusiast based in Taiwan. Apache Airflow contributor, commitizen-tools maintainer, and PyCon Taiwan volunteer.">
   <link rel="canonical" href="https://wei-lee.me/">
   <link rel="alternate" hreflang="zh-Hant" href="https://wei-lee.me/">
   <link rel="alternate" hreflang="en" href="https://wei-lee.me/en/">
+  <link rel="alternate" hreflang="ja" href="https://wei-lee.me/ja/">
   <link rel="alternate" hreflang="x-default" href="https://wei-lee.me/">
   <meta property="og:type" content="profile">
   <meta property="og:title" content="李唯 / Wei Lee">
@@ -26,6 +28,7 @@
   <meta property="og:image:alt" content="Wei Lee's avatar">
   <meta property="og:locale" content="zh_TW">
   <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="ja_JP">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="李唯 / Wei Lee">
   <meta name="twitter:image" content="https://wei-lee.me/images/avatar.jpg">
@@ -37,7 +40,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=Noto+Sans+TC:wght@400;500;700&amp;family=Noto+Serif+TC:wght@700&amp;display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=Noto+Sans+JP:wght@400;500;700&amp;family=Noto+Sans+TC:wght@400;500;700&amp;family=Noto+Serif+JP:wght@700&amp;family=Noto+Serif+TC:wght@700&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
   <link rel="stylesheet" href="/css/home.css">
   <script type="application/ld+json">
@@ -67,6 +70,7 @@
     <div class="topbar">
       <div class="lang-switcher" role="group" aria-label="Language">
         <a class="lang-option" href="/en/" data-value="en" aria-pressed="false">EN</a>
+        <a class="lang-option" href="/ja/" data-value="ja" aria-pressed="false">日本語</a>
         <a class="lang-option active" href="/" data-value="zh" aria-pressed="true">漢語</a>
       </div>
     </div>
@@ -77,44 +81,46 @@
         <h1>
           <span data-lang="zh">李唯 <span class="name-alt">/ Wei Lee</span></span>
           <span data-lang="en">Wei Lee <span class="name-alt">/ 李唯</span></span>
+          <span data-lang="ja"><ruby>李<rp>(</rp><rt>リ</rt><rp>)</rp>唯<rp>(</rp><rt>ウェ</rt><rp>)</rp></ruby> <span class="name-alt">/ Wei Lee</span></span>
         </h1>
         <p class="bio">
           <span data-lang="zh">開源貢獻者 · Python 愛好者 · 台灣人 🇹🇼</span>
           <span data-lang="en">Open source contributor · Python enthusiast · Taiwanese 🇹🇼</span>
+          <span data-lang="ja">オープンソース貢献者・Python 愛好家・台湾人 🇹🇼</span>
         </p>
       </div>
     </header>
 
     <ul class="roles" aria-label="Identity and interests">
-      <li><span class="role-icon"><img src="/images/python.svg" alt=""></span><span data-lang="zh">Python 愛好者</span><span data-lang="en">Python enthusiast</span></li>
-      <li><a href="https://tw.pycon.org/" rel="noopener noreferrer"><span class="role-icon pycon"><img src="/images/pycontw.svg" alt=""></span><span data-lang="zh">PyCon Taiwan 組織者</span><span data-lang="en">PyCon Taiwan volunteer</span></a></li>
-      <li><a href="https://airflow.apache.org/" rel="noopener noreferrer"><span class="role-icon"><img src="/images/airflow.svg" alt=""></span><span data-lang="zh">Apache Airflow PMC 成員</span><span data-lang="en">Apache Airflow PMC</span></a></li>
-      <li><a href="https://github.com/commitizen-tools" rel="noopener noreferrer"><img class="role-icon" src="/images/commitizen.svg" alt=""><span data-lang="zh">commitizen-tools 維護者</span><span data-lang="en">commitizen-tools maintainer</span></a></li>
-      <li><a href="https://travlog.wei-lee.me/pages/pilgrimage" rel="noopener noreferrer"><img class="role-icon" src="/images/traveler.svg" alt=""><span data-lang="zh">旅人</span><span data-lang="en">Traveler</span></a></li>
+      <li><span class="role-icon"><img src="/images/python.svg" alt=""></span><span data-lang="zh">Python 愛好者</span><span data-lang="en">Python enthusiast</span><span data-lang="ja">Python 愛好家</span></li>
+      <li><a href="https://tw.pycon.org/" rel="noopener noreferrer"><span class="role-icon pycon"><img src="/images/pycontw.svg" alt=""></span><span data-lang="zh">PyCon Taiwan 志工</span><span data-lang="en">PyCon Taiwan volunteer</span><span data-lang="ja">PyCon Taiwan ボランティア</span></a></li>
+      <li><a href="https://airflow.apache.org/" rel="noopener noreferrer"><span class="role-icon"><img src="/images/airflow.svg" alt=""></span><span data-lang="zh">Apache Airflow 貢獻者</span><span data-lang="en">Apache Airflow contributor</span><span data-lang="ja">Apache Airflow コントリビューター</span></a></li>
+      <li><a href="https://github.com/commitizen-tools" rel="noopener noreferrer"><img class="role-icon" src="/images/commitizen.svg" alt=""><span data-lang="zh">commitizen-tools 維護者</span><span data-lang="en">commitizen-tools maintainer</span><span data-lang="ja">commitizen-tools メンテナー</span></a></li>
+      <li><a href="https://travlog.wei-lee.me/pages/pilgrimage" rel="noopener noreferrer"><img class="role-icon" src="/images/traveler.svg" alt=""><span data-lang="zh">旅人</span><span data-lang="en">Traveler</span><span data-lang="ja">旅人</span></a></li>
       <li><a href="https://twitter.com/Taiwannokuru" rel="noopener noreferrer"><span class="role-icon glyph" aria-hidden="true">⛺</span><span>台湾野クル▲</span></a></li>
-      <li><a href="https://travlog.wei-lee.me/pages/story-ranking" rel="noopener noreferrer"><img class="role-icon" src="/images/anime.svg" alt=""><span data-lang="zh">動漫愛好者</span><span data-lang="en">Anime fan</span></a></li>
-      <li><a href="https://blog.wei-lee.me/category/book" rel="noopener noreferrer"><span class="role-icon glyph" aria-hidden="true">📖</span><span data-lang="zh">喜歡看點書</span><span data-lang="en">Book lover</span></a></li>
-      <li><span class="role-icon glyph" aria-hidden="true">♪</span><span data-lang="zh">烏克麗麗玩家</span><span data-lang="en">Ukulele player</span></li>
+      <li><a href="https://travlog.wei-lee.me/pages/story-ranking" rel="noopener noreferrer"><img class="role-icon" src="/images/anime.svg" alt=""><span data-lang="zh">動漫愛好者</span><span data-lang="en">Anime fan</span><span data-lang="ja">アニメファン</span></a></li>
+      <li><a href="https://blog.wei-lee.me/category/book" rel="noopener noreferrer"><span class="role-icon glyph" aria-hidden="true">📖</span><span data-lang="zh">喜歡看點書</span><span data-lang="en">Book lover</span><span data-lang="ja">読書好き</span></a></li>
+      <li><span class="role-icon glyph" aria-hidden="true">♪</span><span data-lang="zh">烏克麗麗玩家</span><span data-lang="en">Ukulele player</span><span data-lang="ja">ウクレレ奏者</span></li>
       <li><span class="role-icon glyph" aria-hidden="true">🔒</span><span>Locker</span></li>
     </ul>
 
     <nav class="paths" aria-label="Primary paths">
       <a id="aboutLink" class="path path-about" href="https://blog.wei-lee.me/pages/about-me" rel="noopener noreferrer">
         <span class="role-icon glyph path-icon" aria-hidden="true">◔</span>
-        <span class="path-title"><span data-lang="zh">關於我</span><span data-lang="en">About me</span></span>
-        <span class="path-subtitle"><span data-lang="zh">更多關於李唯</span><span data-lang="en">More about Wei Lee</span></span>
+        <span class="path-title"><span data-lang="zh">關於我</span><span data-lang="en">About me</span><span data-lang="ja">自己紹介</span></span>
+        <span class="path-subtitle"><span data-lang="zh">更多關於李唯</span><span data-lang="en">More about Wei Lee</span><span data-lang="ja">李唯について</span></span>
         <span class="path-arrow" aria-hidden="true">›</span>
       </a>
       <a class="path path-tech" href="https://blog.wei-lee.me/" rel="noopener noreferrer">
         <span class="role-icon glyph path-icon" aria-hidden="true">✎</span>
-        <span class="path-title"><span data-lang="zh">技術・雜談・書摘</span><span data-lang="en">Tech · Chat · Excerpts</span></span>
-        <span class="path-subtitle"><span data-lang="zh">不寫下來的東西都會被遺忘</span><span data-lang="en">If it isn't written down, it will be forgotten</span></span>
+        <span class="path-title"><span data-lang="zh">技術・雜談・書摘</span><span data-lang="en">Tech · Chat · Excerpts</span><span data-lang="ja">技術・雑記・読書メモ</span></span>
+        <span class="path-subtitle"><span data-lang="zh">不寫下來的東西都會被遺忘</span><span data-lang="en">If it isn't written down, it will be forgotten</span><span data-lang="ja">書き留めなかったものは忘れてしまう</span></span>
         <span class="path-arrow" aria-hidden="true">›</span>
       </a>
       <a class="path path-life" href="https://travlog.wei-lee.me/" rel="noopener noreferrer">
         <span class="role-icon glyph path-icon" aria-hidden="true">🧭</span>
-        <span class="path-title"><span data-lang="zh">旅行・食譜・評論</span><span data-lang="en">Travel · Recipes · Reviews</span></span>
-        <span class="path-subtitle"><span data-lang="zh">那些沒人在乎的事</span><span data-lang="en">The things nobody cares about</span></span>
+        <span class="path-title"><span data-lang="zh">旅行・食譜・評論</span><span data-lang="en">Travel · Recipes · Reviews</span><span data-lang="ja">旅行・レシピ・レビュー</span></span>
+        <span class="path-subtitle"><span data-lang="zh">那些沒人在乎的事</span><span data-lang="en">The things nobody cares about</span><span data-lang="ja">誰も気にしないあれこれ</span></span>
         <span class="path-arrow" aria-hidden="true">›</span>
       </a>
     </nav>
@@ -122,8 +128,8 @@
     <a id="nowLink" class="now" href="https://blog.wei-lee.me/pages/now" rel="noopener noreferrer">
       <span class="role-icon glyph now-icon" aria-hidden="true">◷</span>
       <span>
-        <strong><span data-lang="zh">近況</span><span data-lang="en">Now</span></strong>
-        <span class="now-detail"><span data-lang="zh">最近在做什麼、看什麼、想什麼</span><span data-lang="en">What I'm doing, watching, and thinking about lately</span></span>
+        <strong><span data-lang="zh">近況</span><span data-lang="en">Now</span><span data-lang="ja">近況</span></strong>
+        <span class="now-detail"><span data-lang="zh">最近在做什麼、看什麼、想什麼</span><span data-lang="en">What I'm doing, watching, and thinking about lately</span><span data-lang="ja">最近やっていること、観ているもの、考えていること</span></span>
       </span>
       <span class="now-arrow" aria-hidden="true">→</span>
     </a>
@@ -132,7 +138,7 @@
       <article class="blog-card tech">
         <div class="blog-head">
           <div>
-            <h2><a href="https://blog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="zh">不寫下來的東西都會被遺忘</span><span data-lang="en">Those aren't written down are meant to be forgotten</span></a></h2>
+            <h2><a href="https://blog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="zh">不寫下來的東西都會被遺忘</span><span data-lang="en">Those aren't written down are meant to be forgotten</span><span data-lang="ja">書き留めなかったものは忘れてしまう</span></a></h2>
           </div>
           <a class="rss" href="https://blog.wei-lee.me/feeds/all.atom.xml" aria-label="Subscribe to tech blog"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
@@ -144,7 +150,7 @@
       <article class="blog-card life">
         <div class="blog-head">
           <div>
-            <h2><a href="https://travlog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="zh">那些沒人在乎的事</span><span data-lang="en">Those things no one cares about</span></a></h2>
+            <h2><a href="https://travlog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="zh">那些沒人在乎的事</span><span data-lang="en">Those things no one cares about</span><span data-lang="ja">誰も気にしないあれこれ</span></a></h2>
           </div>
           <a class="rss" href="https://travlog.wei-lee.me/feeds/all.atom.xml" aria-label="Subscribe to life blog"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
@@ -160,7 +166,7 @@
       <a href="https://tw.linkedin.com/in/clleew" rel="noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
       <a href="https://twitter.com/clleew" rel="noopener noreferrer"><i class="fa-brands fa-twitter" aria-hidden="true"></i><span>Twitter</span></a>
       <a href="https://g0v.social/@weilee" rel="noopener noreferrer"><i class="fa-brands fa-mastodon" aria-hidden="true"></i><span>Mastodon</span></a>
-      <a href="/card/?utm_source=home"><i class="fa-regular fa-address-card" aria-hidden="true"></i><span data-lang="zh">名片</span><span data-lang="en">Namecard</span></a>
+      <a href="/card/?utm_source=home"><i class="fa-regular fa-address-card" aria-hidden="true"></i><span data-lang="zh">名片</span><span data-lang="en">Namecard</span><span data-lang="ja">名刺</span></a>
     </nav>
   </main>
   <script src="/js/home.js"></script>

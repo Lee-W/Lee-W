@@ -1,22 +1,25 @@
 (function () {
   const options = document.querySelectorAll('.lang-option');
-  const pathLang = window.location.pathname.replace(/\/+$/, '') === '/en' ? 'en' : 'zh';
+  const path = window.location.pathname.replace(/\/+$/, '');
+  const pathLang = path === '/en' ? 'en' : path === '/ja' ? 'ja' : 'zh';
   const localizedLinks = {
     aboutLink: {
       en: 'https://blog.wei-lee.me/en/pages/about-me',
+      ja: 'https://blog.wei-lee.me/en/pages/about-me',
       zh: 'https://blog.wei-lee.me/pages/about-me'
     },
     nowLink: {
       en: 'https://blog.wei-lee.me/en/pages/now',
+      ja: 'https://blog.wei-lee.me/en/pages/now',
       zh: 'https://blog.wei-lee.me/pages/now'
     }
   };
 
   function setLang(lang) {
-    const nextLang = lang === 'zh' ? 'zh' : 'en';
-    document.documentElement.classList.remove('lang-zh', 'lang-en');
+    const nextLang = lang === 'en' || lang === 'ja' ? lang : 'zh';
+    document.documentElement.classList.remove('lang-zh', 'lang-en', 'lang-ja');
     document.documentElement.classList.add('lang-' + nextLang);
-    document.documentElement.lang = nextLang === 'zh' ? 'zh-Hant' : 'en';
+    document.documentElement.lang = { zh: 'zh-Hant', en: 'en', ja: 'ja' }[nextLang];
 
     options.forEach((option) => {
       const isActive = option.dataset.value === nextLang;

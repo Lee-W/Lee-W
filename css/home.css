@@ -16,6 +16,8 @@
   --mono: "IBM Plex Mono", "SFMono-Regular", "Menlo", monospace;
   --latin-serif: Georgia, "Times New Roman", serif;
   --latin-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --ja-serif: "Noto Serif JP", "Yu Mincho", "Hiragino Mincho ProN", serif;
+  --ja-sans: "Noto Sans JP", "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
   --radius: 13px;
 }
 
@@ -350,6 +352,7 @@ img.role-icon {
 
 [data-lang] { display: none; }
 .lang-en [data-lang="en"],
+.lang-ja [data-lang="ja"],
 .lang-zh [data-lang="zh"] { display: revert; }
 
 .lang-zh [data-lang="zh"] {
@@ -397,6 +400,28 @@ img.role-icon {
 .lang-en .posts time,
 .lang-en .social span:last-child {
   font-family: var(--latin-sans);
+}
+
+.lang-ja [data-lang="ja"] {
+  font-family: var(--ja-sans);
+  line-height: 1.5;
+}
+
+.lang-ja h1 [data-lang="ja"],
+.lang-ja .path-title [data-lang="ja"],
+.lang-ja .blog-card h2 [data-lang="ja"] {
+  font-family: var(--ja-serif);
+}
+
+.lang-ja h1 [data-lang="ja"] {
+  line-height: 2;
+}
+
+.lang-ja h1 ruby rt {
+  color: var(--name-alt);
+  font-size: 0.4em;
+  font-weight: 400;
+  letter-spacing: 0.1em;
 }
 
 @media (max-width: 600px) {

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="lang-en">
+<html lang="ja" class="lang-ja">
 <head>
   <meta charset="utf-8">
   <script>
@@ -13,24 +13,24 @@
     })();
   </script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>李唯 / Wei Lee</title>
-  <meta name="description" content="Open source contributor, Python enthusiast, and automation enthusiast based in Taiwan. Apache Airflow contributor, commitizen-tools maintainer, and PyCon Taiwan volunteer.">
-  <link rel="canonical" href="https://wei-lee.me/en/">
+  <title>李唯（リ　ウェ）/ Wei Lee</title>
+  <meta name="description" content="台湾を拠点に活動するオープンソース貢献者で、Python と自動化が好きなエンジニア。Apache Airflow コントリビューター、commitizen-tools メンテナー、PyCon Taiwan ボランティア。">
+  <link rel="canonical" href="https://wei-lee.me/ja/">
   <link rel="alternate" hreflang="zh-Hant" href="https://wei-lee.me/">
   <link rel="alternate" hreflang="en" href="https://wei-lee.me/en/">
   <link rel="alternate" hreflang="ja" href="https://wei-lee.me/ja/">
   <link rel="alternate" hreflang="x-default" href="https://wei-lee.me/">
   <meta property="og:type" content="profile">
-  <meta property="og:title" content="李唯 / Wei Lee">
-  <meta property="og:description" content="Open source contributor, Python enthusiast, and automation enthusiast based in Taiwan.">
-  <meta property="og:url" content="https://wei-lee.me/en/">
+  <meta property="og:title" content="李唯（リ　ウェ）/ Wei Lee">
+  <meta property="og:description" content="台湾を拠点に活動するオープンソース貢献者。Python と自動化が好きです。">
+  <meta property="og:url" content="https://wei-lee.me/ja/">
   <meta property="og:image" content="https://wei-lee.me/images/avatar.jpg">
-  <meta property="og:image:alt" content="Wei Lee's avatar">
-  <meta property="og:locale" content="en_US">
+  <meta property="og:image:alt" content="李唯のプロフィール画像">
+  <meta property="og:locale" content="ja_JP">
   <meta property="og:locale:alternate" content="zh_TW">
-  <meta property="og:locale:alternate" content="ja_JP">
+  <meta property="og:locale:alternate" content="en_US">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="李唯 / Wei Lee">
+  <meta name="twitter:title" content="李唯（リ　ウェ）/ Wei Lee">
   <meta name="twitter:image" content="https://wei-lee.me/images/avatar.jpg">
   <meta name="theme-color" content="#f4f2ec">
   <link rel="icon" href="/favicon.ico" sizes="any">
@@ -52,8 +52,8 @@
     "url": "https://wei-lee.me/",
     "image": "https://wei-lee.me/images/avatar.jpg",
     "email": "mailto:hello@wei-lee.me",
-    "jobTitle": "Open source contributor",
-    "nationality": "Taiwan",
+    "jobTitle": "オープンソース貢献者",
+    "nationality": "台湾",
     "sameAs": [
       "https://github.com/Lee-W/",
       "https://tw.linkedin.com/in/clleew",
@@ -68,9 +68,9 @@
 <body>
   <main class="page">
     <div class="topbar">
-      <div class="lang-switcher" role="group" aria-label="Language">
-        <a class="lang-option active" href="/en/" data-value="en" aria-pressed="true">EN</a>
-        <a class="lang-option" href="/ja/" data-value="ja" aria-pressed="false">日本語</a>
+      <div class="lang-switcher" role="group" aria-label="言語">
+        <a class="lang-option" href="/en/" data-value="en" aria-pressed="false">EN</a>
+        <a class="lang-option active" href="/ja/" data-value="ja" aria-pressed="true">日本語</a>
         <a class="lang-option" href="/" data-value="zh" aria-pressed="false">漢語</a>
       </div>
     </div>
@@ -91,7 +91,7 @@
       </div>
     </header>
 
-    <ul class="roles" aria-label="Identity and interests">
+    <ul class="roles" aria-label="肩書きと興味">
       <li><span class="role-icon"><img src="/images/python.svg" alt=""></span><span data-lang="zh">Python 愛好者</span><span data-lang="en">Python enthusiast</span><span data-lang="ja">Python 愛好家</span></li>
       <li><a href="https://tw.pycon.org/" rel="noopener noreferrer"><span class="role-icon pycon"><img src="/images/pycontw.svg" alt=""></span><span data-lang="zh">PyCon Taiwan 志工</span><span data-lang="en">PyCon Taiwan volunteer</span><span data-lang="ja">PyCon Taiwan ボランティア</span></a></li>
       <li><a href="https://airflow.apache.org/" rel="noopener noreferrer"><span class="role-icon"><img src="/images/airflow.svg" alt=""></span><span data-lang="zh">Apache Airflow 貢獻者</span><span data-lang="en">Apache Airflow contributor</span><span data-lang="ja">Apache Airflow コントリビューター</span></a></li>
@@ -104,8 +104,8 @@
       <li><span class="role-icon glyph" aria-hidden="true">🔒</span><span>Locker</span></li>
     </ul>
 
-    <nav class="paths" aria-label="Primary paths">
-      <a id="aboutLink" class="path path-about" href="https://blog.wei-lee.me/pages/about-me" rel="noopener noreferrer">
+    <nav class="paths" aria-label="主なリンク">
+      <a id="aboutLink" class="path path-about" href="https://blog.wei-lee.me/en/pages/about-me" rel="noopener noreferrer">
         <span class="role-icon glyph path-icon" aria-hidden="true">◔</span>
         <span class="path-title"><span data-lang="zh">關於我</span><span data-lang="en">About me</span><span data-lang="ja">自己紹介</span></span>
         <span class="path-subtitle"><span data-lang="zh">更多關於李唯</span><span data-lang="en">More about Wei Lee</span><span data-lang="ja">李唯について</span></span>
@@ -125,7 +125,7 @@
       </a>
     </nav>
 
-    <a id="nowLink" class="now" href="https://blog.wei-lee.me/pages/now" rel="noopener noreferrer">
+    <a id="nowLink" class="now" href="https://blog.wei-lee.me/en/pages/now" rel="noopener noreferrer">
       <span class="role-icon glyph now-icon" aria-hidden="true">◷</span>
       <span>
         <strong><span data-lang="zh">近況</span><span data-lang="en">Now</span><span data-lang="ja">近況</span></strong>
@@ -134,13 +134,13 @@
       <span class="now-arrow" aria-hidden="true">→</span>
     </a>
 
-    <section class="blogs" aria-label="Latest blog posts">
+    <section class="blogs" aria-label="最新のブログ記事">
       <article class="blog-card tech">
         <div class="blog-head">
           <div>
             <h2><a href="https://blog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="zh">不寫下來的東西都會被遺忘</span><span data-lang="en">Those aren't written down are meant to be forgotten</span><span data-lang="ja">書き留めなかったものは忘れてしまう</span></a></h2>
           </div>
-          <a class="rss" href="https://blog.wei-lee.me/feeds/all.atom.xml" aria-label="Subscribe to tech blog"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
+          <a class="rss" href="https://blog.wei-lee.me/feeds/all.atom.xml" aria-label="技術ブログを購読"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
         <ul class="posts">{{ range rss "https://blog.wei-lee.me/feeds/all.atom.xml" 3 }}
           <li><a href="{{ .URL }}"><span>{{ .Title }}</span><time datetime="{{ .PublishedAt.Format "2006-01-02" }}">{{ .PublishedAt.Format "2006-01-02" }}</time></a></li>{{ end }}
@@ -152,7 +152,7 @@
           <div>
             <h2><a href="https://travlog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="zh">那些沒人在乎的事</span><span data-lang="en">Those things no one cares about</span><span data-lang="ja">誰も気にしないあれこれ</span></a></h2>
           </div>
-          <a class="rss" href="https://travlog.wei-lee.me/feeds/all.atom.xml" aria-label="Subscribe to life blog"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
+          <a class="rss" href="https://travlog.wei-lee.me/feeds/all.atom.xml" aria-label="旅行・暮らしブログを購読"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
         <ul class="posts">{{ range rss "https://travlog.wei-lee.me/feeds/all.atom.xml" 3 }}
           <li><a href="{{ .URL }}"><span>{{ .Title }}</span><time datetime="{{ .PublishedAt.Format "2006-01-02" }}">{{ .PublishedAt.Format "2006-01-02" }}</time></a></li>{{ end }}
@@ -160,7 +160,7 @@
       </article>
     </section>
 
-    <nav class="social" aria-label="Social links">
+    <nav class="social" aria-label="ソーシャルリンク">
       <a href="mailto:hello@wei-lee.me"><i class="fa-regular fa-envelope" aria-hidden="true"></i><span>Email</span></a>
       <a href="https://github.com/Lee-W/" rel="noopener noreferrer"><i class="fa-brands fa-github" aria-hidden="true"></i><span>GitHub</span></a>
       <a href="https://tw.linkedin.com/in/clleew" rel="noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>

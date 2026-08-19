@@ -21,7 +21,7 @@ Open source contributor, Pythonista, and automation enthusiast based in Taiwan. 
 
 * 🐍 [Pythonista](https://pycon-note.wei-lee.me/)
 * 📢 [PyCon Taiwan](https://tw.pycon.org/) volunteer
-* [Apache Airflow](https://github.com/apache/airflow/) PMC member, Taiwanese Mandarin Code Owner and Translation Owner
+* [Apache Airflow](https://github.com/apache/airflow/) contributor, Taiwanese Mandarin Code Owner and Translation Owner
 * [commitizen-tools](https://github.com/commitizen-tools) maintainer
 * `#apache-airflow`, `#commitizen` Mentor and Memebot @ [OpenSource4You](https://github.com/opensource4you/)
 * [📷 Traveler](https://travlog.wei-lee.me/category/travel)
