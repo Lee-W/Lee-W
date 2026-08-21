@@ -53,16 +53,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1597](https://github.com/commitizen-tools/commitizen/issues/1597) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-2. 🗣 Commented on [#71826](https://github.com/apache/airflow/pull/71826#issuecomment-5340087368) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#71826](https://github.com/apache/airflow/pull/71826) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#71825](https://github.com/apache/airflow/pull/71825) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#71774](https://github.com/apache/airflow/pull/71774) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#71774](https://github.com/apache/airflow/pull/71774#issuecomment-5339743750) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#68884](https://github.com/apache/airflow/pull/68884#issuecomment-5339719770) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#19](https://github.com/Lee-W/maigo/pull/19) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-9. 💪 Opened PR [#19](https://github.com/Lee-W/maigo/pull/19) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-10. 🎉 Merged PR [#71817](https://github.com/apache/airflow/pull/71817) in [apache/airflow](https://github.com/apache/airflow)
+1. ℹ️ Unlabeled PR [#68625](https://github.com/apache/airflow/pull/68625) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#71825](https://github.com/apache/airflow/pull/71825) in [apache/airflow](https://github.com/apache/airflow)
+3. 🔒 Closed issue [#1597](https://github.com/commitizen-tools/commitizen/issues/1597) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. 🗣 Commented on [#71826](https://github.com/apache/airflow/pull/71826#issuecomment-5340087368) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#71826](https://github.com/apache/airflow/pull/71826) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#71825](https://github.com/apache/airflow/pull/71825) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#71774](https://github.com/apache/airflow/pull/71774) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#71774](https://github.com/apache/airflow/pull/71774#issuecomment-5339743750) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#68884](https://github.com/apache/airflow/pull/68884#issuecomment-5339719770) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#19](https://github.com/Lee-W/maigo/pull/19) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
