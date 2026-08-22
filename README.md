@@ -44,7 +44,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [一期一會](https://blog.wei-lee.me/posts/random-thoughts/2026/08/ichigo-ichie/) (Published: 2 days ago)
+* [一期一會](https://blog.wei-lee.me/posts/random-thoughts/2026/08/ichigo-ichie/) (Published: 3 days ago)
 * [一些 AI GitHub 帳號趣事](https://blog.wei-lee.me/posts/tech/2026/08/ai-github-account-stories/) (Published: 1 week ago)
 * [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 2 weeks ago)
 * [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 2 weeks ago)
@@ -52,25 +52,25 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those things no one cares about
  
- * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 3 days ago)
+ * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 4 days ago)
  * [櫻川惠・小日向美香 Special Party in Taipei](https://travlog.wei-lee.me/posts/review/2026/08/sakuragawa-megu-kohinata-mika-special-party-in-taipei) (Published: 1 week ago)
  * [性格せいかく](https://travlog.wei-lee.me/posts/review/2026/08/seikaku) (Published: 2 weeks ago)
- * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 2 weeks ago)
+ * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 3 weeks ago)
  * [人形達ノ記憶](https://travlog.wei-lee.me/posts/review/2026/07/ningyoutachi-no-kioku) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
 
-1. ℹ️ Unlabeled PR [#68625](https://github.com/apache/airflow/pull/68625) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#71825](https://github.com/apache/airflow/pull/71825) in [apache/airflow](https://github.com/apache/airflow)
-3. 🔒 Closed issue [#1597](https://github.com/commitizen-tools/commitizen/issues/1597) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-4. 🗣 Commented on [#71826](https://github.com/apache/airflow/pull/71826#issuecomment-5340087368) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#71826](https://github.com/apache/airflow/pull/71826) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#71825](https://github.com/apache/airflow/pull/71825) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#71774](https://github.com/apache/airflow/pull/71774) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#71774](https://github.com/apache/airflow/pull/71774#issuecomment-5339743750) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#68884](https://github.com/apache/airflow/pull/68884#issuecomment-5339719770) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#19](https://github.com/Lee-W/maigo/pull/19) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+1. 🎉 Merged PR [#71826](https://github.com/apache/airflow/pull/71826) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#71819](https://github.com/apache/airflow/pull/71819) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#2052](https://github.com/commitizen-tools/commitizen/pull/2052#issuecomment-5364246096) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+4. ℹ️ Unlabeled PR [#68625](https://github.com/apache/airflow/pull/68625) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#71825](https://github.com/apache/airflow/pull/71825) in [apache/airflow](https://github.com/apache/airflow)
+6. 🔒 Closed issue [#1597](https://github.com/commitizen-tools/commitizen/issues/1597) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
+7. 🗣 Commented on [#71826](https://github.com/apache/airflow/pull/71826#issuecomment-5340087368) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#71826](https://github.com/apache/airflow/pull/71826) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#71825](https://github.com/apache/airflow/pull/71825) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#71774](https://github.com/apache/airflow/pull/71774) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
