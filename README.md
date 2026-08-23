@@ -44,15 +44,15 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [一期一會](https://blog.wei-lee.me/posts/random-thoughts/2026/08/ichigo-ichie/) (Published: 3 days ago)
+* [一期一會](https://blog.wei-lee.me/posts/random-thoughts/2026/08/ichigo-ichie/) (Published: 4 days ago)
 * [一些 AI GitHub 帳號趣事](https://blog.wei-lee.me/posts/tech/2026/08/ai-github-account-stories/) (Published: 1 week ago)
-* [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 2 weeks ago)
-* [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 2 weeks ago)
+* [溺水](https://blog.wei-lee.me/posts/random-thoughts/2026/08/drowning/) (Published: 3 weeks ago)
+* [CAFE RACO](https://blog.wei-lee.me/posts/random-thoughts/2026/08/cafe-raco/) (Published: 3 weeks ago)
 * [我也有自己網域的電子郵件啦！](https://blog.wei-lee.me/posts/random-thoughts/2026/07/now-i-also-have-my-own-domain-email/) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 4 days ago)
+ * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 5 days ago)
  * [櫻川惠・小日向美香 Special Party in Taipei](https://travlog.wei-lee.me/posts/review/2026/08/sakuragawa-megu-kohinata-mika-special-party-in-taipei) (Published: 1 week ago)
  * [性格せいかく](https://travlog.wei-lee.me/posts/review/2026/08/seikaku) (Published: 2 weeks ago)
  * [厚奶的我們 - 西門店](https://travlog.wei-lee.me/posts/review/2026/08/hou-nai-ximen) (Published: 3 weeks ago)
