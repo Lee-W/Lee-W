@@ -44,7 +44,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [晚上不睡覺](https://blog.wei-lee.me/posts/random-thoughts/2026/09/stay-up-late/) (Published: 2 days ago)
+* [晚上不睡覺](https://blog.wei-lee.me/posts/random-thoughts/2026/09/stay-up-late/) (Published: 3 days ago)
 * [電子溝通的禮儀](https://blog.wei-lee.me/posts/random-thoughts/2026/08/electronic-communication-etiquette/) (Published: 1 week ago)
 * [一期一會](https://blog.wei-lee.me/posts/random-thoughts/2026/08/ichigo-ichie/) (Published: 2 weeks ago)
 * [一些 AI GitHub 帳號趣事](https://blog.wei-lee.me/posts/tech/2026/08/ai-github-account-stories/) (Published: 3 weeks ago)
@@ -52,7 +52,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those things no one cares about
  
- * [初見 LQ7](https://travlog.wei-lee.me/posts/review/2026/08/meet-lq7) (Published: 3 days ago)
+ * [初見 LQ7](https://travlog.wei-lee.me/posts/review/2026/08/meet-lq7) (Published: 4 days ago)
  * [我的樂團很大](https://travlog.wei-lee.me/posts/travel/2026/08/my-band-is-big) (Published: 1 week ago)
  * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 2 weeks ago)
  * [櫻川惠・小日向美香 Special Party in Taipei](https://travlog.wei-lee.me/posts/review/2026/08/sakuragawa-megu-kohinata-mika-special-party-in-taipei) (Published: 3 weeks ago)
@@ -61,16 +61,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#136](https://github.com/Lee-W/main-blog/pull/136) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 🗣 Commented on [#121](https://github.com/Lee-W/main-blog/issues/121#issuecomment-5470582245) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-3. 🗣 Commented on [#141](https://github.com/Lee-W/main-blog/issues/141#issuecomment-5470580484) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 🗣 Commented on [#107](https://github.com/Lee-W/travlog/issues/107#issuecomment-5470576624) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 🎉 Merged PR [#92](https://github.com/Lee-W/travlog/pull/92) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 🎉 Merged PR [#72011](https://github.com/apache/airflow/pull/72011) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#72154](https://github.com/apache/airflow/pull/72154) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#72013](https://github.com/apache/airflow/pull/72013#issuecomment-5440654021) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#72156](https://github.com/apache/airflow/pull/72156) in [apache/airflow](https://github.com/apache/airflow)
-10. 💪 Opened PR [#72154](https://github.com/apache/airflow/pull/72154) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#21](https://github.com/Lee-W/maigo/pull/21) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+2. 🎉 Merged PR [#136](https://github.com/Lee-W/main-blog/pull/136) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+3. 🗣 Commented on [#121](https://github.com/Lee-W/main-blog/issues/121#issuecomment-5470582245) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 🗣 Commented on [#141](https://github.com/Lee-W/main-blog/issues/141#issuecomment-5470580484) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+5. 🗣 Commented on [#107](https://github.com/Lee-W/travlog/issues/107#issuecomment-5470576624) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+6. 🎉 Merged PR [#92](https://github.com/Lee-W/travlog/pull/92) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+7. 🎉 Merged PR [#72011](https://github.com/apache/airflow/pull/72011) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#72154](https://github.com/apache/airflow/pull/72154) in [apache/airflow](https://github.com/apache/airflow)
+9. 🗣 Commented on [#72013](https://github.com/apache/airflow/pull/72013#issuecomment-5440654021) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#72156](https://github.com/apache/airflow/pull/72156) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
