@@ -44,7 +44,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [晚上不睡覺](https://blog.wei-lee.me/posts/random-thoughts/2026/09/stay-up-late/) (Published: 5 days ago)
+* [晚上不睡覺](https://blog.wei-lee.me/posts/random-thoughts/2026/09/stay-up-late/) (Published: 6 days ago)
 * [電子溝通的禮儀](https://blog.wei-lee.me/posts/random-thoughts/2026/08/electronic-communication-etiquette/) (Published: 1 week ago)
 * [一期一會](https://blog.wei-lee.me/posts/random-thoughts/2026/08/ichigo-ichie/) (Published: 2 weeks ago)
 * [一些 AI GitHub 帳號趣事](https://blog.wei-lee.me/posts/tech/2026/08/ai-github-account-stories/) (Published: 3 weeks ago)
@@ -52,11 +52,11 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those things no one cares about
  
- * [初見 LQ7](https://travlog.wei-lee.me/posts/review/2026/08/meet-lq7) (Published: 6 days ago)
+ * [初見 LQ7](https://travlog.wei-lee.me/posts/review/2026/08/meet-lq7) (Published: 1 week ago)
  * [我的樂團很大](https://travlog.wei-lee.me/posts/travel/2026/08/my-band-is-big) (Published: 1 week ago)
  * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 2 weeks ago)
  * [櫻川惠・小日向美香 Special Party in Taipei](https://travlog.wei-lee.me/posts/review/2026/08/sakuragawa-megu-kohinata-mika-special-party-in-taipei) (Published: 3 weeks ago)
- * [性格せいかく](https://travlog.wei-lee.me/posts/review/2026/08/seikaku) (Published: 4 weeks ago)
+ * [性格せいかく](https://travlog.wei-lee.me/posts/review/2026/08/seikaku) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
