@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [我也很喜歡文章簡單好讀的部落格](https://blog.wei-lee.me/posts/random-thoughts/2026/09/i-also-like-easy-to-read-blogs/) (Published: today)
+* [潤學商務共享中心](https://blog.wei-lee.me/posts/random-thoughts/2026/09/room-share/) (Published: today)
+* [我也很喜歡文章簡單好讀的部落格](https://blog.wei-lee.me/posts/random-thoughts/2026/09/i-also-like-easy-to-read-blogs/) (Published: 1 day ago)
 * [晚上不睡覺](https://blog.wei-lee.me/posts/random-thoughts/2026/09/stay-up-late/) (Published: 1 week ago)
-* [電子溝通的禮儀](https://blog.wei-lee.me/posts/random-thoughts/2026/08/electronic-communication-etiquette/) (Published: 1 week ago)
+* [電子溝通的禮儀](https://blog.wei-lee.me/posts/random-thoughts/2026/08/electronic-communication-etiquette/) (Published: 2 weeks ago)
 * [一期一會](https://blog.wei-lee.me/posts/random-thoughts/2026/08/ichigo-ichie/) (Published: 2 weeks ago)
-* [一些 AI GitHub 帳號趣事](https://blog.wei-lee.me/posts/tech/2026/08/ai-github-account-stories/) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [五部動畫](https://travlog.wei-lee.me/posts/review/2026/09/five-animes-i-havent-watched) (Published: 1 day ago)
+ * [五部動畫](https://travlog.wei-lee.me/posts/review/2026/09/five-animes-i-havent-watched) (Published: 2 days ago)
  * [初見 LQ7](https://travlog.wei-lee.me/posts/review/2026/08/meet-lq7) (Published: 1 week ago)
  * [我的樂團很大](https://travlog.wei-lee.me/posts/travel/2026/08/my-band-is-big) (Published: 2 weeks ago)
- * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 2 weeks ago)
+ * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 3 weeks ago)
  * [櫻川惠・小日向美香 Special Party in Taipei](https://travlog.wei-lee.me/posts/review/2026/08/sakuragawa-megu-kohinata-mika-special-party-in-taipei) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#4](https://github.com/Lee-W/ring.nvim/pull/4) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
-2. 🎉 Merged PR [#22](https://github.com/Lee-W/ring/pull/22) in [Lee-W/ring](https://github.com/Lee-W/ring)
-3. 💪 Opened PR [#4](https://github.com/Lee-W/ring.nvim/pull/4) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
-4. 💪 Opened PR [#22](https://github.com/Lee-W/ring/pull/22) in [Lee-W/ring](https://github.com/Lee-W/ring)
-5. 🎉 Merged PR [#131](https://github.com/Lee-W/main-blog/pull/131) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-6. 🎉 Merged PR [#97](https://github.com/Lee-W/travlog/pull/97) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-7. 🎉 Merged PR [#72013](https://github.com/apache/airflow/pull/72013) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#2078](https://github.com/commitizen-tools/commitizen/pull/2078#issuecomment-5545764025) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#21](https://github.com/Lee-W/maigo/pull/21) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-10. 💪 Opened PR [#21](https://github.com/Lee-W/maigo/pull/21) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+1. 🎉 Merged PR [#107](https://github.com/Lee-W/main-blog/pull/107) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 💪 Opened PR [#72615](https://github.com/apache/airflow/pull/72615) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#107](https://github.com/Lee-W/travlog/issues/107#issuecomment-5564411157) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 🎉 Merged PR [#4](https://github.com/Lee-W/ring.nvim/pull/4) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
+5. 🎉 Merged PR [#22](https://github.com/Lee-W/ring/pull/22) in [Lee-W/ring](https://github.com/Lee-W/ring)
+6. 💪 Opened PR [#4](https://github.com/Lee-W/ring.nvim/pull/4) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
+7. 💪 Opened PR [#22](https://github.com/Lee-W/ring/pull/22) in [Lee-W/ring](https://github.com/Lee-W/ring)
+8. 🎉 Merged PR [#131](https://github.com/Lee-W/main-blog/pull/131) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+9. 🎉 Merged PR [#97](https://github.com/Lee-W/travlog/pull/97) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+10. 🎉 Merged PR [#72013](https://github.com/apache/airflow/pull/72013) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
