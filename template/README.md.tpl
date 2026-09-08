@@ -53,16 +53,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Lee-W/ring.nvim/pull/4) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
-2. 🎉 Merged PR [#22](https://github.com/Lee-W/ring/pull/22) in [Lee-W/ring](https://github.com/Lee-W/ring)
-3. 💪 Opened PR [#4](https://github.com/Lee-W/ring.nvim/pull/4) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
-4. 💪 Opened PR [#22](https://github.com/Lee-W/ring/pull/22) in [Lee-W/ring](https://github.com/Lee-W/ring)
-5. 🎉 Merged PR [#131](https://github.com/Lee-W/main-blog/pull/131) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-6. 🎉 Merged PR [#97](https://github.com/Lee-W/travlog/pull/97) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-7. 🎉 Merged PR [#72013](https://github.com/apache/airflow/pull/72013) in [apache/airflow](https://github.com/apache/airflow)
-8. 🗣 Commented on [#2078](https://github.com/commitizen-tools/commitizen/pull/2078#issuecomment-5545764025) in [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen)
-9. 🎉 Merged PR [#21](https://github.com/Lee-W/maigo/pull/21) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-10. 💪 Opened PR [#21](https://github.com/Lee-W/maigo/pull/21) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+1. 🎉 Merged PR [#107](https://github.com/Lee-W/main-blog/pull/107) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 💪 Opened PR [#72615](https://github.com/apache/airflow/pull/72615) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#107](https://github.com/Lee-W/travlog/issues/107#issuecomment-5564411157) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 🎉 Merged PR [#4](https://github.com/Lee-W/ring.nvim/pull/4) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
+5. 🎉 Merged PR [#22](https://github.com/Lee-W/ring/pull/22) in [Lee-W/ring](https://github.com/Lee-W/ring)
+6. 💪 Opened PR [#4](https://github.com/Lee-W/ring.nvim/pull/4) in [Lee-W/ring.nvim](https://github.com/Lee-W/ring.nvim)
+7. 💪 Opened PR [#22](https://github.com/Lee-W/ring/pull/22) in [Lee-W/ring](https://github.com/Lee-W/ring)
+8. 🎉 Merged PR [#131](https://github.com/Lee-W/main-blog/pull/131) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+9. 🎉 Merged PR [#97](https://github.com/Lee-W/travlog/pull/97) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+10. 🎉 Merged PR [#72013](https://github.com/apache/airflow/pull/72013) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
