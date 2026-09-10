@@ -44,15 +44,15 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [潤學商務共享中心](https://blog.wei-lee.me/posts/random-thoughts/2026/09/room-share/) (Published: 1 day ago)
-* [我也很喜歡文章簡單好讀的部落格](https://blog.wei-lee.me/posts/random-thoughts/2026/09/i-also-like-easy-to-read-blogs/) (Published: 2 days ago)
+* [潤學商務共享中心](https://blog.wei-lee.me/posts/random-thoughts/2026/09/room-share/) (Published: 2 days ago)
+* [我也很喜歡文章簡單好讀的部落格](https://blog.wei-lee.me/posts/random-thoughts/2026/09/i-also-like-easy-to-read-blogs/) (Published: 3 days ago)
 * [晚上不睡覺](https://blog.wei-lee.me/posts/random-thoughts/2026/09/stay-up-late/) (Published: 1 week ago)
 * [電子溝通的禮儀](https://blog.wei-lee.me/posts/random-thoughts/2026/08/electronic-communication-etiquette/) (Published: 2 weeks ago)
 * [一期一會](https://blog.wei-lee.me/posts/random-thoughts/2026/08/ichigo-ichie/) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [五部動畫](https://travlog.wei-lee.me/posts/review/2026/09/five-animes-i-havent-watched) (Published: 3 days ago)
+ * [五部動畫](https://travlog.wei-lee.me/posts/review/2026/09/five-animes-i-havent-watched) (Published: 4 days ago)
  * [初見 LQ7](https://travlog.wei-lee.me/posts/review/2026/08/meet-lq7) (Published: 1 week ago)
  * [我的樂團很大](https://travlog.wei-lee.me/posts/travel/2026/08/my-band-is-big) (Published: 2 weeks ago)
  * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 3 weeks ago)
@@ -61,16 +61,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 
 
-1. 💪 Opened PR [#72763](https://github.com/apache/airflow/pull/72763) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#71403](https://github.com/apache/airflow/pull/71403#issuecomment-5594886511) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#72152](https://github.com/apache/airflow/pull/72152) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#72762](https://github.com/apache/airflow/pull/72762) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#112](https://github.com/Lee-W/travlog/pull/112) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 💪 Opened PR [#112](https://github.com/Lee-W/travlog/pull/112) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-7. 🎉 Merged PR [#24](https://github.com/Lee-W/maigo/pull/24) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-8. 🗣 Commented on [#22](https://github.com/Lee-W/maigo/issues/22#issuecomment-5593490695) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-9. 💪 Opened PR [#24](https://github.com/Lee-W/maigo/pull/24) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-10. 🎉 Merged PR [#111](https://github.com/Lee-W/travlog/pull/111) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🎉 Merged PR [#72762](https://github.com/apache/airflow/pull/72762) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#72786](https://github.com/apache/airflow/pull/72786) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#72763](https://github.com/apache/airflow/pull/72763) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#71403](https://github.com/apache/airflow/pull/71403#issuecomment-5594886511) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#72152](https://github.com/apache/airflow/pull/72152) in [apache/airflow](https://github.com/apache/airflow)
+6. 💪 Opened PR [#72762](https://github.com/apache/airflow/pull/72762) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#112](https://github.com/Lee-W/travlog/pull/112) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+8. 💪 Opened PR [#112](https://github.com/Lee-W/travlog/pull/112) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+9. 🎉 Merged PR [#24](https://github.com/Lee-W/maigo/pull/24) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+10. 🗣 Commented on [#22](https://github.com/Lee-W/maigo/issues/22#issuecomment-5593490695) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
 
 
 ## ⭐ GitHub Stat
