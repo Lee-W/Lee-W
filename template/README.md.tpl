@@ -2,7 +2,7 @@
 
 Open source contributor, Pythonista, and automation enthusiast based in Taiwan. 🇹🇼
 
-<!-- This README and the localized website homepages are generated from the files in template/ by GitHub Actions. Update the templates first, then let the workflow refresh the generated files. -->
+<!-- This README is generated from this template by GitHub Actions. Homepage maintenance notes are in docs/maintenance.md. -->
 
 <p align="left">
   <a href="https://tw.linkedin.com/in/clleew" target="_blank">

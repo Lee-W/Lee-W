@@ -1,4 +1,4 @@
-name: Update README
+name: Update README and website
 
 on:
   schedule:
@@ -11,10 +11,19 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Update recent activity and blog posts
 
     steps:
       - uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+          cache: npm
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
 
       - uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
@@ -30,32 +39,17 @@ jobs:
           template: "template/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: muesli/readme-scribe@v0.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "template/index.html.tpl"
-          writeTo: "index.html"
+      - name: Refresh shared posts and render all homepages
+        run: python3 scripts/build_site.py --refresh
 
-      - uses: muesli/readme-scribe@v0.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "template/en-index.html.tpl"
-          writeTo: "en/index.html"
-
-      - uses: muesli/readme-scribe@v0.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "template/ja-index.html.tpl"
-          writeTo: "ja/index.html"
+      - run: npm ci
+      - run: npm run check
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README and index.html
+          commit_message: Update generated README and homepages
           branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com

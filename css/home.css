@@ -5,10 +5,11 @@
   --border: #e6e2d7;
   --text: #1a1a1a;
   --muted: #6b6a63;
-  --quiet: #8b8a84;
-  --faint: #a6a49e;
-  --name-alt: #b8b4a8;
+  --quiet: #706f68;
+  --faint: #706f68;
+  --name-alt: #706f68;
   --accent: #2f5d3f;
+  --on-accent: #fff;
   --accent-soft: #e7ede7;
   --life: #8a6a2f;
   --serif: "Noto Serif TC", "Songti TC", "PMingLiU", serif;
@@ -30,9 +31,10 @@
     --text: #f0eee7;
     --muted: #c5c0b4;
     --quiet: #a5a094;
-    --faint: #827d73;
-    --name-alt: #888274;
+    --faint: #a5a094;
+    --name-alt: #a5a094;
     --accent: #8fc59d;
+    --on-accent: #181816;
     --accent-soft: #223327;
     --life: #d6b56f;
   }
@@ -58,7 +60,7 @@ img { display: block; max-width: 100%; }
 svg { display: block; }
 
 :focus-visible {
-  outline: 3px solid color-mix(in srgb, var(--accent) 65%, transparent);
+  outline: 3px solid var(--accent);
   outline-offset: 3px;
 }
 
@@ -102,7 +104,7 @@ svg { display: block; }
 }
 
 .lang-option:hover { color: var(--accent); }
-.lang-option.active { background: var(--accent); color: #fff; }
+.lang-option.active { background: var(--accent); color: var(--on-accent); }
 
 .identity {
   display: flex;
@@ -145,9 +147,9 @@ h1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 8px 24px;
-  order: 3;
-  margin: 0 0 28px;
-  padding: 0;
+  margin: 24px 0 0;
+  padding: 20px 0 0;
+  border-top: 1px solid var(--border);
   list-style: none;
 }
 
@@ -191,7 +193,6 @@ img.role-icon {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 10px;
-  order: 4;
   margin-bottom: 16px;
 }
 
@@ -219,7 +220,7 @@ img.role-icon {
 
 .path-icon { color: var(--path-accent); font-size: 15px; }
 .path-title { align-self: end; font-family: var(--serif); font-size: 0.98rem; font-weight: 700; }
-.path-subtitle { margin-top: 2px; color: var(--quiet); font-size: 0.66rem; line-height: 1.4; }
+.path-subtitle { margin-top: 2px; color: var(--quiet); font-size: 0.8rem; line-height: 1.5; }
 .path-arrow { display: none; color: var(--path-accent); font-size: 13px; line-height: 1; }
 
 .now {
@@ -227,7 +228,6 @@ img.role-icon {
   grid-template-columns: 32px 1fr auto;
   gap: 11px;
   align-items: center;
-  order: 5;
   margin-bottom: 22px;
   padding: 12px 14px;
   border: 1px solid #d8e2d8;
@@ -248,14 +248,13 @@ img.role-icon {
 }
 
 .now strong { display: block; font-size: 0.78rem; }
-.now-detail { display: block; color: var(--muted); font-size: 0.7rem; }
+.now-detail { display: block; color: var(--muted); font-size: 0.8rem; }
 .now-arrow { color: var(--accent); font-size: 13px; line-height: 1; }
 
 .blogs {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 12px;
-  order: 6;
 }
 
 .blog-card {
@@ -309,7 +308,7 @@ img.role-icon {
   gap: 10px;
   align-items: baseline;
   padding: 10px 0;
-  font-size: 0.72rem;
+  font-size: 0.875rem;
   line-height: 1.45;
   text-decoration: none;
 }
@@ -320,7 +319,7 @@ img.role-icon {
 .posts time {
   color: var(--faint);
   font-family: var(--mono);
-  font-size: 0.56rem;
+  font-size: 0.75rem;
   white-space: nowrap;
 }
 
@@ -329,7 +328,6 @@ img.role-icon {
   flex-wrap: wrap;
   justify-content: center;
   gap: 18px;
-  order: 8;
   margin-top: 28px;
 }
 
@@ -370,8 +368,7 @@ img.role-icon {
 .lang-zh .path-subtitle [data-lang="zh"],
 .lang-zh .bio [data-lang="zh"],
 .lang-zh .now-detail [data-lang="zh"],
-.lang-zh .posts span,
-.lang-zh .posts time {
+.lang-zh .posts span {
   font-size: 1.02em;
 }
 
@@ -433,7 +430,7 @@ img.role-icon {
   .identity-copy { min-width: 0; }
   .avatar { width: 58px; height: 58px; }
   h1 { font-size: 1.42rem; }
-  .bio { margin-top: 4px; font-size: 0.69rem; white-space: normal; }
+  .bio { margin-top: 4px; font-size: 0.8rem; white-space: normal; }
 
   .paths { grid-template-columns: 1fr; gap: 8px; margin-bottom: 12px; }
   .path {
@@ -446,23 +443,21 @@ img.role-icon {
   }
   .path-icon { grid-row: 1 / 3; align-self: center; }
   .path-title { align-self: auto; font-size: 0.9rem; }
-  .path-subtitle { margin: 0; font-size: 0.61rem; }
+  .path-subtitle { margin: 0; }
   .path-arrow { display: block; grid-column: 3; grid-row: 1 / 3; align-self: center; font-size: 11px; }
 
   .now { grid-template-columns: 30px 1fr auto; margin-bottom: 14px; padding: 10px 12px; }
   .now-icon { width: 30px; height: 30px; }
-  .now-detail { font-size: 0.64rem; }
 
   .blogs { grid-template-columns: 1fr; gap: 10px; }
   .blog-card { padding: 15px 16px; }
   .blog-head { padding-bottom: 11px; }
-  .posts a { padding: 9px 0; font-size: 0.7rem; }
+  .posts a { padding: 10px 0; }
 
   .roles {
     display: flex;
     flex-wrap: wrap;
     gap: 7px;
-    order: 7;
     margin: 24px 0 0;
     padding-top: 20px;
     border-top: 1px solid var(--border);
@@ -472,7 +467,7 @@ img.role-icon {
   .roles a {
     width: auto;
     gap: 6px;
-    font-size: 0.65rem;
+    font-size: 0.75rem;
   }
 
   .roles li {
