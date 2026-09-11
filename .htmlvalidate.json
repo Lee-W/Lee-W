@@ -1,0 +1,8 @@
+{
+  "root": true,
+  "extends": ["html-validate:standard"],
+  "rules": {
+    "no-dup-id": "error",
+    "wcag/h37": "error"
+  }
+}
