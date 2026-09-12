@@ -7,7 +7,7 @@ from html import escape
 from pathlib import Path
 from string import Template
 from urllib.parse import urljoin, urlsplit
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
 from xml.etree import ElementTree
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -105,7 +105,12 @@ def main():
         # Fetch and render everything before changing any tracked output.
         posts = {}
         for key, url in FEEDS.items():
-            with urlopen(url, timeout=30) as response:
+            # The feed hosts reject urllib's default Python-urllib User-Agent.
+            request = Request(url, headers={
+                "User-Agent": "WeiLeeHomepage/1.0 (+https://github.com/Lee-W/Lee-W)",
+                "Accept": "application/atom+xml, application/xml;q=0.9",
+            })
+            with urlopen(request, timeout=30) as response:
                 posts[key] = parse_feed(response.read(), url)
     pages = render_pages(ROOT, posts)
     if args.check:

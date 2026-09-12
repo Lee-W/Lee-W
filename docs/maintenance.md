@@ -24,8 +24,9 @@ python3 -m http.server 8000 --bind 127.0.0.1
 The default build uses the checked-in post snapshot and needs no network access.
 To update it from the two Atom feeds, run `python3 scripts/build_site.py --refresh`.
 A failed fetch or invalid feed stops the refresh before writing the snapshot or
-homepages. RSS fetching remains separate from the GitHub profile workflow's
-existing README rendering.
+homepages. Requests identify this site's updater with a User-Agent because the
+feed hosts return HTTP 403 for urllib's default agent. RSS fetching remains
+separate from the GitHub profile workflow's existing README rendering.
 
 ## Checks
 
@@ -52,5 +53,9 @@ The card suite checks both card faces: modal keyboard focus, text contrast in al
 three languages, QR generation failure and retry, PNG export failure and retry,
 and delayed generation after closing the dialog or clearing the campaign name.
 
-Pull requests and pushes to `main` run both check suites. The daily refresh runs
-the static checks before committing generated content.
+Pull requests and pushes to `main` run both check suites. The daily refresh fetches
+the feeds and runs the static checks before the activity action can push its
+template update. Daily and manual refreshes run one at a time and check out the
+latest `main`, including on reruns, so an earlier attempt's activity commit does
+not cause a rejected push. The final commit includes the generated README and
+homepages.

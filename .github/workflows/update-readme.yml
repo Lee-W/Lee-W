@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,6 +19,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
+        with:
+          # A previous attempt may already have pushed the activity template.
+          ref: main
 
       - uses: actions/setup-node@v6
         with:
@@ -24,6 +31,12 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
+
+      - name: Refresh shared posts and render all homepages
+        run: python3 scripts/build_site.py --refresh
+
+      - run: npm ci
+      - run: npm run check
 
       - uses: jamesgeorge007/github-activity-readme@v0.5.0
         env:
@@ -38,12 +51,6 @@ jobs:
         with:
           template: "template/README.md.tpl"
           writeTo: "README.md"
-
-      - name: Refresh shared posts and render all homepages
-        run: python3 scripts/build_site.py --refresh
-
-      - run: npm ci
-      - run: npm run check
 
       - uses: stefanzweifel/git-auto-commit-action@v7
         env:

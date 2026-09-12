@@ -6,6 +6,7 @@ import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
+from urllib.error import HTTPError
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from build_site import ROOT, parse_feed, render_pages, render_posts
@@ -63,6 +64,35 @@ class FeedTests(unittest.TestCase):
                         build_site.main()
             self.assertEqual(snapshot.read_text(), '{"tech": [], "life": []}')
             self.assertEqual(homepage.read_text(), "Existing homepage")
+
+    def test_refresh_succeeds_when_feed_host_rejects_default_urllib_agent(self):
+        feed = b'''<feed xmlns="http://www.w3.org/2005/Atom"><entry>
+          <title>New post</title><link href="/posts/new"/>
+          <published>2026-09-12T00:30:00+08:00</published>
+        </entry></feed>'''
+        requested_urls = []
+
+        def feed_host(request, timeout):
+            url = request if isinstance(request, str) else request.full_url
+            agent = "" if isinstance(request, str) else request.get_header("User-agent", "")
+            if not agent or agent.startswith("Python-urllib/"):
+                raise HTTPError(url, 403, "Forbidden", {}, None)
+            requested_urls.append(url)
+            return io.BytesIO(feed)
+
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            shutil.copytree(ROOT / "data", root / "data")
+            shutil.copytree(ROOT / "template", root / "template")
+            with patch.object(build_site, "ROOT", root), patch.object(sys, "argv", ["build_site.py", "--refresh"]):
+                with patch.object(build_site, "urlopen", side_effect=feed_host):
+                    build_site.main()
+            self.assertEqual(requested_urls, list(build_site.FEEDS.values()))
+            posts = json.loads((root / "data/posts.json").read_text(encoding="utf-8"))
+            for key, url in build_site.FEEDS.items():
+                self.assertEqual(posts[key], parse_feed(feed, url))
+            for name, html in render_pages(root, posts).items():
+                self.assertEqual((root / name).read_text(encoding="utf-8"), html)
 
 
 class LinkCheckTests(unittest.TestCase):
