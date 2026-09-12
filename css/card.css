@@ -4,8 +4,8 @@
   --border: #e6e2d7;
   --text: #1a1a1a;
   --muted: #6b6a63;
-  --quiet: #8b8a84;
-  --name-alt: #b8b4a8;
+  --quiet: #706f68;
+  --name-alt: #706f68;
   --accent: #2f5d3f;
   --accent-soft: #e7ede7;
   --on-accent: #fff;
@@ -27,7 +27,7 @@
     --text: #f0eee7;
     --muted: #c5c0b4;
     --quiet: #a5a094;
-    --name-alt: #888274;
+    --name-alt: #a5a094;
     --accent: #8fc59d;
     --accent-soft: #223327;
     --on-accent: #181816;
@@ -36,11 +36,10 @@
 
 *, *::before, *::after { box-sizing: border-box; }
 
-/* The life face wears travlog's own brand green (--brand: #4a8a63 on that
-   site, #8fc6a4 in its dark chrome) so the card and the blog it points at
-   read as one thing. Everything else is shared with the work face. */
+/* A darker shade of travlog's green keeps white button labels readable.
+   The dark theme uses travlog's light green. */
 body.card-life {
-  --accent: #4a8a63;
+  --accent: #3f7653;
   --accent-soft: #eef4f0;
 }
 
@@ -79,7 +78,7 @@ img { display: block; max-width: 100%; }
 svg { display: block; }
 
 :focus-visible {
-  outline: 3px solid color-mix(in srgb, var(--accent) 65%, transparent);
+  outline: 3px solid var(--accent);
   outline-offset: 3px;
 }
 
@@ -360,6 +359,7 @@ button.qr-plate:hover { border-color: var(--accent); }
    the web can get to "turn the brightness up" — no API exists for that. */
 
 .qr-overlay {
+  --accent: #2f5d3f;
   position: fixed;
   z-index: 50;
   display: flex;
@@ -371,6 +371,7 @@ button.qr-plate:hover { border-color: var(--accent); }
   inset: 0;
   background: #fff;
   color: #1a1a1a;
+  overflow-y: auto;
 }
 
 .qr-overlay[hidden] { display: none; }
@@ -395,6 +396,24 @@ button.qr-plate:hover { border-color: var(--accent); }
 .qr-overlay .qr-hint {
   color: #6b6a63;
   font-size: 0.78rem;
+}
+
+.qr-status {
+  width: min(100%, 400px);
+  margin: 0;
+  color: #8b2323;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+/* Keep the live region available to assistive technology while empty. */
+.qr-status:empty {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
 }
 
 .qr-close {

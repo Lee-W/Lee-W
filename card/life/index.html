@@ -206,6 +206,12 @@
         <span data-lang="ja">この QR を読み取ると、この名刺に戻ります</span>
       </p>
     </div>
+    <p class="qr-status" id="qrStatus" role="status" aria-live="polite" aria-atomic="true"></p>
+    <button type="button" class="qr-save" id="retryQr" hidden>
+      <span data-lang="zh">重試</span>
+      <span data-lang="en">Try again</span>
+      <span data-lang="ja">もう一度試す</span>
+    </button>
     <form class="qr-campaign" id="qrCampaign" hidden>
       <label class="sr-only" for="qrCampaignInput">
         <span data-lang="zh">Campaign 名稱</span>

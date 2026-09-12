@@ -126,6 +126,9 @@
   const urlLabel = document.getElementById('qrOverlayUrl');
   const campaignForm = document.getElementById('qrCampaign');
   const campaignInput = document.getElementById('qrCampaignInput');
+  const page = document.querySelector('main.page');
+  const status = document.getElementById('qrStatus');
+  const retryButton = document.getElementById('retryQr');
   if (!openButton || !overlay || !closeButton || !overlayPlate || !urlLabel) return;
 
   // Derived, not hardcoded: the same script serves every card face, and each
@@ -144,6 +147,55 @@
   let encoderPromise = null;
   let defaultQr = null;
   let inputTimer = null;
+  let pageWasInert = false;
+  let encoderAttempts = 0;
+  let renderVersion = 0;
+  let feedbackVersion = 0;
+  let retryAction = null;
+
+  const messages = {
+    load: {
+      zh: 'QR 功能載入失敗。目前顯示預設名片 QR；請檢查連線後重試。',
+      en: 'Could not load the QR generator. The default card QR is shown; check your connection and try again.',
+      ja: 'QR 生成機能を読み込めませんでした。通常の名刺 QR を表示しています。接続を確認して、もう一度お試しください。'
+    },
+    generate: {
+      zh: '無法產生這個 QR。目前顯示預設名片 QR；請縮短活動名稱後重試。',
+      en: 'Could not generate this QR. The default card QR is shown; shorten the campaign name and try again.',
+      ja: 'この QR を生成できませんでした。通常の名刺 QR を表示しています。キャンペーン名を短くして、もう一度お試しください。'
+    },
+    save: {
+      zh: '無法準備 QR 檔案。請重試，或改用另一種格式。',
+      en: 'Could not prepare the QR file. Try again or choose another format.',
+      ja: 'QR ファイルを作成できませんでした。もう一度試すか、別の形式を選んでください。'
+    }
+  };
+
+  function clearFeedback() {
+    feedbackVersion++;
+    if (status) status.textContent = '';
+    if (retryButton) retryButton.hidden = true;
+    retryAction = null;
+    return feedbackVersion;
+  }
+
+  function showError(kind, retry, version) {
+    if (!isOpen() || version !== feedbackVersion) return;
+    const lang = document.documentElement.lang;
+    if (status) status.textContent = messages[kind][lang === 'en' || lang === 'ja' ? lang : 'zh'];
+    retryAction = retry;
+    if (retryButton) retryButton.hidden = false;
+  }
+
+  function focusControls() {
+    (campaignInput && campaignForm && !campaignForm.hidden ? campaignInput : closeButton).focus();
+  }
+
+  if (retryButton) retryButton.addEventListener('click', () => {
+    const retry = retryAction;
+    focusControls();
+    if (retry) retry();
+  });
 
   function campaignUrl(name) {
     return CARD_URL + '?utm_campaign=' + encodeURIComponent(name || DEFAULT_CAMPAIGN) +
@@ -167,7 +219,15 @@
   // campaign; the default code is the static SVG already in the page.
   function loadEncoder() {
     if (!encoderPromise) {
-      encoderPromise = import('/js/vendor/qrcode.mjs').then((mod) => mod.default);
+      // Failed module fetches are cached by the browser; use a fresh URL on retry.
+      const suffix = encoderAttempts ? '?retry=' + encoderAttempts : '';
+      encoderAttempts++;
+      encoderPromise = import('/js/vendor/qrcode.mjs' + suffix)
+        .then((mod) => mod.default)
+        .catch(() => {
+          encoderPromise = null;
+          throw new Error('QR_LOAD_FAILED');
+        });
     }
     return encoderPromise;
   }
@@ -220,23 +280,22 @@
     urlLabel.textContent = DEFAULT_LABEL;
   }
 
-  function showCampaign(name) {
-    const url = campaignUrl(name);
-    return encode(url).then((qr) => {
-      overlayPlate.replaceChildren(buildSvg(qr, url));
-      // Only the campaign varies, and the full URL is long enough to wrap
-      // into three ragged lines on a phone. The SVG's aria-label still
-      // carries the whole thing for anyone who needs it.
-      urlLabel.textContent = 'campaign: ' + name;
-    });
-  }
-
   function render(name) {
+    const version = ++renderVersion;
+    const feedback = clearFeedback();
     const trimmed = (name || '').trim();
     if (!trimmed) { showDefault(); return; }
-    // A failed encode (library blocked, or a campaign name long enough to
-    // overflow version 40) falls back to the code that is already in the page.
-    showCampaign(trimmed).catch(showDefault);
+    const url = campaignUrl(trimmed);
+    encode(url).then((qr) => {
+      if (version !== renderVersion || !isOpen()) return;
+      overlayPlate.replaceChildren(buildSvg(qr, url));
+      urlLabel.textContent = 'campaign: ' + trimmed;
+    }).catch((error) => {
+      if (version !== renderVersion || !isOpen()) return;
+      showDefault();
+      const kind = error && error.message === 'QR_LOAD_FAILED' ? 'load' : 'generate';
+      showError(kind, () => render(campaignInput ? campaignInput.value : trimmed), feedback);
+    });
   }
 
   async function acquireWakeLock() {
@@ -265,26 +324,35 @@
 
     if (campaignForm) campaignForm.hidden = !withControls;
     if (campaignInput) campaignInput.value = campaign;
-    render(campaign);
-
     if (!isOpen()) {
-      lastFocused = document.activeElement;
+      lastFocused = document.activeElement === document.body ? openButton : document.activeElement;
       overlay.removeAttribute('hidden');
+      if (page) {
+        pageWasInert = page.inert;
+        page.inert = true;
+      }
       document.body.classList.add('is-presenting');
       acquireWakeLock();
     }
-    (withControls && campaignInput ? campaignInput : closeButton).focus();
+    clearTimeout(inputTimer);
+    render(campaign);
+    focusControls();
   }
 
   function close() {
     if (!isOpen()) return;
+    clearTimeout(inputTimer);
+    renderVersion++;
+    clearFeedback();
     overlay.setAttribute('hidden', '');
+    if (page) page.inert = pageWasInert;
     document.body.classList.remove('is-presenting');
     releaseWakeLock();
     if (readHash().present) {
       history.replaceState(null, '', location.pathname + location.search);
     }
-    if (lastFocused && typeof lastFocused.focus === 'function') lastFocused.focus();
+    const target = lastFocused && lastFocused.isConnected ? lastFocused : openButton;
+    target.focus();
   }
 
   function readHash() {
@@ -362,7 +430,10 @@
         }
       }
     }
-    return new Promise((resolve) => canvas.toBlob(resolve, 'image/png'));
+    return new Promise((resolve, reject) => canvas.toBlob((blob) => {
+      if (blob) resolve(blob);
+      else reject(new Error('PNG encoding failed'));
+    }, 'image/png'));
   }
 
   function handOff(file) {
@@ -391,6 +462,7 @@
   }
 
   function save(format, button) {
+    const feedback = clearFeedback();
     const campaign = currentCampaign();
     const url = campaignUrl(campaign);
     // Strip only what a filesystem actually rejects — an all-CJK campaign
@@ -407,8 +479,8 @@
         ? new File([svgSource(qr, url)], stem + '.svg', { type: 'image/svg+xml' })
         : pngBlob(qr).then((blob) => new File([blob], stem + '.png', { type: 'image/png' }))))
       .then(handOff)
-      .catch(() => { /* encoder blocked or canvas unavailable — nothing saved */ })
-      .then(() => { button.disabled = false; });
+      .catch(() => showError('save', () => save(format, button), feedback))
+      .finally(() => { button.disabled = false; });
   }
 
   if (campaignForm) {
@@ -420,7 +492,7 @@
   overlayPlate.addEventListener('dblclick', () => {
     if (!campaignForm) return;
     campaignForm.hidden = !campaignForm.hidden;
-    if (!campaignForm.hidden && campaignInput) campaignInput.focus();
+    focusControls();
   });
 
   // Tapping the empty field around the QR dismisses it; taps on the code
@@ -430,7 +502,21 @@
   });
 
   document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape' && isOpen()) close();
+    if (!isOpen()) return;
+    if (event.key === 'Escape') {
+      event.preventDefault();
+      close();
+    } else if (event.key === 'Tab') {
+      const controls = Array.from(overlay.querySelectorAll('button:not(:disabled), input:not(:disabled)'))
+        .filter((element) => element.getClientRects().length > 0);
+      const first = controls[0] || closeButton;
+      const last = controls[controls.length - 1] || closeButton;
+      const active = document.activeElement;
+      if (!controls.includes(active) || (event.shiftKey ? active === first : active === last)) {
+        event.preventDefault();
+        (event.shiftKey ? last : first).focus();
+      }
+    }
   });
 
   // Switching tabs drops the wake lock; take it again on the way back.
@@ -445,6 +531,8 @@
   if (campaignInput) {
     campaignInput.addEventListener('input', () => {
       clearTimeout(inputTimer);
+      renderVersion++;
+      clearFeedback();
       inputTimer = setTimeout(() => {
         const name = campaignInput.value.trim();
         render(name);

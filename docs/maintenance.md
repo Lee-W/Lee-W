@@ -48,5 +48,9 @@ digital card. External fonts, icons and analytics are blocked during these tests
 for deterministic offline runs. Check the appearance with external fonts as well
 when changing typography. Automated accessibility checks supplement manual review.
 
+The card suite checks both card faces: modal keyboard focus, text contrast in all
+three languages, QR generation failure and retry, PNG export failure and retry,
+and delayed generation after closing the dialog or clearing the campaign name.
+
 Pull requests and pushes to `main` run both check suites. The daily refresh runs
 the static checks before committing generated content.
