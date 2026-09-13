@@ -69,7 +69,7 @@
         <h1>
           <span data-lang="zh">李唯 <span class="name-alt">/ Wei Lee</span></span>
           <span data-lang="en">Wei Lee <span class="name-alt">/ 李唯</span></span>
-          <span data-lang="ja"><ruby>李<rp>(</rp><rt>リ</rt><rp>)</rp>唯<rp>(</rp><rt>ウェ</rt><rp>)</rp></ruby> <span class="name-alt">/ Wei Lee</span></span>
+          <span data-lang="ja"><ruby>李<rp>(</rp><rt>リ</rt><rp>)</rp>唯<rp>(</rp><rt>ウェイ</rt><rp>)</rp></ruby> <span class="name-alt">/ Wei Lee</span></span>
         </h1>
         <p class="bio">
           <span data-lang="$lang">$bio</span>

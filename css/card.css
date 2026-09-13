@@ -516,7 +516,7 @@ body.is-presenting { overflow: hidden; }
   line-height: 1.5;
 }
 
-/* The name carries furigana (リ / ウェ over 李 / 唯). Ruby annotations are laid
+/* The name carries furigana (リ / ウェイ over 李 / 唯). Ruby annotations are laid
    out above the line box, so the heading needs headroom it never needed in
    zh/en — without it the reading collides with whatever sits above. */
 .lang-ja h1 [data-lang="ja"] {
