@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [潤學商務共享中心](https://blog.wei-lee.me/posts/random-thoughts/2026/09/room-share/) (Published: 3 days ago)
-* [我也很喜歡文章簡單好讀的部落格](https://blog.wei-lee.me/posts/random-thoughts/2026/09/i-also-like-easy-to-read-blogs/) (Published: 4 days ago)
+* [最近發現的 IG 新功能](https://blog.wei-lee.me/posts/random-thoughts/2026/09/ig-unsend-read-receipt/) (Published: today)
+* [潤學商務共享中心](https://blog.wei-lee.me/posts/random-thoughts/2026/09/room-share/) (Published: 5 days ago)
+* [我也很喜歡文章簡單好讀的部落格](https://blog.wei-lee.me/posts/random-thoughts/2026/09/i-also-like-easy-to-read-blogs/) (Published: 6 days ago)
 * [晚上不睡覺](https://blog.wei-lee.me/posts/random-thoughts/2026/09/stay-up-late/) (Published: 1 week ago)
 * [電子溝通的禮儀](https://blog.wei-lee.me/posts/random-thoughts/2026/08/electronic-communication-etiquette/) (Published: 2 weeks ago)
-* [一期一會](https://blog.wei-lee.me/posts/random-thoughts/2026/08/ichigo-ichie/) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [五部動畫](https://travlog.wei-lee.me/posts/review/2026/09/five-animes-i-havent-watched) (Published: 5 days ago)
- * [初見 LQ7](https://travlog.wei-lee.me/posts/review/2026/08/meet-lq7) (Published: 1 week ago)
+ * [劇場版 魔法少女まどか☆マギカ特裝版場刊微開箱](https://travlog.wei-lee.me/posts/review/2026/09/madoka-magica-movie-pamphlet-unboxing) (Published: 2 days ago)
+ * [五部動畫](https://travlog.wei-lee.me/posts/review/2026/09/five-animes-i-havent-watched) (Published: 1 week ago)
+ * [初見 LQ7](https://travlog.wei-lee.me/posts/review/2026/08/meet-lq7) (Published: 2 weeks ago)
  * [我的樂團很大](https://travlog.wei-lee.me/posts/travel/2026/08/my-band-is-big) (Published: 2 weeks ago)
  * [『Ave Mujica LIVE TOUR 2026 Exitus 公演紀念 FAIR』](https://travlog.wei-lee.me/posts/review/2026/08/ave-mujica-exitus-fair) (Published: 3 weeks ago)
- * [櫻川惠・小日向美香 Special Party in Taipei](https://travlog.wei-lee.me/posts/review/2026/08/sakuragawa-megu-kohinata-mika-special-party-in-taipei) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🗣 Commented on [#72579](https://github.com/apache/airflow/pull/72579#issuecomment-5628528378) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#72762](https://github.com/apache/airflow/pull/72762) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#72786](https://github.com/apache/airflow/pull/72786) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#72763](https://github.com/apache/airflow/pull/72763) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#71403](https://github.com/apache/airflow/pull/71403#issuecomment-5594886511) in [apache/airflow](https://github.com/apache/airflow)
-6. 🎉 Merged PR [#72152](https://github.com/apache/airflow/pull/72152) in [apache/airflow](https://github.com/apache/airflow)
-7. 💪 Opened PR [#72762](https://github.com/apache/airflow/pull/72762) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#112](https://github.com/Lee-W/travlog/pull/112) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-9. 💪 Opened PR [#112](https://github.com/Lee-W/travlog/pull/112) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-10. 🎉 Merged PR [#24](https://github.com/Lee-W/maigo/pull/24) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+1. 🗣 Commented on [#70276](https://github.com/apache/airflow/pull/70276#issuecomment-5650284574) in [apache/airflow](https://github.com/apache/airflow)
+2. ℹ️ Unlabeled PR [#70276](https://github.com/apache/airflow/pull/70276) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#151](https://github.com/Lee-W/main-blog/pull/151) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 🎉 Merged PR [#73019](https://github.com/apache/airflow/pull/73019) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#29](https://github.com/Lee-W/maigo/pull/29) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+6. 💪 Opened PR [#29](https://github.com/Lee-W/maigo/pull/29) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+7. 💪 Opened PR [#73019](https://github.com/apache/airflow/pull/73019) in [apache/airflow](https://github.com/apache/airflow)
+8. 🎉 Merged PR [#28](https://github.com/Lee-W/maigo/pull/28) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+9. 💪 Opened PR [#28](https://github.com/Lee-W/maigo/pull/28) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+10. 💪 Opened PR [#154](https://github.com/Lee-W/main-blog/pull/154) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 
 
 ## ⭐ GitHub Stat
