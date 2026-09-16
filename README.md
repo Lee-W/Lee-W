@@ -44,31 +44,31 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [寫作 COSCUP 讀作部落友見面會](https://blog.wei-lee.me/posts/random-thoughts/2026/09/coscup-blogger-meetup/) (Published: today)
-* [最近發現的 IG 新功能](https://blog.wei-lee.me/posts/random-thoughts/2026/09/ig-unsend-read-receipt/) (Published: 2 days ago)
+* [寫作 COSCUP 讀作部落友見面會](https://blog.wei-lee.me/posts/random-thoughts/2026/09/coscup-blogger-meetup/) (Published: 1 day ago)
+* [最近發現的 IG 新功能](https://blog.wei-lee.me/posts/random-thoughts/2026/09/ig-unsend-read-receipt/) (Published: 3 days ago)
 * [潤學商務共享中心](https://blog.wei-lee.me/posts/random-thoughts/2026/09/room-share/) (Published: 1 week ago)
 * [我也很喜歡文章簡單好讀的部落格](https://blog.wei-lee.me/posts/random-thoughts/2026/09/i-also-like-easy-to-read-blogs/) (Published: 1 week ago)
 * [晚上不睡覺](https://blog.wei-lee.me/posts/random-thoughts/2026/09/stay-up-late/) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [野獸先輩主題展](https://travlog.wei-lee.me/posts/review/2026/09/yajuu-senpai-exhibition) (Published: 1 day ago)
- * [劇場版 魔法少女まどか☆マギカ特裝版場刊微開箱](https://travlog.wei-lee.me/posts/review/2026/09/madoka-magica-movie-pamphlet-unboxing) (Published: 4 days ago)
+ * [制縣等級 Level up](https://travlog.wei-lee.me/posts/travel/2026/09/japanex-level-100) (Published: today)
+ * [野獸先輩主題展](https://travlog.wei-lee.me/posts/review/2026/09/yajuu-senpai-exhibition) (Published: 2 days ago)
+ * [劇場版 魔法少女まどか☆マギカ特裝版場刊微開箱](https://travlog.wei-lee.me/posts/review/2026/09/madoka-magica-movie-pamphlet-unboxing) (Published: 5 days ago)
  * [五部動畫](https://travlog.wei-lee.me/posts/review/2026/09/five-animes-i-havent-watched) (Published: 1 week ago)
  * [初見 LQ7](https://travlog.wei-lee.me/posts/review/2026/08/meet-lq7) (Published: 2 weeks ago)
- * [我的樂團很大](https://travlog.wei-lee.me/posts/travel/2026/08/my-band-is-big) (Published: 3 weeks ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#71403](https://github.com/apache/airflow/pull/71403) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#150](https://github.com/Lee-W/main-blog/pull/150) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-3. 🎉 Merged PR [#113](https://github.com/Lee-W/travlog/pull/113) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-4. 🎉 Merged PR [#123](https://github.com/Lee-W/travlog/pull/123) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 💪 Opened PR [#123](https://github.com/Lee-W/travlog/pull/123) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 🎉 Merged PR [#155](https://github.com/Lee-W/main-blog/pull/155) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-7. 💪 Opened PR [#155](https://github.com/Lee-W/main-blog/pull/155) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-8. 🗣 Commented on [#70276](https://github.com/apache/airflow/pull/70276#issuecomment-5650284574) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#114](https://github.com/Lee-W/travlog/pull/114) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. 🎉 Merged PR [#72051](https://github.com/apache/airflow/pull/72051) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#72150](https://github.com/apache/airflow/pull/72150) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#72151](https://github.com/apache/airflow/pull/72151#issuecomment-5678217918) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#72049](https://github.com/apache/airflow/pull/72049) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#71403](https://github.com/apache/airflow/pull/71403) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#150](https://github.com/Lee-W/main-blog/pull/150) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+8. 🎉 Merged PR [#113](https://github.com/Lee-W/travlog/pull/113) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 9. ℹ️ Unlabeled PR [#70276](https://github.com/apache/airflow/pull/70276) in [apache/airflow](https://github.com/apache/airflow)
 10. 🎉 Merged PR [#151](https://github.com/Lee-W/main-blog/pull/151) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 
