@@ -44,29 +44,29 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [寫作 COSCUP 讀作部落友見面會](https://blog.wei-lee.me/posts/random-thoughts/2026/09/coscup-blogger-meetup/) (Published: 2 days ago)
-* [最近發現的 IG 新功能](https://blog.wei-lee.me/posts/random-thoughts/2026/09/ig-unsend-read-receipt/) (Published: 4 days ago)
+* [寫作 COSCUP 讀作部落友見面會](https://blog.wei-lee.me/posts/random-thoughts/2026/09/coscup-blogger-meetup/) (Published: 3 days ago)
+* [最近發現的 IG 新功能](https://blog.wei-lee.me/posts/random-thoughts/2026/09/ig-unsend-read-receipt/) (Published: 5 days ago)
 * [潤學商務共享中心](https://blog.wei-lee.me/posts/random-thoughts/2026/09/room-share/) (Published: 1 week ago)
 * [我也很喜歡文章簡單好讀的部落格](https://blog.wei-lee.me/posts/random-thoughts/2026/09/i-also-like-easy-to-read-blogs/) (Published: 1 week ago)
 * [晚上不睡覺](https://blog.wei-lee.me/posts/random-thoughts/2026/09/stay-up-late/) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [制縣等級 Level up](https://travlog.wei-lee.me/posts/travel/2026/09/japanex-level-100) (Published: 1 day ago)
- * [野獸先輩主題展](https://travlog.wei-lee.me/posts/review/2026/09/yajuu-senpai-exhibition) (Published: 3 days ago)
- * [劇場版 魔法少女まどか☆マギカ特裝版場刊微開箱](https://travlog.wei-lee.me/posts/review/2026/09/madoka-magica-movie-pamphlet-unboxing) (Published: 6 days ago)
+ * [制縣等級 Level up](https://travlog.wei-lee.me/posts/travel/2026/09/japanex-level-100) (Published: 2 days ago)
+ * [野獸先輩主題展](https://travlog.wei-lee.me/posts/review/2026/09/yajuu-senpai-exhibition) (Published: 4 days ago)
+ * [劇場版 魔法少女まどか☆マギカ特裝版場刊微開箱](https://travlog.wei-lee.me/posts/review/2026/09/madoka-magica-movie-pamphlet-unboxing) (Published: 1 week ago)
  * [五部動畫](https://travlog.wei-lee.me/posts/review/2026/09/five-animes-i-havent-watched) (Published: 1 week ago)
  * [初見 LQ7](https://travlog.wei-lee.me/posts/review/2026/08/meet-lq7) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
 
-1. 💪 Opened PR [#207](https://github.com/pycontw/pycon-etl/pull/207) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. 🎉 Merged PR [#71478](https://github.com/apache/airflow/pull/71478) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#206](https://github.com/pycontw/pycon-etl/pull/206) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 🗣 Commented on [#73200](https://github.com/apache/airflow/pull/73200#issuecomment-5695453634) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#126](https://github.com/Lee-W/travlog/issues/126#issuecomment-5694312687) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 🎉 Merged PR [#114](https://github.com/Lee-W/travlog/pull/114) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🎉 Merged PR [#127](https://github.com/Lee-W/travlog/pull/127) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. 💪 Opened PR [#127](https://github.com/Lee-W/travlog/pull/127) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+3. 🎉 Merged PR [#72151](https://github.com/apache/airflow/pull/72151) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Unlabeled PR [#72940](https://github.com/apache/airflow/pull/72940) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#207](https://github.com/pycontw/pycon-etl/pull/207) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🎉 Merged PR [#71478](https://github.com/apache/airflow/pull/71478) in [apache/airflow](https://github.com/apache/airflow)
 7. 🎉 Merged PR [#72051](https://github.com/apache/airflow/pull/72051) in [apache/airflow](https://github.com/apache/airflow)
 8. 🎉 Merged PR [#72150](https://github.com/apache/airflow/pull/72150) in [apache/airflow](https://github.com/apache/airflow)
 9. 🗣 Commented on [#72151](https://github.com/apache/airflow/pull/72151#issuecomment-5678217918) in [apache/airflow](https://github.com/apache/airflow)
