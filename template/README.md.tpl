@@ -53,12 +53,12 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#207](https://github.com/pycontw/pycon-etl/pull/207) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-2. 🎉 Merged PR [#71478](https://github.com/apache/airflow/pull/71478) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#206](https://github.com/pycontw/pycon-etl/pull/206) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-4. 🗣 Commented on [#73200](https://github.com/apache/airflow/pull/73200#issuecomment-5695453634) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#126](https://github.com/Lee-W/travlog/issues/126#issuecomment-5694312687) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 🎉 Merged PR [#114](https://github.com/Lee-W/travlog/pull/114) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🎉 Merged PR [#127](https://github.com/Lee-W/travlog/pull/127) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. 💪 Opened PR [#127](https://github.com/Lee-W/travlog/pull/127) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+3. 🎉 Merged PR [#72151](https://github.com/apache/airflow/pull/72151) in [apache/airflow](https://github.com/apache/airflow)
+4. ℹ️ Unlabeled PR [#72940](https://github.com/apache/airflow/pull/72940) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#207](https://github.com/pycontw/pycon-etl/pull/207) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+6. 🎉 Merged PR [#71478](https://github.com/apache/airflow/pull/71478) in [apache/airflow](https://github.com/apache/airflow)
 7. 🎉 Merged PR [#72051](https://github.com/apache/airflow/pull/72051) in [apache/airflow](https://github.com/apache/airflow)
 8. 🎉 Merged PR [#72150](https://github.com/apache/airflow/pull/72150) in [apache/airflow](https://github.com/apache/airflow)
 9. 🗣 Commented on [#72151](https://github.com/apache/airflow/pull/72151#issuecomment-5678217918) in [apache/airflow](https://github.com/apache/airflow)
