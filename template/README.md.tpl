@@ -53,16 +53,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/Lee-W/travlog/pull/127) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-2. 💪 Opened PR [#127](https://github.com/Lee-W/travlog/pull/127) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-3. 🎉 Merged PR [#72151](https://github.com/apache/airflow/pull/72151) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Unlabeled PR [#72940](https://github.com/apache/airflow/pull/72940) in [apache/airflow](https://github.com/apache/airflow)
-5. 💪 Opened PR [#207](https://github.com/pycontw/pycon-etl/pull/207) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
-6. 🎉 Merged PR [#71478](https://github.com/apache/airflow/pull/71478) in [apache/airflow](https://github.com/apache/airflow)
-7. 🎉 Merged PR [#72051](https://github.com/apache/airflow/pull/72051) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#72150](https://github.com/apache/airflow/pull/72150) in [apache/airflow](https://github.com/apache/airflow)
-9. 🗣 Commented on [#72151](https://github.com/apache/airflow/pull/72151#issuecomment-5678217918) in [apache/airflow](https://github.com/apache/airflow)
-10. 🎉 Merged PR [#72049](https://github.com/apache/airflow/pull/72049) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#19](https://github.com/Lee-W/pelican-osm/pull/19) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+2. 💪 Opened PR [#19](https://github.com/Lee-W/pelican-osm/pull/19) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+3. 🎉 Merged PR [#129](https://github.com/Lee-W/travlog/pull/129) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 💪 Opened PR [#129](https://github.com/Lee-W/travlog/pull/129) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+5. 🚀 Published release [0.7.0](https://github.com/Lee-W/pelican-tabular/releases/tag/0.7.0) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+6. 🎉 Merged PR [#2](https://github.com/Lee-W/pelican-tabular/pull/2) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+7. 🚀 Published release [0.6.0](https://github.com/Lee-W/pelican-tabular/releases/tag/0.6.0) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+8. 🎉 Merged PR [#1](https://github.com/Lee-W/pelican-tabular/pull/1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+9. 💪 Opened PR [#2](https://github.com/Lee-W/pelican-tabular/pull/2) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+10. 🎉 Merged PR [#147](https://github.com/Lee-W/main-blog/pull/147) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
