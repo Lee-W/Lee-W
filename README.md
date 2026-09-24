@@ -44,16 +44,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [啊，紅鼻子掉下來了](https://blog.wei-lee.me/posts/random-thoughts/2026/09/red-clown-nose-fell-off/) (Published: 1 day ago)
-* [獨立地圖](https://blog.wei-lee.me/posts/random-thoughts/2026/09/now-i-also-have-my-own-map/) (Published: 2 days ago)
-* [N2 的結果是？？？](https://blog.wei-lee.me/posts/random-thoughts/2026/09/jlpt-n2-result/) (Published: 5 days ago)
+* [啊，紅鼻子掉下來了](https://blog.wei-lee.me/posts/random-thoughts/2026/09/red-clown-nose-fell-off/) (Published: 2 days ago)
+* [獨立地圖](https://blog.wei-lee.me/posts/random-thoughts/2026/09/now-i-also-have-my-own-map/) (Published: 3 days ago)
+* [N2 的結果是？？？](https://blog.wei-lee.me/posts/random-thoughts/2026/09/jlpt-n2-result/) (Published: 6 days ago)
 * [寫作 COSCUP 讀作部落友見面會](https://blog.wei-lee.me/posts/random-thoughts/2026/09/coscup-blogger-meetup/) (Published: 1 week ago)
 * [最近發現的 IG 新功能](https://blog.wei-lee.me/posts/random-thoughts/2026/09/ig-unsend-read-receipt/) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [孩子們也有機位坐](https://travlog.wei-lee.me/posts/travel/2026/09/kids-got-seats-too) (Published: 1 day ago)
- * [開箱《劇場版魔法少女小圓〈瓦爾普吉斯的迴天〉》預售票](https://travlog.wei-lee.me/posts/review/2026/09/madoka-magica-walpurgisnacht-rising-presale-ticket-unboxing) (Published: 3 days ago)
+ * [孩子們也有機位坐](https://travlog.wei-lee.me/posts/travel/2026/09/kids-got-seats-too) (Published: 2 days ago)
+ * [開箱《劇場版魔法少女小圓〈瓦爾普吉斯的迴天〉》預售票](https://travlog.wei-lee.me/posts/review/2026/09/madoka-magica-walpurgisnacht-rising-presale-ticket-unboxing) (Published: 4 days ago)
  * [制縣等級 Level up](https://travlog.wei-lee.me/posts/travel/2026/09/japanex-level-100) (Published: 1 week ago)
  * [野獸先輩主題展](https://travlog.wei-lee.me/posts/review/2026/09/yajuu-senpai-exhibition) (Published: 1 week ago)
  * [劇場版 魔法少女まどか☆マギカ特裝版場刊微開箱](https://travlog.wei-lee.me/posts/review/2026/09/madoka-magica-movie-pamphlet-unboxing) (Published: 1 week ago)
