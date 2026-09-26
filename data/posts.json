@@ -1,6 +1,11 @@
 {
   "tech": [
     {
+      "title": "15 → 14",
+      "url": "https://blog.wei-lee.me/posts/tech/2026/09/airflow-15-to-14/",
+      "date": "2026-09-25"
+    },
+    {
       "title": "啊，紅鼻子掉下來了",
       "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/09/red-clown-nose-fell-off/",
       "date": "2026-09-23"
@@ -9,11 +14,6 @@
       "title": "獨立地圖",
       "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/09/now-i-also-have-my-own-map/",
       "date": "2026-09-21"
-    },
-    {
-      "title": "N2 的結果是？？？",
-      "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/09/jlpt-n2-result/",
-      "date": "2026-09-18"
     }
   ],
   "life": [
