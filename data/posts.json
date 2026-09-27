@@ -1,6 +1,11 @@
 {
   "tech": [
     {
+      "title": "Hour Jungle Café",
+      "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/09/hour-jungle-cafe/",
+      "date": "2026-09-26"
+    },
+    {
       "title": "15 → 14",
       "url": "https://blog.wei-lee.me/posts/tech/2026/09/airflow-15-to-14/",
       "date": "2026-09-25"
@@ -9,14 +14,14 @@
       "title": "啊，紅鼻子掉下來了",
       "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/09/red-clown-nose-fell-off/",
       "date": "2026-09-23"
-    },
-    {
-      "title": "獨立地圖",
-      "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/09/now-i-also-have-my-own-map/",
-      "date": "2026-09-21"
     }
   ],
   "life": [
+    {
+      "title": "我買了一把吉他",
+      "url": "https://travlog.wei-lee.me/posts/review/2026/09/bocchi-the-rock-guitar-scissors",
+      "date": "2026-09-26"
+    },
     {
       "title": "Star Wars: Queen's Hope",
       "url": "https://travlog.wei-lee.me/posts/review/2026/09/queens-hope",
@@ -26,11 +31,6 @@
       "title": "孩子們也有機位坐",
       "url": "https://travlog.wei-lee.me/posts/travel/2026/09/kids-got-seats-too",
       "date": "2026-09-22"
-    },
-    {
-      "title": "開箱《劇場版魔法少女小圓〈瓦爾普吉斯的迴天〉》預售票",
-      "url": "https://travlog.wei-lee.me/posts/review/2026/09/madoka-magica-walpurgisnacht-rising-presale-ticket-unboxing",
-      "date": "2026-09-20"
     }
   ]
 }
