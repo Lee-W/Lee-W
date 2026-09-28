@@ -1,6 +1,11 @@
 {
   "tech": [
     {
+      "title": "Airflow 的前世今生",
+      "url": "https://blog.wei-lee.me/posts/tech/2026/09/happy-birthday-airflow/",
+      "date": "2026-09-27"
+    },
+    {
       "title": "Hour Jungle Café",
       "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/09/hour-jungle-cafe/",
       "date": "2026-09-26"
@@ -9,11 +14,6 @@
       "title": "15 → 14",
       "url": "https://blog.wei-lee.me/posts/tech/2026/09/airflow-15-to-14/",
       "date": "2026-09-25"
-    },
-    {
-      "title": "啊，紅鼻子掉下來了",
-      "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/09/red-clown-nose-fell-off/",
-      "date": "2026-09-23"
     }
   ],
   "life": [
