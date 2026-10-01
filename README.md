@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [Airflow 的前世今生](https://blog.wei-lee.me/posts/tech/2026/09/happy-birthday-airflow/) (Published: 3 days ago)
-* [Hour Jungle Café](https://blog.wei-lee.me/posts/random-thoughts/2026/09/hour-jungle-cafe/) (Published: 4 days ago)
-* [15 → 14](https://blog.wei-lee.me/posts/tech/2026/09/airflow-15-to-14/) (Published: 5 days ago)
+* [Airflow 的前世今生](https://blog.wei-lee.me/posts/tech/2026/09/happy-birthday-airflow/) (Published: 4 days ago)
+* [Hour Jungle Café](https://blog.wei-lee.me/posts/random-thoughts/2026/09/hour-jungle-cafe/) (Published: 5 days ago)
+* [15 → 14](https://blog.wei-lee.me/posts/tech/2026/09/airflow-15-to-14/) (Published: 6 days ago)
 * [啊，紅鼻子掉下來了](https://blog.wei-lee.me/posts/random-thoughts/2026/09/red-clown-nose-fell-off/) (Published: 1 week ago)
 * [獨立地圖](https://blog.wei-lee.me/posts/random-thoughts/2026/09/now-i-also-have-my-own-map/) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [我買了一把吉他](https://travlog.wei-lee.me/posts/review/2026/09/bocchi-the-rock-guitar-scissors) (Published: 4 days ago)
- * [Star Wars: Queen&#39;s Hope](https://travlog.wei-lee.me/posts/review/2026/09/queens-hope) (Published: 6 days ago)
+ * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 1 day ago)
+ * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/ja/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 1 day ago)
+ * [我買了一把吉他](https://travlog.wei-lee.me/posts/review/2026/09/bocchi-the-rock-guitar-scissors) (Published: 5 days ago)
+ * [Star Wars: Queen&#39;s Hope](https://travlog.wei-lee.me/posts/review/2026/09/queens-hope) (Published: 1 week ago)
  * [孩子們也有機位坐](https://travlog.wei-lee.me/posts/travel/2026/09/kids-got-seats-too) (Published: 1 week ago)
- * [開箱《劇場版魔法少女小圓〈瓦爾普吉斯的迴天〉》預售票](https://travlog.wei-lee.me/posts/review/2026/09/madoka-magica-walpurgisnacht-rising-presale-ticket-unboxing) (Published: 1 week ago)
- * [制縣等級 Level up](https://travlog.wei-lee.me/posts/travel/2026/09/japanex-level-100) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
 
-1. 💪 Opened PR [#73932](https://github.com/apache/airflow/pull/73932) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#31](https://github.com/Lee-W/maigo/pull/31) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-3. 💪 Opened PR [#31](https://github.com/Lee-W/maigo/pull/31) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-4. 🗣 Commented on [#58543](https://github.com/apache/airflow/pull/58543#issuecomment-5888517203) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#72149](https://github.com/apache/airflow/pull/72149) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#72940](https://github.com/apache/airflow/pull/72940#issuecomment-5884482196) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#139](https://github.com/Lee-W/travlog/issues/139#issuecomment-5881059688) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-8. 🎉 Merged PR [#73850](https://github.com/apache/airflow/pull/73850) in [apache/airflow](https://github.com/apache/airflow)
-9. 💪 Opened PR [#73850](https://github.com/apache/airflow/pull/73850) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#73658](https://github.com/apache/airflow/issues/73658#issuecomment-5870365443) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#149](https://github.com/Lee-W/travlog/pull/149) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. 🔒 Closed issue [#58056](https://github.com/apache/airflow/issues/58056) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#149](https://github.com/Lee-W/travlog/pull/149) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+4. 🎉 Merged PR [#148](https://github.com/Lee-W/travlog/pull/148) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+5. 💪 Opened PR [#148](https://github.com/Lee-W/travlog/pull/148) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+6. 🎉 Merged PR [#4](https://github.com/Lee-W/ras/pull/4) in [Lee-W/ras](https://github.com/Lee-W/ras)
+7. 💪 Opened PR [#4](https://github.com/Lee-W/ras/pull/4) in [Lee-W/ras](https://github.com/Lee-W/ras)
+8. 🎉 Merged PR [#32](https://github.com/Lee-W/maigo/pull/32) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+9. 💪 Opened PR [#32](https://github.com/Lee-W/maigo/pull/32) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
+10. 🎉 Merged PR [#146](https://github.com/Lee-W/travlog/pull/146) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 
 
 ## ⭐ GitHub Stat
