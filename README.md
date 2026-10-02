@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [Airflow 的前世今生](https://blog.wei-lee.me/posts/tech/2026/09/happy-birthday-airflow/) (Published: 4 days ago)
-* [Hour Jungle Café](https://blog.wei-lee.me/posts/random-thoughts/2026/09/hour-jungle-cafe/) (Published: 5 days ago)
-* [15 → 14](https://blog.wei-lee.me/posts/tech/2026/09/airflow-15-to-14/) (Published: 6 days ago)
+* [Airflow 的前世今生](https://blog.wei-lee.me/posts/tech/2026/09/happy-birthday-airflow/) (Published: 5 days ago)
+* [Hour Jungle Café](https://blog.wei-lee.me/posts/random-thoughts/2026/09/hour-jungle-cafe/) (Published: 6 days ago)
+* [15 → 14](https://blog.wei-lee.me/posts/tech/2026/09/airflow-15-to-14/) (Published: 1 week ago)
 * [啊，紅鼻子掉下來了](https://blog.wei-lee.me/posts/random-thoughts/2026/09/red-clown-nose-fell-off/) (Published: 1 week ago)
 * [獨立地圖](https://blog.wei-lee.me/posts/random-thoughts/2026/09/now-i-also-have-my-own-map/) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 1 day ago)
- * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/ja/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 1 day ago)
- * [我買了一把吉他](https://travlog.wei-lee.me/posts/review/2026/09/bocchi-the-rock-guitar-scissors) (Published: 5 days ago)
+ * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 2 days ago)
+ * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/ja/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 2 days ago)
+ * [我買了一把吉他](https://travlog.wei-lee.me/posts/review/2026/09/bocchi-the-rock-guitar-scissors) (Published: 6 days ago)
  * [Star Wars: Queen&#39;s Hope](https://travlog.wei-lee.me/posts/review/2026/09/queens-hope) (Published: 1 week ago)
  * [孩子們也有機位坐](https://travlog.wei-lee.me/posts/travel/2026/09/kids-got-seats-too) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#149](https://github.com/Lee-W/travlog/pull/149) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-2. 🔒 Closed issue [#58056](https://github.com/apache/airflow/issues/58056) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#149](https://github.com/Lee-W/travlog/pull/149) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-4. 🎉 Merged PR [#148](https://github.com/Lee-W/travlog/pull/148) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 💪 Opened PR [#148](https://github.com/Lee-W/travlog/pull/148) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-6. 🎉 Merged PR [#4](https://github.com/Lee-W/ras/pull/4) in [Lee-W/ras](https://github.com/Lee-W/ras)
-7. 💪 Opened PR [#4](https://github.com/Lee-W/ras/pull/4) in [Lee-W/ras](https://github.com/Lee-W/ras)
-8. 🎉 Merged PR [#32](https://github.com/Lee-W/maigo/pull/32) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-9. 💪 Opened PR [#32](https://github.com/Lee-W/maigo/pull/32) in [Lee-W/maigo](https://github.com/Lee-W/maigo)
-10. 🎉 Merged PR [#146](https://github.com/Lee-W/travlog/pull/146) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 💪 Opened PR [#74065](https://github.com/apache/airflow/pull/74065) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#151](https://github.com/Lee-W/travlog/pull/151) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+3. 🎉 Merged PR [#176](https://github.com/Lee-W/main-blog/pull/176) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+4. 💪 Opened PR [#176](https://github.com/Lee-W/main-blog/pull/176) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+5. 💪 Opened PR [#151](https://github.com/Lee-W/travlog/pull/151) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+6. 🎉 Merged PR [#74024](https://github.com/apache/airflow/pull/74024) in [apache/airflow](https://github.com/apache/airflow)
+7. 🎉 Merged PR [#74028](https://github.com/apache/airflow/pull/74028) in [apache/airflow](https://github.com/apache/airflow)
+8. 💪 Opened PR [#74028](https://github.com/apache/airflow/pull/74028) in [apache/airflow](https://github.com/apache/airflow)
+9. 💪 Opened PR [#74026](https://github.com/apache/airflow/pull/74026) in [apache/airflow](https://github.com/apache/airflow)
+10. 💪 Opened PR [#74024](https://github.com/apache/airflow/pull/74024) in [apache/airflow](https://github.com/apache/airflow)
 
 
 ## ⭐ GitHub Stat
