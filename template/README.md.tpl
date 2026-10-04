@@ -53,16 +53,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#153](https://github.com/Lee-W/travlog/pull/153) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-2. 💪 Opened PR [#153](https://github.com/Lee-W/travlog/pull/153) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-3. 🎉 Merged PR [#152](https://github.com/Lee-W/travlog/pull/152) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-4. 💪 Opened PR [#152](https://github.com/Lee-W/travlog/pull/152) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 🎉 Merged PR [#21](https://github.com/Lee-W/pelican-osm/pull/21) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-6. 💪 Opened PR [#21](https://github.com/Lee-W/pelican-osm/pull/21) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-7. 💪 Opened PR [#179](https://github.com/Lee-W/main-blog/pull/179) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-8. 🎉 Merged PR [#178](https://github.com/Lee-W/main-blog/pull/178) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-9. 💪 Opened PR [#178](https://github.com/Lee-W/main-blog/pull/178) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-10. 🎉 Merged PR [#177](https://github.com/Lee-W/main-blog/pull/177) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+1. 💪 Opened PR [#156](https://github.com/Lee-W/travlog/pull/156) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+2. 🎉 Merged PR [#25](https://github.com/Lee-W/pelican-osm/pull/25) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+3. 💪 Opened PR [#25](https://github.com/Lee-W/pelican-osm/pull/25) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+4. 🚀 Published release [0.10.2](https://github.com/Lee-W/pelican-tabular/releases/tag/0.10.2) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+5. 🎉 Merged PR [#11](https://github.com/Lee-W/pelican-tabular/pull/11) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+6. 💪 Opened PR [#11](https://github.com/Lee-W/pelican-tabular/pull/11) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+7. 🎉 Merged PR [#155](https://github.com/Lee-W/travlog/pull/155) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+8. 💪 Opened PR [#155](https://github.com/Lee-W/travlog/pull/155) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+9. 🚀 Published release [0.10.1](https://github.com/Lee-W/pelican-tabular/releases/tag/0.10.1) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
+10. 🎉 Merged PR [#10](https://github.com/Lee-W/pelican-tabular/pull/10) in [Lee-W/pelican-tabular](https://github.com/Lee-W/pelican-tabular)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
