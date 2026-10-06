@@ -44,33 +44,33 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [CWT 73](https://blog.wei-lee.me/posts/random-thoughts/2026/10/cwt-73/) (Published: today)
-* [Synology Photos 驗證碼又又又又又沒用了](https://blog.wei-lee.me/posts/tech/2026/10/synology-photos-otp-not-working/) (Published: 3 days ago)
+* [CWT 73](https://blog.wei-lee.me/posts/random-thoughts/2026/10/cwt-73/) (Published: 1 day ago)
+* [Synology Photos 驗證碼又又又又又沒用了](https://blog.wei-lee.me/posts/tech/2026/10/synology-photos-otp-not-working/) (Published: 4 days ago)
 * [Airflow 的前世今生](https://blog.wei-lee.me/posts/tech/2026/09/happy-birthday-airflow/) (Published: 1 week ago)
 * [Hour Jungle Café](https://blog.wei-lee.me/posts/random-thoughts/2026/09/hour-jungle-cafe/) (Published: 1 week ago)
 * [15 → 14](https://blog.wei-lee.me/posts/tech/2026/09/airflow-15-to-14/) (Published: 1 week ago)
 
 ### Those things no one cares about
  
- * [最近走過的幾個聖地，2026 年夏](https://travlog.wei-lee.me/posts/travel/2026/10/pilgrimage-map-update-2026-summer) (Published: 1 day ago)
- * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 5 days ago)
- * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/ja/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 5 days ago)
+ * [最近走過的幾個聖地，2026 年夏](https://travlog.wei-lee.me/posts/travel/2026/10/pilgrimage-map-update-2026-summer) (Published: 2 days ago)
+ * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 6 days ago)
+ * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/ja/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 6 days ago)
  * [我買了一把吉他](https://travlog.wei-lee.me/posts/review/2026/09/bocchi-the-rock-guitar-scissors) (Published: 1 week ago)
  * [Star Wars: Queen&#39;s Hope](https://travlog.wei-lee.me/posts/review/2026/09/queens-hope) (Published: 1 week ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#154](https://github.com/Lee-W/main-blog/pull/154) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 🎉 Merged PR [#6](https://github.com/Lee-W/ras/pull/6) in [Lee-W/ras](https://github.com/Lee-W/ras)
-3. 💪 Opened PR [#6](https://github.com/Lee-W/ras/pull/6) in [Lee-W/ras](https://github.com/Lee-W/ras)
-4. 💪 Opened PR [#181](https://github.com/Lee-W/main-blog/pull/181) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-5. 🎉 Merged PR [#27](https://github.com/Lee-W/pelican-osm/pull/27) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-6. 🎉 Merged PR [#5](https://github.com/Lee-W/ras/pull/5) in [Lee-W/ras](https://github.com/Lee-W/ras)
-7. 💪 Opened PR [#5](https://github.com/Lee-W/ras/pull/5) in [Lee-W/ras](https://github.com/Lee-W/ras)
-8. 💪 Opened PR [#27](https://github.com/Lee-W/pelican-osm/pull/27) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-9. 🎉 Merged PR [#158](https://github.com/Lee-W/travlog/pull/158) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-10. 🎉 Merged PR [#180](https://github.com/Lee-W/main-blog/pull/180) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+1. 💪 Opened PR [#74223](https://github.com/apache/airflow/pull/74223) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#154](https://github.com/Lee-W/main-blog/pull/154) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+3. 🎉 Merged PR [#6](https://github.com/Lee-W/ras/pull/6) in [Lee-W/ras](https://github.com/Lee-W/ras)
+4. 💪 Opened PR [#6](https://github.com/Lee-W/ras/pull/6) in [Lee-W/ras](https://github.com/Lee-W/ras)
+5. 💪 Opened PR [#181](https://github.com/Lee-W/main-blog/pull/181) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+6. 🎉 Merged PR [#27](https://github.com/Lee-W/pelican-osm/pull/27) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+7. 🎉 Merged PR [#5](https://github.com/Lee-W/ras/pull/5) in [Lee-W/ras](https://github.com/Lee-W/ras)
+8. 💪 Opened PR [#5](https://github.com/Lee-W/ras/pull/5) in [Lee-W/ras](https://github.com/Lee-W/ras)
+9. 💪 Opened PR [#27](https://github.com/Lee-W/pelican-osm/pull/27) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+10. 🎉 Merged PR [#158](https://github.com/Lee-W/travlog/pull/158) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 
 
 ## ⭐ GitHub Stat
