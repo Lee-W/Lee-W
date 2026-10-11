@@ -53,11 +53,11 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74486](https://github.com/apache/airflow/pull/74486) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#74448](https://github.com/apache/airflow/pull/74448) in [apache/airflow](https://github.com/apache/airflow)
-3. 🎉 Merged PR [#74450](https://github.com/apache/airflow/pull/74450) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#74449](https://github.com/apache/airflow/pull/74449) in [apache/airflow](https://github.com/apache/airflow)
-5. 🗣 Commented on [#74443](https://github.com/apache/airflow/pull/74443#issuecomment-6075146084) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#74545](https://github.com/apache/airflow/pull/74545) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#72939](https://github.com/apache/airflow/pull/72939#issuecomment-6100752429) in [apache/airflow](https://github.com/apache/airflow)
+3. 🎉 Merged PR [#74444](https://github.com/apache/airflow/pull/74444) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#74486](https://github.com/apache/airflow/pull/74486) in [apache/airflow](https://github.com/apache/airflow)
+5. 🎉 Merged PR [#74448](https://github.com/apache/airflow/pull/74448) in [apache/airflow](https://github.com/apache/airflow)
 6. 🎉 Merged PR [#74443](https://github.com/apache/airflow/pull/74443) in [apache/airflow](https://github.com/apache/airflow)
 7. 💪 Opened PR [#74488](https://github.com/apache/airflow/pull/74488) in [apache/airflow](https://github.com/apache/airflow)
 8. 💪 Opened PR [#74487](https://github.com/apache/airflow/pull/74487) in [apache/airflow](https://github.com/apache/airflow)
