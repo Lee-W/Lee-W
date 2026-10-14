@@ -44,7 +44,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [禮拜其實是 0-based 的嗎？！](https://blog.wei-lee.me/posts/random-thoughts/2026/10/is-weekday-zero-based/) (Published: 1 day ago)
+* [禮拜其實是 0-based 的嗎？！](https://blog.wei-lee.me/posts/random-thoughts/2026/10/is-weekday-zero-based/) (Published: 2 days ago)
 * [CWT 73](https://blog.wei-lee.me/posts/random-thoughts/2026/10/cwt-73/) (Published: 1 week ago)
 * [Synology Photos 驗證碼又又又又又沒用了](https://blog.wei-lee.me/posts/tech/2026/10/synology-photos-otp-not-working/) (Published: 1 week ago)
 * [Airflow 的前世今生](https://blog.wei-lee.me/posts/tech/2026/09/happy-birthday-airflow/) (Published: 2 weeks ago)
@@ -53,19 +53,19 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ### Those things no one cares about
  
  * [最近走過的幾個聖地，2026 年夏](https://travlog.wei-lee.me/posts/travel/2026/10/pilgrimage-map-update-2026-summer) (Published: 1 week ago)
- * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 1 week ago)
- * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/ja/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 1 week ago)
+ * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 2 weeks ago)
+ * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/ja/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 2 weeks ago)
  * [我買了一把吉他](https://travlog.wei-lee.me/posts/review/2026/09/bocchi-the-rock-guitar-scissors) (Published: 2 weeks ago)
  * [Star Wars: Queen&#39;s Hope](https://travlog.wei-lee.me/posts/review/2026/09/queens-hope) (Published: 2 weeks ago)
 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#162](https://github.com/Lee-W/travlog/pull/162) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-2. 🎉 Merged PR [#72939](https://github.com/apache/airflow/pull/72939) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#162](https://github.com/Lee-W/travlog/pull/162) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-4. 🎉 Merged PR [#161](https://github.com/Lee-W/travlog/pull/161) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 💪 Opened PR [#161](https://github.com/Lee-W/travlog/pull/161) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🗣 Commented on [#71072](https://github.com/apache/airflow/pull/71072#issuecomment-6142863373) in [apache/airflow](https://github.com/apache/airflow)
+2. 🎉 Merged PR [#74545](https://github.com/apache/airflow/pull/74545) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#74627](https://github.com/apache/airflow/pull/74627) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#74626](https://github.com/apache/airflow/pull/74626) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#74625](https://github.com/apache/airflow/pull/74625) in [apache/airflow](https://github.com/apache/airflow)
 6. 🎉 Merged PR [#146](https://github.com/Lee-W/main-blog/pull/146) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 7. 🎉 Merged PR [#74447](https://github.com/apache/airflow/pull/74447) in [apache/airflow](https://github.com/apache/airflow)
 8. 🎉 Merged PR [#74487](https://github.com/apache/airflow/pull/74487) in [apache/airflow](https://github.com/apache/airflow)
