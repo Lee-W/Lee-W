@@ -44,15 +44,15 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [禮拜其實是 0-based 的嗎？！](https://blog.wei-lee.me/posts/random-thoughts/2026/10/is-weekday-zero-based/) (Published: 3 days ago)
+* [禮拜其實是 0-based 的嗎？！](https://blog.wei-lee.me/posts/random-thoughts/2026/10/is-weekday-zero-based/) (Published: 4 days ago)
 * [CWT 73](https://blog.wei-lee.me/posts/random-thoughts/2026/10/cwt-73/) (Published: 1 week ago)
-* [Synology Photos 驗證碼又又又又又沒用了](https://blog.wei-lee.me/posts/tech/2026/10/synology-photos-otp-not-working/) (Published: 1 week ago)
+* [Synology Photos 驗證碼又又又又又沒用了](https://blog.wei-lee.me/posts/tech/2026/10/synology-photos-otp-not-working/) (Published: 2 weeks ago)
 * [Airflow 的前世今生](https://blog.wei-lee.me/posts/tech/2026/09/happy-birthday-airflow/) (Published: 2 weeks ago)
 * [Hour Jungle Café](https://blog.wei-lee.me/posts/random-thoughts/2026/09/hour-jungle-cafe/) (Published: 2 weeks ago)
 
 ### Those things no one cares about
  
- * [金獅取水](https://travlog.wei-lee.me/posts/review/2026/10/golden-lion-cafe-brunch) (Published: 1 day ago)
+ * [金獅取水](https://travlog.wei-lee.me/posts/review/2026/10/golden-lion-cafe-brunch) (Published: 2 days ago)
  * [最近走過的幾個聖地，2026 年夏](https://travlog.wei-lee.me/posts/travel/2026/10/pilgrimage-map-update-2026-summer) (Published: 1 week ago)
  * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 2 weeks ago)
  * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/ja/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 2 weeks ago)
@@ -61,8 +61,8 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 
 
-1. 🗣 Commented on [#74715](https://github.com/apache/airflow/pull/74715#issuecomment-6170995309) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#116](https://github.com/Lee-W/travlog/pull/116) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🎉 Merged PR [#74715](https://github.com/apache/airflow/pull/74715) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#74715](https://github.com/apache/airflow/pull/74715#issuecomment-6170995309) in [apache/airflow](https://github.com/apache/airflow)
 3. 🎉 Merged PR [#74706](https://github.com/apache/airflow/pull/74706) in [apache/airflow](https://github.com/apache/airflow)
 4. 🎉 Merged PR [#74713](https://github.com/apache/airflow/pull/74713) in [apache/airflow](https://github.com/apache/airflow)
 5. 🗣 Commented on [#74627](https://github.com/apache/airflow/pull/74627#issuecomment-6165741712) in [apache/airflow](https://github.com/apache/airflow)
