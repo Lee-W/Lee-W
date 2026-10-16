@@ -53,8 +53,8 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74715](https://github.com/apache/airflow/pull/74715#issuecomment-6170995309) in [apache/airflow](https://github.com/apache/airflow)
-2. 🎉 Merged PR [#116](https://github.com/Lee-W/travlog/pull/116) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🎉 Merged PR [#74715](https://github.com/apache/airflow/pull/74715) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#74715](https://github.com/apache/airflow/pull/74715#issuecomment-6170995309) in [apache/airflow](https://github.com/apache/airflow)
 3. 🎉 Merged PR [#74706](https://github.com/apache/airflow/pull/74706) in [apache/airflow](https://github.com/apache/airflow)
 4. 🎉 Merged PR [#74713](https://github.com/apache/airflow/pull/74713) in [apache/airflow](https://github.com/apache/airflow)
 5. 🗣 Commented on [#74627](https://github.com/apache/airflow/pull/74627#issuecomment-6165741712) in [apache/airflow](https://github.com/apache/airflow)
