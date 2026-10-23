@@ -67,12 +67,12 @@
       <img class="avatar" src="/images/avatar.jpg" alt="" width="82" height="82">
       <div class="identity-copy">
         <h1>
-          <span data-lang="zh">李唯 <span class="name-alt">/ Wei Lee</span></span>
-          <span data-lang="en">Wei Lee <span class="name-alt">/ 李唯</span></span>
-          <span data-lang="ja"><ruby>李<rp>(</rp><rt>リ</rt><rp>)</rp>唯<rp>(</rp><rt>ウェイ</rt><rp>)</rp></ruby> <span class="name-alt">/ Wei Lee</span></span>
+          <span data-lang="zh" lang="zh-Hant">李唯 <span class="name-alt" lang="en">/ Wei Lee</span></span>
+          <span data-lang="en" lang="en">Wei Lee <span class="name-alt" lang="zh-Hant">/ 李唯</span></span>
+          <span data-lang="ja" lang="ja"><ruby>李<rp>(</rp><rt>リ</rt><rp>)</rp>唯<rp>(</rp><rt>ウェイ</rt><rp>)</rp></ruby> <span class="name-alt" lang="en">/ Wei Lee</span></span>
         </h1>
         <p class="bio">
-          <span data-lang="$lang">$bio</span>
+          <span data-lang="$lang" lang="$html_lang">$bio</span>
         </p>
       </div>
     </header>
@@ -80,20 +80,20 @@
     <nav class="paths" aria-label="$paths_label">
       <a id="aboutLink" class="path path-about" href="https://blog.wei-lee.me$blog_language_path/pages/about-me" rel="noopener noreferrer">
         <span class="role-icon glyph path-icon" aria-hidden="true">◔</span>
-        <span class="path-title"><span data-lang="$lang">$about</span></span>
-        <span class="path-subtitle"><span data-lang="$lang">$about_subtitle</span></span>
+        <span class="path-title"><span data-lang="$lang" lang="$html_lang">$about</span></span>
+        <span class="path-subtitle"><span data-lang="$lang" lang="$html_lang">$about_subtitle</span></span>
         <span class="path-arrow" aria-hidden="true">›</span>
       </a>
       <a class="path path-tech" href="https://blog.wei-lee.me/" rel="noopener noreferrer">
         <span class="role-icon glyph path-icon" aria-hidden="true">✎</span>
-        <span class="path-title"><span data-lang="$lang">$tech_title</span></span>
-        <span class="path-subtitle"><span data-lang="$lang">$tech_subtitle</span></span>
+        <span class="path-title"><span data-lang="$lang" lang="$html_lang">$tech_title</span></span>
+        <span class="path-subtitle"><span data-lang="$lang" lang="$html_lang">$tech_subtitle</span></span>
         <span class="path-arrow" aria-hidden="true">›</span>
       </a>
       <a class="path path-life" href="https://travlog.wei-lee.me/" rel="noopener noreferrer">
         <span class="role-icon glyph path-icon" aria-hidden="true">🧭</span>
-        <span class="path-title"><span data-lang="$lang">$life_title</span></span>
-        <span class="path-subtitle"><span data-lang="$lang">$life_subtitle</span></span>
+        <span class="path-title"><span data-lang="$lang" lang="$html_lang">$life_title</span></span>
+        <span class="path-subtitle"><span data-lang="$lang" lang="$html_lang">$life_subtitle</span></span>
         <span class="path-arrow" aria-hidden="true">›</span>
       </a>
     </nav>
@@ -101,8 +101,8 @@
     <a id="nowLink" class="now" href="https://blog.wei-lee.me$blog_language_path/pages/now" rel="noopener noreferrer">
       <span class="role-icon glyph now-icon" aria-hidden="true">◷</span>
       <span>
-        <strong><span data-lang="$lang">$now</span></strong>
-        <span class="now-detail"><span data-lang="$lang">$now_detail</span></span>
+        <strong><span data-lang="$lang" lang="$html_lang">$now</span></strong>
+        <span class="now-detail"><span data-lang="$lang" lang="$html_lang">$now_detail</span></span>
       </span>
       <span class="now-arrow" aria-hidden="true">→</span>
     </a>
@@ -111,7 +111,7 @@
       <article class="blog-card tech">
         <div class="blog-head">
           <div>
-            <h2><a href="https://blog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="$lang">$tech_blog</span></a></h2>
+            <h2><a href="https://blog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="$lang" lang="$html_lang">$tech_blog</span></a></h2>
           </div>
           <a class="rss" href="https://blog.wei-lee.me/feeds/all.atom.xml" aria-label="$tech_rss_label"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
@@ -123,7 +123,7 @@
       <article class="blog-card life">
         <div class="blog-head">
           <div>
-            <h2><a href="https://travlog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="$lang">$life_blog</span></a></h2>
+            <h2><a href="https://travlog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="$lang" lang="$html_lang">$life_blog</span></a></h2>
           </div>
           <a class="rss" href="https://travlog.wei-lee.me/feeds/all.atom.xml" aria-label="$life_rss_label"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
@@ -134,15 +134,15 @@
     </section>
 
     <ul class="roles" aria-label="$roles_label">
-      <li><span class="role-icon"><img src="/images/python.svg" alt=""></span><span data-lang="$lang">$python</span></li>
-      <li><a href="https://tw.pycon.org/" rel="noopener noreferrer"><span class="role-icon pycon"><img src="/images/pycontw.svg" alt=""></span><span data-lang="$lang">$pycon</span></a></li>
-      <li><a href="https://airflow.apache.org/" rel="noopener noreferrer"><span class="role-icon"><img src="/images/airflow.svg" alt=""></span><span data-lang="$lang">$airflow</span></a></li>
-      <li><a href="https://github.com/commitizen-tools" rel="noopener noreferrer"><img class="role-icon" src="/images/commitizen.svg" alt=""><span data-lang="$lang">$commitizen</span></a></li>
-      <li><a href="https://travlog.wei-lee.me/pages/pilgrimage" rel="noopener noreferrer"><img class="role-icon" src="/images/traveler.svg" alt=""><span data-lang="$lang">$traveler</span></a></li>
+      <li><span class="role-icon"><img src="/images/python.svg" alt=""></span><span data-lang="$lang" lang="$html_lang">$python</span></li>
+      <li><a href="https://tw.pycon.org/" rel="noopener noreferrer"><span class="role-icon pycon"><img src="/images/pycontw.svg" alt=""></span><span data-lang="$lang" lang="$html_lang">$pycon</span></a></li>
+      <li><a href="https://airflow.apache.org/" rel="noopener noreferrer"><span class="role-icon"><img src="/images/airflow.svg" alt=""></span><span data-lang="$lang" lang="$html_lang">$airflow</span></a></li>
+      <li><a href="https://github.com/commitizen-tools" rel="noopener noreferrer"><img class="role-icon" src="/images/commitizen.svg" alt=""><span data-lang="$lang" lang="$html_lang">$commitizen</span></a></li>
+      <li><a href="https://travlog.wei-lee.me/pages/pilgrimage" rel="noopener noreferrer"><img class="role-icon" src="/images/traveler.svg" alt=""><span data-lang="$lang" lang="$html_lang">$traveler</span></a></li>
       <li><a href="https://twitter.com/Taiwannokuru" rel="noopener noreferrer"><span class="role-icon glyph" aria-hidden="true">⛺</span><span>台湾野クル▲</span></a></li>
-      <li><a href="https://travlog.wei-lee.me/pages/story-ranking" rel="noopener noreferrer"><img class="role-icon" src="/images/anime.svg" alt=""><span data-lang="$lang">$anime</span></a></li>
-      <li><a href="https://blog.wei-lee.me/category/book" rel="noopener noreferrer"><span class="role-icon glyph" aria-hidden="true">📖</span><span data-lang="$lang">$books</span></a></li>
-      <li><span class="role-icon glyph" aria-hidden="true">♪</span><span data-lang="$lang">$ukulele</span></li>
+      <li><a href="https://travlog.wei-lee.me/pages/story-ranking" rel="noopener noreferrer"><img class="role-icon" src="/images/anime.svg" alt=""><span data-lang="$lang" lang="$html_lang">$anime</span></a></li>
+      <li><a href="https://blog.wei-lee.me/category/book" rel="noopener noreferrer"><span class="role-icon glyph" aria-hidden="true">📖</span><span data-lang="$lang" lang="$html_lang">$books</span></a></li>
+      <li><span class="role-icon glyph" aria-hidden="true">♪</span><span data-lang="$lang" lang="$html_lang">$ukulele</span></li>
       <li><span class="role-icon glyph" aria-hidden="true">🔒</span><span>Locker</span></li>
     </ul>
 
@@ -152,7 +152,7 @@
       <a href="https://tw.linkedin.com/in/clleew" rel="noopener noreferrer"><i class="fa-brands fa-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
       <a href="https://twitter.com/clleew" rel="noopener noreferrer"><i class="fa-brands fa-twitter" aria-hidden="true"></i><span>Twitter</span></a>
       <a href="https://g0v.social/@weilee" rel="noopener noreferrer"><i class="fa-brands fa-mastodon" aria-hidden="true"></i><span>Mastodon</span></a>
-      <a href="/card/?utm_source=home"><i class="fa-regular fa-address-card" aria-hidden="true"></i><span data-lang="$lang">$card</span></a>
+      <a href="/card/?utm_source=home"><i class="fa-regular fa-address-card" aria-hidden="true"></i><span data-lang="$lang" lang="$html_lang">$card</span></a>
     </nav>
   </main>
   <script src="/js/home.js"></script>

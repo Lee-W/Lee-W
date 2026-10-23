@@ -1,3 +1,12 @@
+@font-face { font-family: "TC Sans Fallback"; src: local("PingFangTC-Regular"); size-adjust: 98.5%; }
+@font-face { font-family: "TC Sans Fallback"; src: local("PingFangTC-Medium"); font-weight: 500; size-adjust: 98.5%; }
+@font-face { font-family: "TC Sans Fallback"; src: local("PingFangTC-Semibold"); font-weight: 700; size-adjust: 98.5%; }
+@font-face { font-family: "TC Serif Fallback"; src: local("STSongti-TC-Bold"); font-weight: 700; size-adjust: 104.5%; }
+@font-face { font-family: "JP Sans Fallback"; src: local("HiraginoSans-W3"); size-adjust: 98%; }
+@font-face { font-family: "JP Sans Fallback"; src: local("HiraginoSans-W5"); font-weight: 500; size-adjust: 98%; }
+@font-face { font-family: "JP Sans Fallback"; src: local("HiraginoSans-W6"); font-weight: 700; size-adjust: 98%; }
+@font-face { font-family: "JP Serif Fallback"; src: local("HiraMinProN-W6"); font-weight: 700; size-adjust: 99.5%; }
+
 :root {
   --bg: #f4f2ec;
   --surface: #fff;
@@ -9,12 +18,12 @@
   --accent: #2f5d3f;
   --accent-soft: #e7ede7;
   --on-accent: #fff;
-  --serif: "Noto Serif TC", "Songti TC", "PMingLiU", serif;
-  --sans: "Noto Sans TC", "PingFang TC", "Hiragino Sans", "Microsoft JhengHei", sans-serif;
+  --serif: "Noto Serif TC", "TC Serif Fallback", "Songti TC", "PMingLiU", serif;
+  --sans: "Noto Sans TC", "TC Sans Fallback", "PingFang TC", "Hiragino Sans", "Microsoft JhengHei", sans-serif;
   --mono: "IBM Plex Mono", "SFMono-Regular", "Menlo", monospace;
   --latin-serif: Georgia, "Times New Roman", serif;
   --latin-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --ja-sans: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", "Meiryo",
+  --ja-sans: "Noto Sans JP", "JP Sans Fallback", "Hiragino Sans", "Yu Gothic", "Meiryo",
              "Noto Sans TC", "PingFang TC", sans-serif;
   --radius: 13px;
 }
@@ -513,6 +522,7 @@ body.is-presenting { overflow: hidden; }
    Chinese glyph forms, or drops them to a system fallback mid-sentence. */
 .lang-ja [data-lang="ja"] {
   font-family: var(--ja-sans);
+  font-kerning: none; /* Chromium kerns kana pairs (ー) that Firefox does not */
   line-height: 1.5;
 }
 

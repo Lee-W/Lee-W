@@ -71,9 +71,9 @@
 
     function flash(zh, en, ja) {
       label.innerHTML =
-        '<span data-lang="zh">' + zh + '</span>' +
-        '<span data-lang="en">' + en + '</span>' +
-        '<span data-lang="ja">' + ja + '</span>';
+        '<span data-lang="zh" lang="zh-Hant">' + zh + '</span>' +
+        '<span data-lang="en" lang="en">' + en + '</span>' +
+        '<span data-lang="ja" lang="ja">' + ja + '</span>';
       clearTimeout(resetTimer);
       resetTimer = setTimeout(() => {
         label.innerHTML = original;

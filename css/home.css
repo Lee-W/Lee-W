@@ -1,3 +1,12 @@
+@font-face { font-family: "TC Sans Fallback"; src: local("PingFangTC-Regular"); size-adjust: 98.5%; }
+@font-face { font-family: "TC Sans Fallback"; src: local("PingFangTC-Medium"); font-weight: 500; size-adjust: 98.5%; }
+@font-face { font-family: "TC Sans Fallback"; src: local("PingFangTC-Semibold"); font-weight: 700; size-adjust: 98.5%; }
+@font-face { font-family: "TC Serif Fallback"; src: local("STSongti-TC-Bold"); font-weight: 700; size-adjust: 104.5%; }
+@font-face { font-family: "JP Sans Fallback"; src: local("HiraginoSans-W3"); size-adjust: 98%; }
+@font-face { font-family: "JP Sans Fallback"; src: local("HiraginoSans-W5"); font-weight: 500; size-adjust: 98%; }
+@font-face { font-family: "JP Sans Fallback"; src: local("HiraginoSans-W6"); font-weight: 700; size-adjust: 98%; }
+@font-face { font-family: "JP Serif Fallback"; src: local("HiraMinProN-W6"); font-weight: 700; size-adjust: 99.5%; }
+
 :root {
   --bg: #f4f2ec;
   --surface: #fff;
@@ -12,13 +21,14 @@
   --on-accent: #fff;
   --accent-soft: #e7ede7;
   --life: #8a6a2f;
-  --serif: "Noto Serif TC", "Songti TC", "PMingLiU", serif;
-  --sans: "Noto Sans TC", "PingFang TC", "Hiragino Sans", "Microsoft JhengHei", sans-serif;
+  --serif: "Noto Serif TC", "TC Serif Fallback", "Songti TC", "PMingLiU", serif;
+  --sans: "Noto Sans TC", "TC Sans Fallback", "PingFang TC", "Hiragino Sans", "Microsoft JhengHei", sans-serif;
   --mono: "IBM Plex Mono", "SFMono-Regular", "Menlo", monospace;
   --latin-serif: Georgia, "Times New Roman", serif;
   --latin-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --ja-serif: "Noto Serif JP", "Yu Mincho", "Hiragino Mincho ProN", serif;
-  --ja-sans: "Noto Sans JP", "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif;
+  --ja-serif: "Noto Serif JP", "JP Serif Fallback", "Yu Mincho", "Hiragino Mincho ProN", serif;
+  --ja-sans: "Noto Sans JP", "JP Sans Fallback", "Hiragino Sans", "Yu Gothic", "Meiryo",
+             "Noto Sans TC", "PingFang TC", sans-serif;
   --radius: 13px;
 }
 
@@ -372,18 +382,6 @@ img.role-icon {
   font-size: 1.02em;
 }
 
-@-moz-document url-prefix() {
-  .lang-zh [data-lang="zh"] {
-    font-size: 1.08em;
-  }
-
-  .lang-zh h1 [data-lang="zh"],
-  .lang-zh .path-title [data-lang="zh"],
-  .lang-zh .blog-card h2 [data-lang="zh"] {
-    font-size: 1.12em;
-  }
-}
-
 .lang-en [data-lang="en"] {
   font-family: var(--latin-serif);
   font-kerning: normal;
@@ -401,6 +399,7 @@ img.role-icon {
 
 .lang-ja [data-lang="ja"] {
   font-family: var(--ja-sans);
+  font-kerning: none; /* Chromium kerns kana pairs (ー) that Firefox does not */
   line-height: 1.5;
 }
 
