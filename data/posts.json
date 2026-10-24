@@ -1,6 +1,11 @@
 {
   "tech": [
     {
+      "title": "第一件在日本感到開心的事",
+      "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/10/first-happy-thing-in-japan/",
+      "date": "2026-10-23"
+    },
+    {
       "title": "禮拜其實是 0-based 的嗎？！",
       "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/10/is-weekday-zero-based/",
       "date": "2026-10-12"
@@ -9,14 +14,14 @@
       "title": "CWT 73",
       "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/10/cwt-73/",
       "date": "2026-10-05"
-    },
-    {
-      "title": "Synology Photos 驗證碼又又又又又沒用了",
-      "url": "https://blog.wei-lee.me/posts/tech/2026/10/synology-photos-otp-not-working/",
-      "date": "2026-10-02"
     }
   ],
   "life": [
+    {
+      "title": "麵屋雞金 光華店",
+      "url": "https://travlog.wei-lee.me/posts/review/2026/10/menya-torikin-guanghua",
+      "date": "2026-10-24"
+    },
     {
       "title": "金獅取水",
       "url": "https://travlog.wei-lee.me/posts/review/2026/10/golden-lion-cafe-brunch",
@@ -26,11 +31,6 @@
       "title": "最近走過的幾個聖地，2026 年夏",
       "url": "https://travlog.wei-lee.me/posts/travel/2026/10/pilgrimage-map-update-2026-summer",
       "date": "2026-10-04"
-    },
-    {
-      "title": "渡瀬結月 × KINGLYMASK 一日店長",
-      "url": "https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager",
-      "date": "2026-10-01"
     }
   ]
 }
