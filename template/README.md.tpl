@@ -53,16 +53,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/opensource4you/readme/pull/57#issuecomment-6378950815) in [opensource4you/readme](https://github.com/opensource4you/readme)
-2. 🎉 Merged PR [#117](https://github.com/Lee-W/travlog/pull/117) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-3. 🎉 Merged PR [#172](https://github.com/Lee-W/travlog/pull/172) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-4. 🎉 Merged PR [#191](https://github.com/Lee-W/main-blog/pull/191) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-5. 💪 Opened PR [#191](https://github.com/Lee-W/main-blog/pull/191) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-6. 💪 Opened PR [#172](https://github.com/Lee-W/travlog/pull/172) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-7. ℹ️ Labeled PR [#75450](https://github.com/apache/airflow/pull/75450) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#28](https://github.com/Lee-W/pelican-osm/pull/28) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-9. 💪 Opened PR [#28](https://github.com/Lee-W/pelican-osm/pull/28) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-10. 🎉 Merged PR [#10](https://github.com/Lee-W/ras/pull/10) in [Lee-W/ras](https://github.com/Lee-W/ras)
+1. 🚀 Published release [0.2.0](https://github.com/Lee-W/pelican-i18n-feeds/releases/tag/0.2.0) in [Lee-W/pelican-i18n-feeds](https://github.com/Lee-W/pelican-i18n-feeds)
+2. 🚀 Published release [0.2.3](https://github.com/Lee-W/pelican-summary-link/releases/tag/0.2.3) in [Lee-W/pelican-summary-link](https://github.com/Lee-W/pelican-summary-link)
+3. 🚀 Published release [0.3.0](https://github.com/Lee-W/pelican-random-article/releases/tag/0.3.0) in [Lee-W/pelican-random-article](https://github.com/Lee-W/pelican-random-article)
+4. 🚀 Published release [0.20.1](https://github.com/Lee-W/pelican-osm/releases/tag/0.20.1) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+5. 🚀 Published release [0.5.0](https://github.com/Lee-W/pelican-on-this-day/releases/tag/0.5.0) in [Lee-W/pelican-on-this-day](https://github.com/Lee-W/pelican-on-this-day)
+6. ❌ Closed PR [#246](https://github.com/Lee-W/cookiecutter-python-template/pull/246) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+7. ❌ Closed PR [#245](https://github.com/Lee-W/cookiecutter-python-template/pull/245) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+8. ❌ Closed PR [#12](https://github.com/Lee-W/cookiecutter-python-template/pull/12) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+9. 🎉 Merged PR [#247](https://github.com/Lee-W/cookiecutter-python-template/pull/247) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
+10. 🎉 Merged PR [#35](https://github.com/Lee-W/ring/pull/35) in [Lee-W/ring](https://github.com/Lee-W/ring)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
