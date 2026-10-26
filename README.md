@@ -44,15 +44,15 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [第一件在日本感到開心的事](https://blog.wei-lee.me/posts/random-thoughts/2026/10/first-happy-thing-in-japan/) (Published: 2 days ago)
-* [禮拜其實是 0-based 的嗎？！](https://blog.wei-lee.me/posts/random-thoughts/2026/10/is-weekday-zero-based/) (Published: 1 week ago)
-* [CWT 73](https://blog.wei-lee.me/posts/random-thoughts/2026/10/cwt-73/) (Published: 2 weeks ago)
+* [第一件在日本感到開心的事](https://blog.wei-lee.me/posts/random-thoughts/2026/10/first-happy-thing-in-japan/) (Published: 3 days ago)
+* [禮拜其實是 0-based 的嗎？！](https://blog.wei-lee.me/posts/random-thoughts/2026/10/is-weekday-zero-based/) (Published: 2 weeks ago)
+* [CWT 73](https://blog.wei-lee.me/posts/random-thoughts/2026/10/cwt-73/) (Published: 3 weeks ago)
 * [Synology Photos 驗證碼又又又又又沒用了](https://blog.wei-lee.me/posts/tech/2026/10/synology-photos-otp-not-working/) (Published: 3 weeks ago)
 * [Airflow 的前世今生](https://blog.wei-lee.me/posts/tech/2026/09/happy-birthday-airflow/) (Published: 4 weeks ago)
 
 ### Those things no one cares about
  
- * [麵屋雞金 光華店](https://travlog.wei-lee.me/posts/review/2026/10/menya-torikin-guanghua) (Published: 1 day ago)
+ * [麵屋雞金 光華店](https://travlog.wei-lee.me/posts/review/2026/10/menya-torikin-guanghua) (Published: 2 days ago)
  * [金獅取水](https://travlog.wei-lee.me/posts/review/2026/10/golden-lion-cafe-brunch) (Published: 1 week ago)
  * [最近走過的幾個聖地，2026 年夏](https://travlog.wei-lee.me/posts/travel/2026/10/pilgrimage-map-update-2026-summer) (Published: 3 weeks ago)
  * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 3 weeks ago)
@@ -61,16 +61,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 
 
-1. 🚀 Published release [0.2.0](https://github.com/Lee-W/pelican-i18n-feeds/releases/tag/0.2.0) in [Lee-W/pelican-i18n-feeds](https://github.com/Lee-W/pelican-i18n-feeds)
-2. 🚀 Published release [0.2.3](https://github.com/Lee-W/pelican-summary-link/releases/tag/0.2.3) in [Lee-W/pelican-summary-link](https://github.com/Lee-W/pelican-summary-link)
-3. 🚀 Published release [0.3.0](https://github.com/Lee-W/pelican-random-article/releases/tag/0.3.0) in [Lee-W/pelican-random-article](https://github.com/Lee-W/pelican-random-article)
-4. 🚀 Published release [0.20.1](https://github.com/Lee-W/pelican-osm/releases/tag/0.20.1) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
-5. 🚀 Published release [0.5.0](https://github.com/Lee-W/pelican-on-this-day/releases/tag/0.5.0) in [Lee-W/pelican-on-this-day](https://github.com/Lee-W/pelican-on-this-day)
-6. ❌ Closed PR [#246](https://github.com/Lee-W/cookiecutter-python-template/pull/246) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-7. ❌ Closed PR [#245](https://github.com/Lee-W/cookiecutter-python-template/pull/245) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-8. ❌ Closed PR [#12](https://github.com/Lee-W/cookiecutter-python-template/pull/12) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-9. 🎉 Merged PR [#247](https://github.com/Lee-W/cookiecutter-python-template/pull/247) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
-10. 🎉 Merged PR [#35](https://github.com/Lee-W/ring/pull/35) in [Lee-W/ring](https://github.com/Lee-W/ring)
+1. 💪 Opened PR [#209](https://github.com/pycontw/pycon-etl/pull/209) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+2. 🎉 Merged PR [#70724](https://github.com/apache/airflow/pull/70724) in [apache/airflow](https://github.com/apache/airflow)
+3. ❌ Closed PR [#207](https://github.com/pycontw/pycon-etl/pull/207) in [pycontw/pycon-etl](https://github.com/pycontw/pycon-etl)
+4. 🗣 Commented on [#70724](https://github.com/apache/airflow/pull/70724#issuecomment-6394255296) in [apache/airflow](https://github.com/apache/airflow)
+5. 🚀 Published release [0.2.0](https://github.com/Lee-W/pelican-i18n-feeds/releases/tag/0.2.0) in [Lee-W/pelican-i18n-feeds](https://github.com/Lee-W/pelican-i18n-feeds)
+6. 🚀 Published release [0.2.3](https://github.com/Lee-W/pelican-summary-link/releases/tag/0.2.3) in [Lee-W/pelican-summary-link](https://github.com/Lee-W/pelican-summary-link)
+7. 🚀 Published release [0.3.0](https://github.com/Lee-W/pelican-random-article/releases/tag/0.3.0) in [Lee-W/pelican-random-article](https://github.com/Lee-W/pelican-random-article)
+8. 🚀 Published release [0.20.1](https://github.com/Lee-W/pelican-osm/releases/tag/0.20.1) in [Lee-W/pelican-osm](https://github.com/Lee-W/pelican-osm)
+9. 🚀 Published release [0.5.0](https://github.com/Lee-W/pelican-on-this-day/releases/tag/0.5.0) in [Lee-W/pelican-on-this-day](https://github.com/Lee-W/pelican-on-this-day)
+10. ❌ Closed PR [#246](https://github.com/Lee-W/cookiecutter-python-template/pull/246) in [Lee-W/cookiecutter-python-template](https://github.com/Lee-W/cookiecutter-python-template)
 
 
 ## ⭐ GitHub Stat
