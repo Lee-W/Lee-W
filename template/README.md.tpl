@@ -53,10 +53,10 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/Lee-W/main-blog/pull/193#issuecomment-6457008340) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 🎉 Merged PR [#121](https://github.com/Lee-W/travlog/pull/121) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-3. 🗣 Commented on [#197](https://github.com/Lee-W/main-blog/pull/197#issuecomment-6457013096) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. 🗣 Commented on [#74026](https://github.com/apache/airflow/pull/74026#issuecomment-6456999857) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#200](https://github.com/Lee-W/main-blog/pull/200) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 💪 Opened PR [#200](https://github.com/Lee-W/main-blog/pull/200) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+3. 🎉 Merged PR [#74026](https://github.com/apache/airflow/pull/74026) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#75847](https://github.com/apache/airflow/pull/75847) in [apache/airflow](https://github.com/apache/airflow)
 5. 🎉 Merged PR [#179](https://github.com/Lee-W/travlog/pull/179) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 6. 🎉 Merged PR [#198](https://github.com/Lee-W/main-blog/pull/198) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
 7. 🎉 Merged PR [#12](https://github.com/Lee-W/ras/pull/12) in [Lee-W/ras](https://github.com/Lee-W/ras)
