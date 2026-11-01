@@ -44,18 +44,18 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [臺灣華語的技術用語，總要有人用吧](https://blog.wei-lee.me/posts/random-thoughts/2026/10/why-i-use-taiwanese-mandarin-tech-terms/) (Published: 2 days ago)
-* [EP706 | 👑 - Gooaye 股癌 節錄](https://blog.wei-lee.me/posts/random-thoughts/2026/10/gooaye-ep-706-excerpt/) (Published: 3 days ago)
+* [臺灣華語的技術用語，總要有人用吧](https://blog.wei-lee.me/posts/random-thoughts/2026/10/why-i-use-taiwanese-mandarin-tech-terms/) (Published: 3 days ago)
+* [EP706 | 👑 - Gooaye 股癌 節錄](https://blog.wei-lee.me/posts/random-thoughts/2026/10/gooaye-ep-706-excerpt/) (Published: 4 days ago)
 * [第一件在日本感到開心的事](https://blog.wei-lee.me/posts/random-thoughts/2026/10/first-happy-thing-in-japan/) (Published: 1 week ago)
 * [禮拜其實是 0-based 的嗎？！](https://blog.wei-lee.me/posts/random-thoughts/2026/10/is-weekday-zero-based/) (Published: 2 weeks ago)
 * [CWT 73](https://blog.wei-lee.me/posts/random-thoughts/2026/10/cwt-73/) (Published: 3 weeks ago)
 
 ### Those things no one cares about
  
- * [雨宮同學](https://travlog.wei-lee.me/posts/review/2026/10/amamiya-san) (Published: 3 days ago)
+ * [雨宮同學](https://travlog.wei-lee.me/posts/review/2026/10/amamiya-san) (Published: 4 days ago)
  * [麵屋雞金 光華店](https://travlog.wei-lee.me/posts/review/2026/10/menya-torikin-guanghua) (Published: 1 week ago)
  * [金獅取水](https://travlog.wei-lee.me/posts/review/2026/10/golden-lion-cafe-brunch) (Published: 2 weeks ago)
- * [最近走過的幾個聖地，2026 年夏](https://travlog.wei-lee.me/posts/travel/2026/10/pilgrimage-map-update-2026-summer) (Published: 3 weeks ago)
+ * [最近走過的幾個聖地，2026 年夏](https://travlog.wei-lee.me/posts/travel/2026/10/pilgrimage-map-update-2026-summer) (Published: 4 weeks ago)
  * [渡瀬結月 × KINGLYMASK 一日店長](https://travlog.wei-lee.me/posts/review/2026/10/watase-yuzuki-kinglymask-one-day-manager) (Published: 1 month ago)
 
 ## 🖥️ Recently working on
