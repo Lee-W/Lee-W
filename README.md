@@ -52,9 +52,9 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those things no one cares about
  
- * [Glasgow Film Theatre](https://travlog.wei-lee.me/posts/travel/2026/11/glasgow-film-theatre) (Published: 3 days ago)
+ * [Glasgow Film Theatre](https://travlog.wei-lee.me/posts/travel/2026/11/glasgow-film-theatre) (Published: 4 days ago)
  * [雨宮同學](https://travlog.wei-lee.me/posts/review/2026/10/amamiya-san) (Published: 1 week ago)
- * [麵屋雞金 光華店](https://travlog.wei-lee.me/posts/review/2026/10/menya-torikin-guanghua) (Published: 1 week ago)
+ * [麵屋雞金 光華店](https://travlog.wei-lee.me/posts/review/2026/10/menya-torikin-guanghua) (Published: 2 weeks ago)
  * [金獅取水](https://travlog.wei-lee.me/posts/review/2026/10/golden-lion-cafe-brunch) (Published: 3 weeks ago)
  * [最近走過的幾個聖地，2026 年夏](https://travlog.wei-lee.me/posts/travel/2026/10/pilgrimage-map-update-2026-summer) (Published: 1 month ago)
 
