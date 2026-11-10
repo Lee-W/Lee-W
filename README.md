@@ -44,7 +44,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [REEDS BOOKSTORE 民權店](https://blog.wei-lee.me/posts/random-thoughts/2026/11/reeds-bookstore-minquan/) (Published: 2 days ago)
+* [REEDS BOOKSTORE 民權店](https://blog.wei-lee.me/posts/random-thoughts/2026/11/reeds-bookstore-minquan/) (Published: 3 days ago)
 * [臺灣華語的技術用語，總要有人用吧](https://blog.wei-lee.me/posts/random-thoughts/2026/10/why-i-use-taiwanese-mandarin-tech-terms/) (Published: 1 week ago)
 * [EP706 | 👑 - Gooaye 股癌 節錄](https://blog.wei-lee.me/posts/random-thoughts/2026/10/gooaye-ep-706-excerpt/) (Published: 1 week ago)
 * [第一件在日本感到開心的事](https://blog.wei-lee.me/posts/random-thoughts/2026/10/first-happy-thing-in-japan/) (Published: 2 weeks ago)
@@ -52,7 +52,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those things no one cares about
  
- * [Glasgow Film Theatre](https://travlog.wei-lee.me/posts/travel/2026/11/glasgow-film-theatre) (Published: 6 days ago)
+ * [Glasgow Film Theatre](https://travlog.wei-lee.me/posts/travel/2026/11/glasgow-film-theatre) (Published: 1 week ago)
  * [雨宮同學](https://travlog.wei-lee.me/posts/review/2026/10/amamiya-san) (Published: 1 week ago)
  * [麵屋雞金 光華店](https://travlog.wei-lee.me/posts/review/2026/10/menya-torikin-guanghua) (Published: 2 weeks ago)
  * [金獅取水](https://travlog.wei-lee.me/posts/review/2026/10/golden-lion-cafe-brunch) (Published: 3 weeks ago)
@@ -61,10 +61,10 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 
 
-1. 🗣 Commented on [#211](https://github.com/Lee-W/main-blog/issues/211#issuecomment-6716360953) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-2. 🎉 Merged PR [#109](https://github.com/Lee-W/main-blog/pull/109) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-3. 🎉 Merged PR [#76015](https://github.com/apache/airflow/pull/76015) in [apache/airflow](https://github.com/apache/airflow)
-4. ℹ️ Labeled PR [#76398](https://github.com/apache/airflow/pull/76398) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#76799](https://github.com/apache/airflow/pull/76799) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#74695](https://github.com/apache/airflow/pull/74695#issuecomment-6758728111) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#76797](https://github.com/apache/airflow/pull/76797) in [apache/airflow](https://github.com/apache/airflow)
+4. 🎉 Merged PR [#75369](https://github.com/apache/airflow/pull/75369) in [apache/airflow](https://github.com/apache/airflow)
 5. 🎉 Merged PR [#72940](https://github.com/apache/airflow/pull/72940) in [apache/airflow](https://github.com/apache/airflow)
 6. 🗣 Commented on [#72940](https://github.com/apache/airflow/pull/72940#issuecomment-6607606610) in [apache/airflow](https://github.com/apache/airflow)
 7. 🗣 Commented on [#188](https://github.com/Lee-W/travlog/issues/188#issuecomment-6600969483) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
