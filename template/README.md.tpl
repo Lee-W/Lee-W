@@ -53,12 +53,12 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76799](https://github.com/apache/airflow/pull/76799) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#74695](https://github.com/apache/airflow/pull/74695#issuecomment-6758728111) in [apache/airflow](https://github.com/apache/airflow)
-3. 💪 Opened PR [#76797](https://github.com/apache/airflow/pull/76797) in [apache/airflow](https://github.com/apache/airflow)
-4. 🎉 Merged PR [#75369](https://github.com/apache/airflow/pull/75369) in [apache/airflow](https://github.com/apache/airflow)
-5. 🎉 Merged PR [#72940](https://github.com/apache/airflow/pull/72940) in [apache/airflow](https://github.com/apache/airflow)
-6. 🗣 Commented on [#72940](https://github.com/apache/airflow/pull/72940#issuecomment-6607606610) in [apache/airflow](https://github.com/apache/airflow)
+1. 💪 Opened PR [#76802](https://github.com/apache/airflow/pull/76802) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#76801](https://github.com/apache/airflow/pull/76801) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#76799](https://github.com/apache/airflow/pull/76799) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#74695](https://github.com/apache/airflow/pull/74695#issuecomment-6758728111) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#76797](https://github.com/apache/airflow/pull/76797) in [apache/airflow](https://github.com/apache/airflow)
+6. 🎉 Merged PR [#75369](https://github.com/apache/airflow/pull/75369) in [apache/airflow](https://github.com/apache/airflow)
 7. 🗣 Commented on [#188](https://github.com/Lee-W/travlog/issues/188#issuecomment-6600969483) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 8. 🎉 Merged PR [#182](https://github.com/Lee-W/travlog/pull/182) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 9. 🗣 Commented on [#74568](https://github.com/apache/airflow/pull/74568#issuecomment-6573726721) in [apache/airflow](https://github.com/apache/airflow)
