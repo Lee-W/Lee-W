@@ -44,8 +44,8 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [REEDS BOOKSTORE 民權店](https://blog.wei-lee.me/posts/random-thoughts/2026/11/reeds-bookstore-minquan/) (Published: 4 days ago)
-* [臺灣華語的技術用語，總要有人用吧](https://blog.wei-lee.me/posts/random-thoughts/2026/10/why-i-use-taiwanese-mandarin-tech-terms/) (Published: 1 week ago)
+* [REEDS BOOKSTORE 民權店](https://blog.wei-lee.me/posts/random-thoughts/2026/11/reeds-bookstore-minquan/) (Published: 5 days ago)
+* [臺灣華語的技術用語，總要有人用吧](https://blog.wei-lee.me/posts/random-thoughts/2026/10/why-i-use-taiwanese-mandarin-tech-terms/) (Published: 2 weeks ago)
 * [EP706 | 👑 - Gooaye 股癌 節錄](https://blog.wei-lee.me/posts/random-thoughts/2026/10/gooaye-ep-706-excerpt/) (Published: 2 weeks ago)
 * [第一件在日本感到開心的事](https://blog.wei-lee.me/posts/random-thoughts/2026/10/first-happy-thing-in-japan/) (Published: 2 weeks ago)
 * [禮拜其實是 0-based 的嗎？！](https://blog.wei-lee.me/posts/random-thoughts/2026/10/is-weekday-zero-based/) (Published: 1 month ago)
