@@ -1,6 +1,11 @@
 {
   "tech": [
     {
+      "title": "第二本筆記本也寫完了",
+      "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/11/second-notebook-finished/",
+      "date": "2026-11-13"
+    },
+    {
       "title": "REEDS BOOKSTORE 民權店",
       "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/11/reeds-bookstore-minquan/",
       "date": "2026-11-07"
@@ -9,14 +14,14 @@
       "title": "臺灣華語的技術用語，總要有人用吧",
       "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/10/why-i-use-taiwanese-mandarin-tech-terms/",
       "date": "2026-10-29"
-    },
-    {
-      "title": "EP706 | 👑 - Gooaye 股癌 節錄",
-      "url": "https://blog.wei-lee.me/posts/random-thoughts/2026/10/gooaye-ep-706-excerpt/",
-      "date": "2026-10-28"
     }
   ],
   "life": [
+    {
+      "title": "最近走過的幾個聖地，2026 年秋",
+      "url": "https://travlog.wei-lee.me/posts/travel/2026/11/pilgrimage-map-update-2026-autumn",
+      "date": "2026-11-14"
+    },
     {
       "title": "Glasgow Film Theatre",
       "url": "https://travlog.wei-lee.me/posts/travel/2026/11/glasgow-film-theatre",
@@ -26,11 +31,6 @@
       "title": "雨宮同學",
       "url": "https://travlog.wei-lee.me/posts/review/2026/10/amamiya-san",
       "date": "2026-10-28"
-    },
-    {
-      "title": "麵屋雞金 光華店",
-      "url": "https://travlog.wei-lee.me/posts/review/2026/10/menya-torikin-guanghua",
-      "date": "2026-10-24"
     }
   ]
 }
