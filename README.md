@@ -44,7 +44,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those aren't written down are meant to be forgotten
 
-* [第二本筆記本也寫完了](https://blog.wei-lee.me/posts/random-thoughts/2026/11/second-notebook-finished/) (Published: 2 days ago)
+* [第二本筆記本也寫完了](https://blog.wei-lee.me/posts/random-thoughts/2026/11/second-notebook-finished/) (Published: 3 days ago)
 * [REEDS BOOKSTORE 民權店](https://blog.wei-lee.me/posts/random-thoughts/2026/11/reeds-bookstore-minquan/) (Published: 1 week ago)
 * [臺灣華語的技術用語，總要有人用吧](https://blog.wei-lee.me/posts/random-thoughts/2026/10/why-i-use-taiwanese-mandarin-tech-terms/) (Published: 2 weeks ago)
 * [EP706 | 👑 - Gooaye 股癌 節錄](https://blog.wei-lee.me/posts/random-thoughts/2026/10/gooaye-ep-706-excerpt/) (Published: 2 weeks ago)
@@ -52,7 +52,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ### Those things no one cares about
  
- * [最近走過的幾個聖地，2026 年秋](https://travlog.wei-lee.me/posts/travel/2026/11/pilgrimage-map-update-2026-autumn) (Published: 2 days ago)
+ * [最近走過的幾個聖地，2026 年秋](https://travlog.wei-lee.me/posts/travel/2026/11/pilgrimage-map-update-2026-autumn) (Published: 3 days ago)
  * [Glasgow Film Theatre](https://travlog.wei-lee.me/posts/travel/2026/11/glasgow-film-theatre) (Published: 1 week ago)
  * [雨宮同學](https://travlog.wei-lee.me/posts/review/2026/10/amamiya-san) (Published: 2 weeks ago)
  * [麵屋雞金 光華店](https://travlog.wei-lee.me/posts/review/2026/10/menya-torikin-guanghua) (Published: 3 weeks ago)
@@ -61,16 +61,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 
 
-1. 🎉 Merged PR [#183](https://github.com/Lee-W/travlog/pull/183) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-2. 🎉 Merged PR [#198](https://github.com/Lee-W/travlog/pull/198) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-3. ❌ Closed PR [#215](https://github.com/Lee-W/main-blog/pull/215) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. ❌ Closed PR [#213](https://github.com/Lee-W/main-blog/pull/213) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-5. ❌ Closed PR [#212](https://github.com/Lee-W/main-blog/pull/212) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-6. 🎉 Merged PR [#216](https://github.com/Lee-W/main-blog/pull/216) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-7. 💪 Opened PR [#198](https://github.com/Lee-W/travlog/pull/198) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-8. 💪 Opened PR [#216](https://github.com/Lee-W/main-blog/pull/216) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-9. 🗣 Commented on [#195](https://github.com/Lee-W/travlog/pull/195#issuecomment-6855343314) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-10. ❌ Closed PR [#195](https://github.com/Lee-W/travlog/pull/195) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🗣 Commented on [#276](https://github.com/pycontw/pycontw-blog/pull/276#issuecomment-6895999198) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 💪 Opened PR [#276](https://github.com/pycontw/pycontw-blog/pull/276) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 💪 Opened PR [#275](https://github.com/pycontw/pycontw-blog/pull/275) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#183](https://github.com/Lee-W/travlog/pull/183) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+5. 🎉 Merged PR [#198](https://github.com/Lee-W/travlog/pull/198) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+6. ❌ Closed PR [#215](https://github.com/Lee-W/main-blog/pull/215) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+7. ❌ Closed PR [#213](https://github.com/Lee-W/main-blog/pull/213) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+8. ❌ Closed PR [#212](https://github.com/Lee-W/main-blog/pull/212) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+9. 🎉 Merged PR [#216](https://github.com/Lee-W/main-blog/pull/216) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+10. 💪 Opened PR [#198](https://github.com/Lee-W/travlog/pull/198) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 
 
 ## ⭐ GitHub Stat
