@@ -53,16 +53,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#183](https://github.com/Lee-W/travlog/pull/183) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-2. 🎉 Merged PR [#198](https://github.com/Lee-W/travlog/pull/198) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-3. ❌ Closed PR [#215](https://github.com/Lee-W/main-blog/pull/215) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-4. ❌ Closed PR [#213](https://github.com/Lee-W/main-blog/pull/213) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-5. ❌ Closed PR [#212](https://github.com/Lee-W/main-blog/pull/212) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-6. 🎉 Merged PR [#216](https://github.com/Lee-W/main-blog/pull/216) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-7. 💪 Opened PR [#198](https://github.com/Lee-W/travlog/pull/198) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-8. 💪 Opened PR [#216](https://github.com/Lee-W/main-blog/pull/216) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-9. 🗣 Commented on [#195](https://github.com/Lee-W/travlog/pull/195#issuecomment-6855343314) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-10. ❌ Closed PR [#195](https://github.com/Lee-W/travlog/pull/195) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+1. 🗣 Commented on [#276](https://github.com/pycontw/pycontw-blog/pull/276#issuecomment-6895999198) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+2. 💪 Opened PR [#276](https://github.com/pycontw/pycontw-blog/pull/276) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+3. 💪 Opened PR [#275](https://github.com/pycontw/pycontw-blog/pull/275) in [pycontw/pycontw-blog](https://github.com/pycontw/pycontw-blog)
+4. 🎉 Merged PR [#183](https://github.com/Lee-W/travlog/pull/183) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+5. 🎉 Merged PR [#198](https://github.com/Lee-W/travlog/pull/198) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
+6. ❌ Closed PR [#215](https://github.com/Lee-W/main-blog/pull/215) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+7. ❌ Closed PR [#213](https://github.com/Lee-W/main-blog/pull/213) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+8. ❌ Closed PR [#212](https://github.com/Lee-W/main-blog/pull/212) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+9. 🎉 Merged PR [#216](https://github.com/Lee-W/main-blog/pull/216) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+10. 💪 Opened PR [#198](https://github.com/Lee-W/travlog/pull/198) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
