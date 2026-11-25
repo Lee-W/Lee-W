@@ -16,7 +16,10 @@ module.exports = defineConfig({
     { name: 'mobile-dark', use: { viewport: { width: 375, height: 812 }, colorScheme: 'dark' } },
   ],
   webServer: {
-    command: 'python3 -m http.server 4173 --bind 127.0.0.1',
+    // Same server as `python3 -m http.server`, but with a deeper listen backlog:
+    // the default of 5 overflows when parallel workers open connections in a burst,
+    // and the overflowing connection is reset (net::ERR_CONNECTION_RESET).
+    command: `python3 -c "import http.server as h; h.ThreadingHTTPServer.request_queue_size = 128; h.test(HandlerClass=h.SimpleHTTPRequestHandler, ServerClass=h.ThreadingHTTPServer, port=4173, bind='127.0.0.1')"`,
     url: 'http://127.0.0.1:4173',
     reuseExistingServer: !process.env.CI,
   },
