@@ -14,6 +14,8 @@ class Document(HTMLParser):
         super().__init__()
         self.elements = []
         self.ids = set()
+        self.script_text = ""
+        self._in_script = False
         self.feed(content)
 
     def handle_starttag(self, tag, attrs):
@@ -21,6 +23,14 @@ class Document(HTMLParser):
         self.elements.append((tag, attrs))
         if "id" in attrs:
             self.ids.add(attrs["id"])
+        self._in_script = tag == "script"
+
+    def handle_endtag(self, tag):
+        self._in_script = False
+
+    def handle_data(self, data):
+        if self._in_script:
+            self.script_text += data
 
 
 def check_site(root):
@@ -59,8 +69,10 @@ def check_site(root):
     locales = json.loads((root / "data/locales.json").read_text(encoding="utf-8"))
     alternates = {item["html_lang"]: ORIGIN + item["path"] for item in locales.values()}
     alternates["x-default"] = ORIGIN + "/"
-    for lang, locale in locales.items():
-        name = locale["path"].lstrip("/") + "index.html"
+    # "/" repeats the Chinese page (canonical /zh-tw/) and must also redirect.
+    pages = [(lang, locale, locale["path"].lstrip("/") + "index.html") for lang, locale in locales.items()]
+    pages.append(("zh", locales["zh"], "index.html"))
+    for lang, locale, name in pages:
         document = documents.get(root / name)
         if document is None:
             errors.append(f"Missing homepage: {name}")
@@ -83,6 +95,12 @@ def check_site(root):
         current = [attrs for tag, attrs in elements
                    if tag == "a" and attrs.get("aria-current") == "page"]
         require(len(current) == 1 and current[0].get("href") == locale["path"], "incorrect active language")
+        require(("location.replace" in document.script_text) == (name == "index.html"),
+                "the language redirect belongs on / only")
+        paths = [attrs for tag, attrs in elements if tag == "a" and "path" in attrs.get("class", "").split()]
+        require(len(paths) == 2, "expected exactly two path cards")
+        subtitles = [attrs for tag, attrs in elements if tag == "p" and attrs.get("class") == "blog-sub"]
+        require(len(subtitles) == 2, "expected a subtitle on each blog card")
         for element_id, suffix in (("aboutLink", "about-me"), ("nowLink", "now")):
             link = next((attrs for _, attrs in elements if attrs.get("id") == element_id), {})
             expected = "https://blog.wei-lee.me" + locale["blog_language_path"] + "/pages/" + suffix

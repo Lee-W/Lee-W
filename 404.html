@@ -1,32 +1,87 @@
-<!-- Modified from https://github.com/tsparticles/404-templates -->
-<!DOCTYPE html>
-<html lang="en">
-   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>This is not the page you're looking for</title>
-      <meta name="description" content="The page you are looking for does not exist on Wei Lee's website.">
-      <meta name="robots" content="noindex">
-      <link type="text/css" rel="stylesheet" href="/css/404.css" />
-      <link rel="icon" href="/favicon.ico" sizes="any">
-      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
-      <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-   </head>
-   <body class="permission_denied">
-      <div id="tsparticles"></div>
-      <div class="denied__wrapper">
-         <h1>404</h1>
-         <h3>LOST IN <span>SPACE</span></h3>
-         <h3>Hmm, looks like that page doesn't exist.</h3>
-         <br>
-         <h3>If you're looking for a blog post, it might have moved to <a href="https://blog.wei-lee.me/">blog.wei-lee.me</a>.</h3>
-         <img id="astronaut" src="/images/astronaut.svg" alt="" />
-         <img id="planet" src="/images/planet.svg" alt="" />
-         <a class="denied__link" href="https://wei-lee.me/">Go Home</a>
-      </div>
-      <script type="text/javascript"
-         src="https://cdn.jsdelivr.net/npm/tsparticles@2.3.4/tsparticles.bundle.min.js"></script>
-      <script type="text/javascript" src="/js/404.js"></script>
-   </body>
+<!doctype html>
+<html lang="zh-Hant" class="lang-zh">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>找不到頁面 · 李唯 / Wei Lee</title>
+  <script>
+    /* Served at any path depth, so the language comes from the path first
+       (/zh-tw/…, /en/…, /ja/…), then the browser. Without JS the page stays Chinese. */
+    (function () {
+      var p = location.pathname, l = navigator.language || '', lang;
+      if (p.indexOf('/en/') === 0) lang = 'en';
+      else if (p.indexOf('/ja/') === 0) lang = 'ja';
+      else if (p.indexOf('/zh-tw/') === 0) lang = 'zh';
+      else if (/^ja/i.test(l)) lang = 'ja';
+      else if (/^zh/i.test(l)) lang = 'zh';
+      else lang = 'en';
+      var de = document.documentElement;
+      de.className = 'lang-' + lang;
+      de.lang = { zh: 'zh-Hant', en: 'en', ja: 'ja' }[lang];
+      document.title = {
+        zh: '找不到頁面 · 李唯 / Wei Lee',
+        en: 'Page not found · Wei Lee / 李唯',
+        ja: 'ページが見つかりません · 李唯 / Wei Lee'
+      }[lang];
+      document.addEventListener('DOMContentLoaded', function () {
+        var home = { zh: '/zh-tw/', en: '/en/', ja: '/ja/' }[lang];
+        document.getElementById('homeLink').href = home;
+        var links = document.querySelectorAll('.langs a');
+        for (var i = 0; i < links.length; i++) {
+          if (links[i].getAttribute('href') === home) links[i].setAttribute('aria-current', 'true');
+        }
+      });
+    })();
+  </script>
+  <meta name="description" content="This page was never written down, so it has been forgotten. — Wei Lee (李唯)">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#f4f2ec" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#181816" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=Noto+Sans+TC:wght@400;500;700&amp;family=Noto+Sans+JP:wght@400;500;700&amp;family=Noto+Serif+TC:wght@700&amp;family=Noto+Serif+JP:wght@700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/404.css">
+</head>
+<body>
+  <main class="page">
+    <p class="code">404</p>
+    <h1>
+      <span data-lang="zh" lang="zh-Hant">這一頁沒有被寫下來，所以被遺忘了。</span>
+      <span data-lang="en" lang="en">This page was never written down, so it has been forgotten.</span>
+      <span data-lang="ja" lang="ja">このページは書き残されなかったので、忘れられてしまいました。</span>
+    </h1>
+    <p class="hint">
+      <span data-lang="zh" lang="zh-Hant">如果你在找文章，它可能搬到了技術 blog 或旅行 blog。</span>
+      <span data-lang="en" lang="en">If you were looking for a post, it may have moved to one of the blogs.</span>
+      <span data-lang="ja" lang="ja">記事をお探しの場合は、ブログへ移動したかもしれません。</span>
+    </p>
+    <a class="action" id="homeLink" href="/zh-tw/">
+      <span data-lang="zh" lang="zh-Hant">回首頁</span>
+      <span data-lang="en" lang="en">Go home</span>
+      <span data-lang="ja" lang="ja">ホームへ</span>
+    </a>
+    <ul class="more">
+      <li><a href="https://blog.wei-lee.me" rel="noopener noreferrer">
+        <span data-lang="zh" lang="zh-Hant">不寫下來的東西都會被遺忘</span>
+        <span data-lang="en" lang="en">What isn't written down will be forgotten</span>
+        <span data-lang="ja" lang="ja">書き留めなかったものは忘れてしまう</span>
+      </a></li>
+      <li><a href="https://travlog.wei-lee.me" rel="noopener noreferrer">
+        <span data-lang="zh" lang="zh-Hant">那些沒人在乎的事</span>
+        <span data-lang="en" lang="en">Those things no one cares about</span>
+        <span data-lang="ja" lang="ja">誰も気にしないあれこれ</span>
+      </a></li>
+    </ul>
+    <ul class="langs" aria-label="Language">
+      <li><a href="/zh-tw/" lang="zh-Hant">華語</a></li>
+      <li><a href="/en/" lang="en">EN</a></li>
+      <li><a href="/ja/" lang="ja">日本語</a></li>
+    </ul>
+  </main>
+</body>
 </html>

@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://wei-lee.me/zh-tw/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://wei-lee.me/en/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>

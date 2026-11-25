@@ -101,14 +101,14 @@ svg { display: block; }
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 42px;
-  padding: 5px 9px;
+  min-width: 48px;
+  padding: 6px 10px;
   border: 0;
   border-radius: 6px;
   background: transparent;
   color: var(--quiet);
   cursor: pointer;
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   font-weight: 700;
   text-decoration: none;
 }
@@ -147,9 +147,10 @@ h1 {
 .name-alt { color: var(--name-alt); }
 
 .bio {
+  max-width: 34em;
   margin: 7px 0 0;
   color: var(--muted);
-  font-size: 0.86rem;
+  font-size: 1rem;
   overflow-wrap: anywhere;
 }
 
@@ -168,20 +169,20 @@ h1 {
   display: flex;
   min-width: 0;
   align-items: center;
-  gap: 9px;
+  gap: 10px;
   color: var(--muted);
-  font-size: 0.78rem;
+  font-size: 0.875rem;
 }
 
 .roles a { text-decoration: none; }
 .roles a:hover { color: var(--accent); }
 
 .role-icon {
-  width: 16px;
-  height: 16px;
-  flex: 0 0 16px;
+  width: 20px;
+  height: 20px;
+  flex: 0 0 20px;
   color: var(--accent);
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
 }
 
@@ -196,21 +197,28 @@ img.role-icon {
   object-fit: contain;
 }
 
-.role-icon img { width: 16px; height: 16px; object-fit: contain; }
-.role-icon.pycon img { width: 15px; height: 17px; }
+.role-icon img { width: 18px; height: 18px; margin: 1px auto; object-fit: contain; }
+/* The pycon mark is wide (30:20), so it needs a wider box to reach the same ink height. */
+.role-icon.pycon { width: 24px; flex-basis: 24px; margin: 0 -2px; }
+.role-icon.pycon img { width: 24px; height: 16px; margin: 2px 0; }
+/* Glyph/emoji sizes are tuned per item so every mark has a similar ink height. */
+.roles li:nth-child(6) .role-icon.glyph { font-size: 19px; transform: translateY(-2px); }
+.roles li:nth-child(8) .role-icon.glyph { font-size: 22px; transform: translateY(-2px); }
+.roles li:nth-child(9) .role-icon.glyph { font-size: 33px; line-height: 1; transform: translateY(-4.5px); }
+.roles li:nth-child(10) .role-icon.glyph { font-size: 18px; }
 
 .paths {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
   margin-bottom: 16px;
 }
 
 .path {
   display: grid;
-  min-height: 104px;
-  grid-template-rows: auto 1fr auto;
-  padding: 16px;
+  min-height: 112px;
+  grid-template-rows: auto auto 1fr;
+  padding: 18px;
   border: 1px solid var(--border);
   border-radius: var(--radius);
   background: var(--surface);
@@ -225,41 +233,17 @@ img.role-icon {
 }
 
 .path-about,
-.path-tech { --path-accent: var(--accent); }
-.path-life { --path-accent: var(--life); }
-
-.path-icon { color: var(--path-accent); font-size: 15px; }
-.path-title { align-self: end; font-family: var(--serif); font-size: 0.98rem; font-weight: 700; }
-.path-subtitle { margin-top: 2px; color: var(--quiet); font-size: 0.8rem; line-height: 1.5; }
-.path-arrow { display: none; color: var(--path-accent); font-size: 13px; line-height: 1; }
-
-.now {
-  display: grid;
-  grid-template-columns: 32px 1fr auto;
-  gap: 11px;
-  align-items: center;
-  margin-bottom: 22px;
-  padding: 12px 14px;
-  border: 1px solid #d8e2d8;
-  border-radius: 12px;
-  background: var(--accent-soft);
-  text-decoration: none;
+.path-now { --path-accent: var(--accent); }
+.path-now { border-color: #d8e2d8; background: var(--accent-soft); }
+@media (prefers-color-scheme: dark) {
+  .path-now { border-color: color-mix(in srgb, var(--accent) 22%, var(--border)); }
 }
+.path-now .path-subtitle { color: var(--muted); }
 
-.now-icon {
-  display: grid;
-  width: 32px;
-  height: 32px;
-  place-items: center;
-  border-radius: 50%;
-  background: var(--surface-quiet);
-  color: var(--accent);
-  font-size: 13px;
-}
-
-.now strong { display: block; font-size: 0.78rem; }
-.now-detail { display: block; color: var(--muted); font-size: 0.8rem; }
-.now-arrow { color: var(--accent); font-size: 13px; line-height: 1; }
+.path-icon { width: 22px; height: 22px; flex-basis: 22px; color: var(--path-accent); font-size: 22px; line-height: 1; }
+.path-title { align-self: start; margin-top: 12px; font-family: var(--serif); font-size: 1.125rem; font-weight: 700; }
+.path-subtitle { margin-top: 3px; color: var(--quiet); font-size: 0.875rem; line-height: 1.5; }
+.path-arrow { display: none; color: var(--path-accent); font-size: 14px; line-height: 1; }
 
 .blogs {
   display: grid;
@@ -289,9 +273,16 @@ img.role-icon {
 .blog-card h2 {
   margin: 0;
   font-family: var(--serif);
-  font-size: 0.96rem;
+  font-size: 1.125rem;
   font-weight: 700;
   line-height: 1.4;
+}
+
+.blog-sub {
+  margin: 2px 0 0;
+  color: var(--muted);
+  font-size: 0.875rem;
+  line-height: 1.5;
 }
 
 .blog-card h2 a,
@@ -299,9 +290,9 @@ img.role-icon {
 .blog-card h2 a:hover { color: var(--accent); }
 .life h2 a:hover { color: var(--life); }
 
-.rss { color: var(--faint); font-size: 12px; }
+.rss { color: var(--faint); font-size: 14px; }
 .rss:hover { color: var(--accent); }
-.rss i { font-size: 0.8rem; }
+.rss i { font-size: 0.9rem; }
 
 .posts {
   margin: 0;
@@ -317,8 +308,8 @@ img.role-icon {
   grid-template-columns: minmax(0, 1fr) auto;
   gap: 10px;
   align-items: baseline;
-  padding: 10px 0;
-  font-size: 0.875rem;
+  padding: 11px 0;
+  font-size: 1rem;
   line-height: 1.45;
   text-decoration: none;
 }
@@ -329,7 +320,7 @@ img.role-icon {
 .posts time {
   color: var(--faint);
   font-family: var(--mono);
-  font-size: 0.75rem;
+  font-size: 0.8125rem;
   white-space: nowrap;
 }
 
@@ -346,7 +337,7 @@ img.role-icon {
   align-items: center;
   gap: 6px;
   color: var(--quiet);
-  font-size: 0.72rem;
+  font-size: 0.875rem;
   text-decoration: none;
 }
 
@@ -377,7 +368,7 @@ img.role-icon {
 
 .lang-zh .path-subtitle [data-lang="zh"],
 .lang-zh .bio [data-lang="zh"],
-.lang-zh .now-detail [data-lang="zh"],
+.lang-zh .blog-sub [data-lang="zh"],
 .lang-zh .posts span {
   font-size: 1.02em;
 }
@@ -391,6 +382,7 @@ img.role-icon {
 .lang-en .bio [data-lang="en"],
 .lang-en .roles [data-lang="en"],
 .lang-en .path-subtitle [data-lang="en"],
+.lang-en .blog-sub [data-lang="en"],
 .lang-en .posts span,
 .lang-en .posts time,
 .lang-en .social span:last-child {
@@ -413,6 +405,8 @@ img.role-icon {
   line-height: 2;
 }
 
+.identity .bio [data-lang] { line-height: 1.7; }
+
 .lang-ja h1 ruby rt {
   color: var(--name-alt);
   font-size: 0.4em;
@@ -420,16 +414,22 @@ img.role-icon {
   letter-spacing: 0.1em;
 }
 
+/* Avoid one-character last lines; unsupported browsers keep normal wrapping. */
+.posts a > span,
+.blog-card h2 { text-wrap: balance; }
+.bio,
+.path-subtitle { text-wrap: pretty; }
+
 @media (max-width: 600px) {
   .page { width: min(100% - 28px, 402px); padding: 16px 0 34px; }
   .topbar { margin-bottom: 18px; }
-  .lang-option { min-width: 40px; padding: 4px 8px; }
+  .lang-option { min-width: 44px; padding: 5px 9px; }
 
   .identity { gap: 12px; margin-bottom: 18px; }
   .identity-copy { min-width: 0; }
   .avatar { width: 58px; height: 58px; }
   h1 { font-size: 1.42rem; }
-  .bio { margin-top: 4px; font-size: 0.8rem; white-space: normal; }
+  .bio { margin-top: 4px; font-size: 0.94rem; white-space: normal; }
 
   .paths { grid-template-columns: 1fr; gap: 8px; margin-bottom: 12px; }
   .path {
@@ -441,12 +441,9 @@ img.role-icon {
     padding: 11px 14px;
   }
   .path-icon { grid-row: 1 / 3; align-self: center; }
-  .path-title { align-self: auto; font-size: 0.9rem; }
+  .path-title { align-self: auto; margin-top: 0; font-size: 1rem; }
   .path-subtitle { margin: 0; }
-  .path-arrow { display: block; grid-column: 3; grid-row: 1 / 3; align-self: center; font-size: 11px; }
-
-  .now { grid-template-columns: 30px 1fr auto; margin-bottom: 14px; padding: 10px 12px; }
-  .now-icon { width: 30px; height: 30px; }
+  .path-arrow { display: block; grid-column: 3; grid-row: 1 / 3; align-self: center; font-size: 13px; }
 
   .blogs { grid-template-columns: 1fr; gap: 10px; }
   .blog-card { padding: 15px 16px; }
@@ -465,20 +462,26 @@ img.role-icon {
   .roles li,
   .roles a {
     width: auto;
-    gap: 6px;
-    font-size: 0.75rem;
+    gap: 7px;
+    font-size: 0.875rem;
   }
 
   .roles li {
-    min-height: 29px;
-    padding: 5px 9px;
+    min-height: 34px;
+    padding: 5px 11px;
     border: 1px solid var(--border);
     border-radius: 999px;
     background: var(--surface);
   }
 
-  .role-icon { width: 14px; height: 14px; flex-basis: 14px; font-size: 12px; }
-  .role-icon img { width: 14px; height: 14px; }
+  .role-icon { width: 18px; height: 18px; flex-basis: 18px; font-size: 14px; }
+  .role-icon img { width: 16px; height: 16px; margin: 1px auto; }
+  .role-icon.pycon { width: 22px; flex-basis: 22px; margin: 0 -2px; }
+  .role-icon.pycon img { width: 22px; height: 14.7px; margin: 1.6px 0; }
+  .roles li:nth-child(6) .role-icon.glyph { font-size: 17px; }
+  .roles li:nth-child(8) .role-icon.glyph { font-size: 20px; }
+  .roles li:nth-child(9) .role-icon.glyph { font-size: 30px; }
+  .roles li:nth-child(10) .role-icon.glyph { font-size: 16px; }
   .social { gap: 14px; margin-top: 22px; }
 }
 

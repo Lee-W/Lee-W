@@ -1,160 +1,180 @@
-@import url("https://fonts.googleapis.com/css?family=Dosis:300,400,700,800");
+/* 404 page. Tokens, fonts and the primary-button look are copied from
+   css/card.css (itself a copy of css/home.css) so this page stays standalone;
+   keep them in sync by hand. No animation on purpose. */
+@font-face { font-family: "TC Sans Fallback"; src: local("PingFangTC-Regular"); size-adjust: 98.5%; }
+@font-face { font-family: "TC Sans Fallback"; src: local("PingFangTC-Medium"); font-weight: 500; size-adjust: 98.5%; }
+@font-face { font-family: "TC Sans Fallback"; src: local("PingFangTC-Semibold"); font-weight: 700; size-adjust: 98.5%; }
+@font-face { font-family: "TC Serif Fallback"; src: local("STSongti-TC-Bold"); font-weight: 700; size-adjust: 104.5%; }
+@font-face { font-family: "JP Sans Fallback"; src: local("HiraginoSans-W3"); size-adjust: 98%; }
+@font-face { font-family: "JP Sans Fallback"; src: local("HiraginoSans-W5"); font-weight: 500; size-adjust: 98%; }
+@font-face { font-family: "JP Sans Fallback"; src: local("HiraginoSans-W6"); font-weight: 700; size-adjust: 98%; }
+@font-face { font-family: "JP Serif Fallback"; src: local("HiraMinProN-W6"); font-weight: 700; size-adjust: 99.5%; }
 
-/** Styles for the 403 Page **/
-
-.particle-error,
-.permission_denied,
-#tsparticles {
-    width: 100%;
-    height: 100%;
-    margin: 0px !important;
+:root {
+  --bg: #f4f2ec;
+  --surface: #fff;
+  --border: #e6e2d7;
+  --text: #1a1a1a;
+  --muted: #6b6a63;
+  --quiet: #706f68;
+  --accent: #2f5d3f;
+  --on-accent: #fff;
+  --serif: "Noto Serif TC", "TC Serif Fallback", "Songti TC", "PMingLiU", serif;
+  --sans: "Noto Sans TC", "TC Sans Fallback", "PingFang TC", "Hiragino Sans", "Microsoft JhengHei", sans-serif;
+  --mono: "IBM Plex Mono", "SFMono-Regular", "Menlo", monospace;
+  --latin-serif: Georgia, "Times New Roman", serif;
+  --latin-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --ja-serif: "Noto Serif JP", "JP Serif Fallback", "Hiragino Mincho ProN", "Yu Mincho", serif;
+  --ja-sans: "Noto Sans JP", "JP Sans Fallback", "Hiragino Sans", "Yu Gothic", "Meiryo",
+             "Noto Sans TC", "PingFang TC", sans-serif;
+  --radius: 13px;
 }
 
-#tsparticles {
-    position: fixed !important;
-    opacity: 0.23;
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #181816;
+    --surface: #22221f;
+    --border: #3a3933;
+    --text: #f0eee7;
+    --muted: #c5c0b4;
+    --quiet: #a5a094;
+    --accent: #8fc59d;
+    --on-accent: #181816;
+  }
 }
 
-.permission_denied {
-    background: #24344c !important;
+*, *::before, *::after { box-sizing: border-box; }
+
+html { background: var(--bg); }
+
+body {
+  min-width: 320px;
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  line-height: 1.55;
+  text-rendering: optimizeLegibility;
 }
 
-.permission_denied a {
-    text-decoration: none;
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
 }
 
-.denied__wrapper {
-    max-width: 390px;
-    width: 100%;
-    height: 390px;
-    display: block;
-    margin: 0 auto;
-    position: relative;
-    margin-top: 8vh;
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: min(430px, calc(100% - 36px));
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 32px 0;
 }
 
-.permission_denied h1 {
-    text-align: center;
-    color: #fff;
-    font-family: "Dosis", sans-serif;
-    font-size: 100px;
-    margin-bottom: 0px;
-    font-weight: 800;
+.code {
+  margin: 0 0 14px;
+  color: var(--quiet);
+  font-family: var(--mono);
+  font-size: 0.875rem;
+  letter-spacing: 0.12em;
 }
 
-.permission_denied h3 {
-    text-align: center;
-    color: #fff;
-    font-size: 19px;
-    line-height: 23px;
-    max-width: 330px;
-    margin: 0px auto 30px auto;
-    font-family: "Dosis", sans-serif;
-    font-weight: 400;
+h1 {
+  margin: 0 0 14px;
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  line-height: 1.4;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 
-.permission_denied h3 span {
-    position: relative;
-    width: 65px;
-    display: inline-block;
+.hint {
+  margin: 0 0 24px;
+  color: var(--muted);
+  font-size: 0.95rem;
 }
 
-.permission_denied h3 span:after {
-    content: "";
-    border-bottom: 3px solid #ffbb39;
-    position: absolute;
-    left: 0;
-    top: 43%;
-    width: 100%;
+.hint a,
+.more a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
-.denied__link {
-    background: none;
-    color: #fff;
-    padding: 12px 0px 10px 0px;
-    border: 1px solid #fff;
-    outline: none;
-    border-radius: 7px;
-    width: 150px;
-    font-size: 15px;
-    text-align: center;
-    margin: 0 auto;
-    vertical-align: middle;
-    display: block;
-    margin-bottom: 40px;
-    margin-top: 25px;
-    font-family: "Dosis", sans-serif;
-    font-weight: 400;
+.hint a:hover,
+.more a:hover { text-decoration-thickness: 2px; }
+
+.action {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 11px 14px;
+  border: 1px solid var(--accent);
+  border-radius: 10px;
+  background: var(--accent);
+  color: var(--on-accent);
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: none;
 }
 
-.denied__link:hover {
-    color: #ffbb39;
-    border-color: #ffbb39;
-    cursor: pointer;
-    opacity: 1;
+.action:hover {
+  background: transparent;
+  color: var(--accent);
 }
 
-.permission_denied .stars {
-    animation: sparkle 1.6s infinite ease-in-out alternate;
+.more {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  margin: 18px 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.88rem;
 }
 
-@keyframes sparkle {
-    0% {
-        opacity: 1;
-    }
-    100% {
-        opacity: 0.3;
-    }
+.langs {
+  display: flex;
+  gap: 16px;
+  margin: 28px 0 0;
+  padding: 18px 0 0;
+  border-top: 1px solid var(--border);
+  list-style: none;
+  font-family: var(--mono);
+  font-size: 0.875rem;
 }
 
-#astronaut {
-    width: 43px;
-    position: absolute;
-    right: 20px;
-    top: 210px;
-    animation: spin 4.5s infinite linear;
+.langs a {
+  color: var(--quiet);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
-@keyframes spin {
-    0% {
-        transform: rotateZ(0deg);
-    }
-    100% {
-        transform: rotateZ(360deg);
-    }
+.langs a[aria-current="true"] {
+  color: var(--accent);
+  font-weight: 500;
 }
+
+[data-lang] { display: none; }
+.lang-en [data-lang="en"],
+.lang-ja [data-lang="ja"],
+.lang-zh [data-lang="zh"] { display: revert; }
+
+.lang-en [data-lang="en"] { font-family: var(--latin-sans); }
+.lang-en h1 [data-lang="en"] { font-family: var(--latin-serif); font-kerning: normal; }
+
+.lang-ja [data-lang="ja"] {
+  font-family: var(--ja-sans);
+  font-kerning: none;
+  line-height: 1.6;
+}
+.lang-ja h1 [data-lang="ja"] { font-family: var(--ja-serif); }
+.lang-ja h1 { word-break: normal; line-break: strict; }
 
 @media (max-width: 600px) {
-    .permission_denied h1 {
-        font-size: 75px;
-    }
-    .permission_denied h3 {
-        font-size: 16px;
-        width: 200px;
-        margin: 0 auto;
-        line-height: 23px;
-    }
-    .permission_denied h3 span {
-        width: 60px;
-    }
-    #astronaut {
-        width: 35px;
-        right: 40px;
-        top: 170px;
-    }
-}
-
-.saturn,
-.saturn-2,
-.hover {
-    animation: hover 2s infinite ease-in-out alternate;
-}
-
-@keyframes hover {
-    0% {
-        transform: translateY(3px);
-    }
-    100% {
-        transform: translateY(-3px);
-    }
+  .page { width: min(100% - 28px, 402px); }
+  h1 { font-size: 1.35rem; }
 }

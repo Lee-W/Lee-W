@@ -6,7 +6,8 @@ the standard library; Node.js 22.22+ (22.x) or 24.8+ runs the validation and bro
 - `template/index.html.tpl`: shared homepage markup, using Python `string.Template` placeholders.
 - `data/locales.json`: Chinese, English and Japanese text, metadata and destination paths.
 - `data/posts.json`: the latest posts shared by every language, updated by the daily workflow.
-- `index.html`, `en/index.html`, `ja/index.html`: generated files; commit these with their sources.
+- `index.html`, `zh-tw/index.html`, `en/index.html`, `ja/index.html`: generated files; commit these with their sources.
+- `/` is the Chinese page plus a small inline script that redirects by saved language (`localStorage` key `lang`), then `navigator.languages`, then English. Its canonical is `/zh-tw/`, which is the permanent Chinese URL and never redirects. The script lives in `scripts/build_site.py` (`ROOT_REDIRECT`).
 - `card/`, `css/`, `js/`, `404.html`: edited directly.
 - `template/README.md.tpl`: GitHub profile source, rendered separately by readme-scribe.
 
@@ -42,7 +43,7 @@ checks local `href`/`src` destinations and fragment IDs, checks homepage languag
 links, and runs feed rendering tests and JavaScript syntax checks. External links
 are not fetched during PR checks.
 
-The Chromium suite covers the three languages in light/dark mode at desktop and
+The Chromium suite also covers the redirect on `/` (browser languages, saved choice, query and hash). It covers the three languages in light/dark mode at desktop and
 mobile widths: keyboard order, text contrast via axe, minimum date/subtitle size,
 horizontal overflow, language links without JavaScript, and navigation to/from the
 digital card. External fonts, icons and analytics are blocked during these tests

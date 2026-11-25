@@ -46,6 +46,16 @@ class FeedTests(unittest.TestCase):
                 for entries in posts.values():
                     self.assertIn(render_posts(entries), html)
 
+    def test_root_redirects_but_language_pages_do_not(self):
+        posts = json.loads((ROOT / "data/posts.json").read_text(encoding="utf-8"))
+        pages = render_pages(ROOT, posts)
+        self.assertEqual(sorted(pages), ["en/index.html", "index.html", "ja/index.html", "zh-tw/index.html"])
+        for name, html in pages.items():
+            with self.subTest(page=name):
+                self.assertEqual("location.replace" in html, name == "index.html")
+        self.assertIn('<link rel="canonical" href="https://wei-lee.me/zh-tw/">', pages["index.html"])
+        self.assertIn('hreflang="x-default" href="https://wei-lee.me/"', pages["zh-tw/index.html"])
+
     def test_failed_refresh_preserves_existing_files(self):
         feed = b'''<feed xmlns="http://www.w3.org/2005/Atom"><entry>
           <title>New post</title><link href="https://example.com/post"/>
@@ -101,7 +111,7 @@ class LinkCheckTests(unittest.TestCase):
             root = Path(folder).resolve()
             (root / "data").mkdir()
             shutil.copy(ROOT / "data/locales.json", root / "data/locales.json")
-            for name in ("index.html", "en/index.html", "ja/index.html"):
+            for name in ("index.html", "zh-tw/index.html", "en/index.html", "ja/index.html"):
                 target = root / name
                 target.parent.mkdir(parents=True, exist_ok=True)
                 target.write_text((ROOT / name).read_text(encoding="utf-8"), encoding="utf-8")
