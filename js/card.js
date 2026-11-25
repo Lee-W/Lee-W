@@ -29,7 +29,7 @@
     // "Back to homepage" has to mean the reader's own homepage — a ja reader
     // sent to / lands on the Chinese one and the language silently resets.
     const back = document.getElementById('backLink');
-    if (back) back.href = { zh: '/', en: '/en/', ja: '/ja/' }[nextLang];
+    if (back) back.href = { zh: '/zh-tw/', en: '/en/', ja: '/ja/' }[nextLang];
 
     options.forEach((option) => {
       const isActive = option.dataset.value === nextLang;

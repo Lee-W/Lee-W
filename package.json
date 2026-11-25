@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "build": "python3 scripts/build_site.py",
-    "check": "python3 scripts/build_site.py --check && python3 scripts/check_site.py && html-validate index.html 'en/**/*.html' 'ja/**/*.html' 'card/**/*.html' 404.html && python3 -m unittest discover -s tests -p 'test_*.py' && node --check js/home.js && node --check js/card.js && node --check js/404.js",
+    "check": "python3 scripts/build_site.py --check && python3 scripts/check_site.py && html-validate index.html 'zh-tw/**/*.html' 'en/**/*.html' 'ja/**/*.html' 'card/**/*.html' 404.html && python3 -m unittest discover -s tests -p 'test_*.py' && node --check js/home.js && node --check js/card.js",
     "test": "playwright test"
   },
   "devDependencies": {

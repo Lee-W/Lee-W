@@ -31,7 +31,7 @@ Open source contributor, Pythonista, and automation enthusiast based in Taiwan. 
 * 🎵 Ukulele Player
 * 🔒 Locker
 
-I enjoy automating tedious tasks and contributing to open-source communities. I share my technical notes, book digests, and occasional thoughts on my main blog [Those aren't written down are meant to be forgotten](https://blog.wei-lee.me/). If you're interested in cooking, anime, and travel, check out [Those things no one cares about](https://travlog.wei-lee.me/).
+I enjoy automating tedious tasks and contributing to open-source communities. I share my technical notes, book digests, and occasional thoughts on my main blog [What isn't written down will be forgotten](https://blog.wei-lee.me/). If you're interested in cooking, anime, and travel, check out [Those things no one cares about](https://travlog.wei-lee.me/).
 
 ### 🌏 Attended PyCons
 
@@ -42,7 +42,7 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 
 ## 🖊️ Blogs
 
-### Those aren't written down are meant to be forgotten
+### What isn't written down will be forgotten
 
 * [スマートカフェ 秋葉原店](https://blog.wei-lee.me/posts/random-thoughts/2026/11/smart-cafe-akihabara/) (Published: 1 week ago)
 * [第二本筆記本也寫完了](https://blog.wei-lee.me/posts/random-thoughts/2026/11/second-notebook-finished/) (Published: 1 week ago)

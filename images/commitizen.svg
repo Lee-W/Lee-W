@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2 2 20 20" fill="none">
+  <style>g{stroke:#2f5d3f}@media (prefers-color-scheme:dark){g{stroke:#8fc59d}}</style>
   <g stroke="#2f5d3f" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="7" cy="6" r="1.5"/>
     <circle cx="17" cy="10" r="1.5"/>

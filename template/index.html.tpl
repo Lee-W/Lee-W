@@ -3,7 +3,7 @@
 <html lang="$html_lang" class="lang-$lang">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">$head_script
   <title>$title</title>
   <meta name="description" content="$description">
   <link rel="canonical" href="$canonical">
@@ -72,7 +72,7 @@
           <span data-lang="ja" lang="ja"><ruby>李<rp>(</rp><rt>リ</rt><rp>)</rp>唯<rp>(</rp><rt>ウェイ</rt><rp>)</rp></ruby> <span class="name-alt" lang="en">/ Wei Lee</span></span>
         </h1>
         <p class="bio">
-          <span data-lang="$lang" lang="$html_lang">$bio</span>
+          <span data-lang="$lang" lang="$html_lang">$intro</span>
         </p>
       </div>
     </header>
@@ -84,34 +84,20 @@
         <span class="path-subtitle"><span data-lang="$lang" lang="$html_lang">$about_subtitle</span></span>
         <span class="path-arrow" aria-hidden="true">›</span>
       </a>
-      <a class="path path-tech" href="https://blog.wei-lee.me/" rel="noopener noreferrer">
-        <span class="role-icon glyph path-icon" aria-hidden="true">✎</span>
-        <span class="path-title"><span data-lang="$lang" lang="$html_lang">$tech_title</span></span>
-        <span class="path-subtitle"><span data-lang="$lang" lang="$html_lang">$tech_subtitle</span></span>
-        <span class="path-arrow" aria-hidden="true">›</span>
-      </a>
-      <a class="path path-life" href="https://travlog.wei-lee.me/" rel="noopener noreferrer">
-        <span class="role-icon glyph path-icon" aria-hidden="true">🧭</span>
-        <span class="path-title"><span data-lang="$lang" lang="$html_lang">$life_title</span></span>
-        <span class="path-subtitle"><span data-lang="$lang" lang="$html_lang">$life_subtitle</span></span>
+      <a id="nowLink" class="path path-now" href="https://blog.wei-lee.me$blog_language_path/pages/now" rel="noopener noreferrer">
+        <span class="role-icon glyph path-icon" aria-hidden="true">◷</span>
+        <span class="path-title"><span data-lang="$lang" lang="$html_lang">$now</span></span>
+        <span class="path-subtitle"><span data-lang="$lang" lang="$html_lang">$now_detail</span></span>
         <span class="path-arrow" aria-hidden="true">›</span>
       </a>
     </nav>
-
-    <a id="nowLink" class="now" href="https://blog.wei-lee.me$blog_language_path/pages/now" rel="noopener noreferrer">
-      <span class="role-icon glyph now-icon" aria-hidden="true">◷</span>
-      <span>
-        <strong><span data-lang="$lang" lang="$html_lang">$now</span></strong>
-        <span class="now-detail"><span data-lang="$lang" lang="$html_lang">$now_detail</span></span>
-      </span>
-      <span class="now-arrow" aria-hidden="true">→</span>
-    </a>
 
     <section class="blogs" aria-label="$blogs_label">
       <article class="blog-card tech">
         <div class="blog-head">
           <div>
             <h2><a href="https://blog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="$lang" lang="$html_lang">$tech_blog</span></a></h2>
+            <p class="blog-sub"><span data-lang="$lang" lang="$html_lang">$tech_title</span></p>
           </div>
           <a class="rss" href="https://blog.wei-lee.me/feeds/all.atom.xml" aria-label="$tech_rss_label"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>
@@ -124,6 +110,7 @@
         <div class="blog-head">
           <div>
             <h2><a href="https://travlog.wei-lee.me/" rel="noopener noreferrer"><span data-lang="$lang" lang="$html_lang">$life_blog</span></a></h2>
+            <p class="blog-sub"><span data-lang="$lang" lang="$html_lang">$life_title</span></p>
           </div>
           <a class="rss" href="https://travlog.wei-lee.me/feeds/all.atom.xml" aria-label="$life_rss_label"><i class="fa-solid fa-rss" aria-hidden="true"></i></a>
         </div>

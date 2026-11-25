@@ -18,6 +18,31 @@ FEEDS = {
 }
 ATOM = {"a": "http://www.w3.org/2005/Atom"}
 
+# Only the root page carries this. GitHub Pages cannot negotiate languages, so
+# "/" picks one on the client: the reader's saved choice, then the first
+# supported entry of navigator.languages, then English. The static content of
+# "/" stays Chinese for readers without JavaScript.
+ROOT_REDIRECT = """
+  <script>
+    (function () {
+      var path = location.pathname;
+      if (path !== '/' && path !== '/index.html') return;
+      var targets = { zh: '/zh-tw/', ja: '/ja/', en: '/en/' }, lang = null;
+      try {
+        var saved = localStorage.getItem('lang');
+        if (Object.prototype.hasOwnProperty.call(targets, saved)) lang = saved;
+      } catch (e) { /* no saved choice */ }
+      if (!lang) {
+        var list = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ''];
+        for (var i = 0; i < list.length; i++) {
+          var match = /^(zh|ja|en)(?=$|[-_])/i.exec(list[i]);
+          if (match) { lang = match[1].toLowerCase(); break; }
+        }
+      }
+      location.replace(targets[lang || 'en'] + location.search + location.hash);
+    })();
+  </script>"""
+
 
 def parse_feed(content, feed_url):
     posts = []
@@ -89,7 +114,13 @@ def render_pages(root, posts):
             # Script contents need JSON escaping, not HTML entity escaping.
             values[key + "_json"] = json.dumps(locale[key], ensure_ascii=False).replace("<", "\\u003c")
         values.update({key + "_posts": render_posts(entries) for key, entries in posts.items()})
+        values["head_script"] = ""
         pages[locale["path"].lstrip("/") + "index.html"] = template.substitute(values)
+        if lang == "zh":
+            # "/" repeats the Chinese page; its canonical and language links
+            # point at /zh-tw/, and it alone redirects.
+            values["head_script"] = ROOT_REDIRECT
+            pages["index.html"] = template.substitute(values)
     return pages
 
 
