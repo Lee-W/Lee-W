@@ -53,16 +53,16 @@ PyCon Taiwan 🇹🇼, PyCon US 🇺🇸, PyCon JP 🇯🇵, PyCon CA 🇨🇦, 
 ## 🖥️ Recently working on
 <!-- The activity block below is updated directly in this template by GitHub Actions. -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77638](https://github.com/apache/airflow/pull/77638) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#69849](https://github.com/apache/airflow/pull/69849#issuecomment-7193479502) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#202](https://github.com/Lee-W/travlog/issues/202#issuecomment-7185090424) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-4. 🎉 Merged PR [#181](https://github.com/Lee-W/travlog/pull/181) in [Lee-W/travlog](https://github.com/Lee-W/travlog)
-5. 💪 Opened PR [#225](https://github.com/Lee-W/main-blog/pull/225) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
-6. 💪 Opened PR [#77588](https://github.com/apache/airflow/pull/77588) in [apache/airflow](https://github.com/apache/airflow)
-7. 🗣 Commented on [#76797](https://github.com/apache/airflow/pull/76797#issuecomment-7152670561) in [apache/airflow](https://github.com/apache/airflow)
-8. 🎉 Merged PR [#76797](https://github.com/apache/airflow/pull/76797) in [apache/airflow](https://github.com/apache/airflow)
-9. 🎉 Merged PR [#76801](https://github.com/apache/airflow/pull/76801) in [apache/airflow](https://github.com/apache/airflow)
-10. 🗣 Commented on [#76801](https://github.com/apache/airflow/pull/76801#issuecomment-7126908850) in [apache/airflow](https://github.com/apache/airflow)
+1. 🎉 Merged PR [#231](https://github.com/Lee-W/main-blog/pull/231) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+2. 💪 Opened PR [#231](https://github.com/Lee-W/main-blog/pull/231) in [Lee-W/main-blog](https://github.com/Lee-W/main-blog)
+3. 🎉 Merged PR [#77681](https://github.com/apache/airflow/pull/77681) in [apache/airflow](https://github.com/apache/airflow)
+4. 🔒 Closed issue [#59](https://github.com/pycontw/postevent-report-generator/issues/59) in [pycontw/postevent-report-generator](https://github.com/pycontw/postevent-report-generator)
+5. 🔒 Closed issue [#50](https://github.com/pycontw/postevent-report-generator/issues/50) in [pycontw/postevent-report-generator](https://github.com/pycontw/postevent-report-generator)
+6. 💪 Opened PR [#77681](https://github.com/apache/airflow/pull/77681) in [apache/airflow](https://github.com/apache/airflow)
+7. 🗣 Commented on [#76750](https://github.com/apache/airflow/pull/76750#issuecomment-7218975740) in [apache/airflow](https://github.com/apache/airflow)
+8. 🗣 Commented on [#77679](https://github.com/apache/airflow/pull/77679#issuecomment-7218940207) in [apache/airflow](https://github.com/apache/airflow)
+9. 🔒 Closed issue [#69848](https://github.com/apache/airflow/issues/69848) in [apache/airflow](https://github.com/apache/airflow)
+10. 🎉 Merged PR [#76802](https://github.com/apache/airflow/pull/76802) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## ⭐ GitHub Stat
